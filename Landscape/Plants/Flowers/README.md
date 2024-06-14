@@ -10,7 +10,7 @@
 
 ![flower3.png](flower3.png) flower3.png
 
-![mushroom_brown.png](mushroom_brown.png) mushroom_brown.png
+![mushroom-brown.png](mushroom-brown.png) mushroom-brown.png
 
-![mushroom_red.png](mushroom_red.png) mushroom_red.png
+![mushroom-red.png](mushroom-red.png) mushroom-red.png
 

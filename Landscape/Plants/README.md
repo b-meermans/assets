@@ -52,9 +52,9 @@
 
 ![flower3.png](Flowers/flower3.png) flower3.png
 
-![mushroom_brown.png](Flowers/mushroom_brown.png) mushroom_brown.png
+![mushroom-brown.png](Flowers/mushroom-brown.png) mushroom-brown.png
 
-![mushroom_red.png](Flowers/mushroom_red.png) mushroom_red.png
+![mushroom-red.png](Flowers/mushroom-red.png) mushroom-red.png
 
 ![grass0.png](Grass/grass0.png) grass0.png
 

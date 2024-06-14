@@ -268,29 +268,29 @@
 
 ![hand-thumb.png](BlockyParts/hand-thumb.png) hand-thumb.png
 
-![bunny1_hurt.png](Bunnies/bunny1_hurt.png) bunny1_hurt.png
+![bunny1-hurt.png](Bunnies/bunny1-hurt.png) bunny1-hurt.png
 
-![bunny1_jump.png](Bunnies/bunny1_jump.png) bunny1_jump.png
+![bunny1-jump.png](Bunnies/bunny1-jump.png) bunny1-jump.png
 
-![bunny1_ready.png](Bunnies/bunny1_ready.png) bunny1_ready.png
+![bunny1-ready.png](Bunnies/bunny1-ready.png) bunny1-ready.png
 
-![bunny1_stand.png](Bunnies/bunny1_stand.png) bunny1_stand.png
+![bunny1-stand.png](Bunnies/bunny1-stand.png) bunny1-stand.png
 
-![bunny1_walk1.png](Bunnies/bunny1_walk1.png) bunny1_walk1.png
+![bunny1-walk1.png](Bunnies/bunny1-walk1.png) bunny1-walk1.png
 
-![bunny1_walk2.png](Bunnies/bunny1_walk2.png) bunny1_walk2.png
+![bunny1-walk2.png](Bunnies/bunny1-walk2.png) bunny1-walk2.png
 
-![bunny2_hurt.png](Bunnies/bunny2_hurt.png) bunny2_hurt.png
+![bunny2-hurt.png](Bunnies/bunny2-hurt.png) bunny2-hurt.png
 
-![bunny2_jump.png](Bunnies/bunny2_jump.png) bunny2_jump.png
+![bunny2-jump.png](Bunnies/bunny2-jump.png) bunny2-jump.png
 
-![bunny2_ready.png](Bunnies/bunny2_ready.png) bunny2_ready.png
+![bunny2-ready.png](Bunnies/bunny2-ready.png) bunny2-ready.png
 
-![bunny2_stand.png](Bunnies/bunny2_stand.png) bunny2_stand.png
+![bunny2-stand.png](Bunnies/bunny2-stand.png) bunny2-stand.png
 
-![bunny2_walk1.png](Bunnies/bunny2_walk1.png) bunny2_walk1.png
+![bunny2-walk1.png](Bunnies/bunny2-walk1.png) bunny2-walk1.png
 
-![bunny2_walk2.png](Bunnies/bunny2_walk2.png) bunny2_walk2.png
+![bunny2-walk2.png](Bunnies/bunny2-walk2.png) bunny2-walk2.png
 
 ![cat-fall1.png](Cat/cat-fall1.png) cat-fall1.png
 
@@ -800,17 +800,17 @@
 
 ![fly2.png](Enemies/fly2.png) fly2.png
 
-![flyMan_fly.png](Enemies/flyMan_fly.png) flyMan_fly.png
+![flyMan-fly.png](Enemies/flyMan-fly.png) flyMan-fly.png
 
-![flyMan_jump.png](Enemies/flyMan_jump.png) flyMan_jump.png
+![flyMan-jump.png](Enemies/flyMan-jump.png) flyMan-jump.png
 
-![flyMan_stand.png](Enemies/flyMan_stand.png) flyMan_stand.png
+![flyMan-stand.png](Enemies/flyMan-stand.png) flyMan-stand.png
 
-![flyMan_still_fly.png](Enemies/flyMan_still_fly.png) flyMan_still_fly.png
+![flyMan-still_fly.png](Enemies/flyMan-still_fly.png) flyMan-still_fly.png
 
-![flyMan_still_jump.png](Enemies/flyMan_still_jump.png) flyMan_still_jump.png
+![flyMan-still_jump.png](Enemies/flyMan-still_jump.png) flyMan-still_jump.png
 
-![flyMan_still_stand.png](Enemies/flyMan_still_stand.png) flyMan_still_stand.png
+![flyMan-still_stand.png](Enemies/flyMan-still_stand.png) flyMan-still_stand.png
 
 ![frog0.png](Enemies/frog0.png) frog0.png
 
@@ -862,17 +862,17 @@
 
 ![spikeBall1.png](Enemies/spikeBall1.png) spikeBall1.png
 
-![spikeMan_jump.png](Enemies/spikeMan_jump.png) spikeMan_jump.png
+![spikeMan-jump.png](Enemies/spikeMan-jump.png) spikeMan-jump.png
 
-![spikeMan_stand.png](Enemies/spikeMan_stand.png) spikeMan_stand.png
+![spikeMan-stand.png](Enemies/spikeMan-stand.png) spikeMan-stand.png
 
-![spikeMan_walk1.png](Enemies/spikeMan_walk1.png) spikeMan_walk1.png
+![spikeMan-walk1.png](Enemies/spikeMan-walk1.png) spikeMan-walk1.png
 
-![spikeMan_walk2.png](Enemies/spikeMan_walk2.png) spikeMan_walk2.png
+![spikeMan-walk2.png](Enemies/spikeMan-walk2.png) spikeMan-walk2.png
 
-![springMan_hurt.png](Enemies/springMan_hurt.png) springMan_hurt.png
+![springMan-hurt.png](Enemies/springMan-hurt.png) springMan-hurt.png
 
-![springMan_stand.png](Enemies/springMan_stand.png) springMan_stand.png
+![springMan-stand.png](Enemies/springMan-stand.png) springMan-stand.png
 
 ![sun0.png](Enemies/sun0.png) sun0.png
 

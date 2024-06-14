@@ -56,9 +56,9 @@
 
 ![key-d.png](key-d.png) key-d.png
 
-![key-down.png](key-down.png) key-down.png
+![key-down-b.png](key-down-b.png) key-down-b.png
 
-![key-down_b.png](key-down_b.png) key-down_b.png
+![key-down.png](key-down.png) key-down.png
 
 ![key-e-b.png](key-e-b.png) key-e-b.png
 
@@ -100,9 +100,9 @@
 
 ![key-l.png](key-l.png) key-l.png
 
-![key-left.png](key-left.png) key-left.png
+![key-left-b.png](key-left-b.png) key-left-b.png
 
-![key-left_b.png](key-left_b.png) key-left_b.png
+![key-left.png](key-left.png) key-left.png
 
 ![key-m-b.png](key-m-b.png) key-m-b.png
 
@@ -128,9 +128,9 @@
 
 ![key-r.png](key-r.png) key-r.png
 
-![key-right.png](key-right.png) key-right.png
+![key-right-b.png](key-right-b.png) key-right-b.png
 
-![key-right_b.png](key-right_b.png) key-right_b.png
+![key-right.png](key-right.png) key-right.png
 
 ![key-s-b.png](key-s-b.png) key-s-b.png
 
@@ -152,9 +152,9 @@
 
 ![key-u.png](key-u.png) key-u.png
 
-![key-up.png](key-up.png) key-up.png
+![key-up-b.png](key-up-b.png) key-up-b.png
 
-![key-up_b.png](key-up_b.png) key-up_b.png
+![key-up.png](key-up.png) key-up.png
 
 ![key-v-b.png](key-v-b.png) key-v-b.png
 

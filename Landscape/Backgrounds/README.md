@@ -26,11 +26,11 @@
 
 ![blue-mountain-bg.png](blue-mountain-bg.png) blue-mountain-bg.png
 
-![colored_desert.png](colored_desert.png) colored_desert.png
+![colored-desert.png](colored-desert.png) colored-desert.png
 
-![colored_grass.png](colored_grass.png) colored_grass.png
+![colored-grass.png](colored-grass.png) colored-grass.png
 
-![colored_land.png](colored_land.png) colored_land.png
+![colored-land.png](colored-land.png) colored-land.png
 
 ![forest-bg.png](forest-bg.png) forest-bg.png
 

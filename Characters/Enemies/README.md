@@ -26,17 +26,17 @@
 
 ![fly2.png](fly2.png) fly2.png
 
-![flyMan_fly.png](flyMan_fly.png) flyMan_fly.png
+![flyMan-fly.png](flyMan-fly.png) flyMan-fly.png
 
-![flyMan_jump.png](flyMan_jump.png) flyMan_jump.png
+![flyMan-jump.png](flyMan-jump.png) flyMan-jump.png
 
-![flyMan_stand.png](flyMan_stand.png) flyMan_stand.png
+![flyMan-stand.png](flyMan-stand.png) flyMan-stand.png
 
-![flyMan_still_fly.png](flyMan_still_fly.png) flyMan_still_fly.png
+![flyMan-still_fly.png](flyMan-still_fly.png) flyMan-still_fly.png
 
-![flyMan_still_jump.png](flyMan_still_jump.png) flyMan_still_jump.png
+![flyMan-still_jump.png](flyMan-still_jump.png) flyMan-still_jump.png
 
-![flyMan_still_stand.png](flyMan_still_stand.png) flyMan_still_stand.png
+![flyMan-still_stand.png](flyMan-still_stand.png) flyMan-still_stand.png
 
 ![frog0.png](frog0.png) frog0.png
 
@@ -88,17 +88,17 @@
 
 ![spikeBall1.png](spikeBall1.png) spikeBall1.png
 
-![spikeMan_jump.png](spikeMan_jump.png) spikeMan_jump.png
+![spikeMan-jump.png](spikeMan-jump.png) spikeMan-jump.png
 
-![spikeMan_stand.png](spikeMan_stand.png) spikeMan_stand.png
+![spikeMan-stand.png](spikeMan-stand.png) spikeMan-stand.png
 
-![spikeMan_walk1.png](spikeMan_walk1.png) spikeMan_walk1.png
+![spikeMan-walk1.png](spikeMan-walk1.png) spikeMan-walk1.png
 
-![spikeMan_walk2.png](spikeMan_walk2.png) spikeMan_walk2.png
+![spikeMan-walk2.png](spikeMan-walk2.png) spikeMan-walk2.png
 
-![springMan_hurt.png](springMan_hurt.png) springMan_hurt.png
+![springMan-hurt.png](springMan-hurt.png) springMan-hurt.png
 
-![springMan_stand.png](springMan_stand.png) springMan_stand.png
+![springMan-stand.png](springMan-stand.png) springMan-stand.png
 
 ![sun0.png](sun0.png) sun0.png
 

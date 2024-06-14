@@ -106,13 +106,13 @@
 
 ![hudHeart-half.png](Collectibles/hudHeart-half.png) hudHeart-half.png
 
+![hudJewel-blue-empty.png](Collectibles/hudJewel-blue-empty.png) hudJewel-blue-empty.png
+
 ![hudJewel-blue.png](Collectibles/hudJewel-blue.png) hudJewel-blue.png
 
-![hudJewel-blue_empty.png](Collectibles/hudJewel-blue_empty.png) hudJewel-blue_empty.png
+![hudKey-blue-empty.png](Collectibles/hudKey-blue-empty.png) hudKey-blue-empty.png
 
 ![hudKey-blue.png](Collectibles/hudKey-blue.png) hudKey-blue.png
-
-![hudKey-blue_empty.png](Collectibles/hudKey-blue_empty.png) hudKey-blue_empty.png
 
 ![jetpack.png](Collectibles/jetpack.png) jetpack.png
 
@@ -190,11 +190,11 @@
 
 ![button-unpressed.png](Interactibles/button-unpressed.png) button-unpressed.png
 
-![flag_down.png](Interactibles/flag_down.png) flag_down.png
+![flag-down.png](Interactibles/flag-down.png) flag-down.png
 
-![flag_mid.png](Interactibles/flag_mid.png) flag_mid.png
+![flag-mid.png](Interactibles/flag-mid.png) flag-mid.png
 
-![flag_up.png](Interactibles/flag_up.png) flag_up.png
+![flag-up.png](Interactibles/flag-up.png) flag-up.png
 
 ![lever-left.png](Interactibles/lever-left.png) lever-left.png
 

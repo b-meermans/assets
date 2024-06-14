@@ -14,7 +14,7 @@
 
 ![groundSnow.png](groundSnow.png) groundSnow.png
 
-![lavaTop_high.png](lavaTop_high.png) lavaTop_high.png
+![lavaTop-high.png](lavaTop-high.png) lavaTop-high.png
 
 ![sand.png](sand.png) sand.png
 
@@ -32,5 +32,5 @@
 
 ![snow.png](snow.png) snow.png
 
-![waterTop_high.png](waterTop_high.png) waterTop_high.png
+![waterTop-high.png](waterTop-high.png) waterTop-high.png
 

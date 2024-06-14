@@ -4,11 +4,11 @@
 
 ![button-unpressed.png](button-unpressed.png) button-unpressed.png
 
-![flag_down.png](flag_down.png) flag_down.png
+![flag-down.png](flag-down.png) flag-down.png
 
-![flag_mid.png](flag_mid.png) flag_mid.png
+![flag-mid.png](flag-mid.png) flag-mid.png
 
-![flag_up.png](flag_up.png) flag_up.png
+![flag-up.png](flag-up.png) flag-up.png
 
 ![lever-left.png](lever-left.png) lever-left.png
 

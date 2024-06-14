@@ -26,11 +26,11 @@
 
 ![blue-mountain-bg.png](Backgrounds/blue-mountain-bg.png) blue-mountain-bg.png
 
-![colored_desert.png](Backgrounds/colored_desert.png) colored_desert.png
+![colored-desert.png](Backgrounds/colored-desert.png) colored-desert.png
 
-![colored_grass.png](Backgrounds/colored_grass.png) colored_grass.png
+![colored-grass.png](Backgrounds/colored-grass.png) colored-grass.png
 
-![colored_land.png](Backgrounds/colored_land.png) colored_land.png
+![colored-land.png](Backgrounds/colored-land.png) colored-land.png
 
 ![forest-bg.png](Backgrounds/forest-bg.png) forest-bg.png
 
@@ -118,7 +118,7 @@
 
 ![groundSnow.png](Floors/groundSnow.png) groundSnow.png
 
-![lavaTop_high.png](Floors/lavaTop_high.png) lavaTop_high.png
+![lavaTop-high.png](Floors/lavaTop-high.png) lavaTop-high.png
 
 ![sand.png](Floors/sand.png) sand.png
 
@@ -136,7 +136,7 @@
 
 ![snow.png](Floors/snow.png) snow.png
 
-![waterTop_high.png](Floors/waterTop_high.png) waterTop_high.png
+![waterTop-high.png](Floors/waterTop-high.png) waterTop-high.png
 
 ![map-banner.png](MapLandmarks/map-banner.png) map-banner.png
 
@@ -290,9 +290,9 @@
 
 ![flower3.png](Plants/Flowers/flower3.png) flower3.png
 
-![mushroom_brown.png](Plants/Flowers/mushroom_brown.png) mushroom_brown.png
+![mushroom-brown.png](Plants/Flowers/mushroom-brown.png) mushroom-brown.png
 
-![mushroom_red.png](Plants/Flowers/mushroom_red.png) mushroom_red.png
+![mushroom-red.png](Plants/Flowers/mushroom-red.png) mushroom-red.png
 
 ![grass0.png](Plants/Grass/grass0.png) grass0.png
 
@@ -374,53 +374,53 @@
 
 ![grassHalf.png](Platforms/grassHalf.png) grassHalf.png
 
+![ground-cake-broken.png](Platforms/ground-cake-broken.png) ground-cake-broken.png
+
+![ground-cake-small.png](Platforms/ground-cake-small.png) ground-cake-small.png
+
+![ground-cake-small_broken.png](Platforms/ground-cake-small_broken.png) ground-cake-small_broken.png
+
 ![ground-cake.png](Platforms/ground-cake.png) ground-cake.png
 
-![ground-cake_broken.png](Platforms/ground-cake_broken.png) ground-cake_broken.png
+![ground-grass-broken.png](Platforms/ground-grass-broken.png) ground-grass-broken.png
 
-![ground-cake_small.png](Platforms/ground-cake_small.png) ground-cake_small.png
+![ground-grass-small.png](Platforms/ground-grass-small.png) ground-grass-small.png
 
-![ground-cake_small_broken.png](Platforms/ground-cake_small_broken.png) ground-cake_small_broken.png
+![ground-grass-small_broken.png](Platforms/ground-grass-small_broken.png) ground-grass-small_broken.png
 
 ![ground-grass.png](Platforms/ground-grass.png) ground-grass.png
 
-![ground-grass_broken.png](Platforms/ground-grass_broken.png) ground-grass_broken.png
+![ground-sand-broken.png](Platforms/ground-sand-broken.png) ground-sand-broken.png
 
-![ground-grass_small.png](Platforms/ground-grass_small.png) ground-grass_small.png
+![ground-sand-small.png](Platforms/ground-sand-small.png) ground-sand-small.png
 
-![ground-grass_small_broken.png](Platforms/ground-grass_small_broken.png) ground-grass_small_broken.png
+![ground-sand-small_broken.png](Platforms/ground-sand-small_broken.png) ground-sand-small_broken.png
 
 ![ground-sand.png](Platforms/ground-sand.png) ground-sand.png
 
-![ground-sand_broken.png](Platforms/ground-sand_broken.png) ground-sand_broken.png
+![ground-snow-broken.png](Platforms/ground-snow-broken.png) ground-snow-broken.png
 
-![ground-sand_small.png](Platforms/ground-sand_small.png) ground-sand_small.png
+![ground-snow-small.png](Platforms/ground-snow-small.png) ground-snow-small.png
 
-![ground-sand_small_broken.png](Platforms/ground-sand_small_broken.png) ground-sand_small_broken.png
+![ground-snow-small_broken.png](Platforms/ground-snow-small_broken.png) ground-snow-small_broken.png
 
 ![ground-snow.png](Platforms/ground-snow.png) ground-snow.png
 
-![ground-snow_broken.png](Platforms/ground-snow_broken.png) ground-snow_broken.png
+![ground-stone-broken.png](Platforms/ground-stone-broken.png) ground-stone-broken.png
 
-![ground-snow_small.png](Platforms/ground-snow_small.png) ground-snow_small.png
+![ground-stone-small.png](Platforms/ground-stone-small.png) ground-stone-small.png
 
-![ground-snow_small_broken.png](Platforms/ground-snow_small_broken.png) ground-snow_small_broken.png
+![ground-stone-small_broken.png](Platforms/ground-stone-small_broken.png) ground-stone-small_broken.png
 
 ![ground-stone.png](Platforms/ground-stone.png) ground-stone.png
 
-![ground-stone_broken.png](Platforms/ground-stone_broken.png) ground-stone_broken.png
+![ground-wood-broken.png](Platforms/ground-wood-broken.png) ground-wood-broken.png
 
-![ground-stone_small.png](Platforms/ground-stone_small.png) ground-stone_small.png
+![ground-wood-small.png](Platforms/ground-wood-small.png) ground-wood-small.png
 
-![ground-stone_small_broken.png](Platforms/ground-stone_small_broken.png) ground-stone_small_broken.png
+![ground-wood-small_broken.png](Platforms/ground-wood-small_broken.png) ground-wood-small_broken.png
 
 ![ground-wood.png](Platforms/ground-wood.png) ground-wood.png
-
-![ground-wood_broken.png](Platforms/ground-wood_broken.png) ground-wood_broken.png
-
-![ground-wood_small.png](Platforms/ground-wood_small.png) ground-wood_small.png
-
-![ground-wood_small_broken.png](Platforms/ground-wood_small_broken.png) ground-wood_small_broken.png
 
 ![planetHalf-left.png](Platforms/planetHalf-left.png) planetHalf-left.png
 

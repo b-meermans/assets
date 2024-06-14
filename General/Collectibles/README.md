@@ -54,13 +54,13 @@
 
 ![hudHeart-half.png](hudHeart-half.png) hudHeart-half.png
 
+![hudJewel-blue-empty.png](hudJewel-blue-empty.png) hudJewel-blue-empty.png
+
 ![hudJewel-blue.png](hudJewel-blue.png) hudJewel-blue.png
 
-![hudJewel-blue_empty.png](hudJewel-blue_empty.png) hudJewel-blue_empty.png
+![hudKey-blue-empty.png](hudKey-blue-empty.png) hudKey-blue-empty.png
 
 ![hudKey-blue.png](hudKey-blue.png) hudKey-blue.png
-
-![hudKey-blue_empty.png](hudKey-blue_empty.png) hudKey-blue_empty.png
 
 ![jetpack.png](jetpack.png) jetpack.png
 
