@@ -920,6 +920,14 @@
 
 ![puffer.png](Fish/puffer.png) puffer.png
 
+![gel-1.png](gel-1.png) gel-1.png
+
+![gel-2.png](gel-2.png) gel-2.png
+
+![gel-3.png](gel-3.png) gel-3.png
+
+![gel-4.png](gel-4.png) gel-4.png
+
 ![robot-attack-0.png](Robot/robot-attack-0.png) robot-attack-0.png
 
 ![robot-attack-1.png](Robot/robot-attack-1.png) robot-attack-1.png

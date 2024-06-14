@@ -1064,6 +1064,14 @@
 
 ![puffer.png](Characters/Fish/puffer.png) puffer.png
 
+![gel-1.png](Characters/gel-1.png) gel-1.png
+
+![gel-2.png](Characters/gel-2.png) gel-2.png
+
+![gel-3.png](Characters/gel-3.png) gel-3.png
+
+![gel-4.png](Characters/gel-4.png) gel-4.png
+
 ![robot-attack-0.png](Characters/Robot/robot-attack-0.png) robot-attack-0.png
 
 ![robot-attack-1.png](Characters/Robot/robot-attack-1.png) robot-attack-1.png
@@ -1279,6 +1287,14 @@
 ![fire-2.png](General/Effects/fire-2.png) fire-2.png
 
 ![flame.png](General/Effects/flame.png) flame.png
+
+![gel-1.png](General/Effects/gel-1.png) gel-1.png
+
+![gel-2.png](General/Effects/gel-2.png) gel-2.png
+
+![gel-3.png](General/Effects/gel-3.png) gel-3.png
+
+![gel-4.png](General/Effects/gel-4.png) gel-4.png
 
 ![lighting-blue.png](General/Effects/lighting-blue.png) lighting-blue.png
 
