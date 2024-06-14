@@ -2,13 +2,13 @@
 
 ![cactus.png](cactus.png) cactus.png
 
-![flower0.png](flower0.png) flower0.png
+![flower-0.png](flower-0.png) flower-0.png
 
-![flower1.png](flower1.png) flower1.png
+![flower-1.png](flower-1.png) flower-1.png
 
-![flower2.png](flower2.png) flower2.png
+![flower-2.png](flower-2.png) flower-2.png
 
-![flower3.png](flower3.png) flower3.png
+![flower-3.png](flower-3.png) flower-3.png
 
 ![mushroom-brown.png](mushroom-brown.png) mushroom-brown.png
 

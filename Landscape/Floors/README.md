@@ -4,33 +4,33 @@
 
 ![grass.png](grass.png) grass.png
 
-![groundDirt.png](groundDirt.png) groundDirt.png
+![ground-dirt.png](ground-dirt.png) ground-dirt.png
 
-![groundGrass.png](groundGrass.png) groundGrass.png
+![ground-grass.png](ground-grass.png) ground-grass.png
 
-![groundIce.png](groundIce.png) groundIce.png
+![ground-ice.png](ground-ice.png) ground-ice.png
 
-![groundRock.png](groundRock.png) groundRock.png
+![ground-rock.png](ground-rock.png) ground-rock.png
 
-![groundSnow.png](groundSnow.png) groundSnow.png
+![ground-snow.png](ground-snow.png) ground-snow.png
 
-![lavaTop-high.png](lavaTop-high.png) lavaTop-high.png
+![lava-top-high.png](lava-top-high.png) lava-top-high.png
 
 ![sand.png](sand.png) sand.png
 
-![sandfloor0.png](sandfloor0.png) sandfloor0.png
+![sandfloor-0.png](sandfloor-0.png) sandfloor-0.png
 
-![sandfloor1.png](sandfloor1.png) sandfloor1.png
+![sandfloor-1.png](sandfloor-1.png) sandfloor-1.png
 
-![sandfloor2.png](sandfloor2.png) sandfloor2.png
+![sandfloor-2.png](sandfloor-2.png) sandfloor-2.png
 
-![sandfloor3.png](sandfloor3.png) sandfloor3.png
+![sandfloor-3.png](sandfloor-3.png) sandfloor-3.png
 
-![sandfloor4.png](sandfloor4.png) sandfloor4.png
+![sandfloor-4.png](sandfloor-4.png) sandfloor-4.png
 
-![sandfloor5.png](sandfloor5.png) sandfloor5.png
+![sandfloor-5.png](sandfloor-5.png) sandfloor-5.png
 
 ![snow.png](snow.png) snow.png
 
-![waterTop-high.png](waterTop-high.png) waterTop-high.png
+![water-top-high.png](water-top-high.png) water-top-high.png
 

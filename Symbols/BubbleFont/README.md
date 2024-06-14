@@ -1,32 +1,32 @@
 # Image Previews
 
-![bubble0.png](bubble0.png) bubble0.png
+![bubble-0.png](bubble-0.png) bubble-0.png
 
-![bubble1.png](bubble1.png) bubble1.png
+![bubble-1.png](bubble-1.png) bubble-1.png
 
-![bubble2.png](bubble2.png) bubble2.png
+![bubble-2.png](bubble-2.png) bubble-2.png
 
-![bubble3.png](bubble3.png) bubble3.png
+![bubble-3.png](bubble-3.png) bubble-3.png
 
-![bubble4.png](bubble4.png) bubble4.png
+![bubble-4.png](bubble-4.png) bubble-4.png
 
-![bubble5.png](bubble5.png) bubble5.png
+![bubble-5.png](bubble-5.png) bubble-5.png
 
-![bubble6.png](bubble6.png) bubble6.png
+![bubble-6.png](bubble-6.png) bubble-6.png
 
-![bubble7.png](bubble7.png) bubble7.png
+![bubble-7.png](bubble-7.png) bubble-7.png
 
-![bubble8.png](bubble8.png) bubble8.png
+![bubble-8.png](bubble-8.png) bubble-8.png
 
-![bubble9.png](bubble9.png) bubble9.png
+![bubble-9.png](bubble-9.png) bubble-9.png
 
-![bubbleColon.png](bubbleColon.png) bubbleColon.png
+![bubble-colon.png](bubble-colon.png) bubble-colon.png
 
-![bubbleDecimal.png](bubbleDecimal.png) bubbleDecimal.png
+![bubble-decimal.png](bubble-decimal.png) bubble-decimal.png
 
-![bubbleDollar.png](bubbleDollar.png) bubbleDollar.png
+![bubble-dollar.png](bubble-dollar.png) bubble-dollar.png
 
-![bubblePercent.png](bubblePercent.png) bubblePercent.png
+![bubble-percent.png](bubble-percent.png) bubble-percent.png
 
-![bubblePlus.png](bubblePlus.png) bubblePlus.png
+![bubble-plus.png](bubble-plus.png) bubble-plus.png
 

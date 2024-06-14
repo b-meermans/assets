@@ -1,130 +1,130 @@
 # Image Previews
 
-![cat-fall1.png](cat-fall1.png) cat-fall1.png
+![cat-fall-1.png](cat-fall-1.png) cat-fall-1.png
 
-![cat-fall2.png](cat-fall2.png) cat-fall2.png
+![cat-fall-2.png](cat-fall-2.png) cat-fall-2.png
 
-![cat-fall3.png](cat-fall3.png) cat-fall3.png
+![cat-fall-3.png](cat-fall-3.png) cat-fall-3.png
 
-![cat-fall4.png](cat-fall4.png) cat-fall4.png
+![cat-fall-4.png](cat-fall-4.png) cat-fall-4.png
 
-![cat-fall5.png](cat-fall5.png) cat-fall5.png
+![cat-fall-5.png](cat-fall-5.png) cat-fall-5.png
 
-![cat-fall6.png](cat-fall6.png) cat-fall6.png
+![cat-fall-6.png](cat-fall-6.png) cat-fall-6.png
 
-![cat-fall7.png](cat-fall7.png) cat-fall7.png
+![cat-fall-7.png](cat-fall-7.png) cat-fall-7.png
 
-![cat-fall8.png](cat-fall8.png) cat-fall8.png
+![cat-fall-8.png](cat-fall-8.png) cat-fall-8.png
 
-![cat-idle1.png](cat-idle1.png) cat-idle1.png
+![cat-idle-1.png](cat-idle-1.png) cat-idle-1.png
 
-![cat-idle10.png](cat-idle10.png) cat-idle10.png
+![cat-idle-10.png](cat-idle-10.png) cat-idle-10.png
 
-![cat-idle2.png](cat-idle2.png) cat-idle2.png
+![cat-idle-2.png](cat-idle-2.png) cat-idle-2.png
 
-![cat-idle3.png](cat-idle3.png) cat-idle3.png
+![cat-idle-3.png](cat-idle-3.png) cat-idle-3.png
 
-![cat-idle4.png](cat-idle4.png) cat-idle4.png
+![cat-idle-4.png](cat-idle-4.png) cat-idle-4.png
 
-![cat-idle5.png](cat-idle5.png) cat-idle5.png
+![cat-idle-5.png](cat-idle-5.png) cat-idle-5.png
 
-![cat-idle6.png](cat-idle6.png) cat-idle6.png
+![cat-idle-6.png](cat-idle-6.png) cat-idle-6.png
 
-![cat-idle7.png](cat-idle7.png) cat-idle7.png
+![cat-idle-7.png](cat-idle-7.png) cat-idle-7.png
 
-![cat-idle8.png](cat-idle8.png) cat-idle8.png
+![cat-idle-8.png](cat-idle-8.png) cat-idle-8.png
 
-![cat-idle9.png](cat-idle9.png) cat-idle9.png
+![cat-idle-9.png](cat-idle-9.png) cat-idle-9.png
 
-![cat-jump1.png](cat-jump1.png) cat-jump1.png
+![cat-jump-1.png](cat-jump-1.png) cat-jump-1.png
 
-![cat-jump2.png](cat-jump2.png) cat-jump2.png
+![cat-jump-2.png](cat-jump-2.png) cat-jump-2.png
 
-![cat-jump3.png](cat-jump3.png) cat-jump3.png
+![cat-jump-3.png](cat-jump-3.png) cat-jump-3.png
 
-![cat-jump4.png](cat-jump4.png) cat-jump4.png
+![cat-jump-4.png](cat-jump-4.png) cat-jump-4.png
 
-![cat-jump5.png](cat-jump5.png) cat-jump5.png
+![cat-jump-5.png](cat-jump-5.png) cat-jump-5.png
 
-![cat-jump6.png](cat-jump6.png) cat-jump6.png
+![cat-jump-6.png](cat-jump-6.png) cat-jump-6.png
 
-![cat-jump7.png](cat-jump7.png) cat-jump7.png
+![cat-jump-7.png](cat-jump-7.png) cat-jump-7.png
 
-![cat-jump8.png](cat-jump8.png) cat-jump8.png
+![cat-jump-8.png](cat-jump-8.png) cat-jump-8.png
 
-![cat-run1.png](cat-run1.png) cat-run1.png
+![cat-run-1.png](cat-run-1.png) cat-run-1.png
 
-![cat-run2.png](cat-run2.png) cat-run2.png
+![cat-run-2.png](cat-run-2.png) cat-run-2.png
 
-![cat-run3.png](cat-run3.png) cat-run3.png
+![cat-run-3.png](cat-run-3.png) cat-run-3.png
 
-![cat-run4.png](cat-run4.png) cat-run4.png
+![cat-run-4.png](cat-run-4.png) cat-run-4.png
 
-![cat-run5.png](cat-run5.png) cat-run5.png
+![cat-run-5.png](cat-run-5.png) cat-run-5.png
 
-![cat-run6.png](cat-run6.png) cat-run6.png
+![cat-run-6.png](cat-run-6.png) cat-run-6.png
 
-![cat-run7.png](cat-run7.png) cat-run7.png
+![cat-run-7.png](cat-run-7.png) cat-run-7.png
 
-![cat-run8.png](cat-run8.png) cat-run8.png
+![cat-run-8.png](cat-run-8.png) cat-run-8.png
 
-![cat-slide1.png](cat-slide1.png) cat-slide1.png
+![cat-slide-1.png](cat-slide-1.png) cat-slide-1.png
 
-![cat-slide10.png](cat-slide10.png) cat-slide10.png
+![cat-slide-10.png](cat-slide-10.png) cat-slide-10.png
 
-![cat-slide2.png](cat-slide2.png) cat-slide2.png
+![cat-slide-2.png](cat-slide-2.png) cat-slide-2.png
 
-![cat-slide3.png](cat-slide3.png) cat-slide3.png
+![cat-slide-3.png](cat-slide-3.png) cat-slide-3.png
 
-![cat-slide4.png](cat-slide4.png) cat-slide4.png
+![cat-slide-4.png](cat-slide-4.png) cat-slide-4.png
 
-![cat-slide5.png](cat-slide5.png) cat-slide5.png
+![cat-slide-5.png](cat-slide-5.png) cat-slide-5.png
 
-![cat-slide6.png](cat-slide6.png) cat-slide6.png
+![cat-slide-6.png](cat-slide-6.png) cat-slide-6.png
 
-![cat-slide7.png](cat-slide7.png) cat-slide7.png
+![cat-slide-7.png](cat-slide-7.png) cat-slide-7.png
 
-![cat-slide8.png](cat-slide8.png) cat-slide8.png
+![cat-slide-8.png](cat-slide-8.png) cat-slide-8.png
 
-![cat-slide9.png](cat-slide9.png) cat-slide9.png
+![cat-slide-9.png](cat-slide-9.png) cat-slide-9.png
 
-![cat-tired1.png](cat-tired1.png) cat-tired1.png
+![cat-tired-1.png](cat-tired-1.png) cat-tired-1.png
 
-![cat-tired10.png](cat-tired10.png) cat-tired10.png
+![cat-tired-10.png](cat-tired-10.png) cat-tired-10.png
 
-![cat-tired2.png](cat-tired2.png) cat-tired2.png
+![cat-tired-2.png](cat-tired-2.png) cat-tired-2.png
 
-![cat-tired3.png](cat-tired3.png) cat-tired3.png
+![cat-tired-3.png](cat-tired-3.png) cat-tired-3.png
 
-![cat-tired4.png](cat-tired4.png) cat-tired4.png
+![cat-tired-4.png](cat-tired-4.png) cat-tired-4.png
 
-![cat-tired5.png](cat-tired5.png) cat-tired5.png
+![cat-tired-5.png](cat-tired-5.png) cat-tired-5.png
 
-![cat-tired6.png](cat-tired6.png) cat-tired6.png
+![cat-tired-6.png](cat-tired-6.png) cat-tired-6.png
 
-![cat-tired7.png](cat-tired7.png) cat-tired7.png
+![cat-tired-7.png](cat-tired-7.png) cat-tired-7.png
 
-![cat-tired8.png](cat-tired8.png) cat-tired8.png
+![cat-tired-8.png](cat-tired-8.png) cat-tired-8.png
 
-![cat-tired9.png](cat-tired9.png) cat-tired9.png
+![cat-tired-9.png](cat-tired-9.png) cat-tired-9.png
 
-![cat-walk1.png](cat-walk1.png) cat-walk1.png
+![cat-walk-1.png](cat-walk-1.png) cat-walk-1.png
 
-![cat-walk10.png](cat-walk10.png) cat-walk10.png
+![cat-walk-10.png](cat-walk-10.png) cat-walk-10.png
 
-![cat-walk2.png](cat-walk2.png) cat-walk2.png
+![cat-walk-2.png](cat-walk-2.png) cat-walk-2.png
 
-![cat-walk3.png](cat-walk3.png) cat-walk3.png
+![cat-walk-3.png](cat-walk-3.png) cat-walk-3.png
 
-![cat-walk4.png](cat-walk4.png) cat-walk4.png
+![cat-walk-4.png](cat-walk-4.png) cat-walk-4.png
 
-![cat-walk5.png](cat-walk5.png) cat-walk5.png
+![cat-walk-5.png](cat-walk-5.png) cat-walk-5.png
 
-![cat-walk6.png](cat-walk6.png) cat-walk6.png
+![cat-walk-6.png](cat-walk-6.png) cat-walk-6.png
 
-![cat-walk7.png](cat-walk7.png) cat-walk7.png
+![cat-walk-7.png](cat-walk-7.png) cat-walk-7.png
 
-![cat-walk8.png](cat-walk8.png) cat-walk8.png
+![cat-walk-8.png](cat-walk-8.png) cat-walk-8.png
 
-![cat-walk9.png](cat-walk9.png) cat-walk9.png
+![cat-walk-9.png](cat-walk-9.png) cat-walk-9.png
 

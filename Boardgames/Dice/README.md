@@ -1,14 +1,14 @@
 # Image Previews
 
-![die1.png](die1.png) die1.png
+![die-1.png](die-1.png) die-1.png
 
-![die2.png](die2.png) die2.png
+![die-2.png](die-2.png) die-2.png
 
-![die3.png](die3.png) die3.png
+![die-3.png](die-3.png) die-3.png
 
-![die4.png](die4.png) die4.png
+![die-4.png](die-4.png) die-4.png
 
-![die5.png](die5.png) die5.png
+![die-5.png](die-5.png) die-5.png
 
-![die6.png](die6.png) die6.png
+![die-6.png](die-6.png) die-6.png
 

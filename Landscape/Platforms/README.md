@@ -1,20 +1,20 @@
 # Image Previews
 
-![dirtHalf-left.png](dirtHalf-left.png) dirtHalf-left.png
+![dirt-half-left.png](dirt-half-left.png) dirt-half-left.png
 
-![dirtHalf-mid.png](dirtHalf-mid.png) dirtHalf-mid.png
+![dirt-half-mid.png](dirt-half-mid.png) dirt-half-mid.png
 
-![dirtHalf-right.png](dirtHalf-right.png) dirtHalf-right.png
+![dirt-half-right.png](dirt-half-right.png) dirt-half-right.png
 
-![dirtHalf.png](dirtHalf.png) dirtHalf.png
+![dirt-half.png](dirt-half.png) dirt-half.png
 
-![grassHalf-left.png](grassHalf-left.png) grassHalf-left.png
+![grass-half-left.png](grass-half-left.png) grass-half-left.png
 
-![grassHalf-mid.png](grassHalf-mid.png) grassHalf-mid.png
+![grass-half-mid.png](grass-half-mid.png) grass-half-mid.png
 
-![grassHalf-right.png](grassHalf-right.png) grassHalf-right.png
+![grass-half-right.png](grass-half-right.png) grass-half-right.png
 
-![grassHalf.png](grassHalf.png) grassHalf.png
+![grass-half.png](grass-half.png) grass-half.png
 
 ![ground-cake-broken.png](ground-cake-broken.png) ground-cake-broken.png
 
@@ -64,13 +64,13 @@
 
 ![ground-wood.png](ground-wood.png) ground-wood.png
 
-![planetHalf-left.png](planetHalf-left.png) planetHalf-left.png
+![planet-half-left.png](planet-half-left.png) planet-half-left.png
 
-![planetHalf-mid.png](planetHalf-mid.png) planetHalf-mid.png
+![planet-half-mid.png](planet-half-mid.png) planet-half-mid.png
 
-![planetHalf-right.png](planetHalf-right.png) planetHalf-right.png
+![planet-half-right.png](planet-half-right.png) planet-half-right.png
 
-![planetHalf.png](planetHalf.png) planetHalf.png
+![planet-half.png](planet-half.png) planet-half.png
 
 ![tile-exclamation.png](tile-exclamation.png) tile-exclamation.png
 

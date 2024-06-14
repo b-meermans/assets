@@ -6,9 +6,9 @@
 
 ![explosion-small.png](explosion-small.png) explosion-small.png
 
-![fire1.png](fire1.png) fire1.png
+![fire-1.png](fire-1.png) fire-1.png
 
-![fire2.png](fire2.png) fire2.png
+![fire-2.png](fire-2.png) fire-2.png
 
 ![flame.png](flame.png) flame.png
 
@@ -16,15 +16,19 @@
 
 ![lighting-yellow.png](lighting-yellow.png) lighting-yellow.png
 
+![particle-0.png](particle-0.png) particle-0.png
+
+![particle-1.png](particle-1.png) particle-1.png
+
 ![particle-beige.png](particle-beige.png) particle-beige.png
 
 ![particle-blue.png](particle-blue.png) particle-blue.png
 
 ![particle-brown.png](particle-brown.png) particle-brown.png
 
-![particle-darkBrown.png](particle-darkBrown.png) particle-darkBrown.png
+![particle-dark-brown.png](particle-dark-brown.png) particle-dark-brown.png
 
-![particle-darkGrey.png](particle-darkGrey.png) particle-darkGrey.png
+![particle-dark-grey.png](particle-dark-grey.png) particle-dark-grey.png
 
 ![particle-green.png](particle-green.png) particle-green.png
 
@@ -32,17 +36,13 @@
 
 ![particle-pink.png](particle-pink.png) particle-pink.png
 
-![particle0.png](particle0.png) particle0.png
+![portal-orange-particle.png](portal-orange-particle.png) portal-orange-particle.png
 
-![particle1.png](particle1.png) particle1.png
+![portal-yellow-particle.png](portal-yellow-particle.png) portal-yellow-particle.png
 
-![portal-orangeParticle.png](portal-orangeParticle.png) portal-orangeParticle.png
+![puff-large.png](puff-large.png) puff-large.png
 
-![portal-yellowParticle.png](portal-yellowParticle.png) portal-yellowParticle.png
-
-![puffLarge.png](puffLarge.png) puffLarge.png
-
-![puffSmall.png](puffSmall.png) puffSmall.png
+![puff-small.png](puff-small.png) puff-small.png
 
 ![smoke.png](smoke.png) smoke.png
 

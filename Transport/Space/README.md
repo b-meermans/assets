@@ -2,37 +2,37 @@
 
 ![rocket.png](rocket.png) rocket.png
 
-![spaceRocket0.png](spaceRocket0.png) spaceRocket0.png
+![space-rocket-0.png](space-rocket-0.png) space-rocket-0.png
 
-![spaceRocket1.png](spaceRocket1.png) spaceRocket1.png
+![space-rocket-1.png](space-rocket-1.png) space-rocket-1.png
 
-![spaceRocket2.png](spaceRocket2.png) spaceRocket2.png
+![space-rocket-2.png](space-rocket-2.png) space-rocket-2.png
 
-![spaceShip0.png](spaceShip0.png) spaceShip0.png
+![space-ship-0.png](space-ship-0.png) space-ship-0.png
 
-![spaceShip1.png](spaceShip1.png) spaceShip1.png
+![space-ship-1.png](space-ship-1.png) space-ship-1.png
 
-![spaceShip2.png](spaceShip2.png) spaceShip2.png
+![space-ship-2.png](space-ship-2.png) space-ship-2.png
 
-![spaceShip3.png](spaceShip3.png) spaceShip3.png
+![space-ship-3.png](space-ship-3.png) space-ship-3.png
 
-![spaceShip4.png](spaceShip4.png) spaceShip4.png
+![space-ship-4.png](space-ship-4.png) space-ship-4.png
 
-![spaceShip5.png](spaceShip5.png) spaceShip5.png
+![space-ship-5.png](space-ship-5.png) space-ship-5.png
 
-![spaceShip6.png](spaceShip6.png) spaceShip6.png
+![space-ship-6.png](space-ship-6.png) space-ship-6.png
 
-![spaceShip7.png](spaceShip7.png) spaceShip7.png
+![space-ship-7.png](space-ship-7.png) space-ship-7.png
 
-![spaceShip8.png](spaceShip8.png) spaceShip8.png
+![space-ship-8.png](space-ship-8.png) space-ship-8.png
 
-![station0.png](station0.png) station0.png
+![station-0.png](station-0.png) station-0.png
 
-![station1.png](station1.png) station1.png
+![station-1.png](station-1.png) station-1.png
 
-![station2.png](station2.png) station2.png
+![station-2.png](station-2.png) station-2.png
 
-![station3.png](station3.png) station3.png
+![station-3.png](station-3.png) station-3.png
 
-![station4.png](station4.png) station4.png
+![station-4.png](station-4.png) station-4.png
 

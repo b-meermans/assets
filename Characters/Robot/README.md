@@ -1,20 +1,20 @@
 # Image Previews
 
-![robot-attack0.png](robot-attack0.png) robot-attack0.png
+![robot-attack-0.png](robot-attack-0.png) robot-attack-0.png
 
-![robot-attack1.png](robot-attack1.png) robot-attack1.png
+![robot-attack-1.png](robot-attack-1.png) robot-attack-1.png
 
-![robot-attack2.png](robot-attack2.png) robot-attack2.png
+![robot-attack-2.png](robot-attack-2.png) robot-attack-2.png
 
 ![robot-back.png](robot-back.png) robot-back.png
 
-![robot-cheer0.png](robot-cheer0.png) robot-cheer0.png
+![robot-cheer-0.png](robot-cheer-0.png) robot-cheer-0.png
 
-![robot-cheer1.png](robot-cheer1.png) robot-cheer1.png
+![robot-cheer-1.png](robot-cheer-1.png) robot-cheer-1.png
 
-![robot-climb0.png](robot-climb0.png) robot-climb0.png
+![robot-climb-0.png](robot-climb-0.png) robot-climb-0.png
 
-![robot-climb1.png](robot-climb1.png) robot-climb1.png
+![robot-climb-1.png](robot-climb-1.png) robot-climb-1.png
 
 ![robot-down.png](robot-down.png) robot-down.png
 
@@ -32,27 +32,27 @@
 
 ![robot-rope.png](robot-rope.png) robot-rope.png
 
-![robot-run0.png](robot-run0.png) robot-run0.png
+![robot-run-0.png](robot-run-0.png) robot-run-0.png
 
-![robot-run1.png](robot-run1.png) robot-run1.png
+![robot-run-1.png](robot-run-1.png) robot-run-1.png
 
-![robot-run2.png](robot-run2.png) robot-run2.png
+![robot-run-2.png](robot-run-2.png) robot-run-2.png
 
 ![robot-slide.png](robot-slide.png) robot-slide.png
 
-![robot-walk0.png](robot-walk0.png) robot-walk0.png
+![robot-walk-0.png](robot-walk-0.png) robot-walk-0.png
 
-![robot-walk1.png](robot-walk1.png) robot-walk1.png
+![robot-walk-1.png](robot-walk-1.png) robot-walk-1.png
 
-![robot-walk2.png](robot-walk2.png) robot-walk2.png
+![robot-walk-2.png](robot-walk-2.png) robot-walk-2.png
 
-![robot-walk3.png](robot-walk3.png) robot-walk3.png
+![robot-walk-3.png](robot-walk-3.png) robot-walk-3.png
 
-![robot-walk4.png](robot-walk4.png) robot-walk4.png
+![robot-walk-4.png](robot-walk-4.png) robot-walk-4.png
 
-![robot-walk5.png](robot-walk5.png) robot-walk5.png
+![robot-walk-5.png](robot-walk-5.png) robot-walk-5.png
 
-![robot-walk6.png](robot-walk6.png) robot-walk6.png
+![robot-walk-6.png](robot-walk-6.png) robot-walk-6.png
 
-![robot-walk7.png](robot-walk7.png) robot-walk7.png
+![robot-walk-7.png](robot-walk-7.png) robot-walk-7.png
 

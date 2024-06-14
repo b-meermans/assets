@@ -1,122 +1,122 @@
 # Image Previews
 
-![bush0.png](Bushes/bush0.png) bush0.png
+![bush-0.png](Bushes/bush-0.png) bush-0.png
 
-![bush1.png](Bushes/bush1.png) bush1.png
+![bush-1.png](Bushes/bush-1.png) bush-1.png
 
-![bush2.png](Bushes/bush2.png) bush2.png
+![bush-2.png](Bushes/bush-2.png) bush-2.png
 
-![bush3.png](Bushes/bush3.png) bush3.png
+![bush-3.png](Bushes/bush-3.png) bush-3.png
 
-![bush4.png](Bushes/bush4.png) bush4.png
+![bush-4.png](Bushes/bush-4.png) bush-4.png
 
-![bush5.png](Bushes/bush5.png) bush5.png
+![bush-5.png](Bushes/bush-5.png) bush-5.png
 
-![bush6.png](Bushes/bush6.png) bush6.png
+![bush-6.png](Bushes/bush-6.png) bush-6.png
 
-![bush7.png](Bushes/bush7.png) bush7.png
+![bush-7.png](Bushes/bush-7.png) bush-7.png
 
-![bush8.png](Bushes/bush8.png) bush8.png
+![bush-8.png](Bushes/bush-8.png) bush-8.png
 
-![coral0.png](Coral/coral0.png) coral0.png
+![coral-0.png](Coral/coral-0.png) coral-0.png
 
-![coral1.png](Coral/coral1.png) coral1.png
+![coral-1.png](Coral/coral-1.png) coral-1.png
 
-![coral10.png](Coral/coral10.png) coral10.png
+![coral-10.png](Coral/coral-10.png) coral-10.png
 
-![coral11.png](Coral/coral11.png) coral11.png
+![coral-11.png](Coral/coral-11.png) coral-11.png
 
-![coral2.png](Coral/coral2.png) coral2.png
+![coral-2.png](Coral/coral-2.png) coral-2.png
 
-![coral3.png](Coral/coral3.png) coral3.png
+![coral-3.png](Coral/coral-3.png) coral-3.png
 
-![coral4.png](Coral/coral4.png) coral4.png
+![coral-4.png](Coral/coral-4.png) coral-4.png
 
-![coral5.png](Coral/coral5.png) coral5.png
+![coral-5.png](Coral/coral-5.png) coral-5.png
 
-![coral6.png](Coral/coral6.png) coral6.png
+![coral-6.png](Coral/coral-6.png) coral-6.png
 
-![coral7.png](Coral/coral7.png) coral7.png
+![coral-7.png](Coral/coral-7.png) coral-7.png
 
-![coral8.png](Coral/coral8.png) coral8.png
+![coral-8.png](Coral/coral-8.png) coral-8.png
 
-![coral9.png](Coral/coral9.png) coral9.png
+![coral-9.png](Coral/coral-9.png) coral-9.png
 
 ![cactus.png](Flowers/cactus.png) cactus.png
 
-![flower0.png](Flowers/flower0.png) flower0.png
+![flower-0.png](Flowers/flower-0.png) flower-0.png
 
-![flower1.png](Flowers/flower1.png) flower1.png
+![flower-1.png](Flowers/flower-1.png) flower-1.png
 
-![flower2.png](Flowers/flower2.png) flower2.png
+![flower-2.png](Flowers/flower-2.png) flower-2.png
 
-![flower3.png](Flowers/flower3.png) flower3.png
+![flower-3.png](Flowers/flower-3.png) flower-3.png
 
 ![mushroom-brown.png](Flowers/mushroom-brown.png) mushroom-brown.png
 
 ![mushroom-red.png](Flowers/mushroom-red.png) mushroom-red.png
 
-![grass0.png](Grass/grass0.png) grass0.png
+![grass-0.png](Grass/grass-0.png) grass-0.png
 
-![grass3.png](Grass/grass3.png) grass3.png
+![grass-3.png](Grass/grass-3.png) grass-3.png
 
-![grass4.png](Grass/grass4.png) grass4.png
+![grass-4.png](Grass/grass-4.png) grass-4.png
 
-![grass5.png](Grass/grass5.png) grass5.png
+![grass-5.png](Grass/grass-5.png) grass-5.png
 
-![grass6.png](Grass/grass6.png) grass6.png
+![grass-6.png](Grass/grass-6.png) grass-6.png
 
-![grass7.png](Grass/grass7.png) grass7.png
+![grass-7.png](Grass/grass-7.png) grass-7.png
 
-![tree0-alt.png](Trees/tree0-alt.png) tree0-alt.png
+![tree-0-alt.png](Trees/tree-0-alt.png) tree-0-alt.png
 
-![tree0.png](Trees/tree0.png) tree0.png
+![tree-0.png](Trees/tree-0.png) tree-0.png
 
-![tree1-alt.png](Trees/tree1-alt.png) tree1-alt.png
+![tree-1-alt.png](Trees/tree-1-alt.png) tree-1-alt.png
 
-![tree1.png](Trees/tree1.png) tree1.png
+![tree-1.png](Trees/tree-1.png) tree-1.png
 
-![tree2-alt.png](Trees/tree2-alt.png) tree2-alt.png
+![tree-2-alt.png](Trees/tree-2-alt.png) tree-2-alt.png
 
-![tree2.png](Trees/tree2.png) tree2.png
+![tree-2.png](Trees/tree-2.png) tree-2.png
 
-![tree3-alt.png](Trees/tree3-alt.png) tree3-alt.png
+![tree-3-alt.png](Trees/tree-3-alt.png) tree-3-alt.png
 
-![tree3.png](Trees/tree3.png) tree3.png
+![tree-3.png](Trees/tree-3.png) tree-3.png
 
-![tree4-alt.png](Trees/tree4-alt.png) tree4-alt.png
+![tree-4-alt.png](Trees/tree-4-alt.png) tree-4-alt.png
 
-![tree4.png](Trees/tree4.png) tree4.png
+![tree-4.png](Trees/tree-4.png) tree-4.png
 
-![tree5-alt.png](Trees/tree5-alt.png) tree5-alt.png
+![tree-5-alt.png](Trees/tree-5-alt.png) tree-5-alt.png
 
-![tree5.png](Trees/tree5.png) tree5.png
+![tree-5.png](Trees/tree-5.png) tree-5.png
 
-![tree6-alt.png](Trees/tree6-alt.png) tree6-alt.png
+![tree-6-alt.png](Trees/tree-6-alt.png) tree-6-alt.png
 
-![tree6.png](Trees/tree6.png) tree6.png
+![tree-6.png](Trees/tree-6.png) tree-6.png
 
-![tree7-alt.png](Trees/tree7-alt.png) tree7-alt.png
+![tree-7-alt.png](Trees/tree-7-alt.png) tree-7-alt.png
 
-![tree7.png](Trees/tree7.png) tree7.png
+![tree-7.png](Trees/tree-7.png) tree-7.png
 
-![tree8-alt.png](Trees/tree8-alt.png) tree8-alt.png
+![tree-8-alt.png](Trees/tree-8-alt.png) tree-8-alt.png
 
-![tree8.png](Trees/tree8.png) tree8.png
+![tree-8.png](Trees/tree-8.png) tree-8.png
 
-![trunk0.png](Trees/trunk0.png) trunk0.png
+![trunk-0.png](Trees/trunk-0.png) trunk-0.png
 
-![trunk1.png](Trees/trunk1.png) trunk1.png
+![trunk-1.png](Trees/trunk-1.png) trunk-1.png
 
-![trunk2.png](Trees/trunk2.png) trunk2.png
+![trunk-2.png](Trees/trunk-2.png) trunk-2.png
 
-![trunk3.png](Trees/trunk3.png) trunk3.png
+![trunk-3.png](Trees/trunk-3.png) trunk-3.png
 
-![trunk4.png](Trees/trunk4.png) trunk4.png
+![trunk-4.png](Trees/trunk-4.png) trunk-4.png
 
-![trunk5.png](Trees/trunk5.png) trunk5.png
+![trunk-5.png](Trees/trunk-5.png) trunk-5.png
 
-![trunk6.png](Trees/trunk6.png) trunk6.png
+![trunk-6.png](Trees/trunk-6.png) trunk-6.png
 
-![trunk7.png](Trees/trunk7.png) trunk7.png
+![trunk-7.png](Trees/trunk-7.png) trunk-7.png
 

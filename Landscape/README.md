@@ -1,22 +1,22 @@
 # Image Previews
 
+![background-color-desert.png](Backgrounds/background-color-desert.png) background-color-desert.png
+
+![background-color-fall.png](Backgrounds/background-color-fall.png) background-color-fall.png
+
+![background-color-forest.png](Backgrounds/background-color-forest.png) background-color-forest.png
+
+![background-color-grass.png](Backgrounds/background-color-grass.png) background-color-grass.png
+
 ![background-neutral.png](Backgrounds/background-neutral.png) background-neutral.png
 
-![backgroundColorDesert.png](Backgrounds/backgroundColorDesert.png) backgroundColorDesert.png
+![bg-layer-1.png](Backgrounds/bg-layer-1.png) bg-layer-1.png
 
-![backgroundColorFall.png](Backgrounds/backgroundColorFall.png) backgroundColorFall.png
+![bg-layer-2.png](Backgrounds/bg-layer-2.png) bg-layer-2.png
 
-![backgroundColorForest.png](Backgrounds/backgroundColorForest.png) backgroundColorForest.png
+![bg-layer-3.png](Backgrounds/bg-layer-3.png) bg-layer-3.png
 
-![backgroundColorGrass.png](Backgrounds/backgroundColorGrass.png) backgroundColorGrass.png
-
-![bg-layer1.png](Backgrounds/bg-layer1.png) bg-layer1.png
-
-![bg-layer2.png](Backgrounds/bg-layer2.png) bg-layer2.png
-
-![bg-layer3.png](Backgrounds/bg-layer3.png) bg-layer3.png
-
-![bg-layer4.png](Backgrounds/bg-layer4.png) bg-layer4.png
+![bg-layer-4.png](Backgrounds/bg-layer-4.png) bg-layer-4.png
 
 ![blue-desert.png](Backgrounds/blue-desert.png) blue-desert.png
 
@@ -32,13 +32,13 @@
 
 ![colored-land.png](Backgrounds/colored-land.png) colored-land.png
 
+![forest-0.png](Backgrounds/forest-0.png) forest-0.png
+
+![forest-1.png](Backgrounds/forest-1.png) forest-1.png
+
+![forest-2.png](Backgrounds/forest-2.png) forest-2.png
+
 ![forest-bg.png](Backgrounds/forest-bg.png) forest-bg.png
-
-![forest0.png](Backgrounds/forest0.png) forest0.png
-
-![forest1.png](Backgrounds/forest1.png) forest1.png
-
-![forest2.png](Backgrounds/forest2.png) forest2.png
 
 ![mountainscape.png](Backgrounds/mountainscape.png) mountainscape.png
 
@@ -46,17 +46,17 @@
 
 ![snowy-bg.png](Backgrounds/snowy-bg.png) snowy-bg.png
 
-![tile-beach1.png](Backgrounds/tile-beach1.png) tile-beach1.png
+![tile-beach-1.png](Backgrounds/tile-beach-1.png) tile-beach-1.png
 
-![tile-beach2.png](Backgrounds/tile-beach2.png) tile-beach2.png
+![tile-beach-2.png](Backgrounds/tile-beach-2.png) tile-beach-2.png
 
 ![tile-checker.png](Backgrounds/tile-checker.png) tile-checker.png
 
-![tile-grass1.png](Backgrounds/tile-grass1.png) tile-grass1.png
+![tile-grass-1.png](Backgrounds/tile-grass-1.png) tile-grass-1.png
 
-![tile-grass2.png](Backgrounds/tile-grass2.png) tile-grass2.png
+![tile-grass-2.png](Backgrounds/tile-grass-2.png) tile-grass-2.png
 
-![tile-grass3.png](Backgrounds/tile-grass3.png) tile-grass3.png
+![tile-grass-3.png](Backgrounds/tile-grass-3.png) tile-grass-3.png
 
 ![tile-mud.png](Backgrounds/tile-mud.png) tile-mud.png
 
@@ -70,87 +70,87 @@
 
 ![tile-water.png](Backgrounds/tile-water.png) tile-water.png
 
-![castleSmall.png](Buildings/castleSmall.png) castleSmall.png
+![castle-small.png](Buildings/castle-small.png) castle-small.png
 
-![house1.png](Buildings/house1.png) house1.png
+![house-1.png](Buildings/house-1.png) house-1.png
 
-![house2.png](Buildings/house2.png) house2.png
+![house-2.png](Buildings/house-2.png) house-2.png
 
-![houseSmall1.png](Buildings/houseSmall1.png) houseSmall1.png
+![house-small-1.png](Buildings/house-small-1.png) house-small-1.png
 
-![houseSmall2.png](Buildings/houseSmall2.png) houseSmall2.png
+![house-small-2.png](Buildings/house-small-2.png) house-small-2.png
 
 ![igloo.png](Buildings/igloo.png) igloo.png
 
 ![pyramid.png](Buildings/pyramid.png) pyramid.png
 
+![tower-small.png](Buildings/tower-small.png) tower-small.png
+
 ![tower.png](Buildings/tower.png) tower.png
 
-![towerSmall.png](Buildings/towerSmall.png) towerSmall.png
+![cloud-1.png](Clouds/cloud-1.png) cloud-1.png
 
-![cloud1.png](Clouds/cloud1.png) cloud1.png
+![cloud-2.png](Clouds/cloud-2.png) cloud-2.png
 
-![cloud2.png](Clouds/cloud2.png) cloud2.png
+![cloud-3.png](Clouds/cloud-3.png) cloud-3.png
 
-![cloud3.png](Clouds/cloud3.png) cloud3.png
+![cloud-4.png](Clouds/cloud-4.png) cloud-4.png
 
-![cloud4.png](Clouds/cloud4.png) cloud4.png
+![cloud-5.png](Clouds/cloud-5.png) cloud-5.png
 
-![cloud5.png](Clouds/cloud5.png) cloud5.png
+![cloud-6.png](Clouds/cloud-6.png) cloud-6.png
 
-![cloud6.png](Clouds/cloud6.png) cloud6.png
+![cloud-7.png](Clouds/cloud-7.png) cloud-7.png
 
-![cloud7.png](Clouds/cloud7.png) cloud7.png
-
-![cloud8.png](Clouds/cloud8.png) cloud8.png
+![cloud-8.png](Clouds/cloud-8.png) cloud-8.png
 
 ![dirt.png](Floors/dirt.png) dirt.png
 
 ![grass.png](Floors/grass.png) grass.png
 
-![groundDirt.png](Floors/groundDirt.png) groundDirt.png
+![ground-dirt.png](Floors/ground-dirt.png) ground-dirt.png
 
-![groundGrass.png](Floors/groundGrass.png) groundGrass.png
+![ground-grass.png](Floors/ground-grass.png) ground-grass.png
 
-![groundIce.png](Floors/groundIce.png) groundIce.png
+![ground-ice.png](Floors/ground-ice.png) ground-ice.png
 
-![groundRock.png](Floors/groundRock.png) groundRock.png
+![ground-rock.png](Floors/ground-rock.png) ground-rock.png
 
-![groundSnow.png](Floors/groundSnow.png) groundSnow.png
+![ground-snow.png](Floors/ground-snow.png) ground-snow.png
 
-![lavaTop-high.png](Floors/lavaTop-high.png) lavaTop-high.png
+![lava-top-high.png](Floors/lava-top-high.png) lava-top-high.png
 
 ![sand.png](Floors/sand.png) sand.png
 
-![sandfloor0.png](Floors/sandfloor0.png) sandfloor0.png
+![sandfloor-0.png](Floors/sandfloor-0.png) sandfloor-0.png
 
-![sandfloor1.png](Floors/sandfloor1.png) sandfloor1.png
+![sandfloor-1.png](Floors/sandfloor-1.png) sandfloor-1.png
 
-![sandfloor2.png](Floors/sandfloor2.png) sandfloor2.png
+![sandfloor-2.png](Floors/sandfloor-2.png) sandfloor-2.png
 
-![sandfloor3.png](Floors/sandfloor3.png) sandfloor3.png
+![sandfloor-3.png](Floors/sandfloor-3.png) sandfloor-3.png
 
-![sandfloor4.png](Floors/sandfloor4.png) sandfloor4.png
+![sandfloor-4.png](Floors/sandfloor-4.png) sandfloor-4.png
 
-![sandfloor5.png](Floors/sandfloor5.png) sandfloor5.png
+![sandfloor-5.png](Floors/sandfloor-5.png) sandfloor-5.png
 
 ![snow.png](Floors/snow.png) snow.png
 
-![waterTop-high.png](Floors/waterTop-high.png) waterTop-high.png
+![water-top-high.png](Floors/water-top-high.png) water-top-high.png
 
 ![map-banner.png](MapLandmarks/map-banner.png) map-banner.png
 
-![map-bridge.png](MapLandmarks/map-bridge.png) map-bridge.png
+![map-bridge-rope.png](MapLandmarks/map-bridge-rope.png) map-bridge-rope.png
 
-![map-bridgeRope.png](MapLandmarks/map-bridgeRope.png) map-bridgeRope.png
+![map-bridge.png](MapLandmarks/map-bridge.png) map-bridge.png
 
 ![map-cactus.png](MapLandmarks/map-cactus.png) map-cactus.png
 
 ![map-campfire.png](MapLandmarks/map-campfire.png) map-campfire.png
 
-![map-castle.png](MapLandmarks/map-castle.png) map-castle.png
+![map-castle-tall.png](MapLandmarks/map-castle-tall.png) map-castle-tall.png
 
-![map-castleTall.png](MapLandmarks/map-castleTall.png) map-castleTall.png
+![map-castle.png](MapLandmarks/map-castle.png) map-castle.png
 
 ![map-chest.png](MapLandmarks/map-chest.png) map-chest.png
 
@@ -166,21 +166,21 @@
 
 ![map-graveyard.png](MapLandmarks/map-graveyard.png) map-graveyard.png
 
-![map-house.png](MapLandmarks/map-house.png) map-house.png
+![map-house-chimney.png](MapLandmarks/map-house-chimney.png) map-house-chimney.png
 
-![map-houseChimney.png](MapLandmarks/map-houseChimney.png) map-houseChimney.png
+![map-house-small.png](MapLandmarks/map-house-small.png) map-house-small.png
+
+![map-house-tall.png](MapLandmarks/map-house-tall.png) map-house-tall.png
+
+![map-house-viking.png](MapLandmarks/map-house-viking.png) map-house-viking.png
+
+![map-house.png](MapLandmarks/map-house.png) map-house.png
 
 ![map-houses.png](MapLandmarks/map-houses.png) map-houses.png
 
-![map-houseSmall.png](MapLandmarks/map-houseSmall.png) map-houseSmall.png
-
-![map-houseTall.png](MapLandmarks/map-houseTall.png) map-houseTall.png
-
-![map-houseViking.png](MapLandmarks/map-houseViking.png) map-houseViking.png
+![map-lake-round.png](MapLandmarks/map-lake-round.png) map-lake-round.png
 
 ![map-lake.png](MapLandmarks/map-lake.png) map-lake.png
-
-![map-lakeRound.png](MapLandmarks/map-lakeRound.png) map-lakeRound.png
 
 ![map-lighthouse.png](MapLandmarks/map-lighthouse.png) map-lighthouse.png
 
@@ -192,9 +192,9 @@
 
 ![map-pyramid.png](MapLandmarks/map-pyramid.png) map-pyramid.png
 
-![map-rocks.png](MapLandmarks/map-rocks.png) map-rocks.png
+![map-rocks-mountain.png](MapLandmarks/map-rocks-mountain.png) map-rocks-mountain.png
 
-![map-rocksMountain.png](MapLandmarks/map-rocksMountain.png) map-rocksMountain.png
+![map-rocks.png](MapLandmarks/map-rocks.png) map-rocks.png
 
 ![map-ruins.png](MapLandmarks/map-ruins.png) map-ruins.png
 
@@ -202,31 +202,31 @@
 
 ![map-stable.png](MapLandmarks/map-stable.png) map-stable.png
 
-![map-treePine.png](MapLandmarks/map-treePine.png) map-treePine.png
+![map-tree-pine-large.png](MapLandmarks/map-tree-pine-large.png) map-tree-pine-large.png
 
-![map-treePineTallLarge.png](MapLandmarks/map-treePineTallLarge.png) map-treePineTallLarge.png
+![map-tree-pine.png](MapLandmarks/map-tree-pine.png) map-tree-pine.png
 
 ![map-vulcano.png](MapLandmarks/map-vulcano.png) map-vulcano.png
 
 ![map-watchtower.png](MapLandmarks/map-watchtower.png) map-watchtower.png
 
-![map-waterWheel.png](MapLandmarks/map-waterWheel.png) map-waterWheel.png
+![map-water-wheel.png](MapLandmarks/map-water-wheel.png) map-water-wheel.png
+
+![rock-down.png](Obstacles/rock-down.png) rock-down.png
+
+![rock-grass-down.png](Obstacles/rock-grass-down.png) rock-grass-down.png
+
+![rock-grass.png](Obstacles/rock-grass.png) rock-grass.png
+
+![rock-ice-down.png](Obstacles/rock-ice-down.png) rock-ice-down.png
+
+![rock-ice.png](Obstacles/rock-ice.png) rock-ice.png
+
+![rock-snow-down.png](Obstacles/rock-snow-down.png) rock-snow-down.png
+
+![rock-snow.png](Obstacles/rock-snow.png) rock-snow.png
 
 ![rock.png](Obstacles/rock.png) rock.png
-
-![rockDown.png](Obstacles/rockDown.png) rockDown.png
-
-![rockGrass.png](Obstacles/rockGrass.png) rockGrass.png
-
-![rockGrassDown.png](Obstacles/rockGrassDown.png) rockGrassDown.png
-
-![rockIce.png](Obstacles/rockIce.png) rockIce.png
-
-![rockIceDown.png](Obstacles/rockIceDown.png) rockIceDown.png
-
-![rockSnow.png](Obstacles/rockSnow.png) rockSnow.png
-
-![rockSnowDown.png](Obstacles/rockSnowDown.png) rockSnowDown.png
 
 ![snowman.png](Obstacles/snowman.png) snowman.png
 
@@ -238,141 +238,141 @@
 
 ![spikes-top.png](Obstacles/spikes-top.png) spikes-top.png
 
-![bush0.png](Plants/Bushes/bush0.png) bush0.png
+![bush-0.png](Plants/Bushes/bush-0.png) bush-0.png
 
-![bush1.png](Plants/Bushes/bush1.png) bush1.png
+![bush-1.png](Plants/Bushes/bush-1.png) bush-1.png
 
-![bush2.png](Plants/Bushes/bush2.png) bush2.png
+![bush-2.png](Plants/Bushes/bush-2.png) bush-2.png
 
-![bush3.png](Plants/Bushes/bush3.png) bush3.png
+![bush-3.png](Plants/Bushes/bush-3.png) bush-3.png
 
-![bush4.png](Plants/Bushes/bush4.png) bush4.png
+![bush-4.png](Plants/Bushes/bush-4.png) bush-4.png
 
-![bush5.png](Plants/Bushes/bush5.png) bush5.png
+![bush-5.png](Plants/Bushes/bush-5.png) bush-5.png
 
-![bush6.png](Plants/Bushes/bush6.png) bush6.png
+![bush-6.png](Plants/Bushes/bush-6.png) bush-6.png
 
-![bush7.png](Plants/Bushes/bush7.png) bush7.png
+![bush-7.png](Plants/Bushes/bush-7.png) bush-7.png
 
-![bush8.png](Plants/Bushes/bush8.png) bush8.png
+![bush-8.png](Plants/Bushes/bush-8.png) bush-8.png
 
-![coral0.png](Plants/Coral/coral0.png) coral0.png
+![coral-0.png](Plants/Coral/coral-0.png) coral-0.png
 
-![coral1.png](Plants/Coral/coral1.png) coral1.png
+![coral-1.png](Plants/Coral/coral-1.png) coral-1.png
 
-![coral10.png](Plants/Coral/coral10.png) coral10.png
+![coral-10.png](Plants/Coral/coral-10.png) coral-10.png
 
-![coral11.png](Plants/Coral/coral11.png) coral11.png
+![coral-11.png](Plants/Coral/coral-11.png) coral-11.png
 
-![coral2.png](Plants/Coral/coral2.png) coral2.png
+![coral-2.png](Plants/Coral/coral-2.png) coral-2.png
 
-![coral3.png](Plants/Coral/coral3.png) coral3.png
+![coral-3.png](Plants/Coral/coral-3.png) coral-3.png
 
-![coral4.png](Plants/Coral/coral4.png) coral4.png
+![coral-4.png](Plants/Coral/coral-4.png) coral-4.png
 
-![coral5.png](Plants/Coral/coral5.png) coral5.png
+![coral-5.png](Plants/Coral/coral-5.png) coral-5.png
 
-![coral6.png](Plants/Coral/coral6.png) coral6.png
+![coral-6.png](Plants/Coral/coral-6.png) coral-6.png
 
-![coral7.png](Plants/Coral/coral7.png) coral7.png
+![coral-7.png](Plants/Coral/coral-7.png) coral-7.png
 
-![coral8.png](Plants/Coral/coral8.png) coral8.png
+![coral-8.png](Plants/Coral/coral-8.png) coral-8.png
 
-![coral9.png](Plants/Coral/coral9.png) coral9.png
+![coral-9.png](Plants/Coral/coral-9.png) coral-9.png
 
 ![cactus.png](Plants/Flowers/cactus.png) cactus.png
 
-![flower0.png](Plants/Flowers/flower0.png) flower0.png
+![flower-0.png](Plants/Flowers/flower-0.png) flower-0.png
 
-![flower1.png](Plants/Flowers/flower1.png) flower1.png
+![flower-1.png](Plants/Flowers/flower-1.png) flower-1.png
 
-![flower2.png](Plants/Flowers/flower2.png) flower2.png
+![flower-2.png](Plants/Flowers/flower-2.png) flower-2.png
 
-![flower3.png](Plants/Flowers/flower3.png) flower3.png
+![flower-3.png](Plants/Flowers/flower-3.png) flower-3.png
 
 ![mushroom-brown.png](Plants/Flowers/mushroom-brown.png) mushroom-brown.png
 
 ![mushroom-red.png](Plants/Flowers/mushroom-red.png) mushroom-red.png
 
-![grass0.png](Plants/Grass/grass0.png) grass0.png
+![grass-0.png](Plants/Grass/grass-0.png) grass-0.png
 
-![grass3.png](Plants/Grass/grass3.png) grass3.png
+![grass-3.png](Plants/Grass/grass-3.png) grass-3.png
 
-![grass4.png](Plants/Grass/grass4.png) grass4.png
+![grass-4.png](Plants/Grass/grass-4.png) grass-4.png
 
-![grass5.png](Plants/Grass/grass5.png) grass5.png
+![grass-5.png](Plants/Grass/grass-5.png) grass-5.png
 
-![grass6.png](Plants/Grass/grass6.png) grass6.png
+![grass-6.png](Plants/Grass/grass-6.png) grass-6.png
 
-![grass7.png](Plants/Grass/grass7.png) grass7.png
+![grass-7.png](Plants/Grass/grass-7.png) grass-7.png
 
-![tree0-alt.png](Plants/Trees/tree0-alt.png) tree0-alt.png
+![tree-0-alt.png](Plants/Trees/tree-0-alt.png) tree-0-alt.png
 
-![tree0.png](Plants/Trees/tree0.png) tree0.png
+![tree-0.png](Plants/Trees/tree-0.png) tree-0.png
 
-![tree1-alt.png](Plants/Trees/tree1-alt.png) tree1-alt.png
+![tree-1-alt.png](Plants/Trees/tree-1-alt.png) tree-1-alt.png
 
-![tree1.png](Plants/Trees/tree1.png) tree1.png
+![tree-1.png](Plants/Trees/tree-1.png) tree-1.png
 
-![tree2-alt.png](Plants/Trees/tree2-alt.png) tree2-alt.png
+![tree-2-alt.png](Plants/Trees/tree-2-alt.png) tree-2-alt.png
 
-![tree2.png](Plants/Trees/tree2.png) tree2.png
+![tree-2.png](Plants/Trees/tree-2.png) tree-2.png
 
-![tree3-alt.png](Plants/Trees/tree3-alt.png) tree3-alt.png
+![tree-3-alt.png](Plants/Trees/tree-3-alt.png) tree-3-alt.png
 
-![tree3.png](Plants/Trees/tree3.png) tree3.png
+![tree-3.png](Plants/Trees/tree-3.png) tree-3.png
 
-![tree4-alt.png](Plants/Trees/tree4-alt.png) tree4-alt.png
+![tree-4-alt.png](Plants/Trees/tree-4-alt.png) tree-4-alt.png
 
-![tree4.png](Plants/Trees/tree4.png) tree4.png
+![tree-4.png](Plants/Trees/tree-4.png) tree-4.png
 
-![tree5-alt.png](Plants/Trees/tree5-alt.png) tree5-alt.png
+![tree-5-alt.png](Plants/Trees/tree-5-alt.png) tree-5-alt.png
 
-![tree5.png](Plants/Trees/tree5.png) tree5.png
+![tree-5.png](Plants/Trees/tree-5.png) tree-5.png
 
-![tree6-alt.png](Plants/Trees/tree6-alt.png) tree6-alt.png
+![tree-6-alt.png](Plants/Trees/tree-6-alt.png) tree-6-alt.png
 
-![tree6.png](Plants/Trees/tree6.png) tree6.png
+![tree-6.png](Plants/Trees/tree-6.png) tree-6.png
 
-![tree7-alt.png](Plants/Trees/tree7-alt.png) tree7-alt.png
+![tree-7-alt.png](Plants/Trees/tree-7-alt.png) tree-7-alt.png
 
-![tree7.png](Plants/Trees/tree7.png) tree7.png
+![tree-7.png](Plants/Trees/tree-7.png) tree-7.png
 
-![tree8-alt.png](Plants/Trees/tree8-alt.png) tree8-alt.png
+![tree-8-alt.png](Plants/Trees/tree-8-alt.png) tree-8-alt.png
 
-![tree8.png](Plants/Trees/tree8.png) tree8.png
+![tree-8.png](Plants/Trees/tree-8.png) tree-8.png
 
-![trunk0.png](Plants/Trees/trunk0.png) trunk0.png
+![trunk-0.png](Plants/Trees/trunk-0.png) trunk-0.png
 
-![trunk1.png](Plants/Trees/trunk1.png) trunk1.png
+![trunk-1.png](Plants/Trees/trunk-1.png) trunk-1.png
 
-![trunk2.png](Plants/Trees/trunk2.png) trunk2.png
+![trunk-2.png](Plants/Trees/trunk-2.png) trunk-2.png
 
-![trunk3.png](Plants/Trees/trunk3.png) trunk3.png
+![trunk-3.png](Plants/Trees/trunk-3.png) trunk-3.png
 
-![trunk4.png](Plants/Trees/trunk4.png) trunk4.png
+![trunk-4.png](Plants/Trees/trunk-4.png) trunk-4.png
 
-![trunk5.png](Plants/Trees/trunk5.png) trunk5.png
+![trunk-5.png](Plants/Trees/trunk-5.png) trunk-5.png
 
-![trunk6.png](Plants/Trees/trunk6.png) trunk6.png
+![trunk-6.png](Plants/Trees/trunk-6.png) trunk-6.png
 
-![trunk7.png](Plants/Trees/trunk7.png) trunk7.png
+![trunk-7.png](Plants/Trees/trunk-7.png) trunk-7.png
 
-![dirtHalf-left.png](Platforms/dirtHalf-left.png) dirtHalf-left.png
+![dirt-half-left.png](Platforms/dirt-half-left.png) dirt-half-left.png
 
-![dirtHalf-mid.png](Platforms/dirtHalf-mid.png) dirtHalf-mid.png
+![dirt-half-mid.png](Platforms/dirt-half-mid.png) dirt-half-mid.png
 
-![dirtHalf-right.png](Platforms/dirtHalf-right.png) dirtHalf-right.png
+![dirt-half-right.png](Platforms/dirt-half-right.png) dirt-half-right.png
 
-![dirtHalf.png](Platforms/dirtHalf.png) dirtHalf.png
+![dirt-half.png](Platforms/dirt-half.png) dirt-half.png
 
-![grassHalf-left.png](Platforms/grassHalf-left.png) grassHalf-left.png
+![grass-half-left.png](Platforms/grass-half-left.png) grass-half-left.png
 
-![grassHalf-mid.png](Platforms/grassHalf-mid.png) grassHalf-mid.png
+![grass-half-mid.png](Platforms/grass-half-mid.png) grass-half-mid.png
 
-![grassHalf-right.png](Platforms/grassHalf-right.png) grassHalf-right.png
+![grass-half-right.png](Platforms/grass-half-right.png) grass-half-right.png
 
-![grassHalf.png](Platforms/grassHalf.png) grassHalf.png
+![grass-half.png](Platforms/grass-half.png) grass-half.png
 
 ![ground-cake-broken.png](Platforms/ground-cake-broken.png) ground-cake-broken.png
 
@@ -422,13 +422,13 @@
 
 ![ground-wood.png](Platforms/ground-wood.png) ground-wood.png
 
-![planetHalf-left.png](Platforms/planetHalf-left.png) planetHalf-left.png
+![planet-half-left.png](Platforms/planet-half-left.png) planet-half-left.png
 
-![planetHalf-mid.png](Platforms/planetHalf-mid.png) planetHalf-mid.png
+![planet-half-mid.png](Platforms/planet-half-mid.png) planet-half-mid.png
 
-![planetHalf-right.png](Platforms/planetHalf-right.png) planetHalf-right.png
+![planet-half-right.png](Platforms/planet-half-right.png) planet-half-right.png
 
-![planetHalf.png](Platforms/planetHalf.png) planetHalf.png
+![planet-half.png](Platforms/planet-half.png) planet-half.png
 
 ![tile-exclamation.png](Platforms/tile-exclamation.png) tile-exclamation.png
 
@@ -438,53 +438,53 @@
 
 ![tile.png](Platforms/tile.png) tile.png
 
-![boulder0.png](Rocks/boulder0.png) boulder0.png
+![boulder-0.png](Rocks/boulder-0.png) boulder-0.png
 
-![boulder1.png](Rocks/boulder1.png) boulder1.png
+![boulder-1.png](Rocks/boulder-1.png) boulder-1.png
 
-![boulder2.png](Rocks/boulder2.png) boulder2.png
+![boulder-2.png](Rocks/boulder-2.png) boulder-2.png
 
-![boulder3.png](Rocks/boulder3.png) boulder3.png
+![boulder-3.png](Rocks/boulder-3.png) boulder-3.png
 
-![mountain0.png](Rocks/mountain0.png) mountain0.png
+![mountain-0.png](Rocks/mountain-0.png) mountain-0.png
 
-![mountain1.png](Rocks/mountain1.png) mountain1.png
+![mountain-1.png](Rocks/mountain-1.png) mountain-1.png
 
-![mountain2.png](Rocks/mountain2.png) mountain2.png
+![mountain-2.png](Rocks/mountain-2.png) mountain-2.png
 
-![mountain3.png](Rocks/mountain3.png) mountain3.png
+![mountain-3.png](Rocks/mountain-3.png) mountain-3.png
 
-![mountain4.png](Rocks/mountain4.png) mountain4.png
+![mountain-4.png](Rocks/mountain-4.png) mountain-4.png
 
-![mountain5.png](Rocks/mountain5.png) mountain5.png
+![mountain-5.png](Rocks/mountain-5.png) mountain-5.png
 
-![mountain6.png](Rocks/mountain6.png) mountain6.png
+![mountain-6.png](Rocks/mountain-6.png) mountain-6.png
 
-![mountain7.png](Rocks/mountain7.png) mountain7.png
+![mountain-7.png](Rocks/mountain-7.png) mountain-7.png
 
-![mountain8.png](Rocks/mountain8.png) mountain8.png
+![mountain-8.png](Rocks/mountain-8.png) mountain-8.png
 
-![rock-top0.png](Rocks/rock-top0.png) rock-top0.png
+![rock-0.png](Rocks/rock-0.png) rock-0.png
 
-![rock-top1.png](Rocks/rock-top1.png) rock-top1.png
+![rock-1.png](Rocks/rock-1.png) rock-1.png
 
-![rock-top2.png](Rocks/rock-top2.png) rock-top2.png
+![rock-top-0.png](Rocks/rock-top-0.png) rock-top-0.png
 
-![rock-top3.png](Rocks/rock-top3.png) rock-top3.png
+![rock-top-1.png](Rocks/rock-top-1.png) rock-top-1.png
 
-![rock-top4.png](Rocks/rock-top4.png) rock-top4.png
+![rock-top-2.png](Rocks/rock-top-2.png) rock-top-2.png
 
-![rock-top5.png](Rocks/rock-top5.png) rock-top5.png
+![rock-top-3.png](Rocks/rock-top-3.png) rock-top-3.png
 
-![rock0.png](Rocks/rock0.png) rock0.png
+![rock-top-4.png](Rocks/rock-top-4.png) rock-top-4.png
 
-![rock1.png](Rocks/rock1.png) rock1.png
+![rock-top-5.png](Rocks/rock-top-5.png) rock-top-5.png
 
-![snow-rock0.png](Rocks/snow-rock0.png) snow-rock0.png
+![snow-rock-0.png](Rocks/snow-rock-0.png) snow-rock-0.png
 
-![snow-rock1.png](Rocks/snow-rock1.png) snow-rock1.png
+![snow-rock-1.png](Rocks/snow-rock-1.png) snow-rock-1.png
 
-![snow-rock2.png](Rocks/snow-rock2.png) snow-rock2.png
+![snow-rock-2.png](Rocks/snow-rock-2.png) snow-rock-2.png
 
-![snow-rock3.png](Rocks/snow-rock3.png) snow-rock3.png
+![snow-rock-3.png](Rocks/snow-rock-3.png) snow-rock-3.png
 

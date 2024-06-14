@@ -1,26 +1,26 @@
 # Image Previews
 
-![piece0.png](piece0.png) piece0.png
+![piece-0.png](piece-0.png) piece-0.png
 
-![piece1.png](piece1.png) piece1.png
+![piece-1.png](piece-1.png) piece-1.png
 
-![piece10.png](piece10.png) piece10.png
+![piece-10.png](piece-10.png) piece-10.png
 
-![piece11.png](piece11.png) piece11.png
+![piece-11.png](piece-11.png) piece-11.png
 
-![piece2.png](piece2.png) piece2.png
+![piece-2.png](piece-2.png) piece-2.png
 
-![piece3.png](piece3.png) piece3.png
+![piece-3.png](piece-3.png) piece-3.png
 
-![piece4.png](piece4.png) piece4.png
+![piece-4.png](piece-4.png) piece-4.png
 
-![piece5.png](piece5.png) piece5.png
+![piece-5.png](piece-5.png) piece-5.png
 
-![piece6.png](piece6.png) piece6.png
+![piece-6.png](piece-6.png) piece-6.png
 
-![piece7.png](piece7.png) piece7.png
+![piece-7.png](piece-7.png) piece-7.png
 
-![piece8.png](piece8.png) piece8.png
+![piece-8.png](piece-8.png) piece-8.png
 
-![piece9.png](piece9.png) piece9.png
+![piece-9.png](piece-9.png) piece-9.png
 

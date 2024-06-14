@@ -1,110 +1,110 @@
 # Image Previews
 
-![cardBack.png](cardBack.png) cardBack.png
+![card-back.png](card-back.png) card-back.png
 
-![cardClubs10.png](cardClubs10.png) cardClubs10.png
+![card-clubs-10.png](card-clubs-10.png) card-clubs-10.png
 
-![cardClubs2.png](cardClubs2.png) cardClubs2.png
+![card-clubs-2.png](card-clubs-2.png) card-clubs-2.png
 
-![cardClubs3.png](cardClubs3.png) cardClubs3.png
+![card-clubs-3.png](card-clubs-3.png) card-clubs-3.png
 
-![cardClubs4.png](cardClubs4.png) cardClubs4.png
+![card-clubs-4.png](card-clubs-4.png) card-clubs-4.png
 
-![cardClubs5.png](cardClubs5.png) cardClubs5.png
+![card-clubs-5.png](card-clubs-5.png) card-clubs-5.png
 
-![cardClubs6.png](cardClubs6.png) cardClubs6.png
+![card-clubs-6.png](card-clubs-6.png) card-clubs-6.png
 
-![cardClubs7.png](cardClubs7.png) cardClubs7.png
+![card-clubs-7.png](card-clubs-7.png) card-clubs-7.png
 
-![cardClubs8.png](cardClubs8.png) cardClubs8.png
+![card-clubs-8.png](card-clubs-8.png) card-clubs-8.png
 
-![cardClubs9.png](cardClubs9.png) cardClubs9.png
+![card-clubs-9.png](card-clubs-9.png) card-clubs-9.png
 
-![cardClubsA.png](cardClubsA.png) cardClubsA.png
+![card-clubs-a.png](card-clubs-a.png) card-clubs-a.png
 
-![cardClubsJ.png](cardClubsJ.png) cardClubsJ.png
+![card-clubs-j.png](card-clubs-j.png) card-clubs-j.png
 
-![cardClubsK.png](cardClubsK.png) cardClubsK.png
+![card-clubs-k.png](card-clubs-k.png) card-clubs-k.png
 
-![cardClubsQ.png](cardClubsQ.png) cardClubsQ.png
+![card-clubs-q.png](card-clubs-q.png) card-clubs-q.png
 
-![cardDiamonds10.png](cardDiamonds10.png) cardDiamonds10.png
+![card-diamonds-10.png](card-diamonds-10.png) card-diamonds-10.png
 
-![cardDiamonds2.png](cardDiamonds2.png) cardDiamonds2.png
+![card-diamonds-2.png](card-diamonds-2.png) card-diamonds-2.png
 
-![cardDiamonds3.png](cardDiamonds3.png) cardDiamonds3.png
+![card-diamonds-3.png](card-diamonds-3.png) card-diamonds-3.png
 
-![cardDiamonds4.png](cardDiamonds4.png) cardDiamonds4.png
+![card-diamonds-4.png](card-diamonds-4.png) card-diamonds-4.png
 
-![cardDiamonds5.png](cardDiamonds5.png) cardDiamonds5.png
+![card-diamonds-5.png](card-diamonds-5.png) card-diamonds-5.png
 
-![cardDiamonds6.png](cardDiamonds6.png) cardDiamonds6.png
+![card-diamonds-6.png](card-diamonds-6.png) card-diamonds-6.png
 
-![cardDiamonds7.png](cardDiamonds7.png) cardDiamonds7.png
+![card-diamonds-7.png](card-diamonds-7.png) card-diamonds-7.png
 
-![cardDiamonds8.png](cardDiamonds8.png) cardDiamonds8.png
+![card-diamonds-8.png](card-diamonds-8.png) card-diamonds-8.png
 
-![cardDiamonds9.png](cardDiamonds9.png) cardDiamonds9.png
+![card-diamonds-9.png](card-diamonds-9.png) card-diamonds-9.png
 
-![cardDiamondsA.png](cardDiamondsA.png) cardDiamondsA.png
+![card-diamonds-a.png](card-diamonds-a.png) card-diamonds-a.png
 
-![cardDiamondsJ.png](cardDiamondsJ.png) cardDiamondsJ.png
+![card-diamonds-j.png](card-diamonds-j.png) card-diamonds-j.png
 
-![cardDiamondsK.png](cardDiamondsK.png) cardDiamondsK.png
+![card-diamonds-k.png](card-diamonds-k.png) card-diamonds-k.png
 
-![cardDiamondsQ.png](cardDiamondsQ.png) cardDiamondsQ.png
+![card-diamonds-q.png](card-diamonds-q.png) card-diamonds-q.png
 
-![cardHearts10.png](cardHearts10.png) cardHearts10.png
+![card-hearts-10.png](card-hearts-10.png) card-hearts-10.png
 
-![cardHearts2.png](cardHearts2.png) cardHearts2.png
+![card-hearts-2.png](card-hearts-2.png) card-hearts-2.png
 
-![cardHearts3.png](cardHearts3.png) cardHearts3.png
+![card-hearts-3.png](card-hearts-3.png) card-hearts-3.png
 
-![cardHearts4.png](cardHearts4.png) cardHearts4.png
+![card-hearts-4.png](card-hearts-4.png) card-hearts-4.png
 
-![cardHearts5.png](cardHearts5.png) cardHearts5.png
+![card-hearts-5.png](card-hearts-5.png) card-hearts-5.png
 
-![cardHearts6.png](cardHearts6.png) cardHearts6.png
+![card-hearts-6.png](card-hearts-6.png) card-hearts-6.png
 
-![cardHearts7.png](cardHearts7.png) cardHearts7.png
+![card-hearts-7.png](card-hearts-7.png) card-hearts-7.png
 
-![cardHearts8.png](cardHearts8.png) cardHearts8.png
+![card-hearts-8.png](card-hearts-8.png) card-hearts-8.png
 
-![cardHearts9.png](cardHearts9.png) cardHearts9.png
+![card-hearts-9.png](card-hearts-9.png) card-hearts-9.png
 
-![cardHeartsA.png](cardHeartsA.png) cardHeartsA.png
+![card-hearts-a.png](card-hearts-a.png) card-hearts-a.png
 
-![cardHeartsJ.png](cardHeartsJ.png) cardHeartsJ.png
+![card-hearts-j.png](card-hearts-j.png) card-hearts-j.png
 
-![cardHeartsK.png](cardHeartsK.png) cardHeartsK.png
+![card-hearts-k.png](card-hearts-k.png) card-hearts-k.png
 
-![cardHeartsQ.png](cardHeartsQ.png) cardHeartsQ.png
+![card-hearts-q.png](card-hearts-q.png) card-hearts-q.png
 
-![cardJoker.png](cardJoker.png) cardJoker.png
+![card-joker.png](card-joker.png) card-joker.png
 
-![cardSpades10.png](cardSpades10.png) cardSpades10.png
+![card-spades-10.png](card-spades-10.png) card-spades-10.png
 
-![cardSpades2.png](cardSpades2.png) cardSpades2.png
+![card-spades-2.png](card-spades-2.png) card-spades-2.png
 
-![cardSpades3.png](cardSpades3.png) cardSpades3.png
+![card-spades-3.png](card-spades-3.png) card-spades-3.png
 
-![cardSpades4.png](cardSpades4.png) cardSpades4.png
+![card-spades-4.png](card-spades-4.png) card-spades-4.png
 
-![cardSpades5.png](cardSpades5.png) cardSpades5.png
+![card-spades-5.png](card-spades-5.png) card-spades-5.png
 
-![cardSpades6.png](cardSpades6.png) cardSpades6.png
+![card-spades-6.png](card-spades-6.png) card-spades-6.png
 
-![cardSpades7.png](cardSpades7.png) cardSpades7.png
+![card-spades-7.png](card-spades-7.png) card-spades-7.png
 
-![cardSpades8.png](cardSpades8.png) cardSpades8.png
+![card-spades-8.png](card-spades-8.png) card-spades-8.png
 
-![cardSpades9.png](cardSpades9.png) cardSpades9.png
+![card-spades-9.png](card-spades-9.png) card-spades-9.png
 
-![cardSpadesA.png](cardSpadesA.png) cardSpadesA.png
+![card-spades-a.png](card-spades-a.png) card-spades-a.png
 
-![cardSpadesJ.png](cardSpadesJ.png) cardSpadesJ.png
+![card-spades-j.png](card-spades-j.png) card-spades-j.png
 
-![cardSpadesK.png](cardSpadesK.png) cardSpadesK.png
+![card-spades-k.png](card-spades-k.png) card-spades-k.png
 
-![cardSpadesQ.png](cardSpadesQ.png) cardSpadesQ.png
+![card-spades-q.png](card-spades-q.png) card-spades-q.png
 

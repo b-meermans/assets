@@ -1,20 +1,20 @@
 # Image Previews
 
-![castleSmall.png](castleSmall.png) castleSmall.png
+![castle-small.png](castle-small.png) castle-small.png
 
-![house1.png](house1.png) house1.png
+![house-1.png](house-1.png) house-1.png
 
-![house2.png](house2.png) house2.png
+![house-2.png](house-2.png) house-2.png
 
-![houseSmall1.png](houseSmall1.png) houseSmall1.png
+![house-small-1.png](house-small-1.png) house-small-1.png
 
-![houseSmall2.png](houseSmall2.png) houseSmall2.png
+![house-small-2.png](house-small-2.png) house-small-2.png
 
 ![igloo.png](igloo.png) igloo.png
 
 ![pyramid.png](pyramid.png) pyramid.png
 
-![tower.png](tower.png) tower.png
+![tower-small.png](tower-small.png) tower-small.png
 
-![towerSmall.png](towerSmall.png) towerSmall.png
+![tower.png](tower.png) tower.png
 

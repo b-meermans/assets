@@ -26,7 +26,7 @@
 
 ![torch-off.png](torch-off.png) torch-off.png
 
-![torch-on1.png](torch-on1.png) torch-on1.png
+![torch-on-1.png](torch-on-1.png) torch-on-1.png
 
-![torch-on2.png](torch-on2.png) torch-on2.png
+![torch-on-2.png](torch-on-2.png) torch-on-2.png
 

@@ -1,182 +1,182 @@
 # Image Previews
 
-![alienA-climb1.png](alienA-climb1.png) alienA-climb1.png
+![alien-a-climb-1.png](alien-a-climb-1.png) alien-a-climb-1.png
 
-![alienA-climb2.png](alienA-climb2.png) alienA-climb2.png
+![alien-a-climb-2.png](alien-a-climb-2.png) alien-a-climb-2.png
 
-![alienA-duck.png](alienA-duck.png) alienA-duck.png
+![alien-a-duck.png](alien-a-duck.png) alien-a-duck.png
 
-![alienA-front.png](alienA-front.png) alienA-front.png
+![alien-a-front.png](alien-a-front.png) alien-a-front.png
 
-![alienA-hit.png](alienA-hit.png) alienA-hit.png
+![alien-a-hit.png](alien-a-hit.png) alien-a-hit.png
 
-![alienA-jump.png](alienA-jump.png) alienA-jump.png
+![alien-a-jump.png](alien-a-jump.png) alien-a-jump.png
 
-![alienA-round.png](alienA-round.png) alienA-round.png
+![alien-a-round.png](alien-a-round.png) alien-a-round.png
 
-![alienA-ski-fall.png](alienA-ski-fall.png) alienA-ski-fall.png
+![alien-a-ski-fall.png](alien-a-ski-fall.png) alien-a-ski-fall.png
 
-![alienA-ski-jump.png](alienA-ski-jump.png) alienA-ski-jump.png
+![alien-a-ski-jump.png](alien-a-ski-jump.png) alien-a-ski-jump.png
 
-![alienA-ski-left.png](alienA-ski-left.png) alienA-ski-left.png
+![alien-a-ski-left.png](alien-a-ski-left.png) alien-a-ski-left.png
 
-![alienA-ski-right.png](alienA-ski-right.png) alienA-ski-right.png
+![alien-a-ski-right.png](alien-a-ski-right.png) alien-a-ski-right.png
 
-![alienA-ski-straight.png](alienA-ski-straight.png) alienA-ski-straight.png
+![alien-a-ski-straight.png](alien-a-ski-straight.png) alien-a-ski-straight.png
 
-![alienA-square.png](alienA-square.png) alienA-square.png
+![alien-a-square.png](alien-a-square.png) alien-a-square.png
 
-![alienA-stand.png](alienA-stand.png) alienA-stand.png
+![alien-a-stand.png](alien-a-stand.png) alien-a-stand.png
 
-![alienA-swim1.png](alienA-swim1.png) alienA-swim1.png
+![alien-a-swim-1.png](alien-a-swim-1.png) alien-a-swim-1.png
 
-![alienA-swim2.png](alienA-swim2.png) alienA-swim2.png
+![alien-a-swim-2.png](alien-a-swim-2.png) alien-a-swim-2.png
 
-![alienA-walk1.png](alienA-walk1.png) alienA-walk1.png
+![alien-a-walk-1.png](alien-a-walk-1.png) alien-a-walk-1.png
 
-![alienA-walk2.png](alienA-walk2.png) alienA-walk2.png
+![alien-a-walk-2.png](alien-a-walk-2.png) alien-a-walk-2.png
 
-![alienB-climb1.png](alienB-climb1.png) alienB-climb1.png
+![alien-b-climb-1.png](alien-b-climb-1.png) alien-b-climb-1.png
 
-![alienB-climb2.png](alienB-climb2.png) alienB-climb2.png
+![alien-b-climb-2.png](alien-b-climb-2.png) alien-b-climb-2.png
 
-![alienB-duck.png](alienB-duck.png) alienB-duck.png
+![alien-b-duck.png](alien-b-duck.png) alien-b-duck.png
 
-![alienB-front.png](alienB-front.png) alienB-front.png
+![alien-b-front.png](alien-b-front.png) alien-b-front.png
 
-![alienB-hit.png](alienB-hit.png) alienB-hit.png
+![alien-b-hit.png](alien-b-hit.png) alien-b-hit.png
 
-![alienB-jump.png](alienB-jump.png) alienB-jump.png
+![alien-b-jump.png](alien-b-jump.png) alien-b-jump.png
 
-![alienB-round.png](alienB-round.png) alienB-round.png
+![alien-b-round.png](alien-b-round.png) alien-b-round.png
 
-![alienB-ski-fall.png](alienB-ski-fall.png) alienB-ski-fall.png
+![alien-b-ski-fall.png](alien-b-ski-fall.png) alien-b-ski-fall.png
 
-![alienB-ski-jump.png](alienB-ski-jump.png) alienB-ski-jump.png
+![alien-b-ski-jump.png](alien-b-ski-jump.png) alien-b-ski-jump.png
 
-![alienB-ski-left.png](alienB-ski-left.png) alienB-ski-left.png
+![alien-b-ski-left.png](alien-b-ski-left.png) alien-b-ski-left.png
 
-![alienB-ski-right.png](alienB-ski-right.png) alienB-ski-right.png
+![alien-b-ski-right.png](alien-b-ski-right.png) alien-b-ski-right.png
 
-![alienB-ski-straight.png](alienB-ski-straight.png) alienB-ski-straight.png
+![alien-b-ski-straight.png](alien-b-ski-straight.png) alien-b-ski-straight.png
 
-![alienB-square.png](alienB-square.png) alienB-square.png
+![alien-b-square.png](alien-b-square.png) alien-b-square.png
 
-![alienB-stand.png](alienB-stand.png) alienB-stand.png
+![alien-b-stand.png](alien-b-stand.png) alien-b-stand.png
 
-![alienB-swim1.png](alienB-swim1.png) alienB-swim1.png
+![alien-b-swim-1.png](alien-b-swim-1.png) alien-b-swim-1.png
 
-![alienB-swim2.png](alienB-swim2.png) alienB-swim2.png
+![alien-b-swim-2.png](alien-b-swim-2.png) alien-b-swim-2.png
 
-![alienB-walk1.png](alienB-walk1.png) alienB-walk1.png
+![alien-b-walk-1.png](alien-b-walk-1.png) alien-b-walk-1.png
 
-![alienB-walk2.png](alienB-walk2.png) alienB-walk2.png
+![alien-b-walk-2.png](alien-b-walk-2.png) alien-b-walk-2.png
 
-![alienC-climb1.png](alienC-climb1.png) alienC-climb1.png
+![alien-c-climb-1.png](alien-c-climb-1.png) alien-c-climb-1.png
 
-![alienC-climb2.png](alienC-climb2.png) alienC-climb2.png
+![alien-c-climb-2.png](alien-c-climb-2.png) alien-c-climb-2.png
 
-![alienC-duck.png](alienC-duck.png) alienC-duck.png
+![alien-c-duck.png](alien-c-duck.png) alien-c-duck.png
 
-![alienC-front.png](alienC-front.png) alienC-front.png
+![alien-c-front.png](alien-c-front.png) alien-c-front.png
 
-![alienC-hit.png](alienC-hit.png) alienC-hit.png
+![alien-c-hit.png](alien-c-hit.png) alien-c-hit.png
 
-![alienC-jump.png](alienC-jump.png) alienC-jump.png
+![alien-c-jump.png](alien-c-jump.png) alien-c-jump.png
 
-![alienC-round.png](alienC-round.png) alienC-round.png
+![alien-c-round.png](alien-c-round.png) alien-c-round.png
 
-![alienC-ski-fall.png](alienC-ski-fall.png) alienC-ski-fall.png
+![alien-c-ski-fall.png](alien-c-ski-fall.png) alien-c-ski-fall.png
 
-![alienC-ski-jump.png](alienC-ski-jump.png) alienC-ski-jump.png
+![alien-c-ski-jump.png](alien-c-ski-jump.png) alien-c-ski-jump.png
 
-![alienC-ski-left.png](alienC-ski-left.png) alienC-ski-left.png
+![alien-c-ski-left.png](alien-c-ski-left.png) alien-c-ski-left.png
 
-![alienC-ski-right.png](alienC-ski-right.png) alienC-ski-right.png
+![alien-c-ski-right.png](alien-c-ski-right.png) alien-c-ski-right.png
 
-![alienC-ski-straight.png](alienC-ski-straight.png) alienC-ski-straight.png
+![alien-c-ski-straight.png](alien-c-ski-straight.png) alien-c-ski-straight.png
 
-![alienC-square.png](alienC-square.png) alienC-square.png
+![alien-c-square.png](alien-c-square.png) alien-c-square.png
 
-![alienC-stand.png](alienC-stand.png) alienC-stand.png
+![alien-c-stand.png](alien-c-stand.png) alien-c-stand.png
 
-![alienC-swim1.png](alienC-swim1.png) alienC-swim1.png
+![alien-c-swim-1.png](alien-c-swim-1.png) alien-c-swim-1.png
 
-![alienC-swim2.png](alienC-swim2.png) alienC-swim2.png
+![alien-c-swim-2.png](alien-c-swim-2.png) alien-c-swim-2.png
 
-![alienC-walk1.png](alienC-walk1.png) alienC-walk1.png
+![alien-c-walk-1.png](alien-c-walk-1.png) alien-c-walk-1.png
 
-![alienC-walk2.png](alienC-walk2.png) alienC-walk2.png
+![alien-c-walk-2.png](alien-c-walk-2.png) alien-c-walk-2.png
 
-![alienD-climb1.png](alienD-climb1.png) alienD-climb1.png
+![alien-d-climb-1.png](alien-d-climb-1.png) alien-d-climb-1.png
 
-![alienD-climb2.png](alienD-climb2.png) alienD-climb2.png
+![alien-d-climb-2.png](alien-d-climb-2.png) alien-d-climb-2.png
 
-![alienD-duck.png](alienD-duck.png) alienD-duck.png
+![alien-d-duck.png](alien-d-duck.png) alien-d-duck.png
 
-![alienD-front.png](alienD-front.png) alienD-front.png
+![alien-d-front.png](alien-d-front.png) alien-d-front.png
 
-![alienD-hit.png](alienD-hit.png) alienD-hit.png
+![alien-d-hit.png](alien-d-hit.png) alien-d-hit.png
 
-![alienD-jump.png](alienD-jump.png) alienD-jump.png
+![alien-d-jump.png](alien-d-jump.png) alien-d-jump.png
 
-![alienD-round.png](alienD-round.png) alienD-round.png
+![alien-d-round.png](alien-d-round.png) alien-d-round.png
 
-![alienD-ski-fall.png](alienD-ski-fall.png) alienD-ski-fall.png
+![alien-d-ski-fall.png](alien-d-ski-fall.png) alien-d-ski-fall.png
 
-![alienD-ski-jump.png](alienD-ski-jump.png) alienD-ski-jump.png
+![alien-d-ski-jump.png](alien-d-ski-jump.png) alien-d-ski-jump.png
 
-![alienD-ski-left.png](alienD-ski-left.png) alienD-ski-left.png
+![alien-d-ski-left.png](alien-d-ski-left.png) alien-d-ski-left.png
 
-![alienD-ski-right.png](alienD-ski-right.png) alienD-ski-right.png
+![alien-d-ski-right.png](alien-d-ski-right.png) alien-d-ski-right.png
 
-![alienD-ski-straight.png](alienD-ski-straight.png) alienD-ski-straight.png
+![alien-d-ski-straight.png](alien-d-ski-straight.png) alien-d-ski-straight.png
 
-![alienD-square.png](alienD-square.png) alienD-square.png
+![alien-d-square.png](alien-d-square.png) alien-d-square.png
 
-![alienD-stand.png](alienD-stand.png) alienD-stand.png
+![alien-d-stand.png](alien-d-stand.png) alien-d-stand.png
 
-![alienD-swim1.png](alienD-swim1.png) alienD-swim1.png
+![alien-d-swim-1.png](alien-d-swim-1.png) alien-d-swim-1.png
 
-![alienD-swim2.png](alienD-swim2.png) alienD-swim2.png
+![alien-d-swim-2.png](alien-d-swim-2.png) alien-d-swim-2.png
 
-![alienD-walk1.png](alienD-walk1.png) alienD-walk1.png
+![alien-d-walk-1.png](alien-d-walk-1.png) alien-d-walk-1.png
 
-![alienD-walk2.png](alienD-walk2.png) alienD-walk2.png
+![alien-d-walk-2.png](alien-d-walk-2.png) alien-d-walk-2.png
 
-![alienE-climb1.png](alienE-climb1.png) alienE-climb1.png
+![alien-e-climb-1.png](alien-e-climb-1.png) alien-e-climb-1.png
 
-![alienE-climb2.png](alienE-climb2.png) alienE-climb2.png
+![alien-e-climb-2.png](alien-e-climb-2.png) alien-e-climb-2.png
 
-![alienE-duck.png](alienE-duck.png) alienE-duck.png
+![alien-e-duck.png](alien-e-duck.png) alien-e-duck.png
 
-![alienE-front.png](alienE-front.png) alienE-front.png
+![alien-e-front.png](alien-e-front.png) alien-e-front.png
 
-![alienE-hit.png](alienE-hit.png) alienE-hit.png
+![alien-e-hit.png](alien-e-hit.png) alien-e-hit.png
 
-![alienE-jump.png](alienE-jump.png) alienE-jump.png
+![alien-e-jump.png](alien-e-jump.png) alien-e-jump.png
 
-![alienE-round.png](alienE-round.png) alienE-round.png
+![alien-e-round.png](alien-e-round.png) alien-e-round.png
 
-![alienE-ski-fall.png](alienE-ski-fall.png) alienE-ski-fall.png
+![alien-e-ski-fall.png](alien-e-ski-fall.png) alien-e-ski-fall.png
 
-![alienE-ski-jump.png](alienE-ski-jump.png) alienE-ski-jump.png
+![alien-e-ski-jump.png](alien-e-ski-jump.png) alien-e-ski-jump.png
 
-![alienE-ski-left.png](alienE-ski-left.png) alienE-ski-left.png
+![alien-e-ski-left.png](alien-e-ski-left.png) alien-e-ski-left.png
 
-![alienE-ski-right.png](alienE-ski-right.png) alienE-ski-right.png
+![alien-e-ski-right.png](alien-e-ski-right.png) alien-e-ski-right.png
 
-![alienE-ski-straight.png](alienE-ski-straight.png) alienE-ski-straight.png
+![alien-e-ski-straight.png](alien-e-ski-straight.png) alien-e-ski-straight.png
 
-![alienE-square.png](alienE-square.png) alienE-square.png
+![alien-e-square.png](alien-e-square.png) alien-e-square.png
 
-![alienE-stand.png](alienE-stand.png) alienE-stand.png
+![alien-e-stand.png](alien-e-stand.png) alien-e-stand.png
 
-![alienE-swim1.png](alienE-swim1.png) alienE-swim1.png
+![alien-e-swim-1.png](alien-e-swim-1.png) alien-e-swim-1.png
 
-![alienE-swim2.png](alienE-swim2.png) alienE-swim2.png
+![alien-e-swim-2.png](alien-e-swim-2.png) alien-e-swim-2.png
 
-![alienE-walk1.png](alienE-walk1.png) alienE-walk1.png
+![alien-e-walk-1.png](alien-e-walk-1.png) alien-e-walk-1.png
 
-![alienE-walk2.png](alienE-walk2.png) alienE-walk2.png
+![alien-e-walk-2.png](alien-e-walk-2.png) alien-e-walk-2.png
 

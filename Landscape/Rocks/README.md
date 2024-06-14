@@ -1,52 +1,52 @@
 # Image Previews
 
-![boulder0.png](boulder0.png) boulder0.png
+![boulder-0.png](boulder-0.png) boulder-0.png
 
-![boulder1.png](boulder1.png) boulder1.png
+![boulder-1.png](boulder-1.png) boulder-1.png
 
-![boulder2.png](boulder2.png) boulder2.png
+![boulder-2.png](boulder-2.png) boulder-2.png
 
-![boulder3.png](boulder3.png) boulder3.png
+![boulder-3.png](boulder-3.png) boulder-3.png
 
-![mountain0.png](mountain0.png) mountain0.png
+![mountain-0.png](mountain-0.png) mountain-0.png
 
-![mountain1.png](mountain1.png) mountain1.png
+![mountain-1.png](mountain-1.png) mountain-1.png
 
-![mountain2.png](mountain2.png) mountain2.png
+![mountain-2.png](mountain-2.png) mountain-2.png
 
-![mountain3.png](mountain3.png) mountain3.png
+![mountain-3.png](mountain-3.png) mountain-3.png
 
-![mountain4.png](mountain4.png) mountain4.png
+![mountain-4.png](mountain-4.png) mountain-4.png
 
-![mountain5.png](mountain5.png) mountain5.png
+![mountain-5.png](mountain-5.png) mountain-5.png
 
-![mountain6.png](mountain6.png) mountain6.png
+![mountain-6.png](mountain-6.png) mountain-6.png
 
-![mountain7.png](mountain7.png) mountain7.png
+![mountain-7.png](mountain-7.png) mountain-7.png
 
-![mountain8.png](mountain8.png) mountain8.png
+![mountain-8.png](mountain-8.png) mountain-8.png
 
-![rock-top0.png](rock-top0.png) rock-top0.png
+![rock-0.png](rock-0.png) rock-0.png
 
-![rock-top1.png](rock-top1.png) rock-top1.png
+![rock-1.png](rock-1.png) rock-1.png
 
-![rock-top2.png](rock-top2.png) rock-top2.png
+![rock-top-0.png](rock-top-0.png) rock-top-0.png
 
-![rock-top3.png](rock-top3.png) rock-top3.png
+![rock-top-1.png](rock-top-1.png) rock-top-1.png
 
-![rock-top4.png](rock-top4.png) rock-top4.png
+![rock-top-2.png](rock-top-2.png) rock-top-2.png
 
-![rock-top5.png](rock-top5.png) rock-top5.png
+![rock-top-3.png](rock-top-3.png) rock-top-3.png
 
-![rock0.png](rock0.png) rock0.png
+![rock-top-4.png](rock-top-4.png) rock-top-4.png
 
-![rock1.png](rock1.png) rock1.png
+![rock-top-5.png](rock-top-5.png) rock-top-5.png
 
-![snow-rock0.png](snow-rock0.png) snow-rock0.png
+![snow-rock-0.png](snow-rock-0.png) snow-rock-0.png
 
-![snow-rock1.png](snow-rock1.png) snow-rock1.png
+![snow-rock-1.png](snow-rock-1.png) snow-rock-1.png
 
-![snow-rock2.png](snow-rock2.png) snow-rock2.png
+![snow-rock-2.png](snow-rock-2.png) snow-rock-2.png
 
-![snow-rock3.png](snow-rock3.png) snow-rock3.png
+![snow-rock-3.png](snow-rock-3.png) snow-rock-3.png
 

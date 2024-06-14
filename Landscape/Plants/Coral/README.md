@@ -1,26 +1,26 @@
 # Image Previews
 
-![coral0.png](coral0.png) coral0.png
+![coral-0.png](coral-0.png) coral-0.png
 
-![coral1.png](coral1.png) coral1.png
+![coral-1.png](coral-1.png) coral-1.png
 
-![coral10.png](coral10.png) coral10.png
+![coral-10.png](coral-10.png) coral-10.png
 
-![coral11.png](coral11.png) coral11.png
+![coral-11.png](coral-11.png) coral-11.png
 
-![coral2.png](coral2.png) coral2.png
+![coral-2.png](coral-2.png) coral-2.png
 
-![coral3.png](coral3.png) coral3.png
+![coral-3.png](coral-3.png) coral-3.png
 
-![coral4.png](coral4.png) coral4.png
+![coral-4.png](coral-4.png) coral-4.png
 
-![coral5.png](coral5.png) coral5.png
+![coral-5.png](coral-5.png) coral-5.png
 
-![coral6.png](coral6.png) coral6.png
+![coral-6.png](coral-6.png) coral-6.png
 
-![coral7.png](coral7.png) coral7.png
+![coral-7.png](coral-7.png) coral-7.png
 
-![coral8.png](coral8.png) coral8.png
+![coral-8.png](coral-8.png) coral-8.png
 
-![coral9.png](coral9.png) coral9.png
+![coral-9.png](coral-9.png) coral-9.png
 

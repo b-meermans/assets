@@ -1,18 +1,18 @@
 # Image Previews
 
-![cloud1.png](cloud1.png) cloud1.png
+![cloud-1.png](cloud-1.png) cloud-1.png
 
-![cloud2.png](cloud2.png) cloud2.png
+![cloud-2.png](cloud-2.png) cloud-2.png
 
-![cloud3.png](cloud3.png) cloud3.png
+![cloud-3.png](cloud-3.png) cloud-3.png
 
-![cloud4.png](cloud4.png) cloud4.png
+![cloud-4.png](cloud-4.png) cloud-4.png
 
-![cloud5.png](cloud5.png) cloud5.png
+![cloud-5.png](cloud-5.png) cloud-5.png
 
-![cloud6.png](cloud6.png) cloud6.png
+![cloud-6.png](cloud-6.png) cloud-6.png
 
-![cloud7.png](cloud7.png) cloud7.png
+![cloud-7.png](cloud-7.png) cloud-7.png
 
-![cloud8.png](cloud8.png) cloud8.png
+![cloud-8.png](cloud-8.png) cloud-8.png
 

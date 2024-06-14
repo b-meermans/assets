@@ -1,10 +1,10 @@
 # Image Previews
 
-![car0.png](car0.png) car0.png
+![car-0.png](car-0.png) car-0.png
 
-![car1.png](car1.png) car1.png
+![car-1.png](car-1.png) car-1.png
 
-![car2.png](car2.png) car2.png
+![car-2.png](car-2.png) car-2.png
 
 ![motorcycle.png](motorcycle.png) motorcycle.png
 

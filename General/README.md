@@ -1,66 +1,66 @@
 # Image Previews
 
-![brick1 (2).png](Bricks/brick1 (2).png) brick1 (2).png
+![brick-1 (2).png](Bricks/brick-1 (2).png) brick-1 (2).png
 
-![brick1.png](Bricks/brick1.png) brick1.png
+![brick-1.png](Bricks/brick-1.png) brick-1.png
 
-![brick11.png](Bricks/brick11.png) brick11.png
+![brick-11.png](Bricks/brick-11.png) brick-11.png
 
-![brick12.png](Bricks/brick12.png) brick12.png
+![brick-12.png](Bricks/brick-12.png) brick-12.png
 
-![brick13.png](Bricks/brick13.png) brick13.png
+![brick-13.png](Bricks/brick-13.png) brick-13.png
 
-![brick14.png](Bricks/brick14.png) brick14.png
+![brick-14.png](Bricks/brick-14.png) brick-14.png
 
-![brick15.png](Bricks/brick15.png) brick15.png
+![brick-15.png](Bricks/brick-15.png) brick-15.png
 
-![brick16.png](Bricks/brick16.png) brick16.png
+![brick-16.png](Bricks/brick-16.png) brick-16.png
 
-![brick2.png](Bricks/brick2.png) brick2.png
+![brick-2.png](Bricks/brick-2.png) brick-2.png
 
-![brick3.png](Bricks/brick3.png) brick3.png
+![brick-3.png](Bricks/brick-3.png) brick-3.png
 
-![brick4.png](Bricks/brick4.png) brick4.png
+![brick-4.png](Bricks/brick-4.png) brick-4.png
 
-![brick5.png](Bricks/brick5.png) brick5.png
+![brick-5.png](Bricks/brick-5.png) brick-5.png
 
-![brick6.png](Bricks/brick6.png) brick6.png
+![brick-6.png](Bricks/brick-6.png) brick-6.png
 
-![brick7.png](Bricks/brick7.png) brick7.png
+![brick-7.png](Bricks/brick-7.png) brick-7.png
 
-![brick8.png](Bricks/brick8.png) brick8.png
+![brick-8.png](Bricks/brick-8.png) brick-8.png
 
-![brick9.png](Bricks/brick9.png) brick9.png
+![brick-9.png](Bricks/brick-9.png) brick-9.png
 
-![brickSpecial1 (2).png](Bricks/brickSpecial1 (2).png) brickSpecial1 (2).png
+![brick-special-1 (2).png](Bricks/brick-special-1 (2).png) brick-special-1 (2).png
 
-![brickSpecial1.png](Bricks/brickSpecial1.png) brickSpecial1.png
+![brick-special-1.png](Bricks/brick-special-1.png) brick-special-1.png
 
-![brickSpecial2.png](Bricks/brickSpecial2.png) brickSpecial2.png
+![brick-special-2.png](Bricks/brick-special-2.png) brick-special-2.png
 
-![brickSpecial3.png](Bricks/brickSpecial3.png) brickSpecial3.png
+![brick-special-3.png](Bricks/brick-special-3.png) brick-special-3.png
 
-![brickSpecial4.png](Bricks/brickSpecial4.png) brickSpecial4.png
+![brick-special-4.png](Bricks/brick-special-4.png) brick-special-4.png
 
-![brickSpecial5.png](Bricks/brickSpecial5.png) brickSpecial5.png
+![brick-special-5.png](Bricks/brick-special-5.png) brick-special-5.png
 
-![brickSpecial6.png](Bricks/brickSpecial6.png) brickSpecial6.png
+![brick-special-6.png](Bricks/brick-special-6.png) brick-special-6.png
 
-![brickSpecial7.png](Bricks/brickSpecial7.png) brickSpecial7.png
+![brick-special-7.png](Bricks/brick-special-7.png) brick-special-7.png
 
-![brickSpecial8.png](Bricks/brickSpecial8.png) brickSpecial8.png
+![brick-special-8.png](Bricks/brick-special-8.png) brick-special-8.png
 
-![brickSpecial9.png](Bricks/brickSpecial9.png) brickSpecial9.png
+![brick-special-9.png](Bricks/brick-special-9.png) brick-special-9.png
 
-![boxCoin-boxed.png](Collectibles/boxCoin-boxed.png) boxCoin-boxed.png
+![box-coin-boxed.png](Collectibles/box-coin-boxed.png) box-coin-boxed.png
 
-![boxCrate-single.png](Collectibles/boxCrate-single.png) boxCrate-single.png
+![box-crate-single.png](Collectibles/box-crate-single.png) box-crate-single.png
 
-![boxCrate.png](Collectibles/boxCrate.png) boxCrate.png
+![box-crate.png](Collectibles/box-crate.png) box-crate.png
 
-![boxExplosive.png](Collectibles/boxExplosive.png) boxExplosive.png
+![box-explosive.png](Collectibles/box-explosive.png) box-explosive.png
 
-![boxItem-boxed.png](Collectibles/boxItem-boxed.png) boxItem-boxed.png
+![box-item-boxed.png](Collectibles/box-item-boxed.png) box-item-boxed.png
 
 ![bronze-0.png](Collectibles/bronze-0.png) bronze-0.png
 
@@ -86,7 +86,7 @@
 
 ![coin-silver.png](Collectibles/coin-silver.png) coin-silver.png
 
-![gemBlue.png](Collectibles/gemBlue.png) gemBlue.png
+![gem-blue.png](Collectibles/gem-blue.png) gem-blue.png
 
 ![gold-0.png](Collectibles/gold-0.png) gold-0.png
 
@@ -100,19 +100,19 @@
 
 ![gold-5.png](Collectibles/gold-5.png) gold-5.png
 
-![hudHeart-empty.png](Collectibles/hudHeart-empty.png) hudHeart-empty.png
+![hud-heart-empty.png](Collectibles/hud-heart-empty.png) hud-heart-empty.png
 
-![hudHeart-full.png](Collectibles/hudHeart-full.png) hudHeart-full.png
+![hud-heart-full.png](Collectibles/hud-heart-full.png) hud-heart-full.png
 
-![hudHeart-half.png](Collectibles/hudHeart-half.png) hudHeart-half.png
+![hud-heart-half.png](Collectibles/hud-heart-half.png) hud-heart-half.png
 
-![hudJewel-blue-empty.png](Collectibles/hudJewel-blue-empty.png) hudJewel-blue-empty.png
+![hud-jewel-blue-empty.png](Collectibles/hud-jewel-blue-empty.png) hud-jewel-blue-empty.png
 
-![hudJewel-blue.png](Collectibles/hudJewel-blue.png) hudJewel-blue.png
+![hud-jewel-blue.png](Collectibles/hud-jewel-blue.png) hud-jewel-blue.png
 
-![hudKey-blue-empty.png](Collectibles/hudKey-blue-empty.png) hudKey-blue-empty.png
+![hud-key-blue-empty.png](Collectibles/hud-key-blue-empty.png) hud-key-blue-empty.png
 
-![hudKey-blue.png](Collectibles/hudKey-blue.png) hudKey-blue.png
+![hud-key-blue.png](Collectibles/hud-key-blue.png) hud-key-blue.png
 
 ![jetpack.png](Collectibles/jetpack.png) jetpack.png
 
@@ -132,13 +132,13 @@
 
 ![silver-5.png](Collectibles/silver-5.png) silver-5.png
 
-![starBronze.png](Collectibles/starBronze.png) starBronze.png
+![star-bronze.png](Collectibles/star-bronze.png) star-bronze.png
 
-![starDiamond.png](Collectibles/starDiamond.png) starDiamond.png
+![star-diamond.png](Collectibles/star-diamond.png) star-diamond.png
 
-![starGold.png](Collectibles/starGold.png) starGold.png
+![star-gold.png](Collectibles/star-gold.png) star-gold.png
 
-![starSilver.png](Collectibles/starSilver.png) starSilver.png
+![star-silver.png](Collectibles/star-silver.png) star-silver.png
 
 ![explosion-big.png](Effects/explosion-big.png) explosion-big.png
 
@@ -146,9 +146,9 @@
 
 ![explosion-small.png](Effects/explosion-small.png) explosion-small.png
 
-![fire1.png](Effects/fire1.png) fire1.png
+![fire-1.png](Effects/fire-1.png) fire-1.png
 
-![fire2.png](Effects/fire2.png) fire2.png
+![fire-2.png](Effects/fire-2.png) fire-2.png
 
 ![flame.png](Effects/flame.png) flame.png
 
@@ -156,15 +156,19 @@
 
 ![lighting-yellow.png](Effects/lighting-yellow.png) lighting-yellow.png
 
+![particle-0.png](Effects/particle-0.png) particle-0.png
+
+![particle-1.png](Effects/particle-1.png) particle-1.png
+
 ![particle-beige.png](Effects/particle-beige.png) particle-beige.png
 
 ![particle-blue.png](Effects/particle-blue.png) particle-blue.png
 
 ![particle-brown.png](Effects/particle-brown.png) particle-brown.png
 
-![particle-darkBrown.png](Effects/particle-darkBrown.png) particle-darkBrown.png
+![particle-dark-brown.png](Effects/particle-dark-brown.png) particle-dark-brown.png
 
-![particle-darkGrey.png](Effects/particle-darkGrey.png) particle-darkGrey.png
+![particle-dark-grey.png](Effects/particle-dark-grey.png) particle-dark-grey.png
 
 ![particle-green.png](Effects/particle-green.png) particle-green.png
 
@@ -172,17 +176,13 @@
 
 ![particle-pink.png](Effects/particle-pink.png) particle-pink.png
 
-![particle0.png](Effects/particle0.png) particle0.png
+![portal-orange-particle.png](Effects/portal-orange-particle.png) portal-orange-particle.png
 
-![particle1.png](Effects/particle1.png) particle1.png
+![portal-yellow-particle.png](Effects/portal-yellow-particle.png) portal-yellow-particle.png
 
-![portal-orangeParticle.png](Effects/portal-orangeParticle.png) portal-orangeParticle.png
+![puff-large.png](Effects/puff-large.png) puff-large.png
 
-![portal-yellowParticle.png](Effects/portal-yellowParticle.png) portal-yellowParticle.png
-
-![puffLarge.png](Effects/puffLarge.png) puffLarge.png
-
-![puffSmall.png](Effects/puffSmall.png) puffSmall.png
+![puff-small.png](Effects/puff-small.png) puff-small.png
 
 ![smoke.png](Effects/smoke.png) smoke.png
 
@@ -212,9 +212,9 @@
 
 ![torch-off.png](Interactibles/torch-off.png) torch-off.png
 
-![torch-on1.png](Interactibles/torch-on1.png) torch-on1.png
+![torch-on-1.png](Interactibles/torch-on-1.png) torch-on-1.png
 
-![torch-on2.png](Interactibles/torch-on2.png) torch-on2.png
+![torch-on-2.png](Interactibles/torch-on-2.png) torch-on-2.png
 
 ![kitchen-blade.png](Kitchen/kitchen-blade.png) kitchen-blade.png
 
@@ -252,31 +252,31 @@
 
 ![kitchen-tongs.png](Kitchen/kitchen-tongs.png) kitchen-tongs.png
 
-![medal1.png](Medals/medal1.png) medal1.png
+![medal-1.png](Medals/medal-1.png) medal-1.png
 
-![medal2.png](Medals/medal2.png) medal2.png
+![medal-2.png](Medals/medal-2.png) medal-2.png
 
-![medal3.png](Medals/medal3.png) medal3.png
+![medal-3.png](Medals/medal-3.png) medal-3.png
 
-![medal4.png](Medals/medal4.png) medal4.png
+![medal-4.png](Medals/medal-4.png) medal-4.png
 
-![medal5.png](Medals/medal5.png) medal5.png
+![medal-5.png](Medals/medal-5.png) medal-5.png
 
-![medal6.png](Medals/medal6.png) medal6.png
+![medal-6.png](Medals/medal-6.png) medal-6.png
 
-![medal7.png](Medals/medal7.png) medal7.png
+![medal-7.png](Medals/medal-7.png) medal-7.png
 
-![medal8.png](Medals/medal8.png) medal8.png
+![medal-8.png](Medals/medal-8.png) medal-8.png
 
-![medal9.png](Medals/medal9.png) medal9.png
+![medal-9.png](Medals/medal-9.png) medal-9.png
+
+![office-book-0.png](Office/office-book-0.png) office-book-0.png
+
+![office-book-1.png](Office/office-book-1.png) office-book-1.png
+
+![office-book-3.png](Office/office-book-3.png) office-book-3.png
 
 ![office-book.png](Office/office-book.png) office-book.png
-
-![office-book0.png](Office/office-book0.png) office-book0.png
-
-![office-book1.png](Office/office-book1.png) office-book1.png
-
-![office-book3.png](Office/office-book3.png) office-book3.png
 
 ![office-briefcase.png](Office/office-briefcase.png) office-briefcase.png
 
@@ -296,35 +296,35 @@
 
 ![office-pencil.png](Office/office-pencil.png) office-pencil.png
 
-![planet0.png](Planets/planet0.png) planet0.png
+![planet-0.png](Planets/planet-0.png) planet-0.png
 
-![planet1.png](Planets/planet1.png) planet1.png
+![planet-1.png](Planets/planet-1.png) planet-1.png
 
-![planet2.png](Planets/planet2.png) planet2.png
+![planet-2.png](Planets/planet-2.png) planet-2.png
 
-![planet3.png](Planets/planet3.png) planet3.png
+![planet-3.png](Planets/planet-3.png) planet-3.png
 
-![planet4.png](Planets/planet4.png) planet4.png
+![planet-4.png](Planets/planet-4.png) planet-4.png
 
-![planet5.png](Planets/planet5.png) planet5.png
+![planet-5.png](Planets/planet-5.png) planet-5.png
 
-![planet6.png](Planets/planet6.png) planet6.png
+![planet-6.png](Planets/planet-6.png) planet-6.png
 
-![planet7.png](Planets/planet7.png) planet7.png
+![planet-7.png](Planets/planet-7.png) planet-7.png
 
-![planet8.png](Planets/planet8.png) planet8.png
+![planet-8.png](Planets/planet-8.png) planet-8.png
 
-![planet9.png](Planets/planet9.png) planet9.png
+![planet-9.png](Planets/planet-9.png) planet-9.png
 
-![science-glass0.png](Science/science-glass0.png) science-glass0.png
+![science-glass-0.png](Science/science-glass-0.png) science-glass-0.png
 
-![science-glass1.png](Science/science-glass1.png) science-glass1.png
+![science-glass-1.png](Science/science-glass-1.png) science-glass-1.png
 
-![science-glass2.png](Science/science-glass2.png) science-glass2.png
+![science-glass-2.png](Science/science-glass-2.png) science-glass-2.png
 
-![science-glass3.png](Science/science-glass3.png) science-glass3.png
+![science-glass-3.png](Science/science-glass-3.png) science-glass-3.png
 
-![science-glass4.png](Science/science-glass4.png) science-glass4.png
+![science-glass-4.png](Science/science-glass-4.png) science-glass-4.png
 
 ![science-microscope.png](Science/science-microscope.png) science-microscope.png
 

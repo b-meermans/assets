@@ -8,29 +8,29 @@
 
 ![body-squircle.png](body-squircle.png) body-squircle.png
 
-![face0.png](face0.png) face0.png
+![face-0.png](face-0.png) face-0.png
 
-![face1.png](face1.png) face1.png
+![face-1.png](face-1.png) face-1.png
 
-![face10.png](face10.png) face10.png
+![face-10.png](face-10.png) face-10.png
 
-![face11.png](face11.png) face11.png
+![face-11.png](face-11.png) face-11.png
 
-![face2.png](face2.png) face2.png
+![face-2.png](face-2.png) face-2.png
 
-![face3.png](face3.png) face3.png
+![face-3.png](face-3.png) face-3.png
 
-![face4.png](face4.png) face4.png
+![face-4.png](face-4.png) face-4.png
 
-![face5.png](face5.png) face5.png
+![face-5.png](face-5.png) face-5.png
 
-![face6.png](face6.png) face6.png
+![face-6.png](face-6.png) face-6.png
 
-![face7.png](face7.png) face7.png
+![face-7.png](face-7.png) face-7.png
 
-![face8.png](face8.png) face8.png
+![face-8.png](face-8.png) face-8.png
 
-![face9.png](face9.png) face9.png
+![face-9.png](face-9.png) face-9.png
 
 ![hand-closed.png](hand-closed.png) hand-closed.png
 

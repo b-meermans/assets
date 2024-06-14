@@ -1,128 +1,128 @@
 # Image Previews
 
-![antennaA.png](antennaA.png) antennaA.png
+![antenna-a.png](antenna-a.png) antenna-a.png
 
-![antennaB.png](antennaB.png) antennaB.png
+![antenna-b.png](antenna-b.png) antenna-b.png
 
-![antennaC.png](antennaC.png) antennaC.png
+![antenna-c.png](antenna-c.png) antenna-c.png
 
-![armA.png](armA.png) armA.png
+![arm-a.png](arm-a.png) arm-a.png
 
-![armB.png](armB.png) armB.png
+![arm-b.png](arm-b.png) arm-b.png
 
-![armC.png](armC.png) armC.png
+![arm-c.png](arm-c.png) arm-c.png
 
-![armD.png](armD.png) armD.png
+![arm-d.png](arm-d.png) arm-d.png
 
-![armE.png](armE.png) armE.png
+![arm-e.png](arm-e.png) arm-e.png
 
-![bodyA.png](bodyA.png) bodyA.png
+![body-a.png](body-a.png) body-a.png
 
-![bodyB.png](bodyB.png) bodyB.png
+![body-b.png](body-b.png) body-b.png
 
-![bodyC.png](bodyC.png) bodyC.png
+![body-c.png](body-c.png) body-c.png
 
-![bodyD.png](bodyD.png) bodyD.png
+![body-d.png](body-d.png) body-d.png
 
-![bodyE.png](bodyE.png) bodyE.png
+![body-e.png](body-e.png) body-e.png
 
-![bodyF.png](bodyF.png) bodyF.png
+![body-f.png](body-f.png) body-f.png
 
-![browA.png](browA.png) browA.png
+![brow-a.png](brow-a.png) brow-a.png
 
-![browB.png](browB.png) browB.png
+![brow-b.png](brow-b.png) brow-b.png
 
-![browC.png](browC.png) browC.png
+![brow-c.png](brow-c.png) brow-c.png
 
-![dropA.png](dropA.png) dropA.png
+![drop-a.png](drop-a.png) drop-a.png
 
-![dropB.png](dropB.png) dropB.png
+![drop-b.png](drop-b.png) drop-b.png
 
-![earA.png](earA.png) earA.png
+![ear-a.png](ear-a.png) ear-a.png
 
-![earB.png](earB.png) earB.png
+![ear-b.png](ear-b.png) ear-b.png
 
-![eyeA.png](eyeA.png) eyeA.png
+![eye-a.png](eye-a.png) eye-a.png
 
-![eyeB.png](eyeB.png) eyeB.png
+![eye-b.png](eye-b.png) eye-b.png
 
-![eyeC.png](eyeC.png) eyeC.png
+![eye-c.png](eye-c.png) eye-c.png
 
-![eyeD.png](eyeD.png) eyeD.png
+![eye-d.png](eye-d.png) eye-d.png
 
-![eyeE.png](eyeE.png) eyeE.png
+![eye-e.png](eye-e.png) eye-e.png
 
-![eyeF.png](eyeF.png) eyeF.png
+![eye-f.png](eye-f.png) eye-f.png
 
-![eyeG.png](eyeG.png) eyeG.png
+![eye-g.png](eye-g.png) eye-g.png
 
-![eyeH.png](eyeH.png) eyeH.png
+![eye-h.png](eye-h.png) eye-h.png
 
-![eyeI.png](eyeI.png) eyeI.png
+![eye-i.png](eye-i.png) eye-i.png
 
-![eyeJ.png](eyeJ.png) eyeJ.png
+![eye-j.png](eye-j.png) eye-j.png
 
-![eyeK.png](eyeK.png) eyeK.png
+![eye-k.png](eye-k.png) eye-k.png
 
-![eyeL.png](eyeL.png) eyeL.png
+![eye-l.png](eye-l.png) eye-l.png
 
-![eyeM.png](eyeM.png) eyeM.png
+![eye-m.png](eye-m.png) eye-m.png
 
-![eyeN.png](eyeN.png) eyeN.png
+![eye-n.png](eye-n.png) eye-n.png
 
-![eyeO.png](eyeO.png) eyeO.png
+![eye-o.png](eye-o.png) eye-o.png
 
-![eyeP.png](eyeP.png) eyeP.png
+![eye-p.png](eye-p.png) eye-p.png
 
-![eyeQ.png](eyeQ.png) eyeQ.png
+![eye-q.png](eye-q.png) eye-q.png
 
-![hornA.png](hornA.png) hornA.png
+![horn-a.png](horn-a.png) horn-a.png
 
-![hornB.png](hornB.png) hornB.png
+![horn-b.png](horn-b.png) horn-b.png
 
-![legA.png](legA.png) legA.png
+![leg-a.png](leg-a.png) leg-a.png
 
-![legB.png](legB.png) legB.png
+![leg-b.png](leg-b.png) leg-b.png
 
-![legC.png](legC.png) legC.png
+![leg-c.png](leg-c.png) leg-c.png
 
-![legD.png](legD.png) legD.png
+![leg-d.png](leg-d.png) leg-d.png
 
-![legE.png](legE.png) legE.png
+![leg-e.png](leg-e.png) leg-e.png
 
-![mouthA.png](mouthA.png) mouthA.png
+![mouth-a.png](mouth-a.png) mouth-a.png
 
-![mouthB.png](mouthB.png) mouthB.png
+![mouth-b.png](mouth-b.png) mouth-b.png
 
-![mouthC.png](mouthC.png) mouthC.png
+![mouth-c.png](mouth-c.png) mouth-c.png
 
-![mouthD.png](mouthD.png) mouthD.png
+![mouth-d.png](mouth-d.png) mouth-d.png
 
-![mouthE.png](mouthE.png) mouthE.png
+![mouth-e.png](mouth-e.png) mouth-e.png
 
-![mouthF.png](mouthF.png) mouthF.png
+![mouth-f.png](mouth-f.png) mouth-f.png
 
-![mouthG.png](mouthG.png) mouthG.png
+![mouth-g.png](mouth-g.png) mouth-g.png
 
-![mouthH.png](mouthH.png) mouthH.png
+![mouth-h.png](mouth-h.png) mouth-h.png
 
-![mouthI.png](mouthI.png) mouthI.png
+![mouth-i.png](mouth-i.png) mouth-i.png
 
-![mouthJ.png](mouthJ.png) mouthJ.png
+![mouth-j.png](mouth-j.png) mouth-j.png
 
-![mouthK.png](mouthK.png) mouthK.png
+![mouth-k.png](mouth-k.png) mouth-k.png
 
-![mouthL.png](mouthL.png) mouthL.png
+![mouth-l.png](mouth-l.png) mouth-l.png
 
-![mouthM.png](mouthM.png) mouthM.png
+![mouth-m.png](mouth-m.png) mouth-m.png
 
-![mouthN.png](mouthN.png) mouthN.png
+![mouth-n.png](mouth-n.png) mouth-n.png
 
-![noseA.png](noseA.png) noseA.png
+![nose-a.png](nose-a.png) nose-a.png
 
-![noseB.png](noseB.png) noseB.png
+![nose-b.png](nose-b.png) nose-b.png
 
-![noseC.png](noseC.png) noseC.png
+![nose-c.png](nose-c.png) nose-c.png
 
-![noseD.png](noseD.png) noseD.png
+![nose-d.png](nose-d.png) nose-d.png
 

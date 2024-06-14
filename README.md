@@ -1,372 +1,372 @@
 # Image Previews
 
-![die1.png](Boardgames/Dice/die1.png) die1.png
+![die-1.png](Boardgames/Dice/die-1.png) die-1.png
 
-![die2.png](Boardgames/Dice/die2.png) die2.png
+![die-2.png](Boardgames/Dice/die-2.png) die-2.png
 
-![die3.png](Boardgames/Dice/die3.png) die3.png
+![die-3.png](Boardgames/Dice/die-3.png) die-3.png
 
-![die4.png](Boardgames/Dice/die4.png) die4.png
+![die-4.png](Boardgames/Dice/die-4.png) die-4.png
 
-![die5.png](Boardgames/Dice/die5.png) die5.png
+![die-5.png](Boardgames/Dice/die-5.png) die-5.png
 
-![die6.png](Boardgames/Dice/die6.png) die6.png
+![die-6.png](Boardgames/Dice/die-6.png) die-6.png
 
-![piece0.png](Boardgames/Pieces/piece0.png) piece0.png
+![piece-0.png](Boardgames/Pieces/piece-0.png) piece-0.png
 
-![piece1.png](Boardgames/Pieces/piece1.png) piece1.png
+![piece-1.png](Boardgames/Pieces/piece-1.png) piece-1.png
 
-![piece10.png](Boardgames/Pieces/piece10.png) piece10.png
+![piece-10.png](Boardgames/Pieces/piece-10.png) piece-10.png
 
-![piece11.png](Boardgames/Pieces/piece11.png) piece11.png
+![piece-11.png](Boardgames/Pieces/piece-11.png) piece-11.png
 
-![piece2.png](Boardgames/Pieces/piece2.png) piece2.png
+![piece-2.png](Boardgames/Pieces/piece-2.png) piece-2.png
 
-![piece3.png](Boardgames/Pieces/piece3.png) piece3.png
+![piece-3.png](Boardgames/Pieces/piece-3.png) piece-3.png
 
-![piece4.png](Boardgames/Pieces/piece4.png) piece4.png
+![piece-4.png](Boardgames/Pieces/piece-4.png) piece-4.png
 
-![piece5.png](Boardgames/Pieces/piece5.png) piece5.png
+![piece-5.png](Boardgames/Pieces/piece-5.png) piece-5.png
 
-![piece6.png](Boardgames/Pieces/piece6.png) piece6.png
+![piece-6.png](Boardgames/Pieces/piece-6.png) piece-6.png
 
-![piece7.png](Boardgames/Pieces/piece7.png) piece7.png
+![piece-7.png](Boardgames/Pieces/piece-7.png) piece-7.png
 
-![piece8.png](Boardgames/Pieces/piece8.png) piece8.png
+![piece-8.png](Boardgames/Pieces/piece-8.png) piece-8.png
 
-![piece9.png](Boardgames/Pieces/piece9.png) piece9.png
+![piece-9.png](Boardgames/Pieces/piece-9.png) piece-9.png
 
-![cardBack.png](Boardgames/PlayingCards/cardBack.png) cardBack.png
+![card-back.png](Boardgames/PlayingCards/card-back.png) card-back.png
 
-![cardClubs10.png](Boardgames/PlayingCards/cardClubs10.png) cardClubs10.png
+![card-clubs-10.png](Boardgames/PlayingCards/card-clubs-10.png) card-clubs-10.png
 
-![cardClubs2.png](Boardgames/PlayingCards/cardClubs2.png) cardClubs2.png
+![card-clubs-2.png](Boardgames/PlayingCards/card-clubs-2.png) card-clubs-2.png
 
-![cardClubs3.png](Boardgames/PlayingCards/cardClubs3.png) cardClubs3.png
+![card-clubs-3.png](Boardgames/PlayingCards/card-clubs-3.png) card-clubs-3.png
 
-![cardClubs4.png](Boardgames/PlayingCards/cardClubs4.png) cardClubs4.png
+![card-clubs-4.png](Boardgames/PlayingCards/card-clubs-4.png) card-clubs-4.png
 
-![cardClubs5.png](Boardgames/PlayingCards/cardClubs5.png) cardClubs5.png
+![card-clubs-5.png](Boardgames/PlayingCards/card-clubs-5.png) card-clubs-5.png
 
-![cardClubs6.png](Boardgames/PlayingCards/cardClubs6.png) cardClubs6.png
+![card-clubs-6.png](Boardgames/PlayingCards/card-clubs-6.png) card-clubs-6.png
 
-![cardClubs7.png](Boardgames/PlayingCards/cardClubs7.png) cardClubs7.png
+![card-clubs-7.png](Boardgames/PlayingCards/card-clubs-7.png) card-clubs-7.png
 
-![cardClubs8.png](Boardgames/PlayingCards/cardClubs8.png) cardClubs8.png
+![card-clubs-8.png](Boardgames/PlayingCards/card-clubs-8.png) card-clubs-8.png
 
-![cardClubs9.png](Boardgames/PlayingCards/cardClubs9.png) cardClubs9.png
+![card-clubs-9.png](Boardgames/PlayingCards/card-clubs-9.png) card-clubs-9.png
 
-![cardClubsA.png](Boardgames/PlayingCards/cardClubsA.png) cardClubsA.png
+![card-clubs-a.png](Boardgames/PlayingCards/card-clubs-a.png) card-clubs-a.png
 
-![cardClubsJ.png](Boardgames/PlayingCards/cardClubsJ.png) cardClubsJ.png
+![card-clubs-j.png](Boardgames/PlayingCards/card-clubs-j.png) card-clubs-j.png
 
-![cardClubsK.png](Boardgames/PlayingCards/cardClubsK.png) cardClubsK.png
+![card-clubs-k.png](Boardgames/PlayingCards/card-clubs-k.png) card-clubs-k.png
 
-![cardClubsQ.png](Boardgames/PlayingCards/cardClubsQ.png) cardClubsQ.png
+![card-clubs-q.png](Boardgames/PlayingCards/card-clubs-q.png) card-clubs-q.png
 
-![cardDiamonds10.png](Boardgames/PlayingCards/cardDiamonds10.png) cardDiamonds10.png
+![card-diamonds-10.png](Boardgames/PlayingCards/card-diamonds-10.png) card-diamonds-10.png
 
-![cardDiamonds2.png](Boardgames/PlayingCards/cardDiamonds2.png) cardDiamonds2.png
+![card-diamonds-2.png](Boardgames/PlayingCards/card-diamonds-2.png) card-diamonds-2.png
 
-![cardDiamonds3.png](Boardgames/PlayingCards/cardDiamonds3.png) cardDiamonds3.png
+![card-diamonds-3.png](Boardgames/PlayingCards/card-diamonds-3.png) card-diamonds-3.png
 
-![cardDiamonds4.png](Boardgames/PlayingCards/cardDiamonds4.png) cardDiamonds4.png
+![card-diamonds-4.png](Boardgames/PlayingCards/card-diamonds-4.png) card-diamonds-4.png
 
-![cardDiamonds5.png](Boardgames/PlayingCards/cardDiamonds5.png) cardDiamonds5.png
+![card-diamonds-5.png](Boardgames/PlayingCards/card-diamonds-5.png) card-diamonds-5.png
 
-![cardDiamonds6.png](Boardgames/PlayingCards/cardDiamonds6.png) cardDiamonds6.png
+![card-diamonds-6.png](Boardgames/PlayingCards/card-diamonds-6.png) card-diamonds-6.png
 
-![cardDiamonds7.png](Boardgames/PlayingCards/cardDiamonds7.png) cardDiamonds7.png
+![card-diamonds-7.png](Boardgames/PlayingCards/card-diamonds-7.png) card-diamonds-7.png
 
-![cardDiamonds8.png](Boardgames/PlayingCards/cardDiamonds8.png) cardDiamonds8.png
+![card-diamonds-8.png](Boardgames/PlayingCards/card-diamonds-8.png) card-diamonds-8.png
 
-![cardDiamonds9.png](Boardgames/PlayingCards/cardDiamonds9.png) cardDiamonds9.png
+![card-diamonds-9.png](Boardgames/PlayingCards/card-diamonds-9.png) card-diamonds-9.png
 
-![cardDiamondsA.png](Boardgames/PlayingCards/cardDiamondsA.png) cardDiamondsA.png
+![card-diamonds-a.png](Boardgames/PlayingCards/card-diamonds-a.png) card-diamonds-a.png
 
-![cardDiamondsJ.png](Boardgames/PlayingCards/cardDiamondsJ.png) cardDiamondsJ.png
+![card-diamonds-j.png](Boardgames/PlayingCards/card-diamonds-j.png) card-diamonds-j.png
 
-![cardDiamondsK.png](Boardgames/PlayingCards/cardDiamondsK.png) cardDiamondsK.png
+![card-diamonds-k.png](Boardgames/PlayingCards/card-diamonds-k.png) card-diamonds-k.png
 
-![cardDiamondsQ.png](Boardgames/PlayingCards/cardDiamondsQ.png) cardDiamondsQ.png
+![card-diamonds-q.png](Boardgames/PlayingCards/card-diamonds-q.png) card-diamonds-q.png
 
-![cardHearts10.png](Boardgames/PlayingCards/cardHearts10.png) cardHearts10.png
+![card-hearts-10.png](Boardgames/PlayingCards/card-hearts-10.png) card-hearts-10.png
 
-![cardHearts2.png](Boardgames/PlayingCards/cardHearts2.png) cardHearts2.png
+![card-hearts-2.png](Boardgames/PlayingCards/card-hearts-2.png) card-hearts-2.png
 
-![cardHearts3.png](Boardgames/PlayingCards/cardHearts3.png) cardHearts3.png
+![card-hearts-3.png](Boardgames/PlayingCards/card-hearts-3.png) card-hearts-3.png
 
-![cardHearts4.png](Boardgames/PlayingCards/cardHearts4.png) cardHearts4.png
+![card-hearts-4.png](Boardgames/PlayingCards/card-hearts-4.png) card-hearts-4.png
 
-![cardHearts5.png](Boardgames/PlayingCards/cardHearts5.png) cardHearts5.png
+![card-hearts-5.png](Boardgames/PlayingCards/card-hearts-5.png) card-hearts-5.png
 
-![cardHearts6.png](Boardgames/PlayingCards/cardHearts6.png) cardHearts6.png
+![card-hearts-6.png](Boardgames/PlayingCards/card-hearts-6.png) card-hearts-6.png
 
-![cardHearts7.png](Boardgames/PlayingCards/cardHearts7.png) cardHearts7.png
+![card-hearts-7.png](Boardgames/PlayingCards/card-hearts-7.png) card-hearts-7.png
 
-![cardHearts8.png](Boardgames/PlayingCards/cardHearts8.png) cardHearts8.png
+![card-hearts-8.png](Boardgames/PlayingCards/card-hearts-8.png) card-hearts-8.png
 
-![cardHearts9.png](Boardgames/PlayingCards/cardHearts9.png) cardHearts9.png
+![card-hearts-9.png](Boardgames/PlayingCards/card-hearts-9.png) card-hearts-9.png
 
-![cardHeartsA.png](Boardgames/PlayingCards/cardHeartsA.png) cardHeartsA.png
+![card-hearts-a.png](Boardgames/PlayingCards/card-hearts-a.png) card-hearts-a.png
 
-![cardHeartsJ.png](Boardgames/PlayingCards/cardHeartsJ.png) cardHeartsJ.png
+![card-hearts-j.png](Boardgames/PlayingCards/card-hearts-j.png) card-hearts-j.png
 
-![cardHeartsK.png](Boardgames/PlayingCards/cardHeartsK.png) cardHeartsK.png
+![card-hearts-k.png](Boardgames/PlayingCards/card-hearts-k.png) card-hearts-k.png
 
-![cardHeartsQ.png](Boardgames/PlayingCards/cardHeartsQ.png) cardHeartsQ.png
+![card-hearts-q.png](Boardgames/PlayingCards/card-hearts-q.png) card-hearts-q.png
 
-![cardJoker.png](Boardgames/PlayingCards/cardJoker.png) cardJoker.png
+![card-joker.png](Boardgames/PlayingCards/card-joker.png) card-joker.png
 
-![cardSpades10.png](Boardgames/PlayingCards/cardSpades10.png) cardSpades10.png
+![card-spades-10.png](Boardgames/PlayingCards/card-spades-10.png) card-spades-10.png
 
-![cardSpades2.png](Boardgames/PlayingCards/cardSpades2.png) cardSpades2.png
+![card-spades-2.png](Boardgames/PlayingCards/card-spades-2.png) card-spades-2.png
 
-![cardSpades3.png](Boardgames/PlayingCards/cardSpades3.png) cardSpades3.png
+![card-spades-3.png](Boardgames/PlayingCards/card-spades-3.png) card-spades-3.png
 
-![cardSpades4.png](Boardgames/PlayingCards/cardSpades4.png) cardSpades4.png
+![card-spades-4.png](Boardgames/PlayingCards/card-spades-4.png) card-spades-4.png
 
-![cardSpades5.png](Boardgames/PlayingCards/cardSpades5.png) cardSpades5.png
+![card-spades-5.png](Boardgames/PlayingCards/card-spades-5.png) card-spades-5.png
 
-![cardSpades6.png](Boardgames/PlayingCards/cardSpades6.png) cardSpades6.png
+![card-spades-6.png](Boardgames/PlayingCards/card-spades-6.png) card-spades-6.png
 
-![cardSpades7.png](Boardgames/PlayingCards/cardSpades7.png) cardSpades7.png
+![card-spades-7.png](Boardgames/PlayingCards/card-spades-7.png) card-spades-7.png
 
-![cardSpades8.png](Boardgames/PlayingCards/cardSpades8.png) cardSpades8.png
+![card-spades-8.png](Boardgames/PlayingCards/card-spades-8.png) card-spades-8.png
 
-![cardSpades9.png](Boardgames/PlayingCards/cardSpades9.png) cardSpades9.png
+![card-spades-9.png](Boardgames/PlayingCards/card-spades-9.png) card-spades-9.png
 
-![cardSpadesA.png](Boardgames/PlayingCards/cardSpadesA.png) cardSpadesA.png
+![card-spades-a.png](Boardgames/PlayingCards/card-spades-a.png) card-spades-a.png
 
-![cardSpadesJ.png](Boardgames/PlayingCards/cardSpadesJ.png) cardSpadesJ.png
+![card-spades-j.png](Boardgames/PlayingCards/card-spades-j.png) card-spades-j.png
 
-![cardSpadesK.png](Boardgames/PlayingCards/cardSpadesK.png) cardSpadesK.png
+![card-spades-k.png](Boardgames/PlayingCards/card-spades-k.png) card-spades-k.png
 
-![cardSpadesQ.png](Boardgames/PlayingCards/cardSpadesQ.png) cardSpadesQ.png
+![card-spades-q.png](Boardgames/PlayingCards/card-spades-q.png) card-spades-q.png
 
-![alienA-climb1.png](Characters/Aliens/alienA-climb1.png) alienA-climb1.png
+![alien-a-climb-1.png](Characters/Aliens/alien-a-climb-1.png) alien-a-climb-1.png
 
-![alienA-climb2.png](Characters/Aliens/alienA-climb2.png) alienA-climb2.png
+![alien-a-climb-2.png](Characters/Aliens/alien-a-climb-2.png) alien-a-climb-2.png
 
-![alienA-duck.png](Characters/Aliens/alienA-duck.png) alienA-duck.png
+![alien-a-duck.png](Characters/Aliens/alien-a-duck.png) alien-a-duck.png
 
-![alienA-front.png](Characters/Aliens/alienA-front.png) alienA-front.png
+![alien-a-front.png](Characters/Aliens/alien-a-front.png) alien-a-front.png
 
-![alienA-hit.png](Characters/Aliens/alienA-hit.png) alienA-hit.png
+![alien-a-hit.png](Characters/Aliens/alien-a-hit.png) alien-a-hit.png
 
-![alienA-jump.png](Characters/Aliens/alienA-jump.png) alienA-jump.png
+![alien-a-jump.png](Characters/Aliens/alien-a-jump.png) alien-a-jump.png
 
-![alienA-round.png](Characters/Aliens/alienA-round.png) alienA-round.png
+![alien-a-round.png](Characters/Aliens/alien-a-round.png) alien-a-round.png
 
-![alienA-ski-fall.png](Characters/Aliens/alienA-ski-fall.png) alienA-ski-fall.png
+![alien-a-ski-fall.png](Characters/Aliens/alien-a-ski-fall.png) alien-a-ski-fall.png
 
-![alienA-ski-jump.png](Characters/Aliens/alienA-ski-jump.png) alienA-ski-jump.png
+![alien-a-ski-jump.png](Characters/Aliens/alien-a-ski-jump.png) alien-a-ski-jump.png
 
-![alienA-ski-left.png](Characters/Aliens/alienA-ski-left.png) alienA-ski-left.png
+![alien-a-ski-left.png](Characters/Aliens/alien-a-ski-left.png) alien-a-ski-left.png
 
-![alienA-ski-right.png](Characters/Aliens/alienA-ski-right.png) alienA-ski-right.png
+![alien-a-ski-right.png](Characters/Aliens/alien-a-ski-right.png) alien-a-ski-right.png
 
-![alienA-ski-straight.png](Characters/Aliens/alienA-ski-straight.png) alienA-ski-straight.png
+![alien-a-ski-straight.png](Characters/Aliens/alien-a-ski-straight.png) alien-a-ski-straight.png
 
-![alienA-square.png](Characters/Aliens/alienA-square.png) alienA-square.png
+![alien-a-square.png](Characters/Aliens/alien-a-square.png) alien-a-square.png
 
-![alienA-stand.png](Characters/Aliens/alienA-stand.png) alienA-stand.png
+![alien-a-stand.png](Characters/Aliens/alien-a-stand.png) alien-a-stand.png
 
-![alienA-swim1.png](Characters/Aliens/alienA-swim1.png) alienA-swim1.png
+![alien-a-swim-1.png](Characters/Aliens/alien-a-swim-1.png) alien-a-swim-1.png
 
-![alienA-swim2.png](Characters/Aliens/alienA-swim2.png) alienA-swim2.png
+![alien-a-swim-2.png](Characters/Aliens/alien-a-swim-2.png) alien-a-swim-2.png
 
-![alienA-walk1.png](Characters/Aliens/alienA-walk1.png) alienA-walk1.png
+![alien-a-walk-1.png](Characters/Aliens/alien-a-walk-1.png) alien-a-walk-1.png
 
-![alienA-walk2.png](Characters/Aliens/alienA-walk2.png) alienA-walk2.png
+![alien-a-walk-2.png](Characters/Aliens/alien-a-walk-2.png) alien-a-walk-2.png
 
-![alienB-climb1.png](Characters/Aliens/alienB-climb1.png) alienB-climb1.png
+![alien-b-climb-1.png](Characters/Aliens/alien-b-climb-1.png) alien-b-climb-1.png
 
-![alienB-climb2.png](Characters/Aliens/alienB-climb2.png) alienB-climb2.png
+![alien-b-climb-2.png](Characters/Aliens/alien-b-climb-2.png) alien-b-climb-2.png
 
-![alienB-duck.png](Characters/Aliens/alienB-duck.png) alienB-duck.png
+![alien-b-duck.png](Characters/Aliens/alien-b-duck.png) alien-b-duck.png
 
-![alienB-front.png](Characters/Aliens/alienB-front.png) alienB-front.png
+![alien-b-front.png](Characters/Aliens/alien-b-front.png) alien-b-front.png
 
-![alienB-hit.png](Characters/Aliens/alienB-hit.png) alienB-hit.png
+![alien-b-hit.png](Characters/Aliens/alien-b-hit.png) alien-b-hit.png
 
-![alienB-jump.png](Characters/Aliens/alienB-jump.png) alienB-jump.png
+![alien-b-jump.png](Characters/Aliens/alien-b-jump.png) alien-b-jump.png
 
-![alienB-round.png](Characters/Aliens/alienB-round.png) alienB-round.png
+![alien-b-round.png](Characters/Aliens/alien-b-round.png) alien-b-round.png
 
-![alienB-ski-fall.png](Characters/Aliens/alienB-ski-fall.png) alienB-ski-fall.png
+![alien-b-ski-fall.png](Characters/Aliens/alien-b-ski-fall.png) alien-b-ski-fall.png
 
-![alienB-ski-jump.png](Characters/Aliens/alienB-ski-jump.png) alienB-ski-jump.png
+![alien-b-ski-jump.png](Characters/Aliens/alien-b-ski-jump.png) alien-b-ski-jump.png
 
-![alienB-ski-left.png](Characters/Aliens/alienB-ski-left.png) alienB-ski-left.png
+![alien-b-ski-left.png](Characters/Aliens/alien-b-ski-left.png) alien-b-ski-left.png
 
-![alienB-ski-right.png](Characters/Aliens/alienB-ski-right.png) alienB-ski-right.png
+![alien-b-ski-right.png](Characters/Aliens/alien-b-ski-right.png) alien-b-ski-right.png
 
-![alienB-ski-straight.png](Characters/Aliens/alienB-ski-straight.png) alienB-ski-straight.png
+![alien-b-ski-straight.png](Characters/Aliens/alien-b-ski-straight.png) alien-b-ski-straight.png
 
-![alienB-square.png](Characters/Aliens/alienB-square.png) alienB-square.png
+![alien-b-square.png](Characters/Aliens/alien-b-square.png) alien-b-square.png
 
-![alienB-stand.png](Characters/Aliens/alienB-stand.png) alienB-stand.png
+![alien-b-stand.png](Characters/Aliens/alien-b-stand.png) alien-b-stand.png
 
-![alienB-swim1.png](Characters/Aliens/alienB-swim1.png) alienB-swim1.png
+![alien-b-swim-1.png](Characters/Aliens/alien-b-swim-1.png) alien-b-swim-1.png
 
-![alienB-swim2.png](Characters/Aliens/alienB-swim2.png) alienB-swim2.png
+![alien-b-swim-2.png](Characters/Aliens/alien-b-swim-2.png) alien-b-swim-2.png
 
-![alienB-walk1.png](Characters/Aliens/alienB-walk1.png) alienB-walk1.png
+![alien-b-walk-1.png](Characters/Aliens/alien-b-walk-1.png) alien-b-walk-1.png
 
-![alienB-walk2.png](Characters/Aliens/alienB-walk2.png) alienB-walk2.png
+![alien-b-walk-2.png](Characters/Aliens/alien-b-walk-2.png) alien-b-walk-2.png
 
-![alienC-climb1.png](Characters/Aliens/alienC-climb1.png) alienC-climb1.png
+![alien-c-climb-1.png](Characters/Aliens/alien-c-climb-1.png) alien-c-climb-1.png
 
-![alienC-climb2.png](Characters/Aliens/alienC-climb2.png) alienC-climb2.png
+![alien-c-climb-2.png](Characters/Aliens/alien-c-climb-2.png) alien-c-climb-2.png
 
-![alienC-duck.png](Characters/Aliens/alienC-duck.png) alienC-duck.png
+![alien-c-duck.png](Characters/Aliens/alien-c-duck.png) alien-c-duck.png
 
-![alienC-front.png](Characters/Aliens/alienC-front.png) alienC-front.png
+![alien-c-front.png](Characters/Aliens/alien-c-front.png) alien-c-front.png
 
-![alienC-hit.png](Characters/Aliens/alienC-hit.png) alienC-hit.png
+![alien-c-hit.png](Characters/Aliens/alien-c-hit.png) alien-c-hit.png
 
-![alienC-jump.png](Characters/Aliens/alienC-jump.png) alienC-jump.png
+![alien-c-jump.png](Characters/Aliens/alien-c-jump.png) alien-c-jump.png
 
-![alienC-round.png](Characters/Aliens/alienC-round.png) alienC-round.png
+![alien-c-round.png](Characters/Aliens/alien-c-round.png) alien-c-round.png
 
-![alienC-ski-fall.png](Characters/Aliens/alienC-ski-fall.png) alienC-ski-fall.png
+![alien-c-ski-fall.png](Characters/Aliens/alien-c-ski-fall.png) alien-c-ski-fall.png
 
-![alienC-ski-jump.png](Characters/Aliens/alienC-ski-jump.png) alienC-ski-jump.png
+![alien-c-ski-jump.png](Characters/Aliens/alien-c-ski-jump.png) alien-c-ski-jump.png
 
-![alienC-ski-left.png](Characters/Aliens/alienC-ski-left.png) alienC-ski-left.png
+![alien-c-ski-left.png](Characters/Aliens/alien-c-ski-left.png) alien-c-ski-left.png
 
-![alienC-ski-right.png](Characters/Aliens/alienC-ski-right.png) alienC-ski-right.png
+![alien-c-ski-right.png](Characters/Aliens/alien-c-ski-right.png) alien-c-ski-right.png
 
-![alienC-ski-straight.png](Characters/Aliens/alienC-ski-straight.png) alienC-ski-straight.png
+![alien-c-ski-straight.png](Characters/Aliens/alien-c-ski-straight.png) alien-c-ski-straight.png
 
-![alienC-square.png](Characters/Aliens/alienC-square.png) alienC-square.png
+![alien-c-square.png](Characters/Aliens/alien-c-square.png) alien-c-square.png
 
-![alienC-stand.png](Characters/Aliens/alienC-stand.png) alienC-stand.png
+![alien-c-stand.png](Characters/Aliens/alien-c-stand.png) alien-c-stand.png
 
-![alienC-swim1.png](Characters/Aliens/alienC-swim1.png) alienC-swim1.png
+![alien-c-swim-1.png](Characters/Aliens/alien-c-swim-1.png) alien-c-swim-1.png
 
-![alienC-swim2.png](Characters/Aliens/alienC-swim2.png) alienC-swim2.png
+![alien-c-swim-2.png](Characters/Aliens/alien-c-swim-2.png) alien-c-swim-2.png
 
-![alienC-walk1.png](Characters/Aliens/alienC-walk1.png) alienC-walk1.png
+![alien-c-walk-1.png](Characters/Aliens/alien-c-walk-1.png) alien-c-walk-1.png
 
-![alienC-walk2.png](Characters/Aliens/alienC-walk2.png) alienC-walk2.png
+![alien-c-walk-2.png](Characters/Aliens/alien-c-walk-2.png) alien-c-walk-2.png
 
-![alienD-climb1.png](Characters/Aliens/alienD-climb1.png) alienD-climb1.png
+![alien-d-climb-1.png](Characters/Aliens/alien-d-climb-1.png) alien-d-climb-1.png
 
-![alienD-climb2.png](Characters/Aliens/alienD-climb2.png) alienD-climb2.png
+![alien-d-climb-2.png](Characters/Aliens/alien-d-climb-2.png) alien-d-climb-2.png
 
-![alienD-duck.png](Characters/Aliens/alienD-duck.png) alienD-duck.png
+![alien-d-duck.png](Characters/Aliens/alien-d-duck.png) alien-d-duck.png
 
-![alienD-front.png](Characters/Aliens/alienD-front.png) alienD-front.png
+![alien-d-front.png](Characters/Aliens/alien-d-front.png) alien-d-front.png
 
-![alienD-hit.png](Characters/Aliens/alienD-hit.png) alienD-hit.png
+![alien-d-hit.png](Characters/Aliens/alien-d-hit.png) alien-d-hit.png
 
-![alienD-jump.png](Characters/Aliens/alienD-jump.png) alienD-jump.png
+![alien-d-jump.png](Characters/Aliens/alien-d-jump.png) alien-d-jump.png
 
-![alienD-round.png](Characters/Aliens/alienD-round.png) alienD-round.png
+![alien-d-round.png](Characters/Aliens/alien-d-round.png) alien-d-round.png
 
-![alienD-ski-fall.png](Characters/Aliens/alienD-ski-fall.png) alienD-ski-fall.png
+![alien-d-ski-fall.png](Characters/Aliens/alien-d-ski-fall.png) alien-d-ski-fall.png
 
-![alienD-ski-jump.png](Characters/Aliens/alienD-ski-jump.png) alienD-ski-jump.png
+![alien-d-ski-jump.png](Characters/Aliens/alien-d-ski-jump.png) alien-d-ski-jump.png
 
-![alienD-ski-left.png](Characters/Aliens/alienD-ski-left.png) alienD-ski-left.png
+![alien-d-ski-left.png](Characters/Aliens/alien-d-ski-left.png) alien-d-ski-left.png
 
-![alienD-ski-right.png](Characters/Aliens/alienD-ski-right.png) alienD-ski-right.png
+![alien-d-ski-right.png](Characters/Aliens/alien-d-ski-right.png) alien-d-ski-right.png
 
-![alienD-ski-straight.png](Characters/Aliens/alienD-ski-straight.png) alienD-ski-straight.png
+![alien-d-ski-straight.png](Characters/Aliens/alien-d-ski-straight.png) alien-d-ski-straight.png
 
-![alienD-square.png](Characters/Aliens/alienD-square.png) alienD-square.png
+![alien-d-square.png](Characters/Aliens/alien-d-square.png) alien-d-square.png
 
-![alienD-stand.png](Characters/Aliens/alienD-stand.png) alienD-stand.png
+![alien-d-stand.png](Characters/Aliens/alien-d-stand.png) alien-d-stand.png
 
-![alienD-swim1.png](Characters/Aliens/alienD-swim1.png) alienD-swim1.png
+![alien-d-swim-1.png](Characters/Aliens/alien-d-swim-1.png) alien-d-swim-1.png
 
-![alienD-swim2.png](Characters/Aliens/alienD-swim2.png) alienD-swim2.png
+![alien-d-swim-2.png](Characters/Aliens/alien-d-swim-2.png) alien-d-swim-2.png
 
-![alienD-walk1.png](Characters/Aliens/alienD-walk1.png) alienD-walk1.png
+![alien-d-walk-1.png](Characters/Aliens/alien-d-walk-1.png) alien-d-walk-1.png
 
-![alienD-walk2.png](Characters/Aliens/alienD-walk2.png) alienD-walk2.png
+![alien-d-walk-2.png](Characters/Aliens/alien-d-walk-2.png) alien-d-walk-2.png
 
-![alienE-climb1.png](Characters/Aliens/alienE-climb1.png) alienE-climb1.png
+![alien-e-climb-1.png](Characters/Aliens/alien-e-climb-1.png) alien-e-climb-1.png
 
-![alienE-climb2.png](Characters/Aliens/alienE-climb2.png) alienE-climb2.png
+![alien-e-climb-2.png](Characters/Aliens/alien-e-climb-2.png) alien-e-climb-2.png
 
-![alienE-duck.png](Characters/Aliens/alienE-duck.png) alienE-duck.png
+![alien-e-duck.png](Characters/Aliens/alien-e-duck.png) alien-e-duck.png
 
-![alienE-front.png](Characters/Aliens/alienE-front.png) alienE-front.png
+![alien-e-front.png](Characters/Aliens/alien-e-front.png) alien-e-front.png
 
-![alienE-hit.png](Characters/Aliens/alienE-hit.png) alienE-hit.png
+![alien-e-hit.png](Characters/Aliens/alien-e-hit.png) alien-e-hit.png
 
-![alienE-jump.png](Characters/Aliens/alienE-jump.png) alienE-jump.png
+![alien-e-jump.png](Characters/Aliens/alien-e-jump.png) alien-e-jump.png
 
-![alienE-round.png](Characters/Aliens/alienE-round.png) alienE-round.png
+![alien-e-round.png](Characters/Aliens/alien-e-round.png) alien-e-round.png
 
-![alienE-ski-fall.png](Characters/Aliens/alienE-ski-fall.png) alienE-ski-fall.png
+![alien-e-ski-fall.png](Characters/Aliens/alien-e-ski-fall.png) alien-e-ski-fall.png
 
-![alienE-ski-jump.png](Characters/Aliens/alienE-ski-jump.png) alienE-ski-jump.png
+![alien-e-ski-jump.png](Characters/Aliens/alien-e-ski-jump.png) alien-e-ski-jump.png
 
-![alienE-ski-left.png](Characters/Aliens/alienE-ski-left.png) alienE-ski-left.png
+![alien-e-ski-left.png](Characters/Aliens/alien-e-ski-left.png) alien-e-ski-left.png
 
-![alienE-ski-right.png](Characters/Aliens/alienE-ski-right.png) alienE-ski-right.png
+![alien-e-ski-right.png](Characters/Aliens/alien-e-ski-right.png) alien-e-ski-right.png
 
-![alienE-ski-straight.png](Characters/Aliens/alienE-ski-straight.png) alienE-ski-straight.png
+![alien-e-ski-straight.png](Characters/Aliens/alien-e-ski-straight.png) alien-e-ski-straight.png
 
-![alienE-square.png](Characters/Aliens/alienE-square.png) alienE-square.png
+![alien-e-square.png](Characters/Aliens/alien-e-square.png) alien-e-square.png
 
-![alienE-stand.png](Characters/Aliens/alienE-stand.png) alienE-stand.png
+![alien-e-stand.png](Characters/Aliens/alien-e-stand.png) alien-e-stand.png
 
-![alienE-swim1.png](Characters/Aliens/alienE-swim1.png) alienE-swim1.png
+![alien-e-swim-1.png](Characters/Aliens/alien-e-swim-1.png) alien-e-swim-1.png
 
-![alienE-swim2.png](Characters/Aliens/alienE-swim2.png) alienE-swim2.png
+![alien-e-swim-2.png](Characters/Aliens/alien-e-swim-2.png) alien-e-swim-2.png
 
-![alienE-walk1.png](Characters/Aliens/alienE-walk1.png) alienE-walk1.png
+![alien-e-walk-1.png](Characters/Aliens/alien-e-walk-1.png) alien-e-walk-1.png
 
-![alienE-walk2.png](Characters/Aliens/alienE-walk2.png) alienE-walk2.png
+![alien-e-walk-2.png](Characters/Aliens/alien-e-walk-2.png) alien-e-walk-2.png
 
-![astronaut0.png](Characters/Astronauts/astronaut0.png) astronaut0.png
+![astronaut-0.png](Characters/Astronauts/astronaut-0.png) astronaut-0.png
 
-![astronaut1.png](Characters/Astronauts/astronaut1.png) astronaut1.png
+![astronaut-1.png](Characters/Astronauts/astronaut-1.png) astronaut-1.png
 
-![bird-a0.png](Characters/Birds/bird-a0.png) bird-a0.png
+![bird-a-0.png](Characters/Birds/bird-a-0.png) bird-a-0.png
 
-![bird-a1.png](Characters/Birds/bird-a1.png) bird-a1.png
+![bird-a-1.png](Characters/Birds/bird-a-1.png) bird-a-1.png
 
-![bird-a2.png](Characters/Birds/bird-a2.png) bird-a2.png
+![bird-a-2.png](Characters/Birds/bird-a-2.png) bird-a-2.png
 
-![bird-a3.png](Characters/Birds/bird-a3.png) bird-a3.png
+![bird-a-3.png](Characters/Birds/bird-a-3.png) bird-a-3.png
 
-![bird-b0.png](Characters/Birds/bird-b0.png) bird-b0.png
+![bird-b-0.png](Characters/Birds/bird-b-0.png) bird-b-0.png
 
-![bird-b1.png](Characters/Birds/bird-b1.png) bird-b1.png
+![bird-b-1.png](Characters/Birds/bird-b-1.png) bird-b-1.png
 
-![bird-b2.png](Characters/Birds/bird-b2.png) bird-b2.png
+![bird-b-2.png](Characters/Birds/bird-b-2.png) bird-b-2.png
 
-![bird-b3.png](Characters/Birds/bird-b3.png) bird-b3.png
+![bird-b-3.png](Characters/Birds/bird-b-3.png) bird-b-3.png
 
-![bird-c0.png](Characters/Birds/bird-c0.png) bird-c0.png
+![bird-c-0.png](Characters/Birds/bird-c-0.png) bird-c-0.png
 
-![bird-c1.png](Characters/Birds/bird-c1.png) bird-c1.png
+![bird-c-1.png](Characters/Birds/bird-c-1.png) bird-c-1.png
 
-![bird-c2.png](Characters/Birds/bird-c2.png) bird-c2.png
+![bird-c-2.png](Characters/Birds/bird-c-2.png) bird-c-2.png
 
-![bird-c3.png](Characters/Birds/bird-c3.png) bird-c3.png
+![bird-c-3.png](Characters/Birds/bird-c-3.png) bird-c-3.png
 
-![bird-d0.png](Characters/Birds/bird-d0.png) bird-d0.png
+![bird-d-0.png](Characters/Birds/bird-d-0.png) bird-d-0.png
 
-![bird-d1.png](Characters/Birds/bird-d1.png) bird-d1.png
+![bird-d-1.png](Characters/Birds/bird-d-1.png) bird-d-1.png
 
-![bird-d2.png](Characters/Birds/bird-d2.png) bird-d2.png
+![bird-d-2.png](Characters/Birds/bird-d-2.png) bird-d-2.png
 
-![bird-d3.png](Characters/Birds/bird-d3.png) bird-d3.png
+![bird-d-3.png](Characters/Birds/bird-d-3.png) bird-d-3.png
 
-![bird-e0.png](Characters/Birds/bird-e0.png) bird-e0.png
+![bird-e-0.png](Characters/Birds/bird-e-0.png) bird-e-0.png
 
-![bird-e1.png](Characters/Birds/bird-e1.png) bird-e1.png
+![bird-e-1.png](Characters/Birds/bird-e-1.png) bird-e-1.png
 
-![bird-e2.png](Characters/Birds/bird-e2.png) bird-e2.png
+![bird-e-2.png](Characters/Birds/bird-e-2.png) bird-e-2.png
 
-![bird-e3.png](Characters/Birds/bird-e3.png) bird-e3.png
+![bird-e-3.png](Characters/Birds/bird-e-3.png) bird-e-3.png
 
 ![body-circle.png](Characters/BlockyParts/body-circle.png) body-circle.png
 
@@ -376,29 +376,29 @@
 
 ![body-squircle.png](Characters/BlockyParts/body-squircle.png) body-squircle.png
 
-![face0.png](Characters/BlockyParts/face0.png) face0.png
+![face-0.png](Characters/BlockyParts/face-0.png) face-0.png
 
-![face1.png](Characters/BlockyParts/face1.png) face1.png
+![face-1.png](Characters/BlockyParts/face-1.png) face-1.png
 
-![face10.png](Characters/BlockyParts/face10.png) face10.png
+![face-10.png](Characters/BlockyParts/face-10.png) face-10.png
 
-![face11.png](Characters/BlockyParts/face11.png) face11.png
+![face-11.png](Characters/BlockyParts/face-11.png) face-11.png
 
-![face2.png](Characters/BlockyParts/face2.png) face2.png
+![face-2.png](Characters/BlockyParts/face-2.png) face-2.png
 
-![face3.png](Characters/BlockyParts/face3.png) face3.png
+![face-3.png](Characters/BlockyParts/face-3.png) face-3.png
 
-![face4.png](Characters/BlockyParts/face4.png) face4.png
+![face-4.png](Characters/BlockyParts/face-4.png) face-4.png
 
-![face5.png](Characters/BlockyParts/face5.png) face5.png
+![face-5.png](Characters/BlockyParts/face-5.png) face-5.png
 
-![face6.png](Characters/BlockyParts/face6.png) face6.png
+![face-6.png](Characters/BlockyParts/face-6.png) face-6.png
 
-![face7.png](Characters/BlockyParts/face7.png) face7.png
+![face-7.png](Characters/BlockyParts/face-7.png) face-7.png
 
-![face8.png](Characters/BlockyParts/face8.png) face8.png
+![face-8.png](Characters/BlockyParts/face-8.png) face-8.png
 
-![face9.png](Characters/BlockyParts/face9.png) face9.png
+![face-9.png](Characters/BlockyParts/face-9.png) face-9.png
 
 ![hand-closed.png](Characters/BlockyParts/hand-closed.png) hand-closed.png
 
@@ -412,283 +412,283 @@
 
 ![hand-thumb.png](Characters/BlockyParts/hand-thumb.png) hand-thumb.png
 
-![bunny1-hurt.png](Characters/Bunnies/bunny1-hurt.png) bunny1-hurt.png
+![bunny-1-hurt.png](Characters/Bunnies/bunny-1-hurt.png) bunny-1-hurt.png
 
-![bunny1-jump.png](Characters/Bunnies/bunny1-jump.png) bunny1-jump.png
+![bunny-1-jump.png](Characters/Bunnies/bunny-1-jump.png) bunny-1-jump.png
 
-![bunny1-ready.png](Characters/Bunnies/bunny1-ready.png) bunny1-ready.png
+![bunny-1-ready.png](Characters/Bunnies/bunny-1-ready.png) bunny-1-ready.png
 
-![bunny1-stand.png](Characters/Bunnies/bunny1-stand.png) bunny1-stand.png
+![bunny-1-stand.png](Characters/Bunnies/bunny-1-stand.png) bunny-1-stand.png
 
-![bunny1-walk1.png](Characters/Bunnies/bunny1-walk1.png) bunny1-walk1.png
+![bunny-1-walk1.png](Characters/Bunnies/bunny-1-walk1.png) bunny-1-walk1.png
 
-![bunny1-walk2.png](Characters/Bunnies/bunny1-walk2.png) bunny1-walk2.png
+![bunny-1-walk2.png](Characters/Bunnies/bunny-1-walk2.png) bunny-1-walk2.png
 
-![bunny2-hurt.png](Characters/Bunnies/bunny2-hurt.png) bunny2-hurt.png
+![bunny-2-hurt.png](Characters/Bunnies/bunny-2-hurt.png) bunny-2-hurt.png
 
-![bunny2-jump.png](Characters/Bunnies/bunny2-jump.png) bunny2-jump.png
+![bunny-2-jump.png](Characters/Bunnies/bunny-2-jump.png) bunny-2-jump.png
 
-![bunny2-ready.png](Characters/Bunnies/bunny2-ready.png) bunny2-ready.png
+![bunny-2-ready.png](Characters/Bunnies/bunny-2-ready.png) bunny-2-ready.png
 
-![bunny2-stand.png](Characters/Bunnies/bunny2-stand.png) bunny2-stand.png
+![bunny-2-stand.png](Characters/Bunnies/bunny-2-stand.png) bunny-2-stand.png
 
-![bunny2-walk1.png](Characters/Bunnies/bunny2-walk1.png) bunny2-walk1.png
+![bunny-2-walk1.png](Characters/Bunnies/bunny-2-walk1.png) bunny-2-walk1.png
 
-![bunny2-walk2.png](Characters/Bunnies/bunny2-walk2.png) bunny2-walk2.png
+![bunny-2-walk2.png](Characters/Bunnies/bunny-2-walk2.png) bunny-2-walk2.png
 
-![cat-fall1.png](Characters/Cat/cat-fall1.png) cat-fall1.png
+![cat-fall-1.png](Characters/Cat/cat-fall-1.png) cat-fall-1.png
 
-![cat-fall2.png](Characters/Cat/cat-fall2.png) cat-fall2.png
+![cat-fall-2.png](Characters/Cat/cat-fall-2.png) cat-fall-2.png
 
-![cat-fall3.png](Characters/Cat/cat-fall3.png) cat-fall3.png
+![cat-fall-3.png](Characters/Cat/cat-fall-3.png) cat-fall-3.png
 
-![cat-fall4.png](Characters/Cat/cat-fall4.png) cat-fall4.png
+![cat-fall-4.png](Characters/Cat/cat-fall-4.png) cat-fall-4.png
 
-![cat-fall5.png](Characters/Cat/cat-fall5.png) cat-fall5.png
+![cat-fall-5.png](Characters/Cat/cat-fall-5.png) cat-fall-5.png
 
-![cat-fall6.png](Characters/Cat/cat-fall6.png) cat-fall6.png
+![cat-fall-6.png](Characters/Cat/cat-fall-6.png) cat-fall-6.png
 
-![cat-fall7.png](Characters/Cat/cat-fall7.png) cat-fall7.png
+![cat-fall-7.png](Characters/Cat/cat-fall-7.png) cat-fall-7.png
 
-![cat-fall8.png](Characters/Cat/cat-fall8.png) cat-fall8.png
+![cat-fall-8.png](Characters/Cat/cat-fall-8.png) cat-fall-8.png
 
-![cat-idle1.png](Characters/Cat/cat-idle1.png) cat-idle1.png
+![cat-idle-1.png](Characters/Cat/cat-idle-1.png) cat-idle-1.png
 
-![cat-idle10.png](Characters/Cat/cat-idle10.png) cat-idle10.png
+![cat-idle-10.png](Characters/Cat/cat-idle-10.png) cat-idle-10.png
 
-![cat-idle2.png](Characters/Cat/cat-idle2.png) cat-idle2.png
+![cat-idle-2.png](Characters/Cat/cat-idle-2.png) cat-idle-2.png
 
-![cat-idle3.png](Characters/Cat/cat-idle3.png) cat-idle3.png
+![cat-idle-3.png](Characters/Cat/cat-idle-3.png) cat-idle-3.png
 
-![cat-idle4.png](Characters/Cat/cat-idle4.png) cat-idle4.png
+![cat-idle-4.png](Characters/Cat/cat-idle-4.png) cat-idle-4.png
 
-![cat-idle5.png](Characters/Cat/cat-idle5.png) cat-idle5.png
+![cat-idle-5.png](Characters/Cat/cat-idle-5.png) cat-idle-5.png
 
-![cat-idle6.png](Characters/Cat/cat-idle6.png) cat-idle6.png
+![cat-idle-6.png](Characters/Cat/cat-idle-6.png) cat-idle-6.png
 
-![cat-idle7.png](Characters/Cat/cat-idle7.png) cat-idle7.png
+![cat-idle-7.png](Characters/Cat/cat-idle-7.png) cat-idle-7.png
 
-![cat-idle8.png](Characters/Cat/cat-idle8.png) cat-idle8.png
+![cat-idle-8.png](Characters/Cat/cat-idle-8.png) cat-idle-8.png
 
-![cat-idle9.png](Characters/Cat/cat-idle9.png) cat-idle9.png
+![cat-idle-9.png](Characters/Cat/cat-idle-9.png) cat-idle-9.png
 
-![cat-jump1.png](Characters/Cat/cat-jump1.png) cat-jump1.png
+![cat-jump-1.png](Characters/Cat/cat-jump-1.png) cat-jump-1.png
 
-![cat-jump2.png](Characters/Cat/cat-jump2.png) cat-jump2.png
+![cat-jump-2.png](Characters/Cat/cat-jump-2.png) cat-jump-2.png
 
-![cat-jump3.png](Characters/Cat/cat-jump3.png) cat-jump3.png
+![cat-jump-3.png](Characters/Cat/cat-jump-3.png) cat-jump-3.png
 
-![cat-jump4.png](Characters/Cat/cat-jump4.png) cat-jump4.png
+![cat-jump-4.png](Characters/Cat/cat-jump-4.png) cat-jump-4.png
 
-![cat-jump5.png](Characters/Cat/cat-jump5.png) cat-jump5.png
+![cat-jump-5.png](Characters/Cat/cat-jump-5.png) cat-jump-5.png
 
-![cat-jump6.png](Characters/Cat/cat-jump6.png) cat-jump6.png
+![cat-jump-6.png](Characters/Cat/cat-jump-6.png) cat-jump-6.png
 
-![cat-jump7.png](Characters/Cat/cat-jump7.png) cat-jump7.png
+![cat-jump-7.png](Characters/Cat/cat-jump-7.png) cat-jump-7.png
 
-![cat-jump8.png](Characters/Cat/cat-jump8.png) cat-jump8.png
+![cat-jump-8.png](Characters/Cat/cat-jump-8.png) cat-jump-8.png
 
-![cat-run1.png](Characters/Cat/cat-run1.png) cat-run1.png
+![cat-run-1.png](Characters/Cat/cat-run-1.png) cat-run-1.png
 
-![cat-run2.png](Characters/Cat/cat-run2.png) cat-run2.png
+![cat-run-2.png](Characters/Cat/cat-run-2.png) cat-run-2.png
 
-![cat-run3.png](Characters/Cat/cat-run3.png) cat-run3.png
+![cat-run-3.png](Characters/Cat/cat-run-3.png) cat-run-3.png
 
-![cat-run4.png](Characters/Cat/cat-run4.png) cat-run4.png
+![cat-run-4.png](Characters/Cat/cat-run-4.png) cat-run-4.png
 
-![cat-run5.png](Characters/Cat/cat-run5.png) cat-run5.png
+![cat-run-5.png](Characters/Cat/cat-run-5.png) cat-run-5.png
 
-![cat-run6.png](Characters/Cat/cat-run6.png) cat-run6.png
+![cat-run-6.png](Characters/Cat/cat-run-6.png) cat-run-6.png
 
-![cat-run7.png](Characters/Cat/cat-run7.png) cat-run7.png
+![cat-run-7.png](Characters/Cat/cat-run-7.png) cat-run-7.png
 
-![cat-run8.png](Characters/Cat/cat-run8.png) cat-run8.png
+![cat-run-8.png](Characters/Cat/cat-run-8.png) cat-run-8.png
 
-![cat-slide1.png](Characters/Cat/cat-slide1.png) cat-slide1.png
+![cat-slide-1.png](Characters/Cat/cat-slide-1.png) cat-slide-1.png
 
-![cat-slide10.png](Characters/Cat/cat-slide10.png) cat-slide10.png
+![cat-slide-10.png](Characters/Cat/cat-slide-10.png) cat-slide-10.png
 
-![cat-slide2.png](Characters/Cat/cat-slide2.png) cat-slide2.png
+![cat-slide-2.png](Characters/Cat/cat-slide-2.png) cat-slide-2.png
 
-![cat-slide3.png](Characters/Cat/cat-slide3.png) cat-slide3.png
+![cat-slide-3.png](Characters/Cat/cat-slide-3.png) cat-slide-3.png
 
-![cat-slide4.png](Characters/Cat/cat-slide4.png) cat-slide4.png
+![cat-slide-4.png](Characters/Cat/cat-slide-4.png) cat-slide-4.png
 
-![cat-slide5.png](Characters/Cat/cat-slide5.png) cat-slide5.png
+![cat-slide-5.png](Characters/Cat/cat-slide-5.png) cat-slide-5.png
 
-![cat-slide6.png](Characters/Cat/cat-slide6.png) cat-slide6.png
+![cat-slide-6.png](Characters/Cat/cat-slide-6.png) cat-slide-6.png
 
-![cat-slide7.png](Characters/Cat/cat-slide7.png) cat-slide7.png
+![cat-slide-7.png](Characters/Cat/cat-slide-7.png) cat-slide-7.png
 
-![cat-slide8.png](Characters/Cat/cat-slide8.png) cat-slide8.png
+![cat-slide-8.png](Characters/Cat/cat-slide-8.png) cat-slide-8.png
 
-![cat-slide9.png](Characters/Cat/cat-slide9.png) cat-slide9.png
+![cat-slide-9.png](Characters/Cat/cat-slide-9.png) cat-slide-9.png
 
-![cat-tired1.png](Characters/Cat/cat-tired1.png) cat-tired1.png
+![cat-tired-1.png](Characters/Cat/cat-tired-1.png) cat-tired-1.png
 
-![cat-tired10.png](Characters/Cat/cat-tired10.png) cat-tired10.png
+![cat-tired-10.png](Characters/Cat/cat-tired-10.png) cat-tired-10.png
 
-![cat-tired2.png](Characters/Cat/cat-tired2.png) cat-tired2.png
+![cat-tired-2.png](Characters/Cat/cat-tired-2.png) cat-tired-2.png
 
-![cat-tired3.png](Characters/Cat/cat-tired3.png) cat-tired3.png
+![cat-tired-3.png](Characters/Cat/cat-tired-3.png) cat-tired-3.png
 
-![cat-tired4.png](Characters/Cat/cat-tired4.png) cat-tired4.png
+![cat-tired-4.png](Characters/Cat/cat-tired-4.png) cat-tired-4.png
 
-![cat-tired5.png](Characters/Cat/cat-tired5.png) cat-tired5.png
+![cat-tired-5.png](Characters/Cat/cat-tired-5.png) cat-tired-5.png
 
-![cat-tired6.png](Characters/Cat/cat-tired6.png) cat-tired6.png
+![cat-tired-6.png](Characters/Cat/cat-tired-6.png) cat-tired-6.png
 
-![cat-tired7.png](Characters/Cat/cat-tired7.png) cat-tired7.png
+![cat-tired-7.png](Characters/Cat/cat-tired-7.png) cat-tired-7.png
 
-![cat-tired8.png](Characters/Cat/cat-tired8.png) cat-tired8.png
+![cat-tired-8.png](Characters/Cat/cat-tired-8.png) cat-tired-8.png
 
-![cat-tired9.png](Characters/Cat/cat-tired9.png) cat-tired9.png
+![cat-tired-9.png](Characters/Cat/cat-tired-9.png) cat-tired-9.png
 
-![cat-walk1.png](Characters/Cat/cat-walk1.png) cat-walk1.png
+![cat-walk-1.png](Characters/Cat/cat-walk-1.png) cat-walk-1.png
 
-![cat-walk10.png](Characters/Cat/cat-walk10.png) cat-walk10.png
+![cat-walk-10.png](Characters/Cat/cat-walk-10.png) cat-walk-10.png
 
-![cat-walk2.png](Characters/Cat/cat-walk2.png) cat-walk2.png
+![cat-walk-2.png](Characters/Cat/cat-walk-2.png) cat-walk-2.png
 
-![cat-walk3.png](Characters/Cat/cat-walk3.png) cat-walk3.png
+![cat-walk-3.png](Characters/Cat/cat-walk-3.png) cat-walk-3.png
 
-![cat-walk4.png](Characters/Cat/cat-walk4.png) cat-walk4.png
+![cat-walk-4.png](Characters/Cat/cat-walk-4.png) cat-walk-4.png
 
-![cat-walk5.png](Characters/Cat/cat-walk5.png) cat-walk5.png
+![cat-walk-5.png](Characters/Cat/cat-walk-5.png) cat-walk-5.png
 
-![cat-walk6.png](Characters/Cat/cat-walk6.png) cat-walk6.png
+![cat-walk-6.png](Characters/Cat/cat-walk-6.png) cat-walk-6.png
 
-![cat-walk7.png](Characters/Cat/cat-walk7.png) cat-walk7.png
+![cat-walk-7.png](Characters/Cat/cat-walk-7.png) cat-walk-7.png
 
-![cat-walk8.png](Characters/Cat/cat-walk8.png) cat-walk8.png
+![cat-walk-8.png](Characters/Cat/cat-walk-8.png) cat-walk-8.png
 
-![cat-walk9.png](Characters/Cat/cat-walk9.png) cat-walk9.png
+![cat-walk-9.png](Characters/Cat/cat-walk-9.png) cat-walk-9.png
 
-![antennaA.png](Characters/CreatureParts/antennaA.png) antennaA.png
+![antenna-a.png](Characters/CreatureParts/antenna-a.png) antenna-a.png
 
-![antennaB.png](Characters/CreatureParts/antennaB.png) antennaB.png
+![antenna-b.png](Characters/CreatureParts/antenna-b.png) antenna-b.png
 
-![antennaC.png](Characters/CreatureParts/antennaC.png) antennaC.png
+![antenna-c.png](Characters/CreatureParts/antenna-c.png) antenna-c.png
 
-![armA.png](Characters/CreatureParts/armA.png) armA.png
+![arm-a.png](Characters/CreatureParts/arm-a.png) arm-a.png
 
-![armB.png](Characters/CreatureParts/armB.png) armB.png
+![arm-b.png](Characters/CreatureParts/arm-b.png) arm-b.png
 
-![armC.png](Characters/CreatureParts/armC.png) armC.png
+![arm-c.png](Characters/CreatureParts/arm-c.png) arm-c.png
 
-![armD.png](Characters/CreatureParts/armD.png) armD.png
+![arm-d.png](Characters/CreatureParts/arm-d.png) arm-d.png
 
-![armE.png](Characters/CreatureParts/armE.png) armE.png
+![arm-e.png](Characters/CreatureParts/arm-e.png) arm-e.png
 
-![bodyA.png](Characters/CreatureParts/bodyA.png) bodyA.png
+![body-a.png](Characters/CreatureParts/body-a.png) body-a.png
 
-![bodyB.png](Characters/CreatureParts/bodyB.png) bodyB.png
+![body-b.png](Characters/CreatureParts/body-b.png) body-b.png
 
-![bodyC.png](Characters/CreatureParts/bodyC.png) bodyC.png
+![body-c.png](Characters/CreatureParts/body-c.png) body-c.png
 
-![bodyD.png](Characters/CreatureParts/bodyD.png) bodyD.png
+![body-d.png](Characters/CreatureParts/body-d.png) body-d.png
 
-![bodyE.png](Characters/CreatureParts/bodyE.png) bodyE.png
+![body-e.png](Characters/CreatureParts/body-e.png) body-e.png
 
-![bodyF.png](Characters/CreatureParts/bodyF.png) bodyF.png
+![body-f.png](Characters/CreatureParts/body-f.png) body-f.png
 
-![browA.png](Characters/CreatureParts/browA.png) browA.png
+![brow-a.png](Characters/CreatureParts/brow-a.png) brow-a.png
 
-![browB.png](Characters/CreatureParts/browB.png) browB.png
+![brow-b.png](Characters/CreatureParts/brow-b.png) brow-b.png
 
-![browC.png](Characters/CreatureParts/browC.png) browC.png
+![brow-c.png](Characters/CreatureParts/brow-c.png) brow-c.png
 
-![dropA.png](Characters/CreatureParts/dropA.png) dropA.png
+![drop-a.png](Characters/CreatureParts/drop-a.png) drop-a.png
 
-![dropB.png](Characters/CreatureParts/dropB.png) dropB.png
+![drop-b.png](Characters/CreatureParts/drop-b.png) drop-b.png
 
-![earA.png](Characters/CreatureParts/earA.png) earA.png
+![ear-a.png](Characters/CreatureParts/ear-a.png) ear-a.png
 
-![earB.png](Characters/CreatureParts/earB.png) earB.png
+![ear-b.png](Characters/CreatureParts/ear-b.png) ear-b.png
 
-![eyeA.png](Characters/CreatureParts/eyeA.png) eyeA.png
+![eye-a.png](Characters/CreatureParts/eye-a.png) eye-a.png
 
-![eyeB.png](Characters/CreatureParts/eyeB.png) eyeB.png
+![eye-b.png](Characters/CreatureParts/eye-b.png) eye-b.png
 
-![eyeC.png](Characters/CreatureParts/eyeC.png) eyeC.png
+![eye-c.png](Characters/CreatureParts/eye-c.png) eye-c.png
 
-![eyeD.png](Characters/CreatureParts/eyeD.png) eyeD.png
+![eye-d.png](Characters/CreatureParts/eye-d.png) eye-d.png
 
-![eyeE.png](Characters/CreatureParts/eyeE.png) eyeE.png
+![eye-e.png](Characters/CreatureParts/eye-e.png) eye-e.png
 
-![eyeF.png](Characters/CreatureParts/eyeF.png) eyeF.png
+![eye-f.png](Characters/CreatureParts/eye-f.png) eye-f.png
 
-![eyeG.png](Characters/CreatureParts/eyeG.png) eyeG.png
+![eye-g.png](Characters/CreatureParts/eye-g.png) eye-g.png
 
-![eyeH.png](Characters/CreatureParts/eyeH.png) eyeH.png
+![eye-h.png](Characters/CreatureParts/eye-h.png) eye-h.png
 
-![eyeI.png](Characters/CreatureParts/eyeI.png) eyeI.png
+![eye-i.png](Characters/CreatureParts/eye-i.png) eye-i.png
 
-![eyeJ.png](Characters/CreatureParts/eyeJ.png) eyeJ.png
+![eye-j.png](Characters/CreatureParts/eye-j.png) eye-j.png
 
-![eyeK.png](Characters/CreatureParts/eyeK.png) eyeK.png
+![eye-k.png](Characters/CreatureParts/eye-k.png) eye-k.png
 
-![eyeL.png](Characters/CreatureParts/eyeL.png) eyeL.png
+![eye-l.png](Characters/CreatureParts/eye-l.png) eye-l.png
 
-![eyeM.png](Characters/CreatureParts/eyeM.png) eyeM.png
+![eye-m.png](Characters/CreatureParts/eye-m.png) eye-m.png
 
-![eyeN.png](Characters/CreatureParts/eyeN.png) eyeN.png
+![eye-n.png](Characters/CreatureParts/eye-n.png) eye-n.png
 
-![eyeO.png](Characters/CreatureParts/eyeO.png) eyeO.png
+![eye-o.png](Characters/CreatureParts/eye-o.png) eye-o.png
 
-![eyeP.png](Characters/CreatureParts/eyeP.png) eyeP.png
+![eye-p.png](Characters/CreatureParts/eye-p.png) eye-p.png
 
-![eyeQ.png](Characters/CreatureParts/eyeQ.png) eyeQ.png
+![eye-q.png](Characters/CreatureParts/eye-q.png) eye-q.png
 
-![hornA.png](Characters/CreatureParts/hornA.png) hornA.png
+![horn-a.png](Characters/CreatureParts/horn-a.png) horn-a.png
 
-![hornB.png](Characters/CreatureParts/hornB.png) hornB.png
+![horn-b.png](Characters/CreatureParts/horn-b.png) horn-b.png
 
-![legA.png](Characters/CreatureParts/legA.png) legA.png
+![leg-a.png](Characters/CreatureParts/leg-a.png) leg-a.png
 
-![legB.png](Characters/CreatureParts/legB.png) legB.png
+![leg-b.png](Characters/CreatureParts/leg-b.png) leg-b.png
 
-![legC.png](Characters/CreatureParts/legC.png) legC.png
+![leg-c.png](Characters/CreatureParts/leg-c.png) leg-c.png
 
-![legD.png](Characters/CreatureParts/legD.png) legD.png
+![leg-d.png](Characters/CreatureParts/leg-d.png) leg-d.png
 
-![legE.png](Characters/CreatureParts/legE.png) legE.png
+![leg-e.png](Characters/CreatureParts/leg-e.png) leg-e.png
 
-![mouthA.png](Characters/CreatureParts/mouthA.png) mouthA.png
+![mouth-a.png](Characters/CreatureParts/mouth-a.png) mouth-a.png
 
-![mouthB.png](Characters/CreatureParts/mouthB.png) mouthB.png
+![mouth-b.png](Characters/CreatureParts/mouth-b.png) mouth-b.png
 
-![mouthC.png](Characters/CreatureParts/mouthC.png) mouthC.png
+![mouth-c.png](Characters/CreatureParts/mouth-c.png) mouth-c.png
 
-![mouthD.png](Characters/CreatureParts/mouthD.png) mouthD.png
+![mouth-d.png](Characters/CreatureParts/mouth-d.png) mouth-d.png
 
-![mouthE.png](Characters/CreatureParts/mouthE.png) mouthE.png
+![mouth-e.png](Characters/CreatureParts/mouth-e.png) mouth-e.png
 
-![mouthF.png](Characters/CreatureParts/mouthF.png) mouthF.png
+![mouth-f.png](Characters/CreatureParts/mouth-f.png) mouth-f.png
 
-![mouthG.png](Characters/CreatureParts/mouthG.png) mouthG.png
+![mouth-g.png](Characters/CreatureParts/mouth-g.png) mouth-g.png
 
-![mouthH.png](Characters/CreatureParts/mouthH.png) mouthH.png
+![mouth-h.png](Characters/CreatureParts/mouth-h.png) mouth-h.png
 
-![mouthI.png](Characters/CreatureParts/mouthI.png) mouthI.png
+![mouth-i.png](Characters/CreatureParts/mouth-i.png) mouth-i.png
 
-![mouthJ.png](Characters/CreatureParts/mouthJ.png) mouthJ.png
+![mouth-j.png](Characters/CreatureParts/mouth-j.png) mouth-j.png
 
-![mouthK.png](Characters/CreatureParts/mouthK.png) mouthK.png
+![mouth-k.png](Characters/CreatureParts/mouth-k.png) mouth-k.png
 
-![mouthL.png](Characters/CreatureParts/mouthL.png) mouthL.png
+![mouth-l.png](Characters/CreatureParts/mouth-l.png) mouth-l.png
 
-![mouthM.png](Characters/CreatureParts/mouthM.png) mouthM.png
+![mouth-m.png](Characters/CreatureParts/mouth-m.png) mouth-m.png
 
-![mouthN.png](Characters/CreatureParts/mouthN.png) mouthN.png
+![mouth-n.png](Characters/CreatureParts/mouth-n.png) mouth-n.png
 
-![noseA.png](Characters/CreatureParts/noseA.png) noseA.png
+![nose-a.png](Characters/CreatureParts/nose-a.png) nose-a.png
 
-![noseB.png](Characters/CreatureParts/noseB.png) noseB.png
+![nose-b.png](Characters/CreatureParts/nose-b.png) nose-b.png
 
-![noseC.png](Characters/CreatureParts/noseC.png) noseC.png
+![nose-c.png](Characters/CreatureParts/nose-c.png) nose-c.png
 
-![noseD.png](Characters/CreatureParts/noseD.png) noseD.png
+![nose-d.png](Characters/CreatureParts/nose-d.png) nose-d.png
 
 ![cute-bear.png](Characters/CuteAnimals/cute-bear.png) cute-bear.png
 
@@ -790,295 +790,295 @@
 
 ![round-zebra.png](Characters/CuteAnimals/round-zebra.png) round-zebra.png
 
-![dog-fall1.png](Characters/Dog/dog-fall1.png) dog-fall1.png
+![dog-fall-1.png](Characters/Dog/dog-fall-1.png) dog-fall-1.png
 
-![dog-fall2.png](Characters/Dog/dog-fall2.png) dog-fall2.png
+![dog-fall-2.png](Characters/Dog/dog-fall-2.png) dog-fall-2.png
 
-![dog-fall3.png](Characters/Dog/dog-fall3.png) dog-fall3.png
+![dog-fall-3.png](Characters/Dog/dog-fall-3.png) dog-fall-3.png
 
-![dog-fall4.png](Characters/Dog/dog-fall4.png) dog-fall4.png
+![dog-fall-4.png](Characters/Dog/dog-fall-4.png) dog-fall-4.png
 
-![dog-fall5.png](Characters/Dog/dog-fall5.png) dog-fall5.png
+![dog-fall-5.png](Characters/Dog/dog-fall-5.png) dog-fall-5.png
 
-![dog-fall6.png](Characters/Dog/dog-fall6.png) dog-fall6.png
+![dog-fall-6.png](Characters/Dog/dog-fall-6.png) dog-fall-6.png
 
-![dog-fall7.png](Characters/Dog/dog-fall7.png) dog-fall7.png
+![dog-fall-7.png](Characters/Dog/dog-fall-7.png) dog-fall-7.png
 
-![dog-fall8.png](Characters/Dog/dog-fall8.png) dog-fall8.png
+![dog-fall-8.png](Characters/Dog/dog-fall-8.png) dog-fall-8.png
 
-![dog-idle1.png](Characters/Dog/dog-idle1.png) dog-idle1.png
+![dog-idle-1.png](Characters/Dog/dog-idle-1.png) dog-idle-1.png
 
-![dog-idle10.png](Characters/Dog/dog-idle10.png) dog-idle10.png
+![dog-idle-10.png](Characters/Dog/dog-idle-10.png) dog-idle-10.png
 
-![dog-idle2.png](Characters/Dog/dog-idle2.png) dog-idle2.png
+![dog-idle-2.png](Characters/Dog/dog-idle-2.png) dog-idle-2.png
 
-![dog-idle3.png](Characters/Dog/dog-idle3.png) dog-idle3.png
+![dog-idle-3.png](Characters/Dog/dog-idle-3.png) dog-idle-3.png
 
-![dog-idle4.png](Characters/Dog/dog-idle4.png) dog-idle4.png
+![dog-idle-4.png](Characters/Dog/dog-idle-4.png) dog-idle-4.png
 
-![dog-idle5.png](Characters/Dog/dog-idle5.png) dog-idle5.png
+![dog-idle-5.png](Characters/Dog/dog-idle-5.png) dog-idle-5.png
 
-![dog-idle6.png](Characters/Dog/dog-idle6.png) dog-idle6.png
+![dog-idle-6.png](Characters/Dog/dog-idle-6.png) dog-idle-6.png
 
-![dog-idle7.png](Characters/Dog/dog-idle7.png) dog-idle7.png
+![dog-idle-7.png](Characters/Dog/dog-idle-7.png) dog-idle-7.png
 
-![dog-idle8.png](Characters/Dog/dog-idle8.png) dog-idle8.png
+![dog-idle-8.png](Characters/Dog/dog-idle-8.png) dog-idle-8.png
 
-![dog-idle9.png](Characters/Dog/dog-idle9.png) dog-idle9.png
+![dog-idle-9.png](Characters/Dog/dog-idle-9.png) dog-idle-9.png
 
-![dog-jump1.png](Characters/Dog/dog-jump1.png) dog-jump1.png
+![dog-jump-1.png](Characters/Dog/dog-jump-1.png) dog-jump-1.png
 
-![dog-jump2.png](Characters/Dog/dog-jump2.png) dog-jump2.png
+![dog-jump-2.png](Characters/Dog/dog-jump-2.png) dog-jump-2.png
 
-![dog-jump3.png](Characters/Dog/dog-jump3.png) dog-jump3.png
+![dog-jump-3.png](Characters/Dog/dog-jump-3.png) dog-jump-3.png
 
-![dog-jump4.png](Characters/Dog/dog-jump4.png) dog-jump4.png
+![dog-jump-4.png](Characters/Dog/dog-jump-4.png) dog-jump-4.png
 
-![dog-jump5.png](Characters/Dog/dog-jump5.png) dog-jump5.png
+![dog-jump-5.png](Characters/Dog/dog-jump-5.png) dog-jump-5.png
 
-![dog-jump6.png](Characters/Dog/dog-jump6.png) dog-jump6.png
+![dog-jump-6.png](Characters/Dog/dog-jump-6.png) dog-jump-6.png
 
-![dog-jump7.png](Characters/Dog/dog-jump7.png) dog-jump7.png
+![dog-jump-7.png](Characters/Dog/dog-jump-7.png) dog-jump-7.png
 
-![dog-jump8.png](Characters/Dog/dog-jump8.png) dog-jump8.png
+![dog-jump-8.png](Characters/Dog/dog-jump-8.png) dog-jump-8.png
 
-![dog-run1.png](Characters/Dog/dog-run1.png) dog-run1.png
+![dog-run-1.png](Characters/Dog/dog-run-1.png) dog-run-1.png
 
-![dog-run2.png](Characters/Dog/dog-run2.png) dog-run2.png
+![dog-run-2.png](Characters/Dog/dog-run-2.png) dog-run-2.png
 
-![dog-run3.png](Characters/Dog/dog-run3.png) dog-run3.png
+![dog-run-3.png](Characters/Dog/dog-run-3.png) dog-run-3.png
 
-![dog-run4.png](Characters/Dog/dog-run4.png) dog-run4.png
+![dog-run-4.png](Characters/Dog/dog-run-4.png) dog-run-4.png
 
-![dog-run5.png](Characters/Dog/dog-run5.png) dog-run5.png
+![dog-run-5.png](Characters/Dog/dog-run-5.png) dog-run-5.png
 
-![dog-run6.png](Characters/Dog/dog-run6.png) dog-run6.png
+![dog-run-6.png](Characters/Dog/dog-run-6.png) dog-run-6.png
 
-![dog-run7.png](Characters/Dog/dog-run7.png) dog-run7.png
+![dog-run-7.png](Characters/Dog/dog-run-7.png) dog-run-7.png
 
-![dog-run8.png](Characters/Dog/dog-run8.png) dog-run8.png
+![dog-run-8.png](Characters/Dog/dog-run-8.png) dog-run-8.png
 
-![dog-slide1.png](Characters/Dog/dog-slide1.png) dog-slide1.png
+![dog-slide-1.png](Characters/Dog/dog-slide-1.png) dog-slide-1.png
 
-![dog-slide10.png](Characters/Dog/dog-slide10.png) dog-slide10.png
+![dog-slide-10.png](Characters/Dog/dog-slide-10.png) dog-slide-10.png
 
-![dog-slide2.png](Characters/Dog/dog-slide2.png) dog-slide2.png
+![dog-slide-2.png](Characters/Dog/dog-slide-2.png) dog-slide-2.png
 
-![dog-slide3.png](Characters/Dog/dog-slide3.png) dog-slide3.png
+![dog-slide-3.png](Characters/Dog/dog-slide-3.png) dog-slide-3.png
 
-![dog-slide4.png](Characters/Dog/dog-slide4.png) dog-slide4.png
+![dog-slide-4.png](Characters/Dog/dog-slide-4.png) dog-slide-4.png
 
-![dog-slide5.png](Characters/Dog/dog-slide5.png) dog-slide5.png
+![dog-slide-5.png](Characters/Dog/dog-slide-5.png) dog-slide-5.png
 
-![dog-slide6.png](Characters/Dog/dog-slide6.png) dog-slide6.png
+![dog-slide-6.png](Characters/Dog/dog-slide-6.png) dog-slide-6.png
 
-![dog-slide7.png](Characters/Dog/dog-slide7.png) dog-slide7.png
+![dog-slide-7.png](Characters/Dog/dog-slide-7.png) dog-slide-7.png
 
-![dog-slide8.png](Characters/Dog/dog-slide8.png) dog-slide8.png
+![dog-slide-8.png](Characters/Dog/dog-slide-8.png) dog-slide-8.png
 
-![dog-slide9.png](Characters/Dog/dog-slide9.png) dog-slide9.png
+![dog-slide-9.png](Characters/Dog/dog-slide-9.png) dog-slide-9.png
 
-![dog-tired1.png](Characters/Dog/dog-tired1.png) dog-tired1.png
+![dog-tired-1.png](Characters/Dog/dog-tired-1.png) dog-tired-1.png
 
-![dog-tired10.png](Characters/Dog/dog-tired10.png) dog-tired10.png
+![dog-tired-10.png](Characters/Dog/dog-tired-10.png) dog-tired-10.png
 
-![dog-tired2.png](Characters/Dog/dog-tired2.png) dog-tired2.png
+![dog-tired-2.png](Characters/Dog/dog-tired-2.png) dog-tired-2.png
 
-![dog-tired3.png](Characters/Dog/dog-tired3.png) dog-tired3.png
+![dog-tired-3.png](Characters/Dog/dog-tired-3.png) dog-tired-3.png
 
-![dog-tired4.png](Characters/Dog/dog-tired4.png) dog-tired4.png
+![dog-tired-4.png](Characters/Dog/dog-tired-4.png) dog-tired-4.png
 
-![dog-tired5.png](Characters/Dog/dog-tired5.png) dog-tired5.png
+![dog-tired-5.png](Characters/Dog/dog-tired-5.png) dog-tired-5.png
 
-![dog-tired6.png](Characters/Dog/dog-tired6.png) dog-tired6.png
+![dog-tired-6.png](Characters/Dog/dog-tired-6.png) dog-tired-6.png
 
-![dog-tired7.png](Characters/Dog/dog-tired7.png) dog-tired7.png
+![dog-tired-7.png](Characters/Dog/dog-tired-7.png) dog-tired-7.png
 
-![dog-tired8.png](Characters/Dog/dog-tired8.png) dog-tired8.png
+![dog-tired-8.png](Characters/Dog/dog-tired-8.png) dog-tired-8.png
 
-![dog-tired9.png](Characters/Dog/dog-tired9.png) dog-tired9.png
+![dog-tired-9.png](Characters/Dog/dog-tired-9.png) dog-tired-9.png
 
-![dog-walk1.png](Characters/Dog/dog-walk1.png) dog-walk1.png
+![dog-walk-1.png](Characters/Dog/dog-walk-1.png) dog-walk-1.png
 
-![dog-walk10.png](Characters/Dog/dog-walk10.png) dog-walk10.png
+![dog-walk-10.png](Characters/Dog/dog-walk-10.png) dog-walk-10.png
 
-![dog-walk2.png](Characters/Dog/dog-walk2.png) dog-walk2.png
+![dog-walk-2.png](Characters/Dog/dog-walk-2.png) dog-walk-2.png
 
-![dog-walk3.png](Characters/Dog/dog-walk3.png) dog-walk3.png
+![dog-walk-3.png](Characters/Dog/dog-walk-3.png) dog-walk-3.png
 
-![dog-walk4.png](Characters/Dog/dog-walk4.png) dog-walk4.png
+![dog-walk-4.png](Characters/Dog/dog-walk-4.png) dog-walk-4.png
 
-![dog-walk5.png](Characters/Dog/dog-walk5.png) dog-walk5.png
+![dog-walk-5.png](Characters/Dog/dog-walk-5.png) dog-walk-5.png
 
-![dog-walk6.png](Characters/Dog/dog-walk6.png) dog-walk6.png
+![dog-walk-6.png](Characters/Dog/dog-walk-6.png) dog-walk-6.png
 
-![dog-walk7.png](Characters/Dog/dog-walk7.png) dog-walk7.png
+![dog-walk-7.png](Characters/Dog/dog-walk-7.png) dog-walk-7.png
 
-![dog-walk8.png](Characters/Dog/dog-walk8.png) dog-walk8.png
+![dog-walk-8.png](Characters/Dog/dog-walk-8.png) dog-walk-8.png
 
-![dog-walk9.png](Characters/Dog/dog-walk9.png) dog-walk9.png
+![dog-walk-9.png](Characters/Dog/dog-walk-9.png) dog-walk-9.png
 
-![barnacle0.png](Characters/Enemies/barnacle0.png) barnacle0.png
+![barnacle-0.png](Characters/Enemies/barnacle-0.png) barnacle-0.png
 
-![barnacle1.png](Characters/Enemies/barnacle1.png) barnacle1.png
+![barnacle-1.png](Characters/Enemies/barnacle-1.png) barnacle-1.png
 
-![barnacle3.png](Characters/Enemies/barnacle3.png) barnacle3.png
+![barnacle-3.png](Characters/Enemies/barnacle-3.png) barnacle-3.png
 
-![bee0.png](Characters/Enemies/bee0.png) bee0.png
+![bee-0.png](Characters/Enemies/bee-0.png) bee-0.png
 
-![bee1.png](Characters/Enemies/bee1.png) bee1.png
+![bee-1.png](Characters/Enemies/bee-1.png) bee-1.png
 
-![bee2.png](Characters/Enemies/bee2.png) bee2.png
+![bee-2.png](Characters/Enemies/bee-2.png) bee-2.png
 
 ![cloud.png](Characters/Enemies/cloud.png) cloud.png
 
-![fishy0.png](Characters/Enemies/fishy0.png) fishy0.png
+![fishy-0.png](Characters/Enemies/fishy-0.png) fishy-0.png
 
-![fishy1.png](Characters/Enemies/fishy1.png) fishy1.png
+![fishy-1.png](Characters/Enemies/fishy-1.png) fishy-1.png
 
-![fishy2.png](Characters/Enemies/fishy2.png) fishy2.png
+![fishy-2.png](Characters/Enemies/fishy-2.png) fishy-2.png
 
-![fly0.png](Characters/Enemies/fly0.png) fly0.png
+![fly-0.png](Characters/Enemies/fly-0.png) fly-0.png
 
-![fly1.png](Characters/Enemies/fly1.png) fly1.png
+![fly-1.png](Characters/Enemies/fly-1.png) fly-1.png
 
-![fly2.png](Characters/Enemies/fly2.png) fly2.png
+![fly-2.png](Characters/Enemies/fly-2.png) fly-2.png
 
-![flyMan-fly.png](Characters/Enemies/flyMan-fly.png) flyMan-fly.png
+![flyman-fly.png](Characters/Enemies/flyman-fly.png) flyman-fly.png
 
-![flyMan-jump.png](Characters/Enemies/flyMan-jump.png) flyMan-jump.png
+![flyman-jump.png](Characters/Enemies/flyman-jump.png) flyman-jump.png
 
-![flyMan-stand.png](Characters/Enemies/flyMan-stand.png) flyMan-stand.png
+![flyman-stand.png](Characters/Enemies/flyman-stand.png) flyman-stand.png
 
-![flyMan-still_fly.png](Characters/Enemies/flyMan-still_fly.png) flyMan-still_fly.png
+![flyman-still_fly.png](Characters/Enemies/flyman-still_fly.png) flyman-still_fly.png
 
-![flyMan-still_jump.png](Characters/Enemies/flyMan-still_jump.png) flyMan-still_jump.png
+![flyman-still_jump.png](Characters/Enemies/flyman-still_jump.png) flyman-still_jump.png
 
-![flyMan-still_stand.png](Characters/Enemies/flyMan-still_stand.png) flyMan-still_stand.png
+![flyman-still_stand.png](Characters/Enemies/flyman-still_stand.png) flyman-still_stand.png
 
-![frog0.png](Characters/Enemies/frog0.png) frog0.png
+![frog-0.png](Characters/Enemies/frog-0.png) frog-0.png
 
-![frog1.png](Characters/Enemies/frog1.png) frog1.png
+![frog-1.png](Characters/Enemies/frog-1.png) frog-1.png
 
-![frog2.png](Characters/Enemies/frog2.png) frog2.png
+![frog-2.png](Characters/Enemies/frog-2.png) frog-2.png
 
-![ladybug0.png](Characters/Enemies/ladybug0.png) ladybug0.png
+![ladybug-0.png](Characters/Enemies/ladybug-0.png) ladybug-0.png
 
-![ladybug1.png](Characters/Enemies/ladybug1.png) ladybug1.png
+![ladybug-1.png](Characters/Enemies/ladybug-1.png) ladybug-1.png
 
-![mouse0.png](Characters/Enemies/mouse0.png) mouse0.png
+![mouse-0.png](Characters/Enemies/mouse-0.png) mouse-0.png
 
-![mouse1.png](Characters/Enemies/mouse1.png) mouse1.png
+![mouse-1.png](Characters/Enemies/mouse-1.png) mouse-1.png
 
-![mouse2.png](Characters/Enemies/mouse2.png) mouse2.png
+![mouse-2.png](Characters/Enemies/mouse-2.png) mouse-2.png
 
-![saw0.png](Characters/Enemies/saw0.png) saw0.png
+![saw-0.png](Characters/Enemies/saw-0.png) saw-0.png
 
-![saw1.png](Characters/Enemies/saw1.png) saw1.png
+![saw-1.png](Characters/Enemies/saw-1.png) saw-1.png
 
-![saw2.png](Characters/Enemies/saw2.png) saw2.png
+![saw-2.png](Characters/Enemies/saw-2.png) saw-2.png
 
-![sawHalf0.png](Characters/Enemies/sawHalf0.png) sawHalf0.png
+![saw-half-0.png](Characters/Enemies/saw-half-0.png) saw-half-0.png
 
-![sawHalf1.png](Characters/Enemies/sawHalf1.png) sawHalf1.png
+![saw-half-1.png](Characters/Enemies/saw-half-1.png) saw-half-1.png
 
-![sawHalf2.png](Characters/Enemies/sawHalf2.png) sawHalf2.png
+![saw-half-2.png](Characters/Enemies/saw-half-2.png) saw-half-2.png
 
-![slimeBlock0.png](Characters/Enemies/slimeBlock0.png) slimeBlock0.png
+![slime-block-0.png](Characters/Enemies/slime-block-0.png) slime-block-0.png
 
-![slimeBlock1.png](Characters/Enemies/slimeBlock1.png) slimeBlock1.png
+![slime-block-1.png](Characters/Enemies/slime-block-1.png) slime-block-1.png
 
-![slimeBlock2.png](Characters/Enemies/slimeBlock2.png) slimeBlock2.png
+![slime-block-2.png](Characters/Enemies/slime-block-2.png) slime-block-2.png
 
-![slimey0.png](Characters/Enemies/slimey0.png) slimey0.png
+![slimey-0.png](Characters/Enemies/slimey-0.png) slimey-0.png
 
-![slimey1.png](Characters/Enemies/slimey1.png) slimey1.png
+![slimey-1.png](Characters/Enemies/slimey-1.png) slimey-1.png
 
-![slimey2.png](Characters/Enemies/slimey2.png) slimey2.png
+![slimey-2.png](Characters/Enemies/slimey-2.png) slimey-2.png
 
-![slimey3.png](Characters/Enemies/slimey3.png) slimey3.png
+![slimey-3.png](Characters/Enemies/slimey-3.png) slimey-3.png
 
-![snail0.png](Characters/Enemies/snail0.png) snail0.png
+![snail-0.png](Characters/Enemies/snail-0.png) snail-0.png
 
-![snail1.png](Characters/Enemies/snail1.png) snail1.png
+![snail-1.png](Characters/Enemies/snail-1.png) snail-1.png
 
-![spikeBall0.png](Characters/Enemies/spikeBall0.png) spikeBall0.png
+![spike-ball-0.png](Characters/Enemies/spike-ball-0.png) spike-ball-0.png
 
-![spikeBall1.png](Characters/Enemies/spikeBall1.png) spikeBall1.png
+![spike-ball-1.png](Characters/Enemies/spike-ball-1.png) spike-ball-1.png
 
-![spikeMan-jump.png](Characters/Enemies/spikeMan-jump.png) spikeMan-jump.png
+![spikeman-jump.png](Characters/Enemies/spikeman-jump.png) spikeman-jump.png
 
-![spikeMan-stand.png](Characters/Enemies/spikeMan-stand.png) spikeMan-stand.png
+![spikeman-stand.png](Characters/Enemies/spikeman-stand.png) spikeman-stand.png
 
-![spikeMan-walk1.png](Characters/Enemies/spikeMan-walk1.png) spikeMan-walk1.png
+![spikeman-walk-1.png](Characters/Enemies/spikeman-walk-1.png) spikeman-walk-1.png
 
-![spikeMan-walk2.png](Characters/Enemies/spikeMan-walk2.png) spikeMan-walk2.png
+![spikeman-walk-2.png](Characters/Enemies/spikeman-walk-2.png) spikeman-walk-2.png
 
-![springMan-hurt.png](Characters/Enemies/springMan-hurt.png) springMan-hurt.png
+![springman-hurt.png](Characters/Enemies/springman-hurt.png) springman-hurt.png
 
-![springMan-stand.png](Characters/Enemies/springMan-stand.png) springMan-stand.png
+![springman-stand.png](Characters/Enemies/springman-stand.png) springman-stand.png
 
-![sun0.png](Characters/Enemies/sun0.png) sun0.png
+![sun-0.png](Characters/Enemies/sun-0.png) sun-0.png
 
-![sun1.png](Characters/Enemies/sun1.png) sun1.png
+![sun-1.png](Characters/Enemies/sun-1.png) sun-1.png
 
-![wingMan1.png](Characters/Enemies/wingMan1.png) wingMan1.png
+![wingman-1.png](Characters/Enemies/wingman-1.png) wingman-1.png
 
-![wingMan2.png](Characters/Enemies/wingMan2.png) wingMan2.png
+![wingman-2.png](Characters/Enemies/wingman-2.png) wingman-2.png
 
-![wingMan3.png](Characters/Enemies/wingMan3.png) wingMan3.png
+![wingman-3.png](Characters/Enemies/wingman-3.png) wingman-3.png
 
-![wingMan4.png](Characters/Enemies/wingMan4.png) wingMan4.png
+![wingman-4.png](Characters/Enemies/wingman-4.png) wingman-4.png
 
-![wingMan5.png](Characters/Enemies/wingMan5.png) wingMan5.png
+![wingman-5.png](Characters/Enemies/wingman-5.png) wingman-5.png
 
-![worm0.png](Characters/Enemies/worm0.png) worm0.png
+![worm-0.png](Characters/Enemies/worm-0.png) worm-0.png
 
-![worm1.png](Characters/Enemies/worm1.png) worm1.png
+![worm-1.png](Characters/Enemies/worm-1.png) worm-1.png
 
-![worm2.png](Characters/Enemies/worm2.png) worm2.png
+![worm-2.png](Characters/Enemies/worm-2.png) worm-2.png
 
 ![eel-large.png](Characters/Fish/eel-large.png) eel-large.png
 
 ![eel-small.png](Characters/Fish/eel-small.png) eel-small.png
 
-![fish0.png](Characters/Fish/fish0.png) fish0.png
+![fish-0.png](Characters/Fish/fish-0.png) fish-0.png
 
-![fish1.png](Characters/Fish/fish1.png) fish1.png
+![fish-1.png](Characters/Fish/fish-1.png) fish-1.png
 
-![fish2.png](Characters/Fish/fish2.png) fish2.png
+![fish-2.png](Characters/Fish/fish-2.png) fish-2.png
 
-![fish3.png](Characters/Fish/fish3.png) fish3.png
+![fish-3.png](Characters/Fish/fish-3.png) fish-3.png
 
-![fish4.png](Characters/Fish/fish4.png) fish4.png
+![fish-4.png](Characters/Fish/fish-4.png) fish-4.png
 
-![fishbone0.png](Characters/Fish/fishbone0.png) fishbone0.png
+![fishbone-0.png](Characters/Fish/fishbone-0.png) fishbone-0.png
 
-![fishbone1.png](Characters/Fish/fishbone1.png) fishbone1.png
+![fishbone-1.png](Characters/Fish/fishbone-1.png) fishbone-1.png
 
-![fishbone2.png](Characters/Fish/fishbone2.png) fishbone2.png
+![fishbone-2.png](Characters/Fish/fishbone-2.png) fishbone-2.png
 
-![fishbone3.png](Characters/Fish/fishbone3.png) fishbone3.png
+![fishbone-3.png](Characters/Fish/fishbone-3.png) fishbone-3.png
 
-![fishbone4.png](Characters/Fish/fishbone4.png) fishbone4.png
+![fishbone-4.png](Characters/Fish/fishbone-4.png) fishbone-4.png
 
 ![puffer.png](Characters/Fish/puffer.png) puffer.png
 
-![robot-attack0.png](Characters/Robot/robot-attack0.png) robot-attack0.png
+![robot-attack-0.png](Characters/Robot/robot-attack-0.png) robot-attack-0.png
 
-![robot-attack1.png](Characters/Robot/robot-attack1.png) robot-attack1.png
+![robot-attack-1.png](Characters/Robot/robot-attack-1.png) robot-attack-1.png
 
-![robot-attack2.png](Characters/Robot/robot-attack2.png) robot-attack2.png
+![robot-attack-2.png](Characters/Robot/robot-attack-2.png) robot-attack-2.png
 
 ![robot-back.png](Characters/Robot/robot-back.png) robot-back.png
 
-![robot-cheer0.png](Characters/Robot/robot-cheer0.png) robot-cheer0.png
+![robot-cheer-0.png](Characters/Robot/robot-cheer-0.png) robot-cheer-0.png
 
-![robot-cheer1.png](Characters/Robot/robot-cheer1.png) robot-cheer1.png
+![robot-cheer-1.png](Characters/Robot/robot-cheer-1.png) robot-cheer-1.png
 
-![robot-climb0.png](Characters/Robot/robot-climb0.png) robot-climb0.png
+![robot-climb-0.png](Characters/Robot/robot-climb-0.png) robot-climb-0.png
 
-![robot-climb1.png](Characters/Robot/robot-climb1.png) robot-climb1.png
+![robot-climb-1.png](Characters/Robot/robot-climb-1.png) robot-climb-1.png
 
 ![robot-down.png](Characters/Robot/robot-down.png) robot-down.png
 
@@ -1096,99 +1096,99 @@
 
 ![robot-rope.png](Characters/Robot/robot-rope.png) robot-rope.png
 
-![robot-run0.png](Characters/Robot/robot-run0.png) robot-run0.png
+![robot-run-0.png](Characters/Robot/robot-run-0.png) robot-run-0.png
 
-![robot-run1.png](Characters/Robot/robot-run1.png) robot-run1.png
+![robot-run-1.png](Characters/Robot/robot-run-1.png) robot-run-1.png
 
-![robot-run2.png](Characters/Robot/robot-run2.png) robot-run2.png
+![robot-run-2.png](Characters/Robot/robot-run-2.png) robot-run-2.png
 
 ![robot-slide.png](Characters/Robot/robot-slide.png) robot-slide.png
 
-![robot-walk0.png](Characters/Robot/robot-walk0.png) robot-walk0.png
+![robot-walk-0.png](Characters/Robot/robot-walk-0.png) robot-walk-0.png
 
-![robot-walk1.png](Characters/Robot/robot-walk1.png) robot-walk1.png
+![robot-walk-1.png](Characters/Robot/robot-walk-1.png) robot-walk-1.png
 
-![robot-walk2.png](Characters/Robot/robot-walk2.png) robot-walk2.png
+![robot-walk-2.png](Characters/Robot/robot-walk-2.png) robot-walk-2.png
 
-![robot-walk3.png](Characters/Robot/robot-walk3.png) robot-walk3.png
+![robot-walk-3.png](Characters/Robot/robot-walk-3.png) robot-walk-3.png
 
-![robot-walk4.png](Characters/Robot/robot-walk4.png) robot-walk4.png
+![robot-walk-4.png](Characters/Robot/robot-walk-4.png) robot-walk-4.png
 
-![robot-walk5.png](Characters/Robot/robot-walk5.png) robot-walk5.png
+![robot-walk-5.png](Characters/Robot/robot-walk-5.png) robot-walk-5.png
 
-![robot-walk6.png](Characters/Robot/robot-walk6.png) robot-walk6.png
+![robot-walk-6.png](Characters/Robot/robot-walk-6.png) robot-walk-6.png
 
-![robot-walk7.png](Characters/Robot/robot-walk7.png) robot-walk7.png
+![robot-walk-7.png](Characters/Robot/robot-walk-7.png) robot-walk-7.png
 
-![tread-drive0.png](Characters/TreadRobot/tread-drive0.png) tread-drive0.png
+![tread-drive-0.png](Characters/TreadRobot/tread-drive-0.png) tread-drive-0.png
 
-![tread-drive1.png](Characters/TreadRobot/tread-drive1.png) tread-drive1.png
+![tread-drive-1.png](Characters/TreadRobot/tread-drive-1.png) tread-drive-1.png
 
 ![tread-jump.png](Characters/TreadRobot/tread-jump.png) tread-jump.png
 
-![tread-topFull.png](Characters/TreadRobot/tread-topFull.png) tread-topFull.png
+![tread-top-full.png](Characters/TreadRobot/tread-top-full.png) tread-top-full.png
 
-![brick1 (2).png](General/Bricks/brick1 (2).png) brick1 (2).png
+![brick-1 (2).png](General/Bricks/brick-1 (2).png) brick-1 (2).png
 
-![brick1.png](General/Bricks/brick1.png) brick1.png
+![brick-1.png](General/Bricks/brick-1.png) brick-1.png
 
-![brick11.png](General/Bricks/brick11.png) brick11.png
+![brick-11.png](General/Bricks/brick-11.png) brick-11.png
 
-![brick12.png](General/Bricks/brick12.png) brick12.png
+![brick-12.png](General/Bricks/brick-12.png) brick-12.png
 
-![brick13.png](General/Bricks/brick13.png) brick13.png
+![brick-13.png](General/Bricks/brick-13.png) brick-13.png
 
-![brick14.png](General/Bricks/brick14.png) brick14.png
+![brick-14.png](General/Bricks/brick-14.png) brick-14.png
 
-![brick15.png](General/Bricks/brick15.png) brick15.png
+![brick-15.png](General/Bricks/brick-15.png) brick-15.png
 
-![brick16.png](General/Bricks/brick16.png) brick16.png
+![brick-16.png](General/Bricks/brick-16.png) brick-16.png
 
-![brick2.png](General/Bricks/brick2.png) brick2.png
+![brick-2.png](General/Bricks/brick-2.png) brick-2.png
 
-![brick3.png](General/Bricks/brick3.png) brick3.png
+![brick-3.png](General/Bricks/brick-3.png) brick-3.png
 
-![brick4.png](General/Bricks/brick4.png) brick4.png
+![brick-4.png](General/Bricks/brick-4.png) brick-4.png
 
-![brick5.png](General/Bricks/brick5.png) brick5.png
+![brick-5.png](General/Bricks/brick-5.png) brick-5.png
 
-![brick6.png](General/Bricks/brick6.png) brick6.png
+![brick-6.png](General/Bricks/brick-6.png) brick-6.png
 
-![brick7.png](General/Bricks/brick7.png) brick7.png
+![brick-7.png](General/Bricks/brick-7.png) brick-7.png
 
-![brick8.png](General/Bricks/brick8.png) brick8.png
+![brick-8.png](General/Bricks/brick-8.png) brick-8.png
 
-![brick9.png](General/Bricks/brick9.png) brick9.png
+![brick-9.png](General/Bricks/brick-9.png) brick-9.png
 
-![brickSpecial1 (2).png](General/Bricks/brickSpecial1 (2).png) brickSpecial1 (2).png
+![brick-special-1 (2).png](General/Bricks/brick-special-1 (2).png) brick-special-1 (2).png
 
-![brickSpecial1.png](General/Bricks/brickSpecial1.png) brickSpecial1.png
+![brick-special-1.png](General/Bricks/brick-special-1.png) brick-special-1.png
 
-![brickSpecial2.png](General/Bricks/brickSpecial2.png) brickSpecial2.png
+![brick-special-2.png](General/Bricks/brick-special-2.png) brick-special-2.png
 
-![brickSpecial3.png](General/Bricks/brickSpecial3.png) brickSpecial3.png
+![brick-special-3.png](General/Bricks/brick-special-3.png) brick-special-3.png
 
-![brickSpecial4.png](General/Bricks/brickSpecial4.png) brickSpecial4.png
+![brick-special-4.png](General/Bricks/brick-special-4.png) brick-special-4.png
 
-![brickSpecial5.png](General/Bricks/brickSpecial5.png) brickSpecial5.png
+![brick-special-5.png](General/Bricks/brick-special-5.png) brick-special-5.png
 
-![brickSpecial6.png](General/Bricks/brickSpecial6.png) brickSpecial6.png
+![brick-special-6.png](General/Bricks/brick-special-6.png) brick-special-6.png
 
-![brickSpecial7.png](General/Bricks/brickSpecial7.png) brickSpecial7.png
+![brick-special-7.png](General/Bricks/brick-special-7.png) brick-special-7.png
 
-![brickSpecial8.png](General/Bricks/brickSpecial8.png) brickSpecial8.png
+![brick-special-8.png](General/Bricks/brick-special-8.png) brick-special-8.png
 
-![brickSpecial9.png](General/Bricks/brickSpecial9.png) brickSpecial9.png
+![brick-special-9.png](General/Bricks/brick-special-9.png) brick-special-9.png
 
-![boxCoin-boxed.png](General/Collectibles/boxCoin-boxed.png) boxCoin-boxed.png
+![box-coin-boxed.png](General/Collectibles/box-coin-boxed.png) box-coin-boxed.png
 
-![boxCrate-single.png](General/Collectibles/boxCrate-single.png) boxCrate-single.png
+![box-crate-single.png](General/Collectibles/box-crate-single.png) box-crate-single.png
 
-![boxCrate.png](General/Collectibles/boxCrate.png) boxCrate.png
+![box-crate.png](General/Collectibles/box-crate.png) box-crate.png
 
-![boxExplosive.png](General/Collectibles/boxExplosive.png) boxExplosive.png
+![box-explosive.png](General/Collectibles/box-explosive.png) box-explosive.png
 
-![boxItem-boxed.png](General/Collectibles/boxItem-boxed.png) boxItem-boxed.png
+![box-item-boxed.png](General/Collectibles/box-item-boxed.png) box-item-boxed.png
 
 ![bronze-0.png](General/Collectibles/bronze-0.png) bronze-0.png
 
@@ -1214,7 +1214,7 @@
 
 ![coin-silver.png](General/Collectibles/coin-silver.png) coin-silver.png
 
-![gemBlue.png](General/Collectibles/gemBlue.png) gemBlue.png
+![gem-blue.png](General/Collectibles/gem-blue.png) gem-blue.png
 
 ![gold-0.png](General/Collectibles/gold-0.png) gold-0.png
 
@@ -1228,19 +1228,19 @@
 
 ![gold-5.png](General/Collectibles/gold-5.png) gold-5.png
 
-![hudHeart-empty.png](General/Collectibles/hudHeart-empty.png) hudHeart-empty.png
+![hud-heart-empty.png](General/Collectibles/hud-heart-empty.png) hud-heart-empty.png
 
-![hudHeart-full.png](General/Collectibles/hudHeart-full.png) hudHeart-full.png
+![hud-heart-full.png](General/Collectibles/hud-heart-full.png) hud-heart-full.png
 
-![hudHeart-half.png](General/Collectibles/hudHeart-half.png) hudHeart-half.png
+![hud-heart-half.png](General/Collectibles/hud-heart-half.png) hud-heart-half.png
 
-![hudJewel-blue-empty.png](General/Collectibles/hudJewel-blue-empty.png) hudJewel-blue-empty.png
+![hud-jewel-blue-empty.png](General/Collectibles/hud-jewel-blue-empty.png) hud-jewel-blue-empty.png
 
-![hudJewel-blue.png](General/Collectibles/hudJewel-blue.png) hudJewel-blue.png
+![hud-jewel-blue.png](General/Collectibles/hud-jewel-blue.png) hud-jewel-blue.png
 
-![hudKey-blue-empty.png](General/Collectibles/hudKey-blue-empty.png) hudKey-blue-empty.png
+![hud-key-blue-empty.png](General/Collectibles/hud-key-blue-empty.png) hud-key-blue-empty.png
 
-![hudKey-blue.png](General/Collectibles/hudKey-blue.png) hudKey-blue.png
+![hud-key-blue.png](General/Collectibles/hud-key-blue.png) hud-key-blue.png
 
 ![jetpack.png](General/Collectibles/jetpack.png) jetpack.png
 
@@ -1260,13 +1260,13 @@
 
 ![silver-5.png](General/Collectibles/silver-5.png) silver-5.png
 
-![starBronze.png](General/Collectibles/starBronze.png) starBronze.png
+![star-bronze.png](General/Collectibles/star-bronze.png) star-bronze.png
 
-![starDiamond.png](General/Collectibles/starDiamond.png) starDiamond.png
+![star-diamond.png](General/Collectibles/star-diamond.png) star-diamond.png
 
-![starGold.png](General/Collectibles/starGold.png) starGold.png
+![star-gold.png](General/Collectibles/star-gold.png) star-gold.png
 
-![starSilver.png](General/Collectibles/starSilver.png) starSilver.png
+![star-silver.png](General/Collectibles/star-silver.png) star-silver.png
 
 ![explosion-big.png](General/Effects/explosion-big.png) explosion-big.png
 
@@ -1274,9 +1274,9 @@
 
 ![explosion-small.png](General/Effects/explosion-small.png) explosion-small.png
 
-![fire1.png](General/Effects/fire1.png) fire1.png
+![fire-1.png](General/Effects/fire-1.png) fire-1.png
 
-![fire2.png](General/Effects/fire2.png) fire2.png
+![fire-2.png](General/Effects/fire-2.png) fire-2.png
 
 ![flame.png](General/Effects/flame.png) flame.png
 
@@ -1284,15 +1284,19 @@
 
 ![lighting-yellow.png](General/Effects/lighting-yellow.png) lighting-yellow.png
 
+![particle-0.png](General/Effects/particle-0.png) particle-0.png
+
+![particle-1.png](General/Effects/particle-1.png) particle-1.png
+
 ![particle-beige.png](General/Effects/particle-beige.png) particle-beige.png
 
 ![particle-blue.png](General/Effects/particle-blue.png) particle-blue.png
 
 ![particle-brown.png](General/Effects/particle-brown.png) particle-brown.png
 
-![particle-darkBrown.png](General/Effects/particle-darkBrown.png) particle-darkBrown.png
+![particle-dark-brown.png](General/Effects/particle-dark-brown.png) particle-dark-brown.png
 
-![particle-darkGrey.png](General/Effects/particle-darkGrey.png) particle-darkGrey.png
+![particle-dark-grey.png](General/Effects/particle-dark-grey.png) particle-dark-grey.png
 
 ![particle-green.png](General/Effects/particle-green.png) particle-green.png
 
@@ -1300,17 +1304,13 @@
 
 ![particle-pink.png](General/Effects/particle-pink.png) particle-pink.png
 
-![particle0.png](General/Effects/particle0.png) particle0.png
+![portal-orange-particle.png](General/Effects/portal-orange-particle.png) portal-orange-particle.png
 
-![particle1.png](General/Effects/particle1.png) particle1.png
+![portal-yellow-particle.png](General/Effects/portal-yellow-particle.png) portal-yellow-particle.png
 
-![portal-orangeParticle.png](General/Effects/portal-orangeParticle.png) portal-orangeParticle.png
+![puff-large.png](General/Effects/puff-large.png) puff-large.png
 
-![portal-yellowParticle.png](General/Effects/portal-yellowParticle.png) portal-yellowParticle.png
-
-![puffLarge.png](General/Effects/puffLarge.png) puffLarge.png
-
-![puffSmall.png](General/Effects/puffSmall.png) puffSmall.png
+![puff-small.png](General/Effects/puff-small.png) puff-small.png
 
 ![smoke.png](General/Effects/smoke.png) smoke.png
 
@@ -1340,9 +1340,9 @@
 
 ![torch-off.png](General/Interactibles/torch-off.png) torch-off.png
 
-![torch-on1.png](General/Interactibles/torch-on1.png) torch-on1.png
+![torch-on-1.png](General/Interactibles/torch-on-1.png) torch-on-1.png
 
-![torch-on2.png](General/Interactibles/torch-on2.png) torch-on2.png
+![torch-on-2.png](General/Interactibles/torch-on-2.png) torch-on-2.png
 
 ![kitchen-blade.png](General/Kitchen/kitchen-blade.png) kitchen-blade.png
 
@@ -1380,31 +1380,31 @@
 
 ![kitchen-tongs.png](General/Kitchen/kitchen-tongs.png) kitchen-tongs.png
 
-![medal1.png](General/Medals/medal1.png) medal1.png
+![medal-1.png](General/Medals/medal-1.png) medal-1.png
 
-![medal2.png](General/Medals/medal2.png) medal2.png
+![medal-2.png](General/Medals/medal-2.png) medal-2.png
 
-![medal3.png](General/Medals/medal3.png) medal3.png
+![medal-3.png](General/Medals/medal-3.png) medal-3.png
 
-![medal4.png](General/Medals/medal4.png) medal4.png
+![medal-4.png](General/Medals/medal-4.png) medal-4.png
 
-![medal5.png](General/Medals/medal5.png) medal5.png
+![medal-5.png](General/Medals/medal-5.png) medal-5.png
 
-![medal6.png](General/Medals/medal6.png) medal6.png
+![medal-6.png](General/Medals/medal-6.png) medal-6.png
 
-![medal7.png](General/Medals/medal7.png) medal7.png
+![medal-7.png](General/Medals/medal-7.png) medal-7.png
 
-![medal8.png](General/Medals/medal8.png) medal8.png
+![medal-8.png](General/Medals/medal-8.png) medal-8.png
 
-![medal9.png](General/Medals/medal9.png) medal9.png
+![medal-9.png](General/Medals/medal-9.png) medal-9.png
+
+![office-book-0.png](General/Office/office-book-0.png) office-book-0.png
+
+![office-book-1.png](General/Office/office-book-1.png) office-book-1.png
+
+![office-book-3.png](General/Office/office-book-3.png) office-book-3.png
 
 ![office-book.png](General/Office/office-book.png) office-book.png
-
-![office-book0.png](General/Office/office-book0.png) office-book0.png
-
-![office-book1.png](General/Office/office-book1.png) office-book1.png
-
-![office-book3.png](General/Office/office-book3.png) office-book3.png
 
 ![office-briefcase.png](General/Office/office-briefcase.png) office-briefcase.png
 
@@ -1424,35 +1424,35 @@
 
 ![office-pencil.png](General/Office/office-pencil.png) office-pencil.png
 
-![planet0.png](General/Planets/planet0.png) planet0.png
+![planet-0.png](General/Planets/planet-0.png) planet-0.png
 
-![planet1.png](General/Planets/planet1.png) planet1.png
+![planet-1.png](General/Planets/planet-1.png) planet-1.png
 
-![planet2.png](General/Planets/planet2.png) planet2.png
+![planet-2.png](General/Planets/planet-2.png) planet-2.png
 
-![planet3.png](General/Planets/planet3.png) planet3.png
+![planet-3.png](General/Planets/planet-3.png) planet-3.png
 
-![planet4.png](General/Planets/planet4.png) planet4.png
+![planet-4.png](General/Planets/planet-4.png) planet-4.png
 
-![planet5.png](General/Planets/planet5.png) planet5.png
+![planet-5.png](General/Planets/planet-5.png) planet-5.png
 
-![planet6.png](General/Planets/planet6.png) planet6.png
+![planet-6.png](General/Planets/planet-6.png) planet-6.png
 
-![planet7.png](General/Planets/planet7.png) planet7.png
+![planet-7.png](General/Planets/planet-7.png) planet-7.png
 
-![planet8.png](General/Planets/planet8.png) planet8.png
+![planet-8.png](General/Planets/planet-8.png) planet-8.png
 
-![planet9.png](General/Planets/planet9.png) planet9.png
+![planet-9.png](General/Planets/planet-9.png) planet-9.png
 
-![science-glass0.png](General/Science/science-glass0.png) science-glass0.png
+![science-glass-0.png](General/Science/science-glass-0.png) science-glass-0.png
 
-![science-glass1.png](General/Science/science-glass1.png) science-glass1.png
+![science-glass-1.png](General/Science/science-glass-1.png) science-glass-1.png
 
-![science-glass2.png](General/Science/science-glass2.png) science-glass2.png
+![science-glass-2.png](General/Science/science-glass-2.png) science-glass-2.png
 
-![science-glass3.png](General/Science/science-glass3.png) science-glass3.png
+![science-glass-3.png](General/Science/science-glass-3.png) science-glass-3.png
 
-![science-glass4.png](General/Science/science-glass4.png) science-glass4.png
+![science-glass-4.png](General/Science/science-glass-4.png) science-glass-4.png
 
 ![science-microscope.png](General/Science/science-microscope.png) science-microscope.png
 
@@ -1490,23 +1490,23 @@
 
 ![travel-wallet.png](General/Travel/travel-wallet.png) travel-wallet.png
 
+![background-color-desert.png](Landscape/Backgrounds/background-color-desert.png) background-color-desert.png
+
+![background-color-fall.png](Landscape/Backgrounds/background-color-fall.png) background-color-fall.png
+
+![background-color-forest.png](Landscape/Backgrounds/background-color-forest.png) background-color-forest.png
+
+![background-color-grass.png](Landscape/Backgrounds/background-color-grass.png) background-color-grass.png
+
 ![background-neutral.png](Landscape/Backgrounds/background-neutral.png) background-neutral.png
 
-![backgroundColorDesert.png](Landscape/Backgrounds/backgroundColorDesert.png) backgroundColorDesert.png
+![bg-layer-1.png](Landscape/Backgrounds/bg-layer-1.png) bg-layer-1.png
 
-![backgroundColorFall.png](Landscape/Backgrounds/backgroundColorFall.png) backgroundColorFall.png
+![bg-layer-2.png](Landscape/Backgrounds/bg-layer-2.png) bg-layer-2.png
 
-![backgroundColorForest.png](Landscape/Backgrounds/backgroundColorForest.png) backgroundColorForest.png
+![bg-layer-3.png](Landscape/Backgrounds/bg-layer-3.png) bg-layer-3.png
 
-![backgroundColorGrass.png](Landscape/Backgrounds/backgroundColorGrass.png) backgroundColorGrass.png
-
-![bg-layer1.png](Landscape/Backgrounds/bg-layer1.png) bg-layer1.png
-
-![bg-layer2.png](Landscape/Backgrounds/bg-layer2.png) bg-layer2.png
-
-![bg-layer3.png](Landscape/Backgrounds/bg-layer3.png) bg-layer3.png
-
-![bg-layer4.png](Landscape/Backgrounds/bg-layer4.png) bg-layer4.png
+![bg-layer-4.png](Landscape/Backgrounds/bg-layer-4.png) bg-layer-4.png
 
 ![blue-desert.png](Landscape/Backgrounds/blue-desert.png) blue-desert.png
 
@@ -1522,13 +1522,13 @@
 
 ![colored-land.png](Landscape/Backgrounds/colored-land.png) colored-land.png
 
+![forest-0.png](Landscape/Backgrounds/forest-0.png) forest-0.png
+
+![forest-1.png](Landscape/Backgrounds/forest-1.png) forest-1.png
+
+![forest-2.png](Landscape/Backgrounds/forest-2.png) forest-2.png
+
 ![forest-bg.png](Landscape/Backgrounds/forest-bg.png) forest-bg.png
-
-![forest0.png](Landscape/Backgrounds/forest0.png) forest0.png
-
-![forest1.png](Landscape/Backgrounds/forest1.png) forest1.png
-
-![forest2.png](Landscape/Backgrounds/forest2.png) forest2.png
 
 ![mountainscape.png](Landscape/Backgrounds/mountainscape.png) mountainscape.png
 
@@ -1536,17 +1536,17 @@
 
 ![snowy-bg.png](Landscape/Backgrounds/snowy-bg.png) snowy-bg.png
 
-![tile-beach1.png](Landscape/Backgrounds/tile-beach1.png) tile-beach1.png
+![tile-beach-1.png](Landscape/Backgrounds/tile-beach-1.png) tile-beach-1.png
 
-![tile-beach2.png](Landscape/Backgrounds/tile-beach2.png) tile-beach2.png
+![tile-beach-2.png](Landscape/Backgrounds/tile-beach-2.png) tile-beach-2.png
 
 ![tile-checker.png](Landscape/Backgrounds/tile-checker.png) tile-checker.png
 
-![tile-grass1.png](Landscape/Backgrounds/tile-grass1.png) tile-grass1.png
+![tile-grass-1.png](Landscape/Backgrounds/tile-grass-1.png) tile-grass-1.png
 
-![tile-grass2.png](Landscape/Backgrounds/tile-grass2.png) tile-grass2.png
+![tile-grass-2.png](Landscape/Backgrounds/tile-grass-2.png) tile-grass-2.png
 
-![tile-grass3.png](Landscape/Backgrounds/tile-grass3.png) tile-grass3.png
+![tile-grass-3.png](Landscape/Backgrounds/tile-grass-3.png) tile-grass-3.png
 
 ![tile-mud.png](Landscape/Backgrounds/tile-mud.png) tile-mud.png
 
@@ -1560,87 +1560,87 @@
 
 ![tile-water.png](Landscape/Backgrounds/tile-water.png) tile-water.png
 
-![castleSmall.png](Landscape/Buildings/castleSmall.png) castleSmall.png
+![castle-small.png](Landscape/Buildings/castle-small.png) castle-small.png
 
-![house1.png](Landscape/Buildings/house1.png) house1.png
+![house-1.png](Landscape/Buildings/house-1.png) house-1.png
 
-![house2.png](Landscape/Buildings/house2.png) house2.png
+![house-2.png](Landscape/Buildings/house-2.png) house-2.png
 
-![houseSmall1.png](Landscape/Buildings/houseSmall1.png) houseSmall1.png
+![house-small-1.png](Landscape/Buildings/house-small-1.png) house-small-1.png
 
-![houseSmall2.png](Landscape/Buildings/houseSmall2.png) houseSmall2.png
+![house-small-2.png](Landscape/Buildings/house-small-2.png) house-small-2.png
 
 ![igloo.png](Landscape/Buildings/igloo.png) igloo.png
 
 ![pyramid.png](Landscape/Buildings/pyramid.png) pyramid.png
 
+![tower-small.png](Landscape/Buildings/tower-small.png) tower-small.png
+
 ![tower.png](Landscape/Buildings/tower.png) tower.png
 
-![towerSmall.png](Landscape/Buildings/towerSmall.png) towerSmall.png
+![cloud-1.png](Landscape/Clouds/cloud-1.png) cloud-1.png
 
-![cloud1.png](Landscape/Clouds/cloud1.png) cloud1.png
+![cloud-2.png](Landscape/Clouds/cloud-2.png) cloud-2.png
 
-![cloud2.png](Landscape/Clouds/cloud2.png) cloud2.png
+![cloud-3.png](Landscape/Clouds/cloud-3.png) cloud-3.png
 
-![cloud3.png](Landscape/Clouds/cloud3.png) cloud3.png
+![cloud-4.png](Landscape/Clouds/cloud-4.png) cloud-4.png
 
-![cloud4.png](Landscape/Clouds/cloud4.png) cloud4.png
+![cloud-5.png](Landscape/Clouds/cloud-5.png) cloud-5.png
 
-![cloud5.png](Landscape/Clouds/cloud5.png) cloud5.png
+![cloud-6.png](Landscape/Clouds/cloud-6.png) cloud-6.png
 
-![cloud6.png](Landscape/Clouds/cloud6.png) cloud6.png
+![cloud-7.png](Landscape/Clouds/cloud-7.png) cloud-7.png
 
-![cloud7.png](Landscape/Clouds/cloud7.png) cloud7.png
-
-![cloud8.png](Landscape/Clouds/cloud8.png) cloud8.png
+![cloud-8.png](Landscape/Clouds/cloud-8.png) cloud-8.png
 
 ![dirt.png](Landscape/Floors/dirt.png) dirt.png
 
 ![grass.png](Landscape/Floors/grass.png) grass.png
 
-![groundDirt.png](Landscape/Floors/groundDirt.png) groundDirt.png
+![ground-dirt.png](Landscape/Floors/ground-dirt.png) ground-dirt.png
 
-![groundGrass.png](Landscape/Floors/groundGrass.png) groundGrass.png
+![ground-grass.png](Landscape/Floors/ground-grass.png) ground-grass.png
 
-![groundIce.png](Landscape/Floors/groundIce.png) groundIce.png
+![ground-ice.png](Landscape/Floors/ground-ice.png) ground-ice.png
 
-![groundRock.png](Landscape/Floors/groundRock.png) groundRock.png
+![ground-rock.png](Landscape/Floors/ground-rock.png) ground-rock.png
 
-![groundSnow.png](Landscape/Floors/groundSnow.png) groundSnow.png
+![ground-snow.png](Landscape/Floors/ground-snow.png) ground-snow.png
 
-![lavaTop-high.png](Landscape/Floors/lavaTop-high.png) lavaTop-high.png
+![lava-top-high.png](Landscape/Floors/lava-top-high.png) lava-top-high.png
 
 ![sand.png](Landscape/Floors/sand.png) sand.png
 
-![sandfloor0.png](Landscape/Floors/sandfloor0.png) sandfloor0.png
+![sandfloor-0.png](Landscape/Floors/sandfloor-0.png) sandfloor-0.png
 
-![sandfloor1.png](Landscape/Floors/sandfloor1.png) sandfloor1.png
+![sandfloor-1.png](Landscape/Floors/sandfloor-1.png) sandfloor-1.png
 
-![sandfloor2.png](Landscape/Floors/sandfloor2.png) sandfloor2.png
+![sandfloor-2.png](Landscape/Floors/sandfloor-2.png) sandfloor-2.png
 
-![sandfloor3.png](Landscape/Floors/sandfloor3.png) sandfloor3.png
+![sandfloor-3.png](Landscape/Floors/sandfloor-3.png) sandfloor-3.png
 
-![sandfloor4.png](Landscape/Floors/sandfloor4.png) sandfloor4.png
+![sandfloor-4.png](Landscape/Floors/sandfloor-4.png) sandfloor-4.png
 
-![sandfloor5.png](Landscape/Floors/sandfloor5.png) sandfloor5.png
+![sandfloor-5.png](Landscape/Floors/sandfloor-5.png) sandfloor-5.png
 
 ![snow.png](Landscape/Floors/snow.png) snow.png
 
-![waterTop-high.png](Landscape/Floors/waterTop-high.png) waterTop-high.png
+![water-top-high.png](Landscape/Floors/water-top-high.png) water-top-high.png
 
 ![map-banner.png](Landscape/MapLandmarks/map-banner.png) map-banner.png
 
-![map-bridge.png](Landscape/MapLandmarks/map-bridge.png) map-bridge.png
+![map-bridge-rope.png](Landscape/MapLandmarks/map-bridge-rope.png) map-bridge-rope.png
 
-![map-bridgeRope.png](Landscape/MapLandmarks/map-bridgeRope.png) map-bridgeRope.png
+![map-bridge.png](Landscape/MapLandmarks/map-bridge.png) map-bridge.png
 
 ![map-cactus.png](Landscape/MapLandmarks/map-cactus.png) map-cactus.png
 
 ![map-campfire.png](Landscape/MapLandmarks/map-campfire.png) map-campfire.png
 
-![map-castle.png](Landscape/MapLandmarks/map-castle.png) map-castle.png
+![map-castle-tall.png](Landscape/MapLandmarks/map-castle-tall.png) map-castle-tall.png
 
-![map-castleTall.png](Landscape/MapLandmarks/map-castleTall.png) map-castleTall.png
+![map-castle.png](Landscape/MapLandmarks/map-castle.png) map-castle.png
 
 ![map-chest.png](Landscape/MapLandmarks/map-chest.png) map-chest.png
 
@@ -1656,21 +1656,21 @@
 
 ![map-graveyard.png](Landscape/MapLandmarks/map-graveyard.png) map-graveyard.png
 
-![map-house.png](Landscape/MapLandmarks/map-house.png) map-house.png
+![map-house-chimney.png](Landscape/MapLandmarks/map-house-chimney.png) map-house-chimney.png
 
-![map-houseChimney.png](Landscape/MapLandmarks/map-houseChimney.png) map-houseChimney.png
+![map-house-small.png](Landscape/MapLandmarks/map-house-small.png) map-house-small.png
+
+![map-house-tall.png](Landscape/MapLandmarks/map-house-tall.png) map-house-tall.png
+
+![map-house-viking.png](Landscape/MapLandmarks/map-house-viking.png) map-house-viking.png
+
+![map-house.png](Landscape/MapLandmarks/map-house.png) map-house.png
 
 ![map-houses.png](Landscape/MapLandmarks/map-houses.png) map-houses.png
 
-![map-houseSmall.png](Landscape/MapLandmarks/map-houseSmall.png) map-houseSmall.png
-
-![map-houseTall.png](Landscape/MapLandmarks/map-houseTall.png) map-houseTall.png
-
-![map-houseViking.png](Landscape/MapLandmarks/map-houseViking.png) map-houseViking.png
+![map-lake-round.png](Landscape/MapLandmarks/map-lake-round.png) map-lake-round.png
 
 ![map-lake.png](Landscape/MapLandmarks/map-lake.png) map-lake.png
-
-![map-lakeRound.png](Landscape/MapLandmarks/map-lakeRound.png) map-lakeRound.png
 
 ![map-lighthouse.png](Landscape/MapLandmarks/map-lighthouse.png) map-lighthouse.png
 
@@ -1682,9 +1682,9 @@
 
 ![map-pyramid.png](Landscape/MapLandmarks/map-pyramid.png) map-pyramid.png
 
-![map-rocks.png](Landscape/MapLandmarks/map-rocks.png) map-rocks.png
+![map-rocks-mountain.png](Landscape/MapLandmarks/map-rocks-mountain.png) map-rocks-mountain.png
 
-![map-rocksMountain.png](Landscape/MapLandmarks/map-rocksMountain.png) map-rocksMountain.png
+![map-rocks.png](Landscape/MapLandmarks/map-rocks.png) map-rocks.png
 
 ![map-ruins.png](Landscape/MapLandmarks/map-ruins.png) map-ruins.png
 
@@ -1692,31 +1692,31 @@
 
 ![map-stable.png](Landscape/MapLandmarks/map-stable.png) map-stable.png
 
-![map-treePine.png](Landscape/MapLandmarks/map-treePine.png) map-treePine.png
+![map-tree-pine-large.png](Landscape/MapLandmarks/map-tree-pine-large.png) map-tree-pine-large.png
 
-![map-treePineTallLarge.png](Landscape/MapLandmarks/map-treePineTallLarge.png) map-treePineTallLarge.png
+![map-tree-pine.png](Landscape/MapLandmarks/map-tree-pine.png) map-tree-pine.png
 
 ![map-vulcano.png](Landscape/MapLandmarks/map-vulcano.png) map-vulcano.png
 
 ![map-watchtower.png](Landscape/MapLandmarks/map-watchtower.png) map-watchtower.png
 
-![map-waterWheel.png](Landscape/MapLandmarks/map-waterWheel.png) map-waterWheel.png
+![map-water-wheel.png](Landscape/MapLandmarks/map-water-wheel.png) map-water-wheel.png
+
+![rock-down.png](Landscape/Obstacles/rock-down.png) rock-down.png
+
+![rock-grass-down.png](Landscape/Obstacles/rock-grass-down.png) rock-grass-down.png
+
+![rock-grass.png](Landscape/Obstacles/rock-grass.png) rock-grass.png
+
+![rock-ice-down.png](Landscape/Obstacles/rock-ice-down.png) rock-ice-down.png
+
+![rock-ice.png](Landscape/Obstacles/rock-ice.png) rock-ice.png
+
+![rock-snow-down.png](Landscape/Obstacles/rock-snow-down.png) rock-snow-down.png
+
+![rock-snow.png](Landscape/Obstacles/rock-snow.png) rock-snow.png
 
 ![rock.png](Landscape/Obstacles/rock.png) rock.png
-
-![rockDown.png](Landscape/Obstacles/rockDown.png) rockDown.png
-
-![rockGrass.png](Landscape/Obstacles/rockGrass.png) rockGrass.png
-
-![rockGrassDown.png](Landscape/Obstacles/rockGrassDown.png) rockGrassDown.png
-
-![rockIce.png](Landscape/Obstacles/rockIce.png) rockIce.png
-
-![rockIceDown.png](Landscape/Obstacles/rockIceDown.png) rockIceDown.png
-
-![rockSnow.png](Landscape/Obstacles/rockSnow.png) rockSnow.png
-
-![rockSnowDown.png](Landscape/Obstacles/rockSnowDown.png) rockSnowDown.png
 
 ![snowman.png](Landscape/Obstacles/snowman.png) snowman.png
 
@@ -1728,141 +1728,141 @@
 
 ![spikes-top.png](Landscape/Obstacles/spikes-top.png) spikes-top.png
 
-![bush0.png](Landscape/Plants/Bushes/bush0.png) bush0.png
+![bush-0.png](Landscape/Plants/Bushes/bush-0.png) bush-0.png
 
-![bush1.png](Landscape/Plants/Bushes/bush1.png) bush1.png
+![bush-1.png](Landscape/Plants/Bushes/bush-1.png) bush-1.png
 
-![bush2.png](Landscape/Plants/Bushes/bush2.png) bush2.png
+![bush-2.png](Landscape/Plants/Bushes/bush-2.png) bush-2.png
 
-![bush3.png](Landscape/Plants/Bushes/bush3.png) bush3.png
+![bush-3.png](Landscape/Plants/Bushes/bush-3.png) bush-3.png
 
-![bush4.png](Landscape/Plants/Bushes/bush4.png) bush4.png
+![bush-4.png](Landscape/Plants/Bushes/bush-4.png) bush-4.png
 
-![bush5.png](Landscape/Plants/Bushes/bush5.png) bush5.png
+![bush-5.png](Landscape/Plants/Bushes/bush-5.png) bush-5.png
 
-![bush6.png](Landscape/Plants/Bushes/bush6.png) bush6.png
+![bush-6.png](Landscape/Plants/Bushes/bush-6.png) bush-6.png
 
-![bush7.png](Landscape/Plants/Bushes/bush7.png) bush7.png
+![bush-7.png](Landscape/Plants/Bushes/bush-7.png) bush-7.png
 
-![bush8.png](Landscape/Plants/Bushes/bush8.png) bush8.png
+![bush-8.png](Landscape/Plants/Bushes/bush-8.png) bush-8.png
 
-![coral0.png](Landscape/Plants/Coral/coral0.png) coral0.png
+![coral-0.png](Landscape/Plants/Coral/coral-0.png) coral-0.png
 
-![coral1.png](Landscape/Plants/Coral/coral1.png) coral1.png
+![coral-1.png](Landscape/Plants/Coral/coral-1.png) coral-1.png
 
-![coral10.png](Landscape/Plants/Coral/coral10.png) coral10.png
+![coral-10.png](Landscape/Plants/Coral/coral-10.png) coral-10.png
 
-![coral11.png](Landscape/Plants/Coral/coral11.png) coral11.png
+![coral-11.png](Landscape/Plants/Coral/coral-11.png) coral-11.png
 
-![coral2.png](Landscape/Plants/Coral/coral2.png) coral2.png
+![coral-2.png](Landscape/Plants/Coral/coral-2.png) coral-2.png
 
-![coral3.png](Landscape/Plants/Coral/coral3.png) coral3.png
+![coral-3.png](Landscape/Plants/Coral/coral-3.png) coral-3.png
 
-![coral4.png](Landscape/Plants/Coral/coral4.png) coral4.png
+![coral-4.png](Landscape/Plants/Coral/coral-4.png) coral-4.png
 
-![coral5.png](Landscape/Plants/Coral/coral5.png) coral5.png
+![coral-5.png](Landscape/Plants/Coral/coral-5.png) coral-5.png
 
-![coral6.png](Landscape/Plants/Coral/coral6.png) coral6.png
+![coral-6.png](Landscape/Plants/Coral/coral-6.png) coral-6.png
 
-![coral7.png](Landscape/Plants/Coral/coral7.png) coral7.png
+![coral-7.png](Landscape/Plants/Coral/coral-7.png) coral-7.png
 
-![coral8.png](Landscape/Plants/Coral/coral8.png) coral8.png
+![coral-8.png](Landscape/Plants/Coral/coral-8.png) coral-8.png
 
-![coral9.png](Landscape/Plants/Coral/coral9.png) coral9.png
+![coral-9.png](Landscape/Plants/Coral/coral-9.png) coral-9.png
 
 ![cactus.png](Landscape/Plants/Flowers/cactus.png) cactus.png
 
-![flower0.png](Landscape/Plants/Flowers/flower0.png) flower0.png
+![flower-0.png](Landscape/Plants/Flowers/flower-0.png) flower-0.png
 
-![flower1.png](Landscape/Plants/Flowers/flower1.png) flower1.png
+![flower-1.png](Landscape/Plants/Flowers/flower-1.png) flower-1.png
 
-![flower2.png](Landscape/Plants/Flowers/flower2.png) flower2.png
+![flower-2.png](Landscape/Plants/Flowers/flower-2.png) flower-2.png
 
-![flower3.png](Landscape/Plants/Flowers/flower3.png) flower3.png
+![flower-3.png](Landscape/Plants/Flowers/flower-3.png) flower-3.png
 
 ![mushroom-brown.png](Landscape/Plants/Flowers/mushroom-brown.png) mushroom-brown.png
 
 ![mushroom-red.png](Landscape/Plants/Flowers/mushroom-red.png) mushroom-red.png
 
-![grass0.png](Landscape/Plants/Grass/grass0.png) grass0.png
+![grass-0.png](Landscape/Plants/Grass/grass-0.png) grass-0.png
 
-![grass3.png](Landscape/Plants/Grass/grass3.png) grass3.png
+![grass-3.png](Landscape/Plants/Grass/grass-3.png) grass-3.png
 
-![grass4.png](Landscape/Plants/Grass/grass4.png) grass4.png
+![grass-4.png](Landscape/Plants/Grass/grass-4.png) grass-4.png
 
-![grass5.png](Landscape/Plants/Grass/grass5.png) grass5.png
+![grass-5.png](Landscape/Plants/Grass/grass-5.png) grass-5.png
 
-![grass6.png](Landscape/Plants/Grass/grass6.png) grass6.png
+![grass-6.png](Landscape/Plants/Grass/grass-6.png) grass-6.png
 
-![grass7.png](Landscape/Plants/Grass/grass7.png) grass7.png
+![grass-7.png](Landscape/Plants/Grass/grass-7.png) grass-7.png
 
-![tree0-alt.png](Landscape/Plants/Trees/tree0-alt.png) tree0-alt.png
+![tree-0-alt.png](Landscape/Plants/Trees/tree-0-alt.png) tree-0-alt.png
 
-![tree0.png](Landscape/Plants/Trees/tree0.png) tree0.png
+![tree-0.png](Landscape/Plants/Trees/tree-0.png) tree-0.png
 
-![tree1-alt.png](Landscape/Plants/Trees/tree1-alt.png) tree1-alt.png
+![tree-1-alt.png](Landscape/Plants/Trees/tree-1-alt.png) tree-1-alt.png
 
-![tree1.png](Landscape/Plants/Trees/tree1.png) tree1.png
+![tree-1.png](Landscape/Plants/Trees/tree-1.png) tree-1.png
 
-![tree2-alt.png](Landscape/Plants/Trees/tree2-alt.png) tree2-alt.png
+![tree-2-alt.png](Landscape/Plants/Trees/tree-2-alt.png) tree-2-alt.png
 
-![tree2.png](Landscape/Plants/Trees/tree2.png) tree2.png
+![tree-2.png](Landscape/Plants/Trees/tree-2.png) tree-2.png
 
-![tree3-alt.png](Landscape/Plants/Trees/tree3-alt.png) tree3-alt.png
+![tree-3-alt.png](Landscape/Plants/Trees/tree-3-alt.png) tree-3-alt.png
 
-![tree3.png](Landscape/Plants/Trees/tree3.png) tree3.png
+![tree-3.png](Landscape/Plants/Trees/tree-3.png) tree-3.png
 
-![tree4-alt.png](Landscape/Plants/Trees/tree4-alt.png) tree4-alt.png
+![tree-4-alt.png](Landscape/Plants/Trees/tree-4-alt.png) tree-4-alt.png
 
-![tree4.png](Landscape/Plants/Trees/tree4.png) tree4.png
+![tree-4.png](Landscape/Plants/Trees/tree-4.png) tree-4.png
 
-![tree5-alt.png](Landscape/Plants/Trees/tree5-alt.png) tree5-alt.png
+![tree-5-alt.png](Landscape/Plants/Trees/tree-5-alt.png) tree-5-alt.png
 
-![tree5.png](Landscape/Plants/Trees/tree5.png) tree5.png
+![tree-5.png](Landscape/Plants/Trees/tree-5.png) tree-5.png
 
-![tree6-alt.png](Landscape/Plants/Trees/tree6-alt.png) tree6-alt.png
+![tree-6-alt.png](Landscape/Plants/Trees/tree-6-alt.png) tree-6-alt.png
 
-![tree6.png](Landscape/Plants/Trees/tree6.png) tree6.png
+![tree-6.png](Landscape/Plants/Trees/tree-6.png) tree-6.png
 
-![tree7-alt.png](Landscape/Plants/Trees/tree7-alt.png) tree7-alt.png
+![tree-7-alt.png](Landscape/Plants/Trees/tree-7-alt.png) tree-7-alt.png
 
-![tree7.png](Landscape/Plants/Trees/tree7.png) tree7.png
+![tree-7.png](Landscape/Plants/Trees/tree-7.png) tree-7.png
 
-![tree8-alt.png](Landscape/Plants/Trees/tree8-alt.png) tree8-alt.png
+![tree-8-alt.png](Landscape/Plants/Trees/tree-8-alt.png) tree-8-alt.png
 
-![tree8.png](Landscape/Plants/Trees/tree8.png) tree8.png
+![tree-8.png](Landscape/Plants/Trees/tree-8.png) tree-8.png
 
-![trunk0.png](Landscape/Plants/Trees/trunk0.png) trunk0.png
+![trunk-0.png](Landscape/Plants/Trees/trunk-0.png) trunk-0.png
 
-![trunk1.png](Landscape/Plants/Trees/trunk1.png) trunk1.png
+![trunk-1.png](Landscape/Plants/Trees/trunk-1.png) trunk-1.png
 
-![trunk2.png](Landscape/Plants/Trees/trunk2.png) trunk2.png
+![trunk-2.png](Landscape/Plants/Trees/trunk-2.png) trunk-2.png
 
-![trunk3.png](Landscape/Plants/Trees/trunk3.png) trunk3.png
+![trunk-3.png](Landscape/Plants/Trees/trunk-3.png) trunk-3.png
 
-![trunk4.png](Landscape/Plants/Trees/trunk4.png) trunk4.png
+![trunk-4.png](Landscape/Plants/Trees/trunk-4.png) trunk-4.png
 
-![trunk5.png](Landscape/Plants/Trees/trunk5.png) trunk5.png
+![trunk-5.png](Landscape/Plants/Trees/trunk-5.png) trunk-5.png
 
-![trunk6.png](Landscape/Plants/Trees/trunk6.png) trunk6.png
+![trunk-6.png](Landscape/Plants/Trees/trunk-6.png) trunk-6.png
 
-![trunk7.png](Landscape/Plants/Trees/trunk7.png) trunk7.png
+![trunk-7.png](Landscape/Plants/Trees/trunk-7.png) trunk-7.png
 
-![dirtHalf-left.png](Landscape/Platforms/dirtHalf-left.png) dirtHalf-left.png
+![dirt-half-left.png](Landscape/Platforms/dirt-half-left.png) dirt-half-left.png
 
-![dirtHalf-mid.png](Landscape/Platforms/dirtHalf-mid.png) dirtHalf-mid.png
+![dirt-half-mid.png](Landscape/Platforms/dirt-half-mid.png) dirt-half-mid.png
 
-![dirtHalf-right.png](Landscape/Platforms/dirtHalf-right.png) dirtHalf-right.png
+![dirt-half-right.png](Landscape/Platforms/dirt-half-right.png) dirt-half-right.png
 
-![dirtHalf.png](Landscape/Platforms/dirtHalf.png) dirtHalf.png
+![dirt-half.png](Landscape/Platforms/dirt-half.png) dirt-half.png
 
-![grassHalf-left.png](Landscape/Platforms/grassHalf-left.png) grassHalf-left.png
+![grass-half-left.png](Landscape/Platforms/grass-half-left.png) grass-half-left.png
 
-![grassHalf-mid.png](Landscape/Platforms/grassHalf-mid.png) grassHalf-mid.png
+![grass-half-mid.png](Landscape/Platforms/grass-half-mid.png) grass-half-mid.png
 
-![grassHalf-right.png](Landscape/Platforms/grassHalf-right.png) grassHalf-right.png
+![grass-half-right.png](Landscape/Platforms/grass-half-right.png) grass-half-right.png
 
-![grassHalf.png](Landscape/Platforms/grassHalf.png) grassHalf.png
+![grass-half.png](Landscape/Platforms/grass-half.png) grass-half.png
 
 ![ground-cake-broken.png](Landscape/Platforms/ground-cake-broken.png) ground-cake-broken.png
 
@@ -1912,13 +1912,13 @@
 
 ![ground-wood.png](Landscape/Platforms/ground-wood.png) ground-wood.png
 
-![planetHalf-left.png](Landscape/Platforms/planetHalf-left.png) planetHalf-left.png
+![planet-half-left.png](Landscape/Platforms/planet-half-left.png) planet-half-left.png
 
-![planetHalf-mid.png](Landscape/Platforms/planetHalf-mid.png) planetHalf-mid.png
+![planet-half-mid.png](Landscape/Platforms/planet-half-mid.png) planet-half-mid.png
 
-![planetHalf-right.png](Landscape/Platforms/planetHalf-right.png) planetHalf-right.png
+![planet-half-right.png](Landscape/Platforms/planet-half-right.png) planet-half-right.png
 
-![planetHalf.png](Landscape/Platforms/planetHalf.png) planetHalf.png
+![planet-half.png](Landscape/Platforms/planet-half.png) planet-half.png
 
 ![tile-exclamation.png](Landscape/Platforms/tile-exclamation.png) tile-exclamation.png
 
@@ -1928,85 +1928,85 @@
 
 ![tile.png](Landscape/Platforms/tile.png) tile.png
 
-![boulder0.png](Landscape/Rocks/boulder0.png) boulder0.png
+![boulder-0.png](Landscape/Rocks/boulder-0.png) boulder-0.png
 
-![boulder1.png](Landscape/Rocks/boulder1.png) boulder1.png
+![boulder-1.png](Landscape/Rocks/boulder-1.png) boulder-1.png
 
-![boulder2.png](Landscape/Rocks/boulder2.png) boulder2.png
+![boulder-2.png](Landscape/Rocks/boulder-2.png) boulder-2.png
 
-![boulder3.png](Landscape/Rocks/boulder3.png) boulder3.png
+![boulder-3.png](Landscape/Rocks/boulder-3.png) boulder-3.png
 
-![mountain0.png](Landscape/Rocks/mountain0.png) mountain0.png
+![mountain-0.png](Landscape/Rocks/mountain-0.png) mountain-0.png
 
-![mountain1.png](Landscape/Rocks/mountain1.png) mountain1.png
+![mountain-1.png](Landscape/Rocks/mountain-1.png) mountain-1.png
 
-![mountain2.png](Landscape/Rocks/mountain2.png) mountain2.png
+![mountain-2.png](Landscape/Rocks/mountain-2.png) mountain-2.png
 
-![mountain3.png](Landscape/Rocks/mountain3.png) mountain3.png
+![mountain-3.png](Landscape/Rocks/mountain-3.png) mountain-3.png
 
-![mountain4.png](Landscape/Rocks/mountain4.png) mountain4.png
+![mountain-4.png](Landscape/Rocks/mountain-4.png) mountain-4.png
 
-![mountain5.png](Landscape/Rocks/mountain5.png) mountain5.png
+![mountain-5.png](Landscape/Rocks/mountain-5.png) mountain-5.png
 
-![mountain6.png](Landscape/Rocks/mountain6.png) mountain6.png
+![mountain-6.png](Landscape/Rocks/mountain-6.png) mountain-6.png
 
-![mountain7.png](Landscape/Rocks/mountain7.png) mountain7.png
+![mountain-7.png](Landscape/Rocks/mountain-7.png) mountain-7.png
 
-![mountain8.png](Landscape/Rocks/mountain8.png) mountain8.png
+![mountain-8.png](Landscape/Rocks/mountain-8.png) mountain-8.png
 
-![rock-top0.png](Landscape/Rocks/rock-top0.png) rock-top0.png
+![rock-0.png](Landscape/Rocks/rock-0.png) rock-0.png
 
-![rock-top1.png](Landscape/Rocks/rock-top1.png) rock-top1.png
+![rock-1.png](Landscape/Rocks/rock-1.png) rock-1.png
 
-![rock-top2.png](Landscape/Rocks/rock-top2.png) rock-top2.png
+![rock-top-0.png](Landscape/Rocks/rock-top-0.png) rock-top-0.png
 
-![rock-top3.png](Landscape/Rocks/rock-top3.png) rock-top3.png
+![rock-top-1.png](Landscape/Rocks/rock-top-1.png) rock-top-1.png
 
-![rock-top4.png](Landscape/Rocks/rock-top4.png) rock-top4.png
+![rock-top-2.png](Landscape/Rocks/rock-top-2.png) rock-top-2.png
 
-![rock-top5.png](Landscape/Rocks/rock-top5.png) rock-top5.png
+![rock-top-3.png](Landscape/Rocks/rock-top-3.png) rock-top-3.png
 
-![rock0.png](Landscape/Rocks/rock0.png) rock0.png
+![rock-top-4.png](Landscape/Rocks/rock-top-4.png) rock-top-4.png
 
-![rock1.png](Landscape/Rocks/rock1.png) rock1.png
+![rock-top-5.png](Landscape/Rocks/rock-top-5.png) rock-top-5.png
 
-![snow-rock0.png](Landscape/Rocks/snow-rock0.png) snow-rock0.png
+![snow-rock-0.png](Landscape/Rocks/snow-rock-0.png) snow-rock-0.png
 
-![snow-rock1.png](Landscape/Rocks/snow-rock1.png) snow-rock1.png
+![snow-rock-1.png](Landscape/Rocks/snow-rock-1.png) snow-rock-1.png
 
-![snow-rock2.png](Landscape/Rocks/snow-rock2.png) snow-rock2.png
+![snow-rock-2.png](Landscape/Rocks/snow-rock-2.png) snow-rock-2.png
 
-![snow-rock3.png](Landscape/Rocks/snow-rock3.png) snow-rock3.png
+![snow-rock-3.png](Landscape/Rocks/snow-rock-3.png) snow-rock-3.png
 
-![bubble0.png](Symbols/BubbleFont/bubble0.png) bubble0.png
+![bubble-0.png](Symbols/BubbleFont/bubble-0.png) bubble-0.png
 
-![bubble1.png](Symbols/BubbleFont/bubble1.png) bubble1.png
+![bubble-1.png](Symbols/BubbleFont/bubble-1.png) bubble-1.png
 
-![bubble2.png](Symbols/BubbleFont/bubble2.png) bubble2.png
+![bubble-2.png](Symbols/BubbleFont/bubble-2.png) bubble-2.png
 
-![bubble3.png](Symbols/BubbleFont/bubble3.png) bubble3.png
+![bubble-3.png](Symbols/BubbleFont/bubble-3.png) bubble-3.png
 
-![bubble4.png](Symbols/BubbleFont/bubble4.png) bubble4.png
+![bubble-4.png](Symbols/BubbleFont/bubble-4.png) bubble-4.png
 
-![bubble5.png](Symbols/BubbleFont/bubble5.png) bubble5.png
+![bubble-5.png](Symbols/BubbleFont/bubble-5.png) bubble-5.png
 
-![bubble6.png](Symbols/BubbleFont/bubble6.png) bubble6.png
+![bubble-6.png](Symbols/BubbleFont/bubble-6.png) bubble-6.png
 
-![bubble7.png](Symbols/BubbleFont/bubble7.png) bubble7.png
+![bubble-7.png](Symbols/BubbleFont/bubble-7.png) bubble-7.png
 
-![bubble8.png](Symbols/BubbleFont/bubble8.png) bubble8.png
+![bubble-8.png](Symbols/BubbleFont/bubble-8.png) bubble-8.png
 
-![bubble9.png](Symbols/BubbleFont/bubble9.png) bubble9.png
+![bubble-9.png](Symbols/BubbleFont/bubble-9.png) bubble-9.png
 
-![bubbleColon.png](Symbols/BubbleFont/bubbleColon.png) bubbleColon.png
+![bubble-colon.png](Symbols/BubbleFont/bubble-colon.png) bubble-colon.png
 
-![bubbleDecimal.png](Symbols/BubbleFont/bubbleDecimal.png) bubbleDecimal.png
+![bubble-decimal.png](Symbols/BubbleFont/bubble-decimal.png) bubble-decimal.png
 
-![bubbleDollar.png](Symbols/BubbleFont/bubbleDollar.png) bubbleDollar.png
+![bubble-dollar.png](Symbols/BubbleFont/bubble-dollar.png) bubble-dollar.png
 
-![bubblePercent.png](Symbols/BubbleFont/bubblePercent.png) bubblePercent.png
+![bubble-percent.png](Symbols/BubbleFont/bubble-percent.png) bubble-percent.png
 
-![bubblePlus.png](Symbols/BubbleFont/bubblePlus.png) bubblePlus.png
+![bubble-plus.png](Symbols/BubbleFont/bubble-plus.png) bubble-plus.png
 
 ![key-0-b.png](Symbols/ClickableIcons/key-0-b.png) key-0-b.png
 
@@ -2196,9 +2196,9 @@
 
 ![control-home.png](Symbols/MediaControls/control-home.png) control-home.png
 
-![control-musicOff.png](Symbols/MediaControls/control-musicOff.png) control-musicOff.png
+![control-music-off.png](Symbols/MediaControls/control-music-off.png) control-music-off.png
 
-![control-musicOn.png](Symbols/MediaControls/control-musicOn.png) control-musicOn.png
+![control-music-on.png](Symbols/MediaControls/control-music-on.png) control-music-on.png
 
 ![control-pause.png](Symbols/MediaControls/control-pause.png) control-pause.png
 
@@ -2206,17 +2206,17 @@
 
 ![control-restart.png](Symbols/MediaControls/control-restart.png) control-restart.png
 
-![control-soundOff.png](Symbols/MediaControls/control-soundOff.png) control-soundOff.png
+![control-sound-off.png](Symbols/MediaControls/control-sound-off.png) control-sound-off.png
 
-![control-soundOn.png](Symbols/MediaControls/control-soundOn.png) control-soundOn.png
+![control-sound-on.png](Symbols/MediaControls/control-sound-on.png) control-sound-on.png
+
+![ball-outlined-2.png](Symbols/Shapes/ball-outlined-2.png) ball-outlined-2.png
 
 ![ball-outlined.png](Symbols/Shapes/ball-outlined.png) ball-outlined.png
 
-![ball-outlined2.png](Symbols/Shapes/ball-outlined2.png) ball-outlined2.png
+![ball-shaded-2.png](Symbols/Shapes/ball-shaded-2.png) ball-shaded-2.png
 
 ![ball-shaded.png](Symbols/Shapes/ball-shaded.png) ball-shaded.png
-
-![ball-shaded2.png](Symbols/Shapes/ball-shaded2.png) ball-shaded2.png
 
 ![rect-button-pressed.png](Symbols/Shapes/rect-button-pressed.png) rect-button-pressed.png
 
@@ -2226,133 +2226,133 @@
 
 ![round-button.png](Symbols/Shapes/round-button.png) round-button.png
 
-![tile-shaded0.png](Symbols/Shapes/tile-shaded0.png) tile-shaded0.png
+![tile-shaded-0.png](Symbols/Shapes/tile-shaded-0.png) tile-shaded-0.png
 
-![tile-shaded1.png](Symbols/Shapes/tile-shaded1.png) tile-shaded1.png
+![tile-shaded-1.png](Symbols/Shapes/tile-shaded-1.png) tile-shaded-1.png
 
-![speech-bubble1.png](Symbols/SpeechBubbles/speech-bubble1.png) speech-bubble1.png
+![speech-bubble-1.png](Symbols/SpeechBubbles/speech-bubble-1.png) speech-bubble-1.png
 
-![speech-bubble2.png](Symbols/SpeechBubbles/speech-bubble2.png) speech-bubble2.png
+![speech-bubble-2.png](Symbols/SpeechBubbles/speech-bubble-2.png) speech-bubble-2.png
 
-![speech-bubble3.png](Symbols/SpeechBubbles/speech-bubble3.png) speech-bubble3.png
+![speech-bubble-3.png](Symbols/SpeechBubbles/speech-bubble-3.png) speech-bubble-3.png
 
-![speech-bubble4.png](Symbols/SpeechBubbles/speech-bubble4.png) speech-bubble4.png
+![speech-bubble-4.png](Symbols/SpeechBubbles/speech-bubble-4.png) speech-bubble-4.png
 
-![speech-bubble5.png](Symbols/SpeechBubbles/speech-bubble5.png) speech-bubble5.png
+![speech-bubble-5.png](Symbols/SpeechBubbles/speech-bubble-5.png) speech-bubble-5.png
 
-![speech-bubble6.png](Symbols/SpeechBubbles/speech-bubble6.png) speech-bubble6.png
+![speech-bubble-6.png](Symbols/SpeechBubbles/speech-bubble-6.png) speech-bubble-6.png
 
-![speech-bubble7.png](Symbols/SpeechBubbles/speech-bubble7.png) speech-bubble7.png
+![speech-bubble-7.png](Symbols/SpeechBubbles/speech-bubble-7.png) speech-bubble-7.png
 
-![speech-bubble8.png](Symbols/SpeechBubbles/speech-bubble8.png) speech-bubble8.png
+![speech-bubble-8.png](Symbols/SpeechBubbles/speech-bubble-8.png) speech-bubble-8.png
 
-![speech-bubble9.png](Symbols/SpeechBubbles/speech-bubble9.png) speech-bubble9.png
+![speech-bubble-9.png](Symbols/SpeechBubbles/speech-bubble-9.png) speech-bubble-9.png
 
-![car0.png](Transport/Cars/car0.png) car0.png
+![car-0.png](Transport/Cars/car-0.png) car-0.png
 
-![car1.png](Transport/Cars/car1.png) car1.png
+![car-1.png](Transport/Cars/car-1.png) car-1.png
 
-![car2.png](Transport/Cars/car2.png) car2.png
+![car-2.png](Transport/Cars/car-2.png) car-2.png
 
 ![motorcycle.png](Transport/Cars/motorcycle.png) motorcycle.png
 
+![cannon-ball.png](Transport/PirateShips/cannon-ball.png) cannon-ball.png
+
 ![cannon.png](Transport/PirateShips/cannon.png) cannon.png
 
-![cannonBall.png](Transport/PirateShips/cannonBall.png) cannonBall.png
+![lifeboat-1.png](Transport/PirateShips/lifeboat-1.png) lifeboat-1.png
 
-![lifeboat1.png](Transport/PirateShips/lifeboat1.png) lifeboat1.png
+![lifeboat-2.png](Transport/PirateShips/lifeboat-2.png) lifeboat-2.png
 
-![lifeboat2.png](Transport/PirateShips/lifeboat2.png) lifeboat2.png
+![lifeboat-3.png](Transport/PirateShips/lifeboat-3.png) lifeboat-3.png
 
-![lifeboat3.png](Transport/PirateShips/lifeboat3.png) lifeboat3.png
+![ship-0-1.png](Transport/PirateShips/ship-0-1.png) ship-0-1.png
 
-![ship0-1.png](Transport/PirateShips/ship0-1.png) ship0-1.png
+![ship-0-2.png](Transport/PirateShips/ship-0-2.png) ship-0-2.png
 
-![ship0-2.png](Transport/PirateShips/ship0-2.png) ship0-2.png
+![ship-0-3.png](Transport/PirateShips/ship-0-3.png) ship-0-3.png
 
-![ship0-3.png](Transport/PirateShips/ship0-3.png) ship0-3.png
+![ship-0-4.png](Transport/PirateShips/ship-0-4.png) ship-0-4.png
 
-![ship0-4.png](Transport/PirateShips/ship0-4.png) ship0-4.png
+![ship-1-1.png](Transport/PirateShips/ship-1-1.png) ship-1-1.png
 
-![ship1-1.png](Transport/PirateShips/ship1-1.png) ship1-1.png
+![ship-1-2.png](Transport/PirateShips/ship-1-2.png) ship-1-2.png
 
-![ship1-2.png](Transport/PirateShips/ship1-2.png) ship1-2.png
+![ship-1-3.png](Transport/PirateShips/ship-1-3.png) ship-1-3.png
 
-![ship1-3.png](Transport/PirateShips/ship1-3.png) ship1-3.png
+![ship-1-4.png](Transport/PirateShips/ship-1-4.png) ship-1-4.png
 
-![ship1-4.png](Transport/PirateShips/ship1-4.png) ship1-4.png
+![ship-2-1.png](Transport/PirateShips/ship-2-1.png) ship-2-1.png
 
-![ship2-1.png](Transport/PirateShips/ship2-1.png) ship2-1.png
+![ship-2-2.png](Transport/PirateShips/ship-2-2.png) ship-2-2.png
 
-![ship2-2.png](Transport/PirateShips/ship2-2.png) ship2-2.png
+![ship-2-3.png](Transport/PirateShips/ship-2-3.png) ship-2-3.png
 
-![ship2-3.png](Transport/PirateShips/ship2-3.png) ship2-3.png
+![ship-2-4.png](Transport/PirateShips/ship-2-4.png) ship-2-4.png
 
-![ship2-4.png](Transport/PirateShips/ship2-4.png) ship2-4.png
+![ship-3-1.png](Transport/PirateShips/ship-3-1.png) ship-3-1.png
 
-![ship3-1.png](Transport/PirateShips/ship3-1.png) ship3-1.png
+![ship-3-2.png](Transport/PirateShips/ship-3-2.png) ship-3-2.png
 
-![ship3-2.png](Transport/PirateShips/ship3-2.png) ship3-2.png
+![ship-3-3.png](Transport/PirateShips/ship-3-3.png) ship-3-3.png
 
-![ship3-3.png](Transport/PirateShips/ship3-3.png) ship3-3.png
+![ship-3-4.png](Transport/PirateShips/ship-3-4.png) ship-3-4.png
 
-![ship3-4.png](Transport/PirateShips/ship3-4.png) ship3-4.png
+![ship-4-1.png](Transport/PirateShips/ship-4-1.png) ship-4-1.png
 
-![ship4-1.png](Transport/PirateShips/ship4-1.png) ship4-1.png
+![ship-4-2.png](Transport/PirateShips/ship-4-2.png) ship-4-2.png
 
-![ship4-2.png](Transport/PirateShips/ship4-2.png) ship4-2.png
+![ship-4-3.png](Transport/PirateShips/ship-4-3.png) ship-4-3.png
 
-![ship4-3.png](Transport/PirateShips/ship4-3.png) ship4-3.png
+![ship-4-4.png](Transport/PirateShips/ship-4-4.png) ship-4-4.png
 
-![ship4-4.png](Transport/PirateShips/ship4-4.png) ship4-4.png
+![ship-5-1.png](Transport/PirateShips/ship-5-1.png) ship-5-1.png
 
-![ship5-1.png](Transport/PirateShips/ship5-1.png) ship5-1.png
+![ship-5-2.png](Transport/PirateShips/ship-5-2.png) ship-5-2.png
 
-![ship5-2.png](Transport/PirateShips/ship5-2.png) ship5-2.png
+![ship-5-3.png](Transport/PirateShips/ship-5-3.png) ship-5-3.png
 
-![ship5-3.png](Transport/PirateShips/ship5-3.png) ship5-3.png
+![ship-5-4.png](Transport/PirateShips/ship-5-4.png) ship-5-4.png
 
-![ship5-4.png](Transport/PirateShips/ship5-4.png) ship5-4.png
+![plane-0.png](Transport/Planes/plane-0.png) plane-0.png
 
-![plane0.png](Transport/Planes/plane0.png) plane0.png
+![plane-1.png](Transport/Planes/plane-1.png) plane-1.png
 
-![plane1.png](Transport/Planes/plane1.png) plane1.png
-
-![plane2.png](Transport/Planes/plane2.png) plane2.png
+![plane-2.png](Transport/Planes/plane-2.png) plane-2.png
 
 ![rocket.png](Transport/Space/rocket.png) rocket.png
 
-![spaceRocket0.png](Transport/Space/spaceRocket0.png) spaceRocket0.png
+![space-rocket-0.png](Transport/Space/space-rocket-0.png) space-rocket-0.png
 
-![spaceRocket1.png](Transport/Space/spaceRocket1.png) spaceRocket1.png
+![space-rocket-1.png](Transport/Space/space-rocket-1.png) space-rocket-1.png
 
-![spaceRocket2.png](Transport/Space/spaceRocket2.png) spaceRocket2.png
+![space-rocket-2.png](Transport/Space/space-rocket-2.png) space-rocket-2.png
 
-![spaceShip0.png](Transport/Space/spaceShip0.png) spaceShip0.png
+![space-ship-0.png](Transport/Space/space-ship-0.png) space-ship-0.png
 
-![spaceShip1.png](Transport/Space/spaceShip1.png) spaceShip1.png
+![space-ship-1.png](Transport/Space/space-ship-1.png) space-ship-1.png
 
-![spaceShip2.png](Transport/Space/spaceShip2.png) spaceShip2.png
+![space-ship-2.png](Transport/Space/space-ship-2.png) space-ship-2.png
 
-![spaceShip3.png](Transport/Space/spaceShip3.png) spaceShip3.png
+![space-ship-3.png](Transport/Space/space-ship-3.png) space-ship-3.png
 
-![spaceShip4.png](Transport/Space/spaceShip4.png) spaceShip4.png
+![space-ship-4.png](Transport/Space/space-ship-4.png) space-ship-4.png
 
-![spaceShip5.png](Transport/Space/spaceShip5.png) spaceShip5.png
+![space-ship-5.png](Transport/Space/space-ship-5.png) space-ship-5.png
 
-![spaceShip6.png](Transport/Space/spaceShip6.png) spaceShip6.png
+![space-ship-6.png](Transport/Space/space-ship-6.png) space-ship-6.png
 
-![spaceShip7.png](Transport/Space/spaceShip7.png) spaceShip7.png
+![space-ship-7.png](Transport/Space/space-ship-7.png) space-ship-7.png
 
-![spaceShip8.png](Transport/Space/spaceShip8.png) spaceShip8.png
+![space-ship-8.png](Transport/Space/space-ship-8.png) space-ship-8.png
 
-![station0.png](Transport/Space/station0.png) station0.png
+![station-0.png](Transport/Space/station-0.png) station-0.png
 
-![station1.png](Transport/Space/station1.png) station1.png
+![station-1.png](Transport/Space/station-1.png) station-1.png
 
-![station2.png](Transport/Space/station2.png) station2.png
+![station-2.png](Transport/Space/station-2.png) station-2.png
 
-![station3.png](Transport/Space/station3.png) station3.png
+![station-3.png](Transport/Space/station-3.png) station-3.png
 
-![station4.png](Transport/Space/station4.png) station4.png
+![station-4.png](Transport/Space/station-4.png) station-4.png
 

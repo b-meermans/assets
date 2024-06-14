@@ -2,17 +2,17 @@
 
 ![map-banner.png](map-banner.png) map-banner.png
 
-![map-bridge.png](map-bridge.png) map-bridge.png
+![map-bridge-rope.png](map-bridge-rope.png) map-bridge-rope.png
 
-![map-bridgeRope.png](map-bridgeRope.png) map-bridgeRope.png
+![map-bridge.png](map-bridge.png) map-bridge.png
 
 ![map-cactus.png](map-cactus.png) map-cactus.png
 
 ![map-campfire.png](map-campfire.png) map-campfire.png
 
-![map-castle.png](map-castle.png) map-castle.png
+![map-castle-tall.png](map-castle-tall.png) map-castle-tall.png
 
-![map-castleTall.png](map-castleTall.png) map-castleTall.png
+![map-castle.png](map-castle.png) map-castle.png
 
 ![map-chest.png](map-chest.png) map-chest.png
 
@@ -28,21 +28,21 @@
 
 ![map-graveyard.png](map-graveyard.png) map-graveyard.png
 
-![map-house.png](map-house.png) map-house.png
+![map-house-chimney.png](map-house-chimney.png) map-house-chimney.png
 
-![map-houseChimney.png](map-houseChimney.png) map-houseChimney.png
+![map-house-small.png](map-house-small.png) map-house-small.png
+
+![map-house-tall.png](map-house-tall.png) map-house-tall.png
+
+![map-house-viking.png](map-house-viking.png) map-house-viking.png
+
+![map-house.png](map-house.png) map-house.png
 
 ![map-houses.png](map-houses.png) map-houses.png
 
-![map-houseSmall.png](map-houseSmall.png) map-houseSmall.png
-
-![map-houseTall.png](map-houseTall.png) map-houseTall.png
-
-![map-houseViking.png](map-houseViking.png) map-houseViking.png
+![map-lake-round.png](map-lake-round.png) map-lake-round.png
 
 ![map-lake.png](map-lake.png) map-lake.png
-
-![map-lakeRound.png](map-lakeRound.png) map-lakeRound.png
 
 ![map-lighthouse.png](map-lighthouse.png) map-lighthouse.png
 
@@ -54,9 +54,9 @@
 
 ![map-pyramid.png](map-pyramid.png) map-pyramid.png
 
-![map-rocks.png](map-rocks.png) map-rocks.png
+![map-rocks-mountain.png](map-rocks-mountain.png) map-rocks-mountain.png
 
-![map-rocksMountain.png](map-rocksMountain.png) map-rocksMountain.png
+![map-rocks.png](map-rocks.png) map-rocks.png
 
 ![map-ruins.png](map-ruins.png) map-ruins.png
 
@@ -64,13 +64,13 @@
 
 ![map-stable.png](map-stable.png) map-stable.png
 
-![map-treePine.png](map-treePine.png) map-treePine.png
+![map-tree-pine-large.png](map-tree-pine-large.png) map-tree-pine-large.png
 
-![map-treePineTallLarge.png](map-treePineTallLarge.png) map-treePineTallLarge.png
+![map-tree-pine.png](map-tree-pine.png) map-tree-pine.png
 
 ![map-vulcano.png](map-vulcano.png) map-vulcano.png
 
 ![map-watchtower.png](map-watchtower.png) map-watchtower.png
 
-![map-waterWheel.png](map-waterWheel.png) map-waterWheel.png
+![map-water-wheel.png](map-water-wheel.png) map-water-wheel.png
 

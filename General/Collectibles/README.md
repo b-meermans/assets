@@ -1,14 +1,14 @@
 # Image Previews
 
-![boxCoin-boxed.png](boxCoin-boxed.png) boxCoin-boxed.png
+![box-coin-boxed.png](box-coin-boxed.png) box-coin-boxed.png
 
-![boxCrate-single.png](boxCrate-single.png) boxCrate-single.png
+![box-crate-single.png](box-crate-single.png) box-crate-single.png
 
-![boxCrate.png](boxCrate.png) boxCrate.png
+![box-crate.png](box-crate.png) box-crate.png
 
-![boxExplosive.png](boxExplosive.png) boxExplosive.png
+![box-explosive.png](box-explosive.png) box-explosive.png
 
-![boxItem-boxed.png](boxItem-boxed.png) boxItem-boxed.png
+![box-item-boxed.png](box-item-boxed.png) box-item-boxed.png
 
 ![bronze-0.png](bronze-0.png) bronze-0.png
 
@@ -34,7 +34,7 @@
 
 ![coin-silver.png](coin-silver.png) coin-silver.png
 
-![gemBlue.png](gemBlue.png) gemBlue.png
+![gem-blue.png](gem-blue.png) gem-blue.png
 
 ![gold-0.png](gold-0.png) gold-0.png
 
@@ -48,19 +48,19 @@
 
 ![gold-5.png](gold-5.png) gold-5.png
 
-![hudHeart-empty.png](hudHeart-empty.png) hudHeart-empty.png
+![hud-heart-empty.png](hud-heart-empty.png) hud-heart-empty.png
 
-![hudHeart-full.png](hudHeart-full.png) hudHeart-full.png
+![hud-heart-full.png](hud-heart-full.png) hud-heart-full.png
 
-![hudHeart-half.png](hudHeart-half.png) hudHeart-half.png
+![hud-heart-half.png](hud-heart-half.png) hud-heart-half.png
 
-![hudJewel-blue-empty.png](hudJewel-blue-empty.png) hudJewel-blue-empty.png
+![hud-jewel-blue-empty.png](hud-jewel-blue-empty.png) hud-jewel-blue-empty.png
 
-![hudJewel-blue.png](hudJewel-blue.png) hudJewel-blue.png
+![hud-jewel-blue.png](hud-jewel-blue.png) hud-jewel-blue.png
 
-![hudKey-blue-empty.png](hudKey-blue-empty.png) hudKey-blue-empty.png
+![hud-key-blue-empty.png](hud-key-blue-empty.png) hud-key-blue-empty.png
 
-![hudKey-blue.png](hudKey-blue.png) hudKey-blue.png
+![hud-key-blue.png](hud-key-blue.png) hud-key-blue.png
 
 ![jetpack.png](jetpack.png) jetpack.png
 
@@ -80,11 +80,11 @@
 
 ![silver-5.png](silver-5.png) silver-5.png
 
-![starBronze.png](starBronze.png) starBronze.png
+![star-bronze.png](star-bronze.png) star-bronze.png
 
-![starDiamond.png](starDiamond.png) starDiamond.png
+![star-diamond.png](star-diamond.png) star-diamond.png
 
-![starGold.png](starGold.png) starGold.png
+![star-gold.png](star-gold.png) star-gold.png
 
-![starSilver.png](starSilver.png) starSilver.png
+![star-silver.png](star-silver.png) star-silver.png
 

@@ -1,12 +1,12 @@
 # Image Previews
 
+![office-book-0.png](office-book-0.png) office-book-0.png
+
+![office-book-1.png](office-book-1.png) office-book-1.png
+
+![office-book-3.png](office-book-3.png) office-book-3.png
+
 ![office-book.png](office-book.png) office-book.png
-
-![office-book0.png](office-book0.png) office-book0.png
-
-![office-book1.png](office-book1.png) office-book1.png
-
-![office-book3.png](office-book3.png) office-book3.png
 
 ![office-briefcase.png](office-briefcase.png) office-briefcase.png
 

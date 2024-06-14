@@ -1,20 +1,20 @@
 # Image Previews
 
-![bush0.png](bush0.png) bush0.png
+![bush-0.png](bush-0.png) bush-0.png
 
-![bush1.png](bush1.png) bush1.png
+![bush-1.png](bush-1.png) bush-1.png
 
-![bush2.png](bush2.png) bush2.png
+![bush-2.png](bush-2.png) bush-2.png
 
-![bush3.png](bush3.png) bush3.png
+![bush-3.png](bush-3.png) bush-3.png
 
-![bush4.png](bush4.png) bush4.png
+![bush-4.png](bush-4.png) bush-4.png
 
-![bush5.png](bush5.png) bush5.png
+![bush-5.png](bush-5.png) bush-5.png
 
-![bush6.png](bush6.png) bush6.png
+![bush-6.png](bush-6.png) bush-6.png
 
-![bush7.png](bush7.png) bush7.png
+![bush-7.png](bush-7.png) bush-7.png
 
-![bush8.png](bush8.png) bush8.png
+![bush-8.png](bush-8.png) bush-8.png
 

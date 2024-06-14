@@ -8,9 +8,9 @@
 
 ![control-home.png](control-home.png) control-home.png
 
-![control-musicOff.png](control-musicOff.png) control-musicOff.png
+![control-music-off.png](control-music-off.png) control-music-off.png
 
-![control-musicOn.png](control-musicOn.png) control-musicOn.png
+![control-music-on.png](control-music-on.png) control-music-on.png
 
 ![control-pause.png](control-pause.png) control-pause.png
 
@@ -18,7 +18,7 @@
 
 ![control-restart.png](control-restart.png) control-restart.png
 
-![control-soundOff.png](control-soundOff.png) control-soundOff.png
+![control-sound-off.png](control-sound-off.png) control-sound-off.png
 
-![control-soundOn.png](control-soundOn.png) control-soundOn.png
+![control-sound-on.png](control-sound-on.png) control-sound-on.png
 

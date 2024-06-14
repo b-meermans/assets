@@ -1,34 +1,34 @@
 # Image Previews
 
-![bubble0.png](BubbleFont/bubble0.png) bubble0.png
+![bubble-0.png](BubbleFont/bubble-0.png) bubble-0.png
 
-![bubble1.png](BubbleFont/bubble1.png) bubble1.png
+![bubble-1.png](BubbleFont/bubble-1.png) bubble-1.png
 
-![bubble2.png](BubbleFont/bubble2.png) bubble2.png
+![bubble-2.png](BubbleFont/bubble-2.png) bubble-2.png
 
-![bubble3.png](BubbleFont/bubble3.png) bubble3.png
+![bubble-3.png](BubbleFont/bubble-3.png) bubble-3.png
 
-![bubble4.png](BubbleFont/bubble4.png) bubble4.png
+![bubble-4.png](BubbleFont/bubble-4.png) bubble-4.png
 
-![bubble5.png](BubbleFont/bubble5.png) bubble5.png
+![bubble-5.png](BubbleFont/bubble-5.png) bubble-5.png
 
-![bubble6.png](BubbleFont/bubble6.png) bubble6.png
+![bubble-6.png](BubbleFont/bubble-6.png) bubble-6.png
 
-![bubble7.png](BubbleFont/bubble7.png) bubble7.png
+![bubble-7.png](BubbleFont/bubble-7.png) bubble-7.png
 
-![bubble8.png](BubbleFont/bubble8.png) bubble8.png
+![bubble-8.png](BubbleFont/bubble-8.png) bubble-8.png
 
-![bubble9.png](BubbleFont/bubble9.png) bubble9.png
+![bubble-9.png](BubbleFont/bubble-9.png) bubble-9.png
 
-![bubbleColon.png](BubbleFont/bubbleColon.png) bubbleColon.png
+![bubble-colon.png](BubbleFont/bubble-colon.png) bubble-colon.png
 
-![bubbleDecimal.png](BubbleFont/bubbleDecimal.png) bubbleDecimal.png
+![bubble-decimal.png](BubbleFont/bubble-decimal.png) bubble-decimal.png
 
-![bubbleDollar.png](BubbleFont/bubbleDollar.png) bubbleDollar.png
+![bubble-dollar.png](BubbleFont/bubble-dollar.png) bubble-dollar.png
 
-![bubblePercent.png](BubbleFont/bubblePercent.png) bubblePercent.png
+![bubble-percent.png](BubbleFont/bubble-percent.png) bubble-percent.png
 
-![bubblePlus.png](BubbleFont/bubblePlus.png) bubblePlus.png
+![bubble-plus.png](BubbleFont/bubble-plus.png) bubble-plus.png
 
 ![key-0-b.png](ClickableIcons/key-0-b.png) key-0-b.png
 
@@ -218,9 +218,9 @@
 
 ![control-home.png](MediaControls/control-home.png) control-home.png
 
-![control-musicOff.png](MediaControls/control-musicOff.png) control-musicOff.png
+![control-music-off.png](MediaControls/control-music-off.png) control-music-off.png
 
-![control-musicOn.png](MediaControls/control-musicOn.png) control-musicOn.png
+![control-music-on.png](MediaControls/control-music-on.png) control-music-on.png
 
 ![control-pause.png](MediaControls/control-pause.png) control-pause.png
 
@@ -228,17 +228,17 @@
 
 ![control-restart.png](MediaControls/control-restart.png) control-restart.png
 
-![control-soundOff.png](MediaControls/control-soundOff.png) control-soundOff.png
+![control-sound-off.png](MediaControls/control-sound-off.png) control-sound-off.png
 
-![control-soundOn.png](MediaControls/control-soundOn.png) control-soundOn.png
+![control-sound-on.png](MediaControls/control-sound-on.png) control-sound-on.png
+
+![ball-outlined-2.png](Shapes/ball-outlined-2.png) ball-outlined-2.png
 
 ![ball-outlined.png](Shapes/ball-outlined.png) ball-outlined.png
 
-![ball-outlined2.png](Shapes/ball-outlined2.png) ball-outlined2.png
+![ball-shaded-2.png](Shapes/ball-shaded-2.png) ball-shaded-2.png
 
 ![ball-shaded.png](Shapes/ball-shaded.png) ball-shaded.png
-
-![ball-shaded2.png](Shapes/ball-shaded2.png) ball-shaded2.png
 
 ![rect-button-pressed.png](Shapes/rect-button-pressed.png) rect-button-pressed.png
 
@@ -248,25 +248,25 @@
 
 ![round-button.png](Shapes/round-button.png) round-button.png
 
-![tile-shaded0.png](Shapes/tile-shaded0.png) tile-shaded0.png
+![tile-shaded-0.png](Shapes/tile-shaded-0.png) tile-shaded-0.png
 
-![tile-shaded1.png](Shapes/tile-shaded1.png) tile-shaded1.png
+![tile-shaded-1.png](Shapes/tile-shaded-1.png) tile-shaded-1.png
 
-![speech-bubble1.png](SpeechBubbles/speech-bubble1.png) speech-bubble1.png
+![speech-bubble-1.png](SpeechBubbles/speech-bubble-1.png) speech-bubble-1.png
 
-![speech-bubble2.png](SpeechBubbles/speech-bubble2.png) speech-bubble2.png
+![speech-bubble-2.png](SpeechBubbles/speech-bubble-2.png) speech-bubble-2.png
 
-![speech-bubble3.png](SpeechBubbles/speech-bubble3.png) speech-bubble3.png
+![speech-bubble-3.png](SpeechBubbles/speech-bubble-3.png) speech-bubble-3.png
 
-![speech-bubble4.png](SpeechBubbles/speech-bubble4.png) speech-bubble4.png
+![speech-bubble-4.png](SpeechBubbles/speech-bubble-4.png) speech-bubble-4.png
 
-![speech-bubble5.png](SpeechBubbles/speech-bubble5.png) speech-bubble5.png
+![speech-bubble-5.png](SpeechBubbles/speech-bubble-5.png) speech-bubble-5.png
 
-![speech-bubble6.png](SpeechBubbles/speech-bubble6.png) speech-bubble6.png
+![speech-bubble-6.png](SpeechBubbles/speech-bubble-6.png) speech-bubble-6.png
 
-![speech-bubble7.png](SpeechBubbles/speech-bubble7.png) speech-bubble7.png
+![speech-bubble-7.png](SpeechBubbles/speech-bubble-7.png) speech-bubble-7.png
 
-![speech-bubble8.png](SpeechBubbles/speech-bubble8.png) speech-bubble8.png
+![speech-bubble-8.png](SpeechBubbles/speech-bubble-8.png) speech-bubble-8.png
 
-![speech-bubble9.png](SpeechBubbles/speech-bubble9.png) speech-bubble9.png
+![speech-bubble-9.png](SpeechBubbles/speech-bubble-9.png) speech-bubble-9.png
 

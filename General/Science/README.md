@@ -1,14 +1,14 @@
 # Image Previews
 
-![science-glass0.png](science-glass0.png) science-glass0.png
+![science-glass-0.png](science-glass-0.png) science-glass-0.png
 
-![science-glass1.png](science-glass1.png) science-glass1.png
+![science-glass-1.png](science-glass-1.png) science-glass-1.png
 
-![science-glass2.png](science-glass2.png) science-glass2.png
+![science-glass-2.png](science-glass-2.png) science-glass-2.png
 
-![science-glass3.png](science-glass3.png) science-glass3.png
+![science-glass-3.png](science-glass-3.png) science-glass-3.png
 
-![science-glass4.png](science-glass4.png) science-glass4.png
+![science-glass-4.png](science-glass-4.png) science-glass-4.png
 
 ![science-microscope.png](science-microscope.png) science-microscope.png
 
