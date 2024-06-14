@@ -1,15 +1,28 @@
 # Image Previews
 
-![rock.png](Landscape/Obstacles/rock.png)
-![rockDown.png](Landscape/Obstacles/rockDown.png)
-![rockGrass.png](Landscape/Obstacles/rockGrass.png)
-![rockGrassDown.png](Landscape/Obstacles/rockGrassDown.png)
-![rockIce.png](Landscape/Obstacles/rockIce.png)
-![rockIceDown.png](Landscape/Obstacles/rockIceDown.png)
-![rockSnow.png](Landscape/Obstacles/rockSnow.png)
-![rockSnowDown.png](Landscape/Obstacles/rockSnowDown.png)
-![snowman.png](Landscape/Obstacles/snowman.png)
-![spike-bottom.png](Landscape/Obstacles/spike-bottom.png)
-![spike-top.png](Landscape/Obstacles/spike-top.png)
-![spikes-bottom.png](Landscape/Obstacles/spikes-bottom.png)
-![spikes-top.png](Landscape/Obstacles/spikes-top.png)
+![rock.png](rock.png) rock.png
+
+![rockDown.png](rockDown.png) rockDown.png
+
+![rockGrass.png](rockGrass.png) rockGrass.png
+
+![rockGrassDown.png](rockGrassDown.png) rockGrassDown.png
+
+![rockIce.png](rockIce.png) rockIce.png
+
+![rockIceDown.png](rockIceDown.png) rockIceDown.png
+
+![rockSnow.png](rockSnow.png) rockSnow.png
+
+![rockSnowDown.png](rockSnowDown.png) rockSnowDown.png
+
+![snowman.png](snowman.png) snowman.png
+
+![spike-bottom.png](spike-bottom.png) spike-bottom.png
+
+![spike-top.png](spike-top.png) spike-top.png
+
+![spikes-bottom.png](spikes-bottom.png) spikes-bottom.png
+
+![spikes-top.png](spikes-top.png) spikes-top.png
+

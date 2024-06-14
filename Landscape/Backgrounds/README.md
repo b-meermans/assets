@@ -1,37 +1,72 @@
 # Image Previews
 
-![background-neutral.png](Landscape/Backgrounds/background-neutral.png)
-![backgroundColorDesert.png](Landscape/Backgrounds/backgroundColorDesert.png)
-![backgroundColorFall.png](Landscape/Backgrounds/backgroundColorFall.png)
-![backgroundColorForest.png](Landscape/Backgrounds/backgroundColorForest.png)
-![backgroundColorGrass.png](Landscape/Backgrounds/backgroundColorGrass.png)
-![bg-layer1.png](Landscape/Backgrounds/bg-layer1.png)
-![bg-layer2.png](Landscape/Backgrounds/bg-layer2.png)
-![bg-layer3.png](Landscape/Backgrounds/bg-layer3.png)
-![bg-layer4.png](Landscape/Backgrounds/bg-layer4.png)
-![blue-desert.png](Landscape/Backgrounds/blue-desert.png)
-![blue-grass.png](Landscape/Backgrounds/blue-grass.png)
-![blue-land.png](Landscape/Backgrounds/blue-land.png)
-![blue-mountain-bg.png](Landscape/Backgrounds/blue-mountain-bg.png)
-![colored_desert.png](Landscape/Backgrounds/colored_desert.png)
-![colored_grass.png](Landscape/Backgrounds/colored_grass.png)
-![colored_land.png](Landscape/Backgrounds/colored_land.png)
-![forest-bg.png](Landscape/Backgrounds/forest-bg.png)
-![forest0.png](Landscape/Backgrounds/forest0.png)
-![forest1.png](Landscape/Backgrounds/forest1.png)
-![forest2.png](Landscape/Backgrounds/forest2.png)
-![mountainscape.png](Landscape/Backgrounds/mountainscape.png)
-![sandy-bg.png](Landscape/Backgrounds/sandy-bg.png)
-![snowy-bg.png](Landscape/Backgrounds/snowy-bg.png)
-![tile-beach1.png](Landscape/Backgrounds/tile-beach1.png)
-![tile-beach2.png](Landscape/Backgrounds/tile-beach2.png)
-![tile-checker.png](Landscape/Backgrounds/tile-checker.png)
-![tile-grass1.png](Landscape/Backgrounds/tile-grass1.png)
-![tile-grass2.png](Landscape/Backgrounds/tile-grass2.png)
-![tile-grass3.png](Landscape/Backgrounds/tile-grass3.png)
-![tile-mud.png](Landscape/Backgrounds/tile-mud.png)
-![tile-panel.png](Landscape/Backgrounds/tile-panel.png)
-![tile-parchment.png](Landscape/Backgrounds/tile-parchment.png)
-![tile-sand.png](Landscape/Backgrounds/tile-sand.png)
-![tile-space.png](Landscape/Backgrounds/tile-space.png)
-![tile-water.png](Landscape/Backgrounds/tile-water.png)
+![background-neutral.png](background-neutral.png) background-neutral.png
+
+![backgroundColorDesert.png](backgroundColorDesert.png) backgroundColorDesert.png
+
+![backgroundColorFall.png](backgroundColorFall.png) backgroundColorFall.png
+
+![backgroundColorForest.png](backgroundColorForest.png) backgroundColorForest.png
+
+![backgroundColorGrass.png](backgroundColorGrass.png) backgroundColorGrass.png
+
+![bg-layer1.png](bg-layer1.png) bg-layer1.png
+
+![bg-layer2.png](bg-layer2.png) bg-layer2.png
+
+![bg-layer3.png](bg-layer3.png) bg-layer3.png
+
+![bg-layer4.png](bg-layer4.png) bg-layer4.png
+
+![blue-desert.png](blue-desert.png) blue-desert.png
+
+![blue-grass.png](blue-grass.png) blue-grass.png
+
+![blue-land.png](blue-land.png) blue-land.png
+
+![blue-mountain-bg.png](blue-mountain-bg.png) blue-mountain-bg.png
+
+![colored_desert.png](colored_desert.png) colored_desert.png
+
+![colored_grass.png](colored_grass.png) colored_grass.png
+
+![colored_land.png](colored_land.png) colored_land.png
+
+![forest-bg.png](forest-bg.png) forest-bg.png
+
+![forest0.png](forest0.png) forest0.png
+
+![forest1.png](forest1.png) forest1.png
+
+![forest2.png](forest2.png) forest2.png
+
+![mountainscape.png](mountainscape.png) mountainscape.png
+
+![sandy-bg.png](sandy-bg.png) sandy-bg.png
+
+![snowy-bg.png](snowy-bg.png) snowy-bg.png
+
+![tile-beach1.png](tile-beach1.png) tile-beach1.png
+
+![tile-beach2.png](tile-beach2.png) tile-beach2.png
+
+![tile-checker.png](tile-checker.png) tile-checker.png
+
+![tile-grass1.png](tile-grass1.png) tile-grass1.png
+
+![tile-grass2.png](tile-grass2.png) tile-grass2.png
+
+![tile-grass3.png](tile-grass3.png) tile-grass3.png
+
+![tile-mud.png](tile-mud.png) tile-mud.png
+
+![tile-panel.png](tile-panel.png) tile-panel.png
+
+![tile-parchment.png](tile-parchment.png) tile-parchment.png
+
+![tile-sand.png](tile-sand.png) tile-sand.png
+
+![tile-space.png](tile-space.png) tile-space.png
+
+![tile-water.png](tile-water.png) tile-water.png
+

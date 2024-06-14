@@ -1,17 +1,32 @@
 # Image Previews
 
-![button-pressed.png](General/Interactibles/button-pressed.png)
-![button-unpressed.png](General/Interactibles/button-unpressed.png)
-![flag_down.png](General/Interactibles/flag_down.png)
-![flag_mid.png](General/Interactibles/flag_mid.png)
-![flag_up.png](General/Interactibles/flag_up.png)
-![lever-left.png](General/Interactibles/lever-left.png)
-![lever-mid.png](General/Interactibles/lever-mid.png)
-![lever-right.png](General/Interactibles/lever-right.png)
-![paddle.png](General/Interactibles/paddle.png)
-![spring-in.png](General/Interactibles/spring-in.png)
-![spring-mid.png](General/Interactibles/spring-mid.png)
-![spring-out.png](General/Interactibles/spring-out.png)
-![torch-off.png](General/Interactibles/torch-off.png)
-![torch-on1.png](General/Interactibles/torch-on1.png)
-![torch-on2.png](General/Interactibles/torch-on2.png)
+![button-pressed.png](button-pressed.png) button-pressed.png
+
+![button-unpressed.png](button-unpressed.png) button-unpressed.png
+
+![flag_down.png](flag_down.png) flag_down.png
+
+![flag_mid.png](flag_mid.png) flag_mid.png
+
+![flag_up.png](flag_up.png) flag_up.png
+
+![lever-left.png](lever-left.png) lever-left.png
+
+![lever-mid.png](lever-mid.png) lever-mid.png
+
+![lever-right.png](lever-right.png) lever-right.png
+
+![paddle.png](paddle.png) paddle.png
+
+![spring-in.png](spring-in.png) spring-in.png
+
+![spring-mid.png](spring-mid.png) spring-mid.png
+
+![spring-out.png](spring-out.png) spring-out.png
+
+![torch-off.png](torch-off.png) torch-off.png
+
+![torch-on1.png](torch-on1.png) torch-on1.png
+
+![torch-on2.png](torch-on2.png) torch-on2.png
+

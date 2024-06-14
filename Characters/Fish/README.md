@@ -1,15 +1,28 @@
 # Image Previews
 
-![eel-large.png](Characters/Fish/eel-large.png)
-![eel-small.png](Characters/Fish/eel-small.png)
-![fish0.png](Characters/Fish/fish0.png)
-![fish1.png](Characters/Fish/fish1.png)
-![fish2.png](Characters/Fish/fish2.png)
-![fish3.png](Characters/Fish/fish3.png)
-![fish4.png](Characters/Fish/fish4.png)
-![fishbone0.png](Characters/Fish/fishbone0.png)
-![fishbone1.png](Characters/Fish/fishbone1.png)
-![fishbone2.png](Characters/Fish/fishbone2.png)
-![fishbone3.png](Characters/Fish/fishbone3.png)
-![fishbone4.png](Characters/Fish/fishbone4.png)
-![puffer.png](Characters/Fish/puffer.png)
+![eel-large.png](eel-large.png) eel-large.png
+
+![eel-small.png](eel-small.png) eel-small.png
+
+![fish0.png](fish0.png) fish0.png
+
+![fish1.png](fish1.png) fish1.png
+
+![fish2.png](fish2.png) fish2.png
+
+![fish3.png](fish3.png) fish3.png
+
+![fish4.png](fish4.png) fish4.png
+
+![fishbone0.png](fishbone0.png) fishbone0.png
+
+![fishbone1.png](fishbone1.png) fishbone1.png
+
+![fishbone2.png](fishbone2.png) fishbone2.png
+
+![fishbone3.png](fishbone3.png) fishbone3.png
+
+![fishbone4.png](fishbone4.png) fishbone4.png
+
+![puffer.png](puffer.png) puffer.png
+

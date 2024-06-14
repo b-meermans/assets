@@ -1,52 +1,102 @@
 # Image Previews
 
-![cute-bear.png](Characters/CuteAnimals/cute-bear.png)
-![cute-beaver.png](Characters/CuteAnimals/cute-beaver.png)
-![cute-cat.png](Characters/CuteAnimals/cute-cat.png)
-![cute-chicken.png](Characters/CuteAnimals/cute-chicken.png)
-![cute-cow.png](Characters/CuteAnimals/cute-cow.png)
-![cute-dog.png](Characters/CuteAnimals/cute-dog.png)
-![cute-elephant.png](Characters/CuteAnimals/cute-elephant.png)
-![cute-giraffe.png](Characters/CuteAnimals/cute-giraffe.png)
-![cute-goat.png](Characters/CuteAnimals/cute-goat.png)
-![cute-hippo.png](Characters/CuteAnimals/cute-hippo.png)
-![cute-kangaroo.png](Characters/CuteAnimals/cute-kangaroo.png)
-![cute-monkey.png](Characters/CuteAnimals/cute-monkey.png)
-![cute-moose.png](Characters/CuteAnimals/cute-moose.png)
-![cute-owl.png](Characters/CuteAnimals/cute-owl.png)
-![cute-ox.png](Characters/CuteAnimals/cute-ox.png)
-![cute-penguin.png](Characters/CuteAnimals/cute-penguin.png)
-![cute-pig.png](Characters/CuteAnimals/cute-pig.png)
-![cute-sheep.png](Characters/CuteAnimals/cute-sheep.png)
-![cute-squirrel.png](Characters/CuteAnimals/cute-squirrel.png)
-![cute-zebra.png](Characters/CuteAnimals/cute-zebra.png)
-![round-bear.png](Characters/CuteAnimals/round-bear.png)
-![round-buffalo.png](Characters/CuteAnimals/round-buffalo.png)
-![round-chick.png](Characters/CuteAnimals/round-chick.png)
-![round-chicken.png](Characters/CuteAnimals/round-chicken.png)
-![round-cow.png](Characters/CuteAnimals/round-cow.png)
-![round-crocodile.png](Characters/CuteAnimals/round-crocodile.png)
-![round-dog.png](Characters/CuteAnimals/round-dog.png)
-![round-duck.png](Characters/CuteAnimals/round-duck.png)
-![round-elephant.png](Characters/CuteAnimals/round-elephant.png)
-![round-frog.png](Characters/CuteAnimals/round-frog.png)
-![round-giraffe.png](Characters/CuteAnimals/round-giraffe.png)
-![round-goat.png](Characters/CuteAnimals/round-goat.png)
-![round-gorilla.png](Characters/CuteAnimals/round-gorilla.png)
-![round-hippo.png](Characters/CuteAnimals/round-hippo.png)
-![round-horse.png](Characters/CuteAnimals/round-horse.png)
-![round-monkey.png](Characters/CuteAnimals/round-monkey.png)
-![round-moose.png](Characters/CuteAnimals/round-moose.png)
-![round-narwhal.png](Characters/CuteAnimals/round-narwhal.png)
-![round-owl.png](Characters/CuteAnimals/round-owl.png)
-![round-panda.png](Characters/CuteAnimals/round-panda.png)
-![round-parrot.png](Characters/CuteAnimals/round-parrot.png)
-![round-penguin.png](Characters/CuteAnimals/round-penguin.png)
-![round-pig.png](Characters/CuteAnimals/round-pig.png)
-![round-rabbit.png](Characters/CuteAnimals/round-rabbit.png)
-![round-rhino.png](Characters/CuteAnimals/round-rhino.png)
-![round-sloth.png](Characters/CuteAnimals/round-sloth.png)
-![round-snake.png](Characters/CuteAnimals/round-snake.png)
-![round-walrus.png](Characters/CuteAnimals/round-walrus.png)
-![round-whale.png](Characters/CuteAnimals/round-whale.png)
-![round-zebra.png](Characters/CuteAnimals/round-zebra.png)
+![cute-bear.png](cute-bear.png) cute-bear.png
+
+![cute-beaver.png](cute-beaver.png) cute-beaver.png
+
+![cute-cat.png](cute-cat.png) cute-cat.png
+
+![cute-chicken.png](cute-chicken.png) cute-chicken.png
+
+![cute-cow.png](cute-cow.png) cute-cow.png
+
+![cute-dog.png](cute-dog.png) cute-dog.png
+
+![cute-elephant.png](cute-elephant.png) cute-elephant.png
+
+![cute-giraffe.png](cute-giraffe.png) cute-giraffe.png
+
+![cute-goat.png](cute-goat.png) cute-goat.png
+
+![cute-hippo.png](cute-hippo.png) cute-hippo.png
+
+![cute-kangaroo.png](cute-kangaroo.png) cute-kangaroo.png
+
+![cute-monkey.png](cute-monkey.png) cute-monkey.png
+
+![cute-moose.png](cute-moose.png) cute-moose.png
+
+![cute-owl.png](cute-owl.png) cute-owl.png
+
+![cute-ox.png](cute-ox.png) cute-ox.png
+
+![cute-penguin.png](cute-penguin.png) cute-penguin.png
+
+![cute-pig.png](cute-pig.png) cute-pig.png
+
+![cute-sheep.png](cute-sheep.png) cute-sheep.png
+
+![cute-squirrel.png](cute-squirrel.png) cute-squirrel.png
+
+![cute-zebra.png](cute-zebra.png) cute-zebra.png
+
+![round-bear.png](round-bear.png) round-bear.png
+
+![round-buffalo.png](round-buffalo.png) round-buffalo.png
+
+![round-chick.png](round-chick.png) round-chick.png
+
+![round-chicken.png](round-chicken.png) round-chicken.png
+
+![round-cow.png](round-cow.png) round-cow.png
+
+![round-crocodile.png](round-crocodile.png) round-crocodile.png
+
+![round-dog.png](round-dog.png) round-dog.png
+
+![round-duck.png](round-duck.png) round-duck.png
+
+![round-elephant.png](round-elephant.png) round-elephant.png
+
+![round-frog.png](round-frog.png) round-frog.png
+
+![round-giraffe.png](round-giraffe.png) round-giraffe.png
+
+![round-goat.png](round-goat.png) round-goat.png
+
+![round-gorilla.png](round-gorilla.png) round-gorilla.png
+
+![round-hippo.png](round-hippo.png) round-hippo.png
+
+![round-horse.png](round-horse.png) round-horse.png
+
+![round-monkey.png](round-monkey.png) round-monkey.png
+
+![round-moose.png](round-moose.png) round-moose.png
+
+![round-narwhal.png](round-narwhal.png) round-narwhal.png
+
+![round-owl.png](round-owl.png) round-owl.png
+
+![round-panda.png](round-panda.png) round-panda.png
+
+![round-parrot.png](round-parrot.png) round-parrot.png
+
+![round-penguin.png](round-penguin.png) round-penguin.png
+
+![round-pig.png](round-pig.png) round-pig.png
+
+![round-rabbit.png](round-rabbit.png) round-rabbit.png
+
+![round-rhino.png](round-rhino.png) round-rhino.png
+
+![round-sloth.png](round-sloth.png) round-sloth.png
+
+![round-snake.png](round-snake.png) round-snake.png
+
+![round-walrus.png](round-walrus.png) round-walrus.png
+
+![round-whale.png](round-whale.png) round-whale.png
+
+![round-zebra.png](round-zebra.png) round-zebra.png
+

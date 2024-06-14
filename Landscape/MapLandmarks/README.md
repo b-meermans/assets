@@ -1,39 +1,76 @@
 # Image Previews
 
-![map-banner.png](Landscape/MapLandmarks/map-banner.png)
-![map-bridge.png](Landscape/MapLandmarks/map-bridge.png)
-![map-bridgeRope.png](Landscape/MapLandmarks/map-bridgeRope.png)
-![map-cactus.png](Landscape/MapLandmarks/map-cactus.png)
-![map-campfire.png](Landscape/MapLandmarks/map-campfire.png)
-![map-castle.png](Landscape/MapLandmarks/map-castle.png)
-![map-castleTall.png](Landscape/MapLandmarks/map-castleTall.png)
-![map-chest.png](Landscape/MapLandmarks/map-chest.png)
-![map-church.png](Landscape/MapLandmarks/map-church.png)
-![map-compass.png](Landscape/MapLandmarks/map-compass.png)
-![map-dock.png](Landscape/MapLandmarks/map-dock.png)
-![map-flag.png](Landscape/MapLandmarks/map-flag.png)
-![map-gate.png](Landscape/MapLandmarks/map-gate.png)
-![map-graveyard.png](Landscape/MapLandmarks/map-graveyard.png)
-![map-house.png](Landscape/MapLandmarks/map-house.png)
-![map-houseChimney.png](Landscape/MapLandmarks/map-houseChimney.png)
-![map-houses.png](Landscape/MapLandmarks/map-houses.png)
-![map-houseSmall.png](Landscape/MapLandmarks/map-houseSmall.png)
-![map-houseTall.png](Landscape/MapLandmarks/map-houseTall.png)
-![map-houseViking.png](Landscape/MapLandmarks/map-houseViking.png)
-![map-lake.png](Landscape/MapLandmarks/map-lake.png)
-![map-lakeRound.png](Landscape/MapLandmarks/map-lakeRound.png)
-![map-lighthouse.png](Landscape/MapLandmarks/map-lighthouse.png)
-![map-mill.png](Landscape/MapLandmarks/map-mill.png)
-![map-mine.png](Landscape/MapLandmarks/map-mine.png)
-![map-palm.png](Landscape/MapLandmarks/map-palm.png)
-![map-pyramid.png](Landscape/MapLandmarks/map-pyramid.png)
-![map-rocks.png](Landscape/MapLandmarks/map-rocks.png)
-![map-rocksMountain.png](Landscape/MapLandmarks/map-rocksMountain.png)
-![map-ruins.png](Landscape/MapLandmarks/map-ruins.png)
-![map-ship.png](Landscape/MapLandmarks/map-ship.png)
-![map-stable.png](Landscape/MapLandmarks/map-stable.png)
-![map-treePine.png](Landscape/MapLandmarks/map-treePine.png)
-![map-treePineTallLarge.png](Landscape/MapLandmarks/map-treePineTallLarge.png)
-![map-vulcano.png](Landscape/MapLandmarks/map-vulcano.png)
-![map-watchtower.png](Landscape/MapLandmarks/map-watchtower.png)
-![map-waterWheel.png](Landscape/MapLandmarks/map-waterWheel.png)
+![map-banner.png](map-banner.png) map-banner.png
+
+![map-bridge.png](map-bridge.png) map-bridge.png
+
+![map-bridgeRope.png](map-bridgeRope.png) map-bridgeRope.png
+
+![map-cactus.png](map-cactus.png) map-cactus.png
+
+![map-campfire.png](map-campfire.png) map-campfire.png
+
+![map-castle.png](map-castle.png) map-castle.png
+
+![map-castleTall.png](map-castleTall.png) map-castleTall.png
+
+![map-chest.png](map-chest.png) map-chest.png
+
+![map-church.png](map-church.png) map-church.png
+
+![map-compass.png](map-compass.png) map-compass.png
+
+![map-dock.png](map-dock.png) map-dock.png
+
+![map-flag.png](map-flag.png) map-flag.png
+
+![map-gate.png](map-gate.png) map-gate.png
+
+![map-graveyard.png](map-graveyard.png) map-graveyard.png
+
+![map-house.png](map-house.png) map-house.png
+
+![map-houseChimney.png](map-houseChimney.png) map-houseChimney.png
+
+![map-houses.png](map-houses.png) map-houses.png
+
+![map-houseSmall.png](map-houseSmall.png) map-houseSmall.png
+
+![map-houseTall.png](map-houseTall.png) map-houseTall.png
+
+![map-houseViking.png](map-houseViking.png) map-houseViking.png
+
+![map-lake.png](map-lake.png) map-lake.png
+
+![map-lakeRound.png](map-lakeRound.png) map-lakeRound.png
+
+![map-lighthouse.png](map-lighthouse.png) map-lighthouse.png
+
+![map-mill.png](map-mill.png) map-mill.png
+
+![map-mine.png](map-mine.png) map-mine.png
+
+![map-palm.png](map-palm.png) map-palm.png
+
+![map-pyramid.png](map-pyramid.png) map-pyramid.png
+
+![map-rocks.png](map-rocks.png) map-rocks.png
+
+![map-rocksMountain.png](map-rocksMountain.png) map-rocksMountain.png
+
+![map-ruins.png](map-ruins.png) map-ruins.png
+
+![map-ship.png](map-ship.png) map-ship.png
+
+![map-stable.png](map-stable.png) map-stable.png
+
+![map-treePine.png](map-treePine.png) map-treePine.png
+
+![map-treePineTallLarge.png](map-treePineTallLarge.png) map-treePineTallLarge.png
+
+![map-vulcano.png](map-vulcano.png) map-vulcano.png
+
+![map-watchtower.png](map-watchtower.png) map-watchtower.png
+
+![map-waterWheel.png](map-waterWheel.png) map-waterWheel.png
+

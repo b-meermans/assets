@@ -1,15 +1,28 @@
 # Image Previews
 
-![office-book.png](General/Office/office-book.png)
-![office-book0.png](General/Office/office-book0.png)
-![office-book1.png](General/Office/office-book1.png)
-![office-book3.png](General/Office/office-book3.png)
-![office-briefcase.png](General/Office/office-briefcase.png)
-![office-clipboard.png](General/Office/office-clipboard.png)
-![office-folder.png](General/Office/office-folder.png)
-![office-laptop.png](General/Office/office-laptop.png)
-![office-note.png](General/Office/office-note.png)
-![office-paint.png](General/Office/office-paint.png)
-![office-palette.png](General/Office/office-palette.png)
-![office-pen.png](General/Office/office-pen.png)
-![office-pencil.png](General/Office/office-pencil.png)
+![office-book.png](office-book.png) office-book.png
+
+![office-book0.png](office-book0.png) office-book0.png
+
+![office-book1.png](office-book1.png) office-book1.png
+
+![office-book3.png](office-book3.png) office-book3.png
+
+![office-briefcase.png](office-briefcase.png) office-briefcase.png
+
+![office-clipboard.png](office-clipboard.png) office-clipboard.png
+
+![office-folder.png](office-folder.png) office-folder.png
+
+![office-laptop.png](office-laptop.png) office-laptop.png
+
+![office-note.png](office-note.png) office-note.png
+
+![office-paint.png](office-paint.png) office-paint.png
+
+![office-palette.png](office-palette.png) office-palette.png
+
+![office-pen.png](office-pen.png) office-pen.png
+
+![office-pencil.png](office-pencil.png) office-pencil.png
+

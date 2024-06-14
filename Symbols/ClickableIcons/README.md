@@ -1,92 +1,182 @@
 # Image Previews
 
-![key-0-b.png](Symbols/ClickableIcons/key-0-b.png)
-![key-0.png](Symbols/ClickableIcons/key-0.png)
-![key-1-b.png](Symbols/ClickableIcons/key-1-b.png)
-![key-1.png](Symbols/ClickableIcons/key-1.png)
-![key-2-b.png](Symbols/ClickableIcons/key-2-b.png)
-![key-2.png](Symbols/ClickableIcons/key-2.png)
-![key-3-b.png](Symbols/ClickableIcons/key-3-b.png)
-![key-3.png](Symbols/ClickableIcons/key-3.png)
-![key-4-b.png](Symbols/ClickableIcons/key-4-b.png)
-![key-4.png](Symbols/ClickableIcons/key-4.png)
-![key-5-b.png](Symbols/ClickableIcons/key-5-b.png)
-![key-5.png](Symbols/ClickableIcons/key-5.png)
-![key-6-b.png](Symbols/ClickableIcons/key-6-b.png)
-![key-6.png](Symbols/ClickableIcons/key-6.png)
-![key-7-b.png](Symbols/ClickableIcons/key-7-b.png)
-![key-7.png](Symbols/ClickableIcons/key-7.png)
-![key-8-b.png](Symbols/ClickableIcons/key-8-b.png)
-![key-8.png](Symbols/ClickableIcons/key-8.png)
-![key-9-b.png](Symbols/ClickableIcons/key-9-b.png)
-![key-9.png](Symbols/ClickableIcons/key-9.png)
-![key-a-b.png](Symbols/ClickableIcons/key-a-b.png)
-![key-a.png](Symbols/ClickableIcons/key-a.png)
-![key-b-b.png](Symbols/ClickableIcons/key-b-b.png)
-![key-b.png](Symbols/ClickableIcons/key-b.png)
-![key-c-b.png](Symbols/ClickableIcons/key-c-b.png)
-![key-c.png](Symbols/ClickableIcons/key-c.png)
-![key-d-b.png](Symbols/ClickableIcons/key-d-b.png)
-![key-d.png](Symbols/ClickableIcons/key-d.png)
-![key-down.png](Symbols/ClickableIcons/key-down.png)
-![key-down_b.png](Symbols/ClickableIcons/key-down_b.png)
-![key-e-b.png](Symbols/ClickableIcons/key-e-b.png)
-![key-e.png](Symbols/ClickableIcons/key-e.png)
-![key-enter-b.png](Symbols/ClickableIcons/key-enter-b.png)
-![key-enter.png](Symbols/ClickableIcons/key-enter.png)
-![key-escape-b.png](Symbols/ClickableIcons/key-escape-b.png)
-![key-escape.png](Symbols/ClickableIcons/key-escape.png)
-![key-f-b.png](Symbols/ClickableIcons/key-f-b.png)
-![key-f.png](Symbols/ClickableIcons/key-f.png)
-![key-g-b.png](Symbols/ClickableIcons/key-g-b.png)
-![key-g.png](Symbols/ClickableIcons/key-g.png)
-![key-h-b.png](Symbols/ClickableIcons/key-h-b.png)
-![key-h.png](Symbols/ClickableIcons/key-h.png)
-![key-i-b.png](Symbols/ClickableIcons/key-i-b.png)
-![key-i.png](Symbols/ClickableIcons/key-i.png)
-![key-j-b.png](Symbols/ClickableIcons/key-j-b.png)
-![key-j.png](Symbols/ClickableIcons/key-j.png)
-![key-k-b.png](Symbols/ClickableIcons/key-k-b.png)
-![key-k.png](Symbols/ClickableIcons/key-k.png)
-![key-l-b.png](Symbols/ClickableIcons/key-l-b.png)
-![key-l.png](Symbols/ClickableIcons/key-l.png)
-![key-left.png](Symbols/ClickableIcons/key-left.png)
-![key-left_b.png](Symbols/ClickableIcons/key-left_b.png)
-![key-m-b.png](Symbols/ClickableIcons/key-m-b.png)
-![key-m.png](Symbols/ClickableIcons/key-m.png)
-![key-n-b.png](Symbols/ClickableIcons/key-n-b.png)
-![key-n.png](Symbols/ClickableIcons/key-n.png)
-![key-o-b.png](Symbols/ClickableIcons/key-o-b.png)
-![key-o.png](Symbols/ClickableIcons/key-o.png)
-![key-p-b.png](Symbols/ClickableIcons/key-p-b.png)
-![key-p.png](Symbols/ClickableIcons/key-p.png)
-![key-q-b.png](Symbols/ClickableIcons/key-q-b.png)
-![key-q.png](Symbols/ClickableIcons/key-q.png)
-![key-r-b.png](Symbols/ClickableIcons/key-r-b.png)
-![key-r.png](Symbols/ClickableIcons/key-r.png)
-![key-right.png](Symbols/ClickableIcons/key-right.png)
-![key-right_b.png](Symbols/ClickableIcons/key-right_b.png)
-![key-s-b.png](Symbols/ClickableIcons/key-s-b.png)
-![key-s.png](Symbols/ClickableIcons/key-s.png)
-![key-shift-b.png](Symbols/ClickableIcons/key-shift-b.png)
-![key-shift.png](Symbols/ClickableIcons/key-shift.png)
-![key-space-b.png](Symbols/ClickableIcons/key-space-b.png)
-![key-space.png](Symbols/ClickableIcons/key-space.png)
-![key-t-b.png](Symbols/ClickableIcons/key-t-b.png)
-![key-t.png](Symbols/ClickableIcons/key-t.png)
-![key-u-b.png](Symbols/ClickableIcons/key-u-b.png)
-![key-u.png](Symbols/ClickableIcons/key-u.png)
-![key-up.png](Symbols/ClickableIcons/key-up.png)
-![key-up_b.png](Symbols/ClickableIcons/key-up_b.png)
-![key-v-b.png](Symbols/ClickableIcons/key-v-b.png)
-![key-v.png](Symbols/ClickableIcons/key-v.png)
-![key-w-b.png](Symbols/ClickableIcons/key-w-b.png)
-![key-w.png](Symbols/ClickableIcons/key-w.png)
-![key-x-b.png](Symbols/ClickableIcons/key-x-b.png)
-![key-x.png](Symbols/ClickableIcons/key-x.png)
-![key-y-b.png](Symbols/ClickableIcons/key-y-b.png)
-![key-y.png](Symbols/ClickableIcons/key-y.png)
-![key-z-b.png](Symbols/ClickableIcons/key-z-b.png)
-![key-z.png](Symbols/ClickableIcons/key-z.png)
-![mouse-b.png](Symbols/ClickableIcons/mouse-b.png)
-![mouse.png](Symbols/ClickableIcons/mouse.png)
+![key-0-b.png](key-0-b.png) key-0-b.png
+
+![key-0.png](key-0.png) key-0.png
+
+![key-1-b.png](key-1-b.png) key-1-b.png
+
+![key-1.png](key-1.png) key-1.png
+
+![key-2-b.png](key-2-b.png) key-2-b.png
+
+![key-2.png](key-2.png) key-2.png
+
+![key-3-b.png](key-3-b.png) key-3-b.png
+
+![key-3.png](key-3.png) key-3.png
+
+![key-4-b.png](key-4-b.png) key-4-b.png
+
+![key-4.png](key-4.png) key-4.png
+
+![key-5-b.png](key-5-b.png) key-5-b.png
+
+![key-5.png](key-5.png) key-5.png
+
+![key-6-b.png](key-6-b.png) key-6-b.png
+
+![key-6.png](key-6.png) key-6.png
+
+![key-7-b.png](key-7-b.png) key-7-b.png
+
+![key-7.png](key-7.png) key-7.png
+
+![key-8-b.png](key-8-b.png) key-8-b.png
+
+![key-8.png](key-8.png) key-8.png
+
+![key-9-b.png](key-9-b.png) key-9-b.png
+
+![key-9.png](key-9.png) key-9.png
+
+![key-a-b.png](key-a-b.png) key-a-b.png
+
+![key-a.png](key-a.png) key-a.png
+
+![key-b-b.png](key-b-b.png) key-b-b.png
+
+![key-b.png](key-b.png) key-b.png
+
+![key-c-b.png](key-c-b.png) key-c-b.png
+
+![key-c.png](key-c.png) key-c.png
+
+![key-d-b.png](key-d-b.png) key-d-b.png
+
+![key-d.png](key-d.png) key-d.png
+
+![key-down.png](key-down.png) key-down.png
+
+![key-down_b.png](key-down_b.png) key-down_b.png
+
+![key-e-b.png](key-e-b.png) key-e-b.png
+
+![key-e.png](key-e.png) key-e.png
+
+![key-enter-b.png](key-enter-b.png) key-enter-b.png
+
+![key-enter.png](key-enter.png) key-enter.png
+
+![key-escape-b.png](key-escape-b.png) key-escape-b.png
+
+![key-escape.png](key-escape.png) key-escape.png
+
+![key-f-b.png](key-f-b.png) key-f-b.png
+
+![key-f.png](key-f.png) key-f.png
+
+![key-g-b.png](key-g-b.png) key-g-b.png
+
+![key-g.png](key-g.png) key-g.png
+
+![key-h-b.png](key-h-b.png) key-h-b.png
+
+![key-h.png](key-h.png) key-h.png
+
+![key-i-b.png](key-i-b.png) key-i-b.png
+
+![key-i.png](key-i.png) key-i.png
+
+![key-j-b.png](key-j-b.png) key-j-b.png
+
+![key-j.png](key-j.png) key-j.png
+
+![key-k-b.png](key-k-b.png) key-k-b.png
+
+![key-k.png](key-k.png) key-k.png
+
+![key-l-b.png](key-l-b.png) key-l-b.png
+
+![key-l.png](key-l.png) key-l.png
+
+![key-left.png](key-left.png) key-left.png
+
+![key-left_b.png](key-left_b.png) key-left_b.png
+
+![key-m-b.png](key-m-b.png) key-m-b.png
+
+![key-m.png](key-m.png) key-m.png
+
+![key-n-b.png](key-n-b.png) key-n-b.png
+
+![key-n.png](key-n.png) key-n.png
+
+![key-o-b.png](key-o-b.png) key-o-b.png
+
+![key-o.png](key-o.png) key-o.png
+
+![key-p-b.png](key-p-b.png) key-p-b.png
+
+![key-p.png](key-p.png) key-p.png
+
+![key-q-b.png](key-q-b.png) key-q-b.png
+
+![key-q.png](key-q.png) key-q.png
+
+![key-r-b.png](key-r-b.png) key-r-b.png
+
+![key-r.png](key-r.png) key-r.png
+
+![key-right.png](key-right.png) key-right.png
+
+![key-right_b.png](key-right_b.png) key-right_b.png
+
+![key-s-b.png](key-s-b.png) key-s-b.png
+
+![key-s.png](key-s.png) key-s.png
+
+![key-shift-b.png](key-shift-b.png) key-shift-b.png
+
+![key-shift.png](key-shift.png) key-shift.png
+
+![key-space-b.png](key-space-b.png) key-space-b.png
+
+![key-space.png](key-space.png) key-space.png
+
+![key-t-b.png](key-t-b.png) key-t-b.png
+
+![key-t.png](key-t.png) key-t.png
+
+![key-u-b.png](key-u-b.png) key-u-b.png
+
+![key-u.png](key-u.png) key-u.png
+
+![key-up.png](key-up.png) key-up.png
+
+![key-up_b.png](key-up_b.png) key-up_b.png
+
+![key-v-b.png](key-v-b.png) key-v-b.png
+
+![key-v.png](key-v.png) key-v.png
+
+![key-w-b.png](key-w-b.png) key-w-b.png
+
+![key-w.png](key-w.png) key-w.png
+
+![key-x-b.png](key-x-b.png) key-x-b.png
+
+![key-x.png](key-x.png) key-x.png
+
+![key-y-b.png](key-y-b.png) key-y-b.png
+
+![key-y.png](key-y.png) key-y.png
+
+![key-z-b.png](key-z-b.png) key-z-b.png
+
+![key-z.png](key-z.png) key-z.png
+
+![mouse-b.png](mouse-b.png) mouse-b.png
+
+![mouse.png](mouse.png) mouse.png
+

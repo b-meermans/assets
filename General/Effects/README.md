@@ -1,25 +1,48 @@
 # Image Previews
 
-![explosion-big.png](General/Effects/explosion-big.png)
-![explosion-medium.png](General/Effects/explosion-medium.png)
-![explosion-small.png](General/Effects/explosion-small.png)
-![fire1.png](General/Effects/fire1.png)
-![fire2.png](General/Effects/fire2.png)
-![flame.png](General/Effects/flame.png)
-![lighting-blue.png](General/Effects/lighting-blue.png)
-![lighting-yellow.png](General/Effects/lighting-yellow.png)
-![particle-beige.png](General/Effects/particle-beige.png)
-![particle-blue.png](General/Effects/particle-blue.png)
-![particle-brown.png](General/Effects/particle-brown.png)
-![particle-darkBrown.png](General/Effects/particle-darkBrown.png)
-![particle-darkGrey.png](General/Effects/particle-darkGrey.png)
-![particle-green.png](General/Effects/particle-green.png)
-![particle-grey.png](General/Effects/particle-grey.png)
-![particle-pink.png](General/Effects/particle-pink.png)
-![particle0.png](General/Effects/particle0.png)
-![particle1.png](General/Effects/particle1.png)
-![portal-orangeParticle.png](General/Effects/portal-orangeParticle.png)
-![portal-yellowParticle.png](General/Effects/portal-yellowParticle.png)
-![puffLarge.png](General/Effects/puffLarge.png)
-![puffSmall.png](General/Effects/puffSmall.png)
-![smoke.png](General/Effects/smoke.png)
+![explosion-big.png](explosion-big.png) explosion-big.png
+
+![explosion-medium.png](explosion-medium.png) explosion-medium.png
+
+![explosion-small.png](explosion-small.png) explosion-small.png
+
+![fire1.png](fire1.png) fire1.png
+
+![fire2.png](fire2.png) fire2.png
+
+![flame.png](flame.png) flame.png
+
+![lighting-blue.png](lighting-blue.png) lighting-blue.png
+
+![lighting-yellow.png](lighting-yellow.png) lighting-yellow.png
+
+![particle-beige.png](particle-beige.png) particle-beige.png
+
+![particle-blue.png](particle-blue.png) particle-blue.png
+
+![particle-brown.png](particle-brown.png) particle-brown.png
+
+![particle-darkBrown.png](particle-darkBrown.png) particle-darkBrown.png
+
+![particle-darkGrey.png](particle-darkGrey.png) particle-darkGrey.png
+
+![particle-green.png](particle-green.png) particle-green.png
+
+![particle-grey.png](particle-grey.png) particle-grey.png
+
+![particle-pink.png](particle-pink.png) particle-pink.png
+
+![particle0.png](particle0.png) particle0.png
+
+![particle1.png](particle1.png) particle1.png
+
+![portal-orangeParticle.png](portal-orangeParticle.png) portal-orangeParticle.png
+
+![portal-yellowParticle.png](portal-yellowParticle.png) portal-yellowParticle.png
+
+![puffLarge.png](puffLarge.png) puffLarge.png
+
+![puffSmall.png](puffSmall.png) puffSmall.png
+
+![smoke.png](smoke.png) smoke.png
+

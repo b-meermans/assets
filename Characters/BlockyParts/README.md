@@ -1,24 +1,46 @@
 # Image Previews
 
-![body-circle.png](Characters/BlockyParts/body-circle.png)
-![body-rhombus.png](Characters/BlockyParts/body-rhombus.png)
-![body-square.png](Characters/BlockyParts/body-square.png)
-![body-squircle.png](Characters/BlockyParts/body-squircle.png)
-![face0.png](Characters/BlockyParts/face0.png)
-![face1.png](Characters/BlockyParts/face1.png)
-![face10.png](Characters/BlockyParts/face10.png)
-![face11.png](Characters/BlockyParts/face11.png)
-![face2.png](Characters/BlockyParts/face2.png)
-![face3.png](Characters/BlockyParts/face3.png)
-![face4.png](Characters/BlockyParts/face4.png)
-![face5.png](Characters/BlockyParts/face5.png)
-![face6.png](Characters/BlockyParts/face6.png)
-![face7.png](Characters/BlockyParts/face7.png)
-![face8.png](Characters/BlockyParts/face8.png)
-![face9.png](Characters/BlockyParts/face9.png)
-![hand-closed.png](Characters/BlockyParts/hand-closed.png)
-![hand-open.png](Characters/BlockyParts/hand-open.png)
-![hand-peace.png](Characters/BlockyParts/hand-peace.png)
-![hand-point.png](Characters/BlockyParts/hand-point.png)
-![hand-rock.png](Characters/BlockyParts/hand-rock.png)
-![hand-thumb.png](Characters/BlockyParts/hand-thumb.png)
+![body-circle.png](body-circle.png) body-circle.png
+
+![body-rhombus.png](body-rhombus.png) body-rhombus.png
+
+![body-square.png](body-square.png) body-square.png
+
+![body-squircle.png](body-squircle.png) body-squircle.png
+
+![face0.png](face0.png) face0.png
+
+![face1.png](face1.png) face1.png
+
+![face10.png](face10.png) face10.png
+
+![face11.png](face11.png) face11.png
+
+![face2.png](face2.png) face2.png
+
+![face3.png](face3.png) face3.png
+
+![face4.png](face4.png) face4.png
+
+![face5.png](face5.png) face5.png
+
+![face6.png](face6.png) face6.png
+
+![face7.png](face7.png) face7.png
+
+![face8.png](face8.png) face8.png
+
+![face9.png](face9.png) face9.png
+
+![hand-closed.png](hand-closed.png) hand-closed.png
+
+![hand-open.png](hand-open.png) hand-open.png
+
+![hand-peace.png](hand-peace.png) hand-peace.png
+
+![hand-point.png](hand-point.png) hand-point.png
+
+![hand-rock.png](hand-rock.png) hand-rock.png
+
+![hand-thumb.png](hand-thumb.png) hand-thumb.png
+

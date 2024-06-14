@@ -1,19 +1,36 @@
 # Image Previews
 
-![dirt.png](Landscape/Floors/dirt.png)
-![grass.png](Landscape/Floors/grass.png)
-![groundDirt.png](Landscape/Floors/groundDirt.png)
-![groundGrass.png](Landscape/Floors/groundGrass.png)
-![groundIce.png](Landscape/Floors/groundIce.png)
-![groundRock.png](Landscape/Floors/groundRock.png)
-![groundSnow.png](Landscape/Floors/groundSnow.png)
-![lavaTop_high.png](Landscape/Floors/lavaTop_high.png)
-![sand.png](Landscape/Floors/sand.png)
-![sandfloor0.png](Landscape/Floors/sandfloor0.png)
-![sandfloor1.png](Landscape/Floors/sandfloor1.png)
-![sandfloor2.png](Landscape/Floors/sandfloor2.png)
-![sandfloor3.png](Landscape/Floors/sandfloor3.png)
-![sandfloor4.png](Landscape/Floors/sandfloor4.png)
-![sandfloor5.png](Landscape/Floors/sandfloor5.png)
-![snow.png](Landscape/Floors/snow.png)
-![waterTop_high.png](Landscape/Floors/waterTop_high.png)
+![dirt.png](dirt.png) dirt.png
+
+![grass.png](grass.png) grass.png
+
+![groundDirt.png](groundDirt.png) groundDirt.png
+
+![groundGrass.png](groundGrass.png) groundGrass.png
+
+![groundIce.png](groundIce.png) groundIce.png
+
+![groundRock.png](groundRock.png) groundRock.png
+
+![groundSnow.png](groundSnow.png) groundSnow.png
+
+![lavaTop_high.png](lavaTop_high.png) lavaTop_high.png
+
+![sand.png](sand.png) sand.png
+
+![sandfloor0.png](sandfloor0.png) sandfloor0.png
+
+![sandfloor1.png](sandfloor1.png) sandfloor1.png
+
+![sandfloor2.png](sandfloor2.png) sandfloor2.png
+
+![sandfloor3.png](sandfloor3.png) sandfloor3.png
+
+![sandfloor4.png](sandfloor4.png) sandfloor4.png
+
+![sandfloor5.png](sandfloor5.png) sandfloor5.png
+
+![snow.png](snow.png) snow.png
+
+![waterTop_high.png](waterTop_high.png) waterTop_high.png
+
