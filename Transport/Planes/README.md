@@ -1,8 +1,8 @@
 # Image Previews
 
-![plane-0.png](plane-0.png) plane-0.png
+<img src="plane-0.png" style="max-width:100px;" /> plane-0.png<br>
 
-![plane-1.png](plane-1.png) plane-1.png
+<img src="plane-1.png" style="max-width:100px;" /> plane-1.png<br>
 
-![plane-2.png](plane-2.png) plane-2.png
+<img src="plane-2.png" style="max-width:100px;" /> plane-2.png<br>
 

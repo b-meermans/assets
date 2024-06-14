@@ -1,54 +1,54 @@
 # Image Previews
 
-![tree-0-alt.png](tree-0-alt.png) tree-0-alt.png
+<img src="tree-0-alt.png" style="max-width:100px;" /> tree-0-alt.png<br>
 
-![tree-0.png](tree-0.png) tree-0.png
+<img src="tree-0.png" style="max-width:100px;" /> tree-0.png<br>
 
-![tree-1-alt.png](tree-1-alt.png) tree-1-alt.png
+<img src="tree-1-alt.png" style="max-width:100px;" /> tree-1-alt.png<br>
 
-![tree-1.png](tree-1.png) tree-1.png
+<img src="tree-1.png" style="max-width:100px;" /> tree-1.png<br>
 
-![tree-2-alt.png](tree-2-alt.png) tree-2-alt.png
+<img src="tree-2-alt.png" style="max-width:100px;" /> tree-2-alt.png<br>
 
-![tree-2.png](tree-2.png) tree-2.png
+<img src="tree-2.png" style="max-width:100px;" /> tree-2.png<br>
 
-![tree-3-alt.png](tree-3-alt.png) tree-3-alt.png
+<img src="tree-3-alt.png" style="max-width:100px;" /> tree-3-alt.png<br>
 
-![tree-3.png](tree-3.png) tree-3.png
+<img src="tree-3.png" style="max-width:100px;" /> tree-3.png<br>
 
-![tree-4-alt.png](tree-4-alt.png) tree-4-alt.png
+<img src="tree-4-alt.png" style="max-width:100px;" /> tree-4-alt.png<br>
 
-![tree-4.png](tree-4.png) tree-4.png
+<img src="tree-4.png" style="max-width:100px;" /> tree-4.png<br>
 
-![tree-5-alt.png](tree-5-alt.png) tree-5-alt.png
+<img src="tree-5-alt.png" style="max-width:100px;" /> tree-5-alt.png<br>
 
-![tree-5.png](tree-5.png) tree-5.png
+<img src="tree-5.png" style="max-width:100px;" /> tree-5.png<br>
 
-![tree-6-alt.png](tree-6-alt.png) tree-6-alt.png
+<img src="tree-6-alt.png" style="max-width:100px;" /> tree-6-alt.png<br>
 
-![tree-6.png](tree-6.png) tree-6.png
+<img src="tree-6.png" style="max-width:100px;" /> tree-6.png<br>
 
-![tree-7-alt.png](tree-7-alt.png) tree-7-alt.png
+<img src="tree-7-alt.png" style="max-width:100px;" /> tree-7-alt.png<br>
 
-![tree-7.png](tree-7.png) tree-7.png
+<img src="tree-7.png" style="max-width:100px;" /> tree-7.png<br>
 
-![tree-8-alt.png](tree-8-alt.png) tree-8-alt.png
+<img src="tree-8-alt.png" style="max-width:100px;" /> tree-8-alt.png<br>
 
-![tree-8.png](tree-8.png) tree-8.png
+<img src="tree-8.png" style="max-width:100px;" /> tree-8.png<br>
 
-![trunk-0.png](trunk-0.png) trunk-0.png
+<img src="trunk-0.png" style="max-width:100px;" /> trunk-0.png<br>
 
-![trunk-1.png](trunk-1.png) trunk-1.png
+<img src="trunk-1.png" style="max-width:100px;" /> trunk-1.png<br>
 
-![trunk-2.png](trunk-2.png) trunk-2.png
+<img src="trunk-2.png" style="max-width:100px;" /> trunk-2.png<br>
 
-![trunk-3.png](trunk-3.png) trunk-3.png
+<img src="trunk-3.png" style="max-width:100px;" /> trunk-3.png<br>
 
-![trunk-4.png](trunk-4.png) trunk-4.png
+<img src="trunk-4.png" style="max-width:100px;" /> trunk-4.png<br>
 
-![trunk-5.png](trunk-5.png) trunk-5.png
+<img src="trunk-5.png" style="max-width:100px;" /> trunk-5.png<br>
 
-![trunk-6.png](trunk-6.png) trunk-6.png
+<img src="trunk-6.png" style="max-width:100px;" /> trunk-6.png<br>
 
-![trunk-7.png](trunk-7.png) trunk-7.png
+<img src="trunk-7.png" style="max-width:100px;" /> trunk-7.png<br>
 

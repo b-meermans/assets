@@ -1,32 +1,32 @@
 # Image Previews
 
-![bubble-0.png](bubble-0.png) bubble-0.png
+<img src="bubble-0.png" style="max-width:100px;" /> bubble-0.png<br>
 
-![bubble-1.png](bubble-1.png) bubble-1.png
+<img src="bubble-1.png" style="max-width:100px;" /> bubble-1.png<br>
 
-![bubble-2.png](bubble-2.png) bubble-2.png
+<img src="bubble-2.png" style="max-width:100px;" /> bubble-2.png<br>
 
-![bubble-3.png](bubble-3.png) bubble-3.png
+<img src="bubble-3.png" style="max-width:100px;" /> bubble-3.png<br>
 
-![bubble-4.png](bubble-4.png) bubble-4.png
+<img src="bubble-4.png" style="max-width:100px;" /> bubble-4.png<br>
 
-![bubble-5.png](bubble-5.png) bubble-5.png
+<img src="bubble-5.png" style="max-width:100px;" /> bubble-5.png<br>
 
-![bubble-6.png](bubble-6.png) bubble-6.png
+<img src="bubble-6.png" style="max-width:100px;" /> bubble-6.png<br>
 
-![bubble-7.png](bubble-7.png) bubble-7.png
+<img src="bubble-7.png" style="max-width:100px;" /> bubble-7.png<br>
 
-![bubble-8.png](bubble-8.png) bubble-8.png
+<img src="bubble-8.png" style="max-width:100px;" /> bubble-8.png<br>
 
-![bubble-9.png](bubble-9.png) bubble-9.png
+<img src="bubble-9.png" style="max-width:100px;" /> bubble-9.png<br>
 
-![bubble-colon.png](bubble-colon.png) bubble-colon.png
+<img src="bubble-colon.png" style="max-width:100px;" /> bubble-colon.png<br>
 
-![bubble-decimal.png](bubble-decimal.png) bubble-decimal.png
+<img src="bubble-decimal.png" style="max-width:100px;" /> bubble-decimal.png<br>
 
-![bubble-dollar.png](bubble-dollar.png) bubble-dollar.png
+<img src="bubble-dollar.png" style="max-width:100px;" /> bubble-dollar.png<br>
 
-![bubble-percent.png](bubble-percent.png) bubble-percent.png
+<img src="bubble-percent.png" style="max-width:100px;" /> bubble-percent.png<br>
 
-![bubble-plus.png](bubble-plus.png) bubble-plus.png
+<img src="bubble-plus.png" style="max-width:100px;" /> bubble-plus.png<br>
 

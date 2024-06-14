@@ -1,20 +1,20 @@
 # Image Previews
 
-![medal-1.png](medal-1.png) medal-1.png
+<img src="medal-1.png" style="max-width:100px;" /> medal-1.png<br>
 
-![medal-2.png](medal-2.png) medal-2.png
+<img src="medal-2.png" style="max-width:100px;" /> medal-2.png<br>
 
-![medal-3.png](medal-3.png) medal-3.png
+<img src="medal-3.png" style="max-width:100px;" /> medal-3.png<br>
 
-![medal-4.png](medal-4.png) medal-4.png
+<img src="medal-4.png" style="max-width:100px;" /> medal-4.png<br>
 
-![medal-5.png](medal-5.png) medal-5.png
+<img src="medal-5.png" style="max-width:100px;" /> medal-5.png<br>
 
-![medal-6.png](medal-6.png) medal-6.png
+<img src="medal-6.png" style="max-width:100px;" /> medal-6.png<br>
 
-![medal-7.png](medal-7.png) medal-7.png
+<img src="medal-7.png" style="max-width:100px;" /> medal-7.png<br>
 
-![medal-8.png](medal-8.png) medal-8.png
+<img src="medal-8.png" style="max-width:100px;" /> medal-8.png<br>
 
-![medal-9.png](medal-9.png) medal-9.png
+<img src="medal-9.png" style="max-width:100px;" /> medal-9.png<br>
 

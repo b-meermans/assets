@@ -1,20 +1,20 @@
 # Image Previews
 
-![speech-bubble-1.png](speech-bubble-1.png) speech-bubble-1.png
+<img src="speech-bubble-1.png" style="max-width:100px;" /> speech-bubble-1.png<br>
 
-![speech-bubble-2.png](speech-bubble-2.png) speech-bubble-2.png
+<img src="speech-bubble-2.png" style="max-width:100px;" /> speech-bubble-2.png<br>
 
-![speech-bubble-3.png](speech-bubble-3.png) speech-bubble-3.png
+<img src="speech-bubble-3.png" style="max-width:100px;" /> speech-bubble-3.png<br>
 
-![speech-bubble-4.png](speech-bubble-4.png) speech-bubble-4.png
+<img src="speech-bubble-4.png" style="max-width:100px;" /> speech-bubble-4.png<br>
 
-![speech-bubble-5.png](speech-bubble-5.png) speech-bubble-5.png
+<img src="speech-bubble-5.png" style="max-width:100px;" /> speech-bubble-5.png<br>
 
-![speech-bubble-6.png](speech-bubble-6.png) speech-bubble-6.png
+<img src="speech-bubble-6.png" style="max-width:100px;" /> speech-bubble-6.png<br>
 
-![speech-bubble-7.png](speech-bubble-7.png) speech-bubble-7.png
+<img src="speech-bubble-7.png" style="max-width:100px;" /> speech-bubble-7.png<br>
 
-![speech-bubble-8.png](speech-bubble-8.png) speech-bubble-8.png
+<img src="speech-bubble-8.png" style="max-width:100px;" /> speech-bubble-8.png<br>
 
-![speech-bubble-9.png](speech-bubble-9.png) speech-bubble-9.png
+<img src="speech-bubble-9.png" style="max-width:100px;" /> speech-bubble-9.png<br>
 

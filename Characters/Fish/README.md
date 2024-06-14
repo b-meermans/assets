@@ -1,28 +1,28 @@
 # Image Previews
 
-![eel-large.png](eel-large.png) eel-large.png
+<img src="eel-large.png" style="max-width:100px;" /> eel-large.png<br>
 
-![eel-small.png](eel-small.png) eel-small.png
+<img src="eel-small.png" style="max-width:100px;" /> eel-small.png<br>
 
-![fish-0.png](fish-0.png) fish-0.png
+<img src="fish-0.png" style="max-width:100px;" /> fish-0.png<br>
 
-![fish-1.png](fish-1.png) fish-1.png
+<img src="fish-1.png" style="max-width:100px;" /> fish-1.png<br>
 
-![fish-2.png](fish-2.png) fish-2.png
+<img src="fish-2.png" style="max-width:100px;" /> fish-2.png<br>
 
-![fish-3.png](fish-3.png) fish-3.png
+<img src="fish-3.png" style="max-width:100px;" /> fish-3.png<br>
 
-![fish-4.png](fish-4.png) fish-4.png
+<img src="fish-4.png" style="max-width:100px;" /> fish-4.png<br>
 
-![fishbone-0.png](fishbone-0.png) fishbone-0.png
+<img src="fishbone-0.png" style="max-width:100px;" /> fishbone-0.png<br>
 
-![fishbone-1.png](fishbone-1.png) fishbone-1.png
+<img src="fishbone-1.png" style="max-width:100px;" /> fishbone-1.png<br>
 
-![fishbone-2.png](fishbone-2.png) fishbone-2.png
+<img src="fishbone-2.png" style="max-width:100px;" /> fishbone-2.png<br>
 
-![fishbone-3.png](fishbone-3.png) fishbone-3.png
+<img src="fishbone-3.png" style="max-width:100px;" /> fishbone-3.png<br>
 
-![fishbone-4.png](fishbone-4.png) fishbone-4.png
+<img src="fishbone-4.png" style="max-width:100px;" /> fishbone-4.png<br>
 
-![puffer.png](puffer.png) puffer.png
+<img src="puffer.png" style="max-width:100px;" /> puffer.png<br>
 

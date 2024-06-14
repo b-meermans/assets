@@ -1,18 +1,18 @@
 # Image Previews
 
-![travel-compass.png](travel-compass.png) travel-compass.png
+<img src="travel-compass.png" style="max-width:100px;" /> travel-compass.png<br>
 
-![travel-id.png](travel-id.png) travel-id.png
+<img src="travel-id.png" style="max-width:100px;" /> travel-id.png<br>
 
-![travel-key.png](travel-key.png) travel-key.png
+<img src="travel-key.png" style="max-width:100px;" /> travel-key.png<br>
 
-![travel-luggage.png](travel-luggage.png) travel-luggage.png
+<img src="travel-luggage.png" style="max-width:100px;" /> travel-luggage.png<br>
 
-![travel-money.png](travel-money.png) travel-money.png
+<img src="travel-money.png" style="max-width:100px;" /> travel-money.png<br>
 
-![travel-passport.png](travel-passport.png) travel-passport.png
+<img src="travel-passport.png" style="max-width:100px;" /> travel-passport.png<br>
 
-![travel-purse.png](travel-purse.png) travel-purse.png
+<img src="travel-purse.png" style="max-width:100px;" /> travel-purse.png<br>
 
-![travel-wallet.png](travel-wallet.png) travel-wallet.png
+<img src="travel-wallet.png" style="max-width:100px;" /> travel-wallet.png<br>
 

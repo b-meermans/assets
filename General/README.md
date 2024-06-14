@@ -1,372 +1,372 @@
 # Image Previews
 
-![brick-1 (2).png](Bricks/brick-1 (2).png) brick-1 (2).png
+<img src="Collectibles/box-coin-boxed.png" style="max-width:100px;" /> box-coin-boxed.png<br>
 
-![brick-1.png](Bricks/brick-1.png) brick-1.png
+<img src="Collectibles/box-crate-single.png" style="max-width:100px;" /> box-crate-single.png<br>
 
-![brick-11.png](Bricks/brick-11.png) brick-11.png
+<img src="Collectibles/box-crate.png" style="max-width:100px;" /> box-crate.png<br>
 
-![brick-12.png](Bricks/brick-12.png) brick-12.png
+<img src="Collectibles/box-explosive.png" style="max-width:100px;" /> box-explosive.png<br>
 
-![brick-13.png](Bricks/brick-13.png) brick-13.png
+<img src="Collectibles/box-item-boxed.png" style="max-width:100px;" /> box-item-boxed.png<br>
 
-![brick-14.png](Bricks/brick-14.png) brick-14.png
+<img src="Bricks/brick-1 (2).png" style="max-width:100px;" /> brick-1 (2).png<br>
 
-![brick-15.png](Bricks/brick-15.png) brick-15.png
+<img src="Bricks/brick-1.png" style="max-width:100px;" /> brick-1.png<br>
 
-![brick-16.png](Bricks/brick-16.png) brick-16.png
+<img src="Bricks/brick-11.png" style="max-width:100px;" /> brick-11.png<br>
 
-![brick-2.png](Bricks/brick-2.png) brick-2.png
+<img src="Bricks/brick-12.png" style="max-width:100px;" /> brick-12.png<br>
 
-![brick-3.png](Bricks/brick-3.png) brick-3.png
+<img src="Bricks/brick-13.png" style="max-width:100px;" /> brick-13.png<br>
 
-![brick-4.png](Bricks/brick-4.png) brick-4.png
+<img src="Bricks/brick-14.png" style="max-width:100px;" /> brick-14.png<br>
 
-![brick-5.png](Bricks/brick-5.png) brick-5.png
+<img src="Bricks/brick-15.png" style="max-width:100px;" /> brick-15.png<br>
 
-![brick-6.png](Bricks/brick-6.png) brick-6.png
+<img src="Bricks/brick-16.png" style="max-width:100px;" /> brick-16.png<br>
 
-![brick-7.png](Bricks/brick-7.png) brick-7.png
+<img src="Bricks/brick-2.png" style="max-width:100px;" /> brick-2.png<br>
 
-![brick-8.png](Bricks/brick-8.png) brick-8.png
+<img src="Bricks/brick-3.png" style="max-width:100px;" /> brick-3.png<br>
 
-![brick-9.png](Bricks/brick-9.png) brick-9.png
+<img src="Bricks/brick-4.png" style="max-width:100px;" /> brick-4.png<br>
 
-![brick-special-1 (2).png](Bricks/brick-special-1 (2).png) brick-special-1 (2).png
+<img src="Bricks/brick-5.png" style="max-width:100px;" /> brick-5.png<br>
 
-![brick-special-1.png](Bricks/brick-special-1.png) brick-special-1.png
+<img src="Bricks/brick-6.png" style="max-width:100px;" /> brick-6.png<br>
 
-![brick-special-2.png](Bricks/brick-special-2.png) brick-special-2.png
+<img src="Bricks/brick-7.png" style="max-width:100px;" /> brick-7.png<br>
 
-![brick-special-3.png](Bricks/brick-special-3.png) brick-special-3.png
+<img src="Bricks/brick-8.png" style="max-width:100px;" /> brick-8.png<br>
 
-![brick-special-4.png](Bricks/brick-special-4.png) brick-special-4.png
+<img src="Bricks/brick-9.png" style="max-width:100px;" /> brick-9.png<br>
 
-![brick-special-5.png](Bricks/brick-special-5.png) brick-special-5.png
+<img src="Bricks/brick-special-1 (2).png" style="max-width:100px;" /> brick-special-1 (2).png<br>
 
-![brick-special-6.png](Bricks/brick-special-6.png) brick-special-6.png
+<img src="Bricks/brick-special-1.png" style="max-width:100px;" /> brick-special-1.png<br>
 
-![brick-special-7.png](Bricks/brick-special-7.png) brick-special-7.png
+<img src="Bricks/brick-special-2.png" style="max-width:100px;" /> brick-special-2.png<br>
 
-![brick-special-8.png](Bricks/brick-special-8.png) brick-special-8.png
+<img src="Bricks/brick-special-3.png" style="max-width:100px;" /> brick-special-3.png<br>
 
-![brick-special-9.png](Bricks/brick-special-9.png) brick-special-9.png
+<img src="Bricks/brick-special-4.png" style="max-width:100px;" /> brick-special-4.png<br>
 
-![box-coin-boxed.png](Collectibles/box-coin-boxed.png) box-coin-boxed.png
+<img src="Bricks/brick-special-5.png" style="max-width:100px;" /> brick-special-5.png<br>
 
-![box-crate-single.png](Collectibles/box-crate-single.png) box-crate-single.png
+<img src="Bricks/brick-special-6.png" style="max-width:100px;" /> brick-special-6.png<br>
 
-![box-crate.png](Collectibles/box-crate.png) box-crate.png
+<img src="Bricks/brick-special-7.png" style="max-width:100px;" /> brick-special-7.png<br>
 
-![box-explosive.png](Collectibles/box-explosive.png) box-explosive.png
+<img src="Bricks/brick-special-8.png" style="max-width:100px;" /> brick-special-8.png<br>
 
-![box-item-boxed.png](Collectibles/box-item-boxed.png) box-item-boxed.png
+<img src="Bricks/brick-special-9.png" style="max-width:100px;" /> brick-special-9.png<br>
 
-![bronze-0.png](Collectibles/bronze-0.png) bronze-0.png
+<img src="Collectibles/bronze-0.png" style="max-width:100px;" /> bronze-0.png<br>
 
-![bronze-1.png](Collectibles/bronze-1.png) bronze-1.png
+<img src="Collectibles/bronze-1.png" style="max-width:100px;" /> bronze-1.png<br>
 
-![bronze-2.png](Collectibles/bronze-2.png) bronze-2.png
+<img src="Collectibles/bronze-2.png" style="max-width:100px;" /> bronze-2.png<br>
 
-![bronze-3.png](Collectibles/bronze-3.png) bronze-3.png
+<img src="Collectibles/bronze-3.png" style="max-width:100px;" /> bronze-3.png<br>
 
-![bronze-4.png](Collectibles/bronze-4.png) bronze-4.png
+<img src="Collectibles/bronze-4.png" style="max-width:100px;" /> bronze-4.png<br>
 
-![bronze-5.png](Collectibles/bronze-5.png) bronze-5.png
+<img src="Collectibles/bronze-5.png" style="max-width:100px;" /> bronze-5.png<br>
 
-![bubble.png](Collectibles/bubble.png) bubble.png
+<img src="Collectibles/bubble.png" style="max-width:100px;" /> bubble.png<br>
 
-![carrot-gold.png](Collectibles/carrot-gold.png) carrot-gold.png
+<img src="Interactibles/button-pressed.png" style="max-width:100px;" /> button-pressed.png<br>
 
-![carrot.png](Collectibles/carrot.png) carrot.png
+<img src="Interactibles/button-unpressed.png" style="max-width:100px;" /> button-unpressed.png<br>
 
-![coin-bronze.png](Collectibles/coin-bronze.png) coin-bronze.png
+<img src="Collectibles/carrot-gold.png" style="max-width:100px;" /> carrot-gold.png<br>
 
-![coin-gold.png](Collectibles/coin-gold.png) coin-gold.png
+<img src="Collectibles/carrot.png" style="max-width:100px;" /> carrot.png<br>
 
-![coin-silver.png](Collectibles/coin-silver.png) coin-silver.png
+<img src="Collectibles/coin-bronze.png" style="max-width:100px;" /> coin-bronze.png<br>
 
-![gem-blue.png](Collectibles/gem-blue.png) gem-blue.png
+<img src="Collectibles/coin-gold.png" style="max-width:100px;" /> coin-gold.png<br>
 
-![gold-0.png](Collectibles/gold-0.png) gold-0.png
+<img src="Collectibles/coin-silver.png" style="max-width:100px;" /> coin-silver.png<br>
 
-![gold-1.png](Collectibles/gold-1.png) gold-1.png
+<img src="Effects/explosion-big.png" style="max-width:100px;" /> explosion-big.png<br>
 
-![gold-2.png](Collectibles/gold-2.png) gold-2.png
+<img src="Effects/explosion-medium.png" style="max-width:100px;" /> explosion-medium.png<br>
 
-![gold-3.png](Collectibles/gold-3.png) gold-3.png
+<img src="Effects/explosion-small.png" style="max-width:100px;" /> explosion-small.png<br>
 
-![gold-4.png](Collectibles/gold-4.png) gold-4.png
+<img src="Effects/fire-1.png" style="max-width:100px;" /> fire-1.png<br>
 
-![gold-5.png](Collectibles/gold-5.png) gold-5.png
+<img src="Effects/fire-2.png" style="max-width:100px;" /> fire-2.png<br>
 
-![hud-heart-empty.png](Collectibles/hud-heart-empty.png) hud-heart-empty.png
+<img src="Interactibles/flag-down.png" style="max-width:100px;" /> flag-down.png<br>
 
-![hud-heart-full.png](Collectibles/hud-heart-full.png) hud-heart-full.png
+<img src="Interactibles/flag-mid.png" style="max-width:100px;" /> flag-mid.png<br>
 
-![hud-heart-half.png](Collectibles/hud-heart-half.png) hud-heart-half.png
+<img src="Interactibles/flag-up.png" style="max-width:100px;" /> flag-up.png<br>
 
-![hud-jewel-blue-empty.png](Collectibles/hud-jewel-blue-empty.png) hud-jewel-blue-empty.png
+<img src="Effects/flame.png" style="max-width:100px;" /> flame.png<br>
 
-![hud-jewel-blue.png](Collectibles/hud-jewel-blue.png) hud-jewel-blue.png
+<img src="Effects/gel-1.png" style="max-width:100px;" /> gel-1.png<br>
 
-![hud-key-blue-empty.png](Collectibles/hud-key-blue-empty.png) hud-key-blue-empty.png
+<img src="Effects/gel-2.png" style="max-width:100px;" /> gel-2.png<br>
 
-![hud-key-blue.png](Collectibles/hud-key-blue.png) hud-key-blue.png
+<img src="Effects/gel-3.png" style="max-width:100px;" /> gel-3.png<br>
 
-![jetpack.png](Collectibles/jetpack.png) jetpack.png
+<img src="Effects/gel-4.png" style="max-width:100px;" /> gel-4.png<br>
 
-![portal-orange.png](Collectibles/portal-orange.png) portal-orange.png
+<img src="Collectibles/gem-blue.png" style="max-width:100px;" /> gem-blue.png<br>
 
-![portal-yellow.png](Collectibles/portal-yellow.png) portal-yellow.png
+<img src="Collectibles/gold-0.png" style="max-width:100px;" /> gold-0.png<br>
 
-![silver-0.png](Collectibles/silver-0.png) silver-0.png
+<img src="Collectibles/gold-1.png" style="max-width:100px;" /> gold-1.png<br>
 
-![silver-1.png](Collectibles/silver-1.png) silver-1.png
+<img src="Collectibles/gold-2.png" style="max-width:100px;" /> gold-2.png<br>
 
-![silver-2.png](Collectibles/silver-2.png) silver-2.png
+<img src="Collectibles/gold-3.png" style="max-width:100px;" /> gold-3.png<br>
 
-![silver-3.png](Collectibles/silver-3.png) silver-3.png
+<img src="Collectibles/gold-4.png" style="max-width:100px;" /> gold-4.png<br>
 
-![silver-4.png](Collectibles/silver-4.png) silver-4.png
+<img src="Collectibles/gold-5.png" style="max-width:100px;" /> gold-5.png<br>
 
-![silver-5.png](Collectibles/silver-5.png) silver-5.png
+<img src="Collectibles/hud-heart-empty.png" style="max-width:100px;" /> hud-heart-empty.png<br>
 
-![star-bronze.png](Collectibles/star-bronze.png) star-bronze.png
+<img src="Collectibles/hud-heart-full.png" style="max-width:100px;" /> hud-heart-full.png<br>
 
-![star-diamond.png](Collectibles/star-diamond.png) star-diamond.png
+<img src="Collectibles/hud-heart-half.png" style="max-width:100px;" /> hud-heart-half.png<br>
 
-![star-gold.png](Collectibles/star-gold.png) star-gold.png
+<img src="Collectibles/hud-jewel-blue-empty.png" style="max-width:100px;" /> hud-jewel-blue-empty.png<br>
 
-![star-silver.png](Collectibles/star-silver.png) star-silver.png
+<img src="Collectibles/hud-jewel-blue.png" style="max-width:100px;" /> hud-jewel-blue.png<br>
 
-![explosion-big.png](Effects/explosion-big.png) explosion-big.png
+<img src="Collectibles/hud-key-blue-empty.png" style="max-width:100px;" /> hud-key-blue-empty.png<br>
 
-![explosion-medium.png](Effects/explosion-medium.png) explosion-medium.png
+<img src="Collectibles/hud-key-blue.png" style="max-width:100px;" /> hud-key-blue.png<br>
 
-![explosion-small.png](Effects/explosion-small.png) explosion-small.png
+<img src="Collectibles/jetpack.png" style="max-width:100px;" /> jetpack.png<br>
 
-![fire-1.png](Effects/fire-1.png) fire-1.png
+<img src="Kitchen/kitchen-blade.png" style="max-width:100px;" /> kitchen-blade.png<br>
 
-![fire-2.png](Effects/fire-2.png) fire-2.png
+<img src="Kitchen/kitchen-blender.png" style="max-width:100px;" /> kitchen-blender.png<br>
 
-![flame.png](Effects/flame.png) flame.png
+<img src="Kitchen/kitchen-board.png" style="max-width:100px;" /> kitchen-board.png<br>
 
-![gel-1.png](Effects/gel-1.png) gel-1.png
+<img src="Kitchen/kitchen-bowl.png" style="max-width:100px;" /> kitchen-bowl.png<br>
 
-![gel-2.png](Effects/gel-2.png) gel-2.png
+<img src="Kitchen/kitchen-coffee.png" style="max-width:100px;" /> kitchen-coffee.png<br>
 
-![gel-3.png](Effects/gel-3.png) gel-3.png
+<img src="Kitchen/kitchen-fork.png" style="max-width:100px;" /> kitchen-fork.png<br>
 
-![gel-4.png](Effects/gel-4.png) gel-4.png
+<img src="Kitchen/kitchen-kettle.png" style="max-width:100px;" /> kitchen-kettle.png<br>
 
-![lighting-blue.png](Effects/lighting-blue.png) lighting-blue.png
+<img src="Kitchen/kitchen-knife.png" style="max-width:100px;" /> kitchen-knife.png<br>
 
-![lighting-yellow.png](Effects/lighting-yellow.png) lighting-yellow.png
+<img src="Kitchen/kitchen-measuring.png" style="max-width:100px;" /> kitchen-measuring.png<br>
 
-![particle-0.png](Effects/particle-0.png) particle-0.png
+<img src="Kitchen/kitchen-mitt.png" style="max-width:100px;" /> kitchen-mitt.png<br>
 
-![particle-1.png](Effects/particle-1.png) particle-1.png
+<img src="Kitchen/kitchen-mug.png" style="max-width:100px;" /> kitchen-mug.png<br>
 
-![particle-beige.png](Effects/particle-beige.png) particle-beige.png
+<img src="Kitchen/kitchen-pan.png" style="max-width:100px;" /> kitchen-pan.png<br>
 
-![particle-blue.png](Effects/particle-blue.png) particle-blue.png
+<img src="Kitchen/kitchen-pepper.png" style="max-width:100px;" /> kitchen-pepper.png<br>
 
-![particle-brown.png](Effects/particle-brown.png) particle-brown.png
+<img src="Kitchen/kitchen-pot.png" style="max-width:100px;" /> kitchen-pot.png<br>
 
-![particle-dark-brown.png](Effects/particle-dark-brown.png) particle-dark-brown.png
+<img src="Kitchen/kitchen-salt.png" style="max-width:100px;" /> kitchen-salt.png<br>
 
-![particle-dark-grey.png](Effects/particle-dark-grey.png) particle-dark-grey.png
+<img src="Kitchen/kitchen-spatula.png" style="max-width:100px;" /> kitchen-spatula.png<br>
 
-![particle-green.png](Effects/particle-green.png) particle-green.png
+<img src="Kitchen/kitchen-spoon.png" style="max-width:100px;" /> kitchen-spoon.png<br>
 
-![particle-grey.png](Effects/particle-grey.png) particle-grey.png
+<img src="Kitchen/kitchen-tongs.png" style="max-width:100px;" /> kitchen-tongs.png<br>
 
-![particle-pink.png](Effects/particle-pink.png) particle-pink.png
+<img src="Interactibles/lever-left.png" style="max-width:100px;" /> lever-left.png<br>
 
-![portal-orange-particle.png](Effects/portal-orange-particle.png) portal-orange-particle.png
+<img src="Interactibles/lever-mid.png" style="max-width:100px;" /> lever-mid.png<br>
 
-![portal-yellow-particle.png](Effects/portal-yellow-particle.png) portal-yellow-particle.png
+<img src="Interactibles/lever-right.png" style="max-width:100px;" /> lever-right.png<br>
 
-![puff-large.png](Effects/puff-large.png) puff-large.png
+<img src="Effects/lighting-blue.png" style="max-width:100px;" /> lighting-blue.png<br>
 
-![puff-small.png](Effects/puff-small.png) puff-small.png
+<img src="Effects/lighting-yellow.png" style="max-width:100px;" /> lighting-yellow.png<br>
 
-![smoke.png](Effects/smoke.png) smoke.png
+<img src="Medals/medal-1.png" style="max-width:100px;" /> medal-1.png<br>
 
-![button-pressed.png](Interactibles/button-pressed.png) button-pressed.png
+<img src="Medals/medal-2.png" style="max-width:100px;" /> medal-2.png<br>
 
-![button-unpressed.png](Interactibles/button-unpressed.png) button-unpressed.png
+<img src="Medals/medal-3.png" style="max-width:100px;" /> medal-3.png<br>
 
-![flag-down.png](Interactibles/flag-down.png) flag-down.png
+<img src="Medals/medal-4.png" style="max-width:100px;" /> medal-4.png<br>
 
-![flag-mid.png](Interactibles/flag-mid.png) flag-mid.png
+<img src="Medals/medal-5.png" style="max-width:100px;" /> medal-5.png<br>
 
-![flag-up.png](Interactibles/flag-up.png) flag-up.png
+<img src="Medals/medal-6.png" style="max-width:100px;" /> medal-6.png<br>
 
-![lever-left.png](Interactibles/lever-left.png) lever-left.png
+<img src="Medals/medal-7.png" style="max-width:100px;" /> medal-7.png<br>
 
-![lever-mid.png](Interactibles/lever-mid.png) lever-mid.png
+<img src="Medals/medal-8.png" style="max-width:100px;" /> medal-8.png<br>
 
-![lever-right.png](Interactibles/lever-right.png) lever-right.png
+<img src="Medals/medal-9.png" style="max-width:100px;" /> medal-9.png<br>
 
-![paddle.png](Interactibles/paddle.png) paddle.png
+<img src="Office/office-book-0.png" style="max-width:100px;" /> office-book-0.png<br>
 
-![spring-in.png](Interactibles/spring-in.png) spring-in.png
+<img src="Office/office-book-1.png" style="max-width:100px;" /> office-book-1.png<br>
 
-![spring-mid.png](Interactibles/spring-mid.png) spring-mid.png
+<img src="Office/office-book-3.png" style="max-width:100px;" /> office-book-3.png<br>
 
-![spring-out.png](Interactibles/spring-out.png) spring-out.png
+<img src="Office/office-book.png" style="max-width:100px;" /> office-book.png<br>
 
-![torch-off.png](Interactibles/torch-off.png) torch-off.png
+<img src="Office/office-briefcase.png" style="max-width:100px;" /> office-briefcase.png<br>
 
-![torch-on-1.png](Interactibles/torch-on-1.png) torch-on-1.png
+<img src="Office/office-clipboard.png" style="max-width:100px;" /> office-clipboard.png<br>
 
-![torch-on-2.png](Interactibles/torch-on-2.png) torch-on-2.png
+<img src="Office/office-folder.png" style="max-width:100px;" /> office-folder.png<br>
 
-![kitchen-blade.png](Kitchen/kitchen-blade.png) kitchen-blade.png
+<img src="Office/office-laptop.png" style="max-width:100px;" /> office-laptop.png<br>
 
-![kitchen-blender.png](Kitchen/kitchen-blender.png) kitchen-blender.png
+<img src="Office/office-note.png" style="max-width:100px;" /> office-note.png<br>
 
-![kitchen-board.png](Kitchen/kitchen-board.png) kitchen-board.png
+<img src="Office/office-paint.png" style="max-width:100px;" /> office-paint.png<br>
 
-![kitchen-bowl.png](Kitchen/kitchen-bowl.png) kitchen-bowl.png
+<img src="Office/office-palette.png" style="max-width:100px;" /> office-palette.png<br>
 
-![kitchen-coffee.png](Kitchen/kitchen-coffee.png) kitchen-coffee.png
+<img src="Office/office-pen.png" style="max-width:100px;" /> office-pen.png<br>
 
-![kitchen-fork.png](Kitchen/kitchen-fork.png) kitchen-fork.png
+<img src="Office/office-pencil.png" style="max-width:100px;" /> office-pencil.png<br>
 
-![kitchen-kettle.png](Kitchen/kitchen-kettle.png) kitchen-kettle.png
+<img src="Interactibles/paddle.png" style="max-width:100px;" /> paddle.png<br>
 
-![kitchen-knife.png](Kitchen/kitchen-knife.png) kitchen-knife.png
+<img src="Effects/particle-0.png" style="max-width:100px;" /> particle-0.png<br>
 
-![kitchen-measuring.png](Kitchen/kitchen-measuring.png) kitchen-measuring.png
+<img src="Effects/particle-1.png" style="max-width:100px;" /> particle-1.png<br>
 
-![kitchen-mitt.png](Kitchen/kitchen-mitt.png) kitchen-mitt.png
+<img src="Effects/particle-beige.png" style="max-width:100px;" /> particle-beige.png<br>
 
-![kitchen-mug.png](Kitchen/kitchen-mug.png) kitchen-mug.png
+<img src="Effects/particle-blue.png" style="max-width:100px;" /> particle-blue.png<br>
 
-![kitchen-pan.png](Kitchen/kitchen-pan.png) kitchen-pan.png
+<img src="Effects/particle-brown.png" style="max-width:100px;" /> particle-brown.png<br>
 
-![kitchen-pepper.png](Kitchen/kitchen-pepper.png) kitchen-pepper.png
+<img src="Effects/particle-dark-brown.png" style="max-width:100px;" /> particle-dark-brown.png<br>
 
-![kitchen-pot.png](Kitchen/kitchen-pot.png) kitchen-pot.png
+<img src="Effects/particle-dark-grey.png" style="max-width:100px;" /> particle-dark-grey.png<br>
 
-![kitchen-salt.png](Kitchen/kitchen-salt.png) kitchen-salt.png
+<img src="Effects/particle-green.png" style="max-width:100px;" /> particle-green.png<br>
 
-![kitchen-spatula.png](Kitchen/kitchen-spatula.png) kitchen-spatula.png
+<img src="Effects/particle-grey.png" style="max-width:100px;" /> particle-grey.png<br>
 
-![kitchen-spoon.png](Kitchen/kitchen-spoon.png) kitchen-spoon.png
+<img src="Effects/particle-pink.png" style="max-width:100px;" /> particle-pink.png<br>
 
-![kitchen-tongs.png](Kitchen/kitchen-tongs.png) kitchen-tongs.png
+<img src="Planets/planet-0.png" style="max-width:100px;" /> planet-0.png<br>
 
-![medal-1.png](Medals/medal-1.png) medal-1.png
+<img src="Planets/planet-1.png" style="max-width:100px;" /> planet-1.png<br>
 
-![medal-2.png](Medals/medal-2.png) medal-2.png
+<img src="Planets/planet-2.png" style="max-width:100px;" /> planet-2.png<br>
 
-![medal-3.png](Medals/medal-3.png) medal-3.png
+<img src="Planets/planet-3.png" style="max-width:100px;" /> planet-3.png<br>
 
-![medal-4.png](Medals/medal-4.png) medal-4.png
+<img src="Planets/planet-4.png" style="max-width:100px;" /> planet-4.png<br>
 
-![medal-5.png](Medals/medal-5.png) medal-5.png
+<img src="Planets/planet-5.png" style="max-width:100px;" /> planet-5.png<br>
 
-![medal-6.png](Medals/medal-6.png) medal-6.png
+<img src="Planets/planet-6.png" style="max-width:100px;" /> planet-6.png<br>
 
-![medal-7.png](Medals/medal-7.png) medal-7.png
+<img src="Planets/planet-7.png" style="max-width:100px;" /> planet-7.png<br>
 
-![medal-8.png](Medals/medal-8.png) medal-8.png
+<img src="Planets/planet-8.png" style="max-width:100px;" /> planet-8.png<br>
 
-![medal-9.png](Medals/medal-9.png) medal-9.png
+<img src="Planets/planet-9.png" style="max-width:100px;" /> planet-9.png<br>
 
-![office-book-0.png](Office/office-book-0.png) office-book-0.png
+<img src="Effects/portal-orange-particle.png" style="max-width:100px;" /> portal-orange-particle.png<br>
 
-![office-book-1.png](Office/office-book-1.png) office-book-1.png
+<img src="Collectibles/portal-orange.png" style="max-width:100px;" /> portal-orange.png<br>
 
-![office-book-3.png](Office/office-book-3.png) office-book-3.png
+<img src="Effects/portal-yellow-particle.png" style="max-width:100px;" /> portal-yellow-particle.png<br>
 
-![office-book.png](Office/office-book.png) office-book.png
+<img src="Collectibles/portal-yellow.png" style="max-width:100px;" /> portal-yellow.png<br>
 
-![office-briefcase.png](Office/office-briefcase.png) office-briefcase.png
+<img src="Effects/puff-large.png" style="max-width:100px;" /> puff-large.png<br>
 
-![office-clipboard.png](Office/office-clipboard.png) office-clipboard.png
+<img src="Effects/puff-small.png" style="max-width:100px;" /> puff-small.png<br>
 
-![office-folder.png](Office/office-folder.png) office-folder.png
+<img src="Science/science-glass-0.png" style="max-width:100px;" /> science-glass-0.png<br>
 
-![office-laptop.png](Office/office-laptop.png) office-laptop.png
+<img src="Science/science-glass-1.png" style="max-width:100px;" /> science-glass-1.png<br>
 
-![office-note.png](Office/office-note.png) office-note.png
+<img src="Science/science-glass-2.png" style="max-width:100px;" /> science-glass-2.png<br>
 
-![office-paint.png](Office/office-paint.png) office-paint.png
+<img src="Science/science-glass-3.png" style="max-width:100px;" /> science-glass-3.png<br>
 
-![office-palette.png](Office/office-palette.png) office-palette.png
+<img src="Science/science-glass-4.png" style="max-width:100px;" /> science-glass-4.png<br>
 
-![office-pen.png](Office/office-pen.png) office-pen.png
+<img src="Science/science-microscope.png" style="max-width:100px;" /> science-microscope.png<br>
 
-![office-pencil.png](Office/office-pencil.png) office-pencil.png
+<img src="Science/science-stethoscope.png" style="max-width:100px;" /> science-stethoscope.png<br>
 
-![planet-0.png](Planets/planet-0.png) planet-0.png
+<img src="Collectibles/silver-0.png" style="max-width:100px;" /> silver-0.png<br>
 
-![planet-1.png](Planets/planet-1.png) planet-1.png
+<img src="Collectibles/silver-1.png" style="max-width:100px;" /> silver-1.png<br>
 
-![planet-2.png](Planets/planet-2.png) planet-2.png
+<img src="Collectibles/silver-2.png" style="max-width:100px;" /> silver-2.png<br>
 
-![planet-3.png](Planets/planet-3.png) planet-3.png
+<img src="Collectibles/silver-3.png" style="max-width:100px;" /> silver-3.png<br>
 
-![planet-4.png](Planets/planet-4.png) planet-4.png
+<img src="Collectibles/silver-4.png" style="max-width:100px;" /> silver-4.png<br>
 
-![planet-5.png](Planets/planet-5.png) planet-5.png
+<img src="Collectibles/silver-5.png" style="max-width:100px;" /> silver-5.png<br>
 
-![planet-6.png](Planets/planet-6.png) planet-6.png
+<img src="Effects/smoke.png" style="max-width:100px;" /> smoke.png<br>
 
-![planet-7.png](Planets/planet-7.png) planet-7.png
+<img src="Interactibles/spring-in.png" style="max-width:100px;" /> spring-in.png<br>
 
-![planet-8.png](Planets/planet-8.png) planet-8.png
+<img src="Interactibles/spring-mid.png" style="max-width:100px;" /> spring-mid.png<br>
 
-![planet-9.png](Planets/planet-9.png) planet-9.png
+<img src="Interactibles/spring-out.png" style="max-width:100px;" /> spring-out.png<br>
 
-![science-glass-0.png](Science/science-glass-0.png) science-glass-0.png
+<img src="Collectibles/star-bronze.png" style="max-width:100px;" /> star-bronze.png<br>
 
-![science-glass-1.png](Science/science-glass-1.png) science-glass-1.png
+<img src="Collectibles/star-diamond.png" style="max-width:100px;" /> star-diamond.png<br>
 
-![science-glass-2.png](Science/science-glass-2.png) science-glass-2.png
+<img src="Collectibles/star-gold.png" style="max-width:100px;" /> star-gold.png<br>
 
-![science-glass-3.png](Science/science-glass-3.png) science-glass-3.png
+<img src="Collectibles/star-silver.png" style="max-width:100px;" /> star-silver.png<br>
 
-![science-glass-4.png](Science/science-glass-4.png) science-glass-4.png
+<img src="Tools/tool-axe.png" style="max-width:100px;" /> tool-axe.png<br>
 
-![science-microscope.png](Science/science-microscope.png) science-microscope.png
+<img src="Tools/tool-brush.png" style="max-width:100px;" /> tool-brush.png<br>
 
-![science-stethoscope.png](Science/science-stethoscope.png) science-stethoscope.png
+<img src="Tools/tool-pickaxe.png" style="max-width:100px;" /> tool-pickaxe.png<br>
 
-![tool-axe.png](Tools/tool-axe.png) tool-axe.png
+<img src="Tools/tool-roller.png" style="max-width:100px;" /> tool-roller.png<br>
 
-![tool-brush.png](Tools/tool-brush.png) tool-brush.png
+<img src="Tools/tool-saw.png" style="max-width:100px;" /> tool-saw.png<br>
 
-![tool-pickaxe.png](Tools/tool-pickaxe.png) tool-pickaxe.png
+<img src="Tools/tool-screwdriver.png" style="max-width:100px;" /> tool-screwdriver.png<br>
 
-![tool-roller.png](Tools/tool-roller.png) tool-roller.png
+<img src="Tools/tool-shovel.png" style="max-width:100px;" /> tool-shovel.png<br>
 
-![tool-saw.png](Tools/tool-saw.png) tool-saw.png
+<img src="Tools/tool-wrench.png" style="max-width:100px;" /> tool-wrench.png<br>
 
-![tool-screwdriver.png](Tools/tool-screwdriver.png) tool-screwdriver.png
+<img src="Interactibles/torch-off.png" style="max-width:100px;" /> torch-off.png<br>
 
-![tool-shovel.png](Tools/tool-shovel.png) tool-shovel.png
+<img src="Interactibles/torch-on-1.png" style="max-width:100px;" /> torch-on-1.png<br>
 
-![tool-wrench.png](Tools/tool-wrench.png) tool-wrench.png
+<img src="Interactibles/torch-on-2.png" style="max-width:100px;" /> torch-on-2.png<br>
 
-![travel-compass.png](Travel/travel-compass.png) travel-compass.png
+<img src="Travel/travel-compass.png" style="max-width:100px;" /> travel-compass.png<br>
 
-![travel-id.png](Travel/travel-id.png) travel-id.png
+<img src="Travel/travel-id.png" style="max-width:100px;" /> travel-id.png<br>
 
-![travel-key.png](Travel/travel-key.png) travel-key.png
+<img src="Travel/travel-key.png" style="max-width:100px;" /> travel-key.png<br>
 
-![travel-luggage.png](Travel/travel-luggage.png) travel-luggage.png
+<img src="Travel/travel-luggage.png" style="max-width:100px;" /> travel-luggage.png<br>
 
-![travel-money.png](Travel/travel-money.png) travel-money.png
+<img src="Travel/travel-money.png" style="max-width:100px;" /> travel-money.png<br>
 
-![travel-passport.png](Travel/travel-passport.png) travel-passport.png
+<img src="Travel/travel-passport.png" style="max-width:100px;" /> travel-passport.png<br>
 
-![travel-purse.png](Travel/travel-purse.png) travel-purse.png
+<img src="Travel/travel-purse.png" style="max-width:100px;" /> travel-purse.png<br>
 
-![travel-wallet.png](Travel/travel-wallet.png) travel-wallet.png
+<img src="Travel/travel-wallet.png" style="max-width:100px;" /> travel-wallet.png<br>
 

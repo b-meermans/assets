@@ -1,26 +1,26 @@
 # Image Previews
 
-![coral-0.png](coral-0.png) coral-0.png
+<img src="coral-0.png" style="max-width:100px;" /> coral-0.png<br>
 
-![coral-1.png](coral-1.png) coral-1.png
+<img src="coral-1.png" style="max-width:100px;" /> coral-1.png<br>
 
-![coral-10.png](coral-10.png) coral-10.png
+<img src="coral-10.png" style="max-width:100px;" /> coral-10.png<br>
 
-![coral-11.png](coral-11.png) coral-11.png
+<img src="coral-11.png" style="max-width:100px;" /> coral-11.png<br>
 
-![coral-2.png](coral-2.png) coral-2.png
+<img src="coral-2.png" style="max-width:100px;" /> coral-2.png<br>
 
-![coral-3.png](coral-3.png) coral-3.png
+<img src="coral-3.png" style="max-width:100px;" /> coral-3.png<br>
 
-![coral-4.png](coral-4.png) coral-4.png
+<img src="coral-4.png" style="max-width:100px;" /> coral-4.png<br>
 
-![coral-5.png](coral-5.png) coral-5.png
+<img src="coral-5.png" style="max-width:100px;" /> coral-5.png<br>
 
-![coral-6.png](coral-6.png) coral-6.png
+<img src="coral-6.png" style="max-width:100px;" /> coral-6.png<br>
 
-![coral-7.png](coral-7.png) coral-7.png
+<img src="coral-7.png" style="max-width:100px;" /> coral-7.png<br>
 
-![coral-8.png](coral-8.png) coral-8.png
+<img src="coral-8.png" style="max-width:100px;" /> coral-8.png<br>
 
-![coral-9.png](coral-9.png) coral-9.png
+<img src="coral-9.png" style="max-width:100px;" /> coral-9.png<br>
 

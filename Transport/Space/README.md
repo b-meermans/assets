@@ -1,38 +1,38 @@
 # Image Previews
 
-![rocket.png](rocket.png) rocket.png
+<img src="rocket.png" style="max-width:100px;" /> rocket.png<br>
 
-![space-rocket-0.png](space-rocket-0.png) space-rocket-0.png
+<img src="space-rocket-0.png" style="max-width:100px;" /> space-rocket-0.png<br>
 
-![space-rocket-1.png](space-rocket-1.png) space-rocket-1.png
+<img src="space-rocket-1.png" style="max-width:100px;" /> space-rocket-1.png<br>
 
-![space-rocket-2.png](space-rocket-2.png) space-rocket-2.png
+<img src="space-rocket-2.png" style="max-width:100px;" /> space-rocket-2.png<br>
 
-![space-ship-0.png](space-ship-0.png) space-ship-0.png
+<img src="space-ship-0.png" style="max-width:100px;" /> space-ship-0.png<br>
 
-![space-ship-1.png](space-ship-1.png) space-ship-1.png
+<img src="space-ship-1.png" style="max-width:100px;" /> space-ship-1.png<br>
 
-![space-ship-2.png](space-ship-2.png) space-ship-2.png
+<img src="space-ship-2.png" style="max-width:100px;" /> space-ship-2.png<br>
 
-![space-ship-3.png](space-ship-3.png) space-ship-3.png
+<img src="space-ship-3.png" style="max-width:100px;" /> space-ship-3.png<br>
 
-![space-ship-4.png](space-ship-4.png) space-ship-4.png
+<img src="space-ship-4.png" style="max-width:100px;" /> space-ship-4.png<br>
 
-![space-ship-5.png](space-ship-5.png) space-ship-5.png
+<img src="space-ship-5.png" style="max-width:100px;" /> space-ship-5.png<br>
 
-![space-ship-6.png](space-ship-6.png) space-ship-6.png
+<img src="space-ship-6.png" style="max-width:100px;" /> space-ship-6.png<br>
 
-![space-ship-7.png](space-ship-7.png) space-ship-7.png
+<img src="space-ship-7.png" style="max-width:100px;" /> space-ship-7.png<br>
 
-![space-ship-8.png](space-ship-8.png) space-ship-8.png
+<img src="space-ship-8.png" style="max-width:100px;" /> space-ship-8.png<br>
 
-![station-0.png](station-0.png) station-0.png
+<img src="station-0.png" style="max-width:100px;" /> station-0.png<br>
 
-![station-1.png](station-1.png) station-1.png
+<img src="station-1.png" style="max-width:100px;" /> station-1.png<br>
 
-![station-2.png](station-2.png) station-2.png
+<img src="station-2.png" style="max-width:100px;" /> station-2.png<br>
 
-![station-3.png](station-3.png) station-3.png
+<img src="station-3.png" style="max-width:100px;" /> station-3.png<br>
 
-![station-4.png](station-4.png) station-4.png
+<img src="station-4.png" style="max-width:100px;" /> station-4.png<br>
 

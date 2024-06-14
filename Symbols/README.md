@@ -1,272 +1,272 @@
 # Image Previews
 
-![bubble-0.png](BubbleFont/bubble-0.png) bubble-0.png
+<img src="Shapes/ball-outlined-2.png" style="max-width:100px;" /> ball-outlined-2.png<br>
 
-![bubble-1.png](BubbleFont/bubble-1.png) bubble-1.png
+<img src="Shapes/ball-outlined.png" style="max-width:100px;" /> ball-outlined.png<br>
 
-![bubble-2.png](BubbleFont/bubble-2.png) bubble-2.png
+<img src="Shapes/ball-shaded-2.png" style="max-width:100px;" /> ball-shaded-2.png<br>
 
-![bubble-3.png](BubbleFont/bubble-3.png) bubble-3.png
+<img src="Shapes/ball-shaded.png" style="max-width:100px;" /> ball-shaded.png<br>
 
-![bubble-4.png](BubbleFont/bubble-4.png) bubble-4.png
+<img src="BubbleFont/bubble-0.png" style="max-width:100px;" /> bubble-0.png<br>
 
-![bubble-5.png](BubbleFont/bubble-5.png) bubble-5.png
+<img src="BubbleFont/bubble-1.png" style="max-width:100px;" /> bubble-1.png<br>
 
-![bubble-6.png](BubbleFont/bubble-6.png) bubble-6.png
+<img src="BubbleFont/bubble-2.png" style="max-width:100px;" /> bubble-2.png<br>
 
-![bubble-7.png](BubbleFont/bubble-7.png) bubble-7.png
+<img src="BubbleFont/bubble-3.png" style="max-width:100px;" /> bubble-3.png<br>
 
-![bubble-8.png](BubbleFont/bubble-8.png) bubble-8.png
+<img src="BubbleFont/bubble-4.png" style="max-width:100px;" /> bubble-4.png<br>
 
-![bubble-9.png](BubbleFont/bubble-9.png) bubble-9.png
+<img src="BubbleFont/bubble-5.png" style="max-width:100px;" /> bubble-5.png<br>
 
-![bubble-colon.png](BubbleFont/bubble-colon.png) bubble-colon.png
+<img src="BubbleFont/bubble-6.png" style="max-width:100px;" /> bubble-6.png<br>
 
-![bubble-decimal.png](BubbleFont/bubble-decimal.png) bubble-decimal.png
+<img src="BubbleFont/bubble-7.png" style="max-width:100px;" /> bubble-7.png<br>
 
-![bubble-dollar.png](BubbleFont/bubble-dollar.png) bubble-dollar.png
+<img src="BubbleFont/bubble-8.png" style="max-width:100px;" /> bubble-8.png<br>
 
-![bubble-percent.png](BubbleFont/bubble-percent.png) bubble-percent.png
+<img src="BubbleFont/bubble-9.png" style="max-width:100px;" /> bubble-9.png<br>
 
-![bubble-plus.png](BubbleFont/bubble-plus.png) bubble-plus.png
+<img src="BubbleFont/bubble-colon.png" style="max-width:100px;" /> bubble-colon.png<br>
 
-![key-0-b.png](ClickableIcons/key-0-b.png) key-0-b.png
+<img src="BubbleFont/bubble-decimal.png" style="max-width:100px;" /> bubble-decimal.png<br>
 
-![key-0.png](ClickableIcons/key-0.png) key-0.png
+<img src="BubbleFont/bubble-dollar.png" style="max-width:100px;" /> bubble-dollar.png<br>
 
-![key-1-b.png](ClickableIcons/key-1-b.png) key-1-b.png
+<img src="BubbleFont/bubble-percent.png" style="max-width:100px;" /> bubble-percent.png<br>
 
-![key-1.png](ClickableIcons/key-1.png) key-1.png
+<img src="BubbleFont/bubble-plus.png" style="max-width:100px;" /> bubble-plus.png<br>
 
-![key-2-b.png](ClickableIcons/key-2-b.png) key-2-b.png
+<img src="MediaControls/control-back.png" style="max-width:100px;" /> control-back.png<br>
 
-![key-2.png](ClickableIcons/key-2.png) key-2.png
+<img src="MediaControls/control-config.png" style="max-width:100px;" /> control-config.png<br>
 
-![key-3-b.png](ClickableIcons/key-3-b.png) key-3-b.png
+<img src="MediaControls/control-forward.png" style="max-width:100px;" /> control-forward.png<br>
 
-![key-3.png](ClickableIcons/key-3.png) key-3.png
+<img src="MediaControls/control-home.png" style="max-width:100px;" /> control-home.png<br>
 
-![key-4-b.png](ClickableIcons/key-4-b.png) key-4-b.png
+<img src="MediaControls/control-music-off.png" style="max-width:100px;" /> control-music-off.png<br>
 
-![key-4.png](ClickableIcons/key-4.png) key-4.png
+<img src="MediaControls/control-music-on.png" style="max-width:100px;" /> control-music-on.png<br>
 
-![key-5-b.png](ClickableIcons/key-5-b.png) key-5-b.png
+<img src="MediaControls/control-pause.png" style="max-width:100px;" /> control-pause.png<br>
 
-![key-5.png](ClickableIcons/key-5.png) key-5.png
+<img src="MediaControls/control-play.png" style="max-width:100px;" /> control-play.png<br>
 
-![key-6-b.png](ClickableIcons/key-6-b.png) key-6-b.png
+<img src="MediaControls/control-restart.png" style="max-width:100px;" /> control-restart.png<br>
 
-![key-6.png](ClickableIcons/key-6.png) key-6.png
+<img src="MediaControls/control-sound-off.png" style="max-width:100px;" /> control-sound-off.png<br>
 
-![key-7-b.png](ClickableIcons/key-7-b.png) key-7-b.png
+<img src="MediaControls/control-sound-on.png" style="max-width:100px;" /> control-sound-on.png<br>
 
-![key-7.png](ClickableIcons/key-7.png) key-7.png
+<img src="ClickableIcons/key-0-b.png" style="max-width:100px;" /> key-0-b.png<br>
 
-![key-8-b.png](ClickableIcons/key-8-b.png) key-8-b.png
+<img src="ClickableIcons/key-0.png" style="max-width:100px;" /> key-0.png<br>
 
-![key-8.png](ClickableIcons/key-8.png) key-8.png
+<img src="ClickableIcons/key-1-b.png" style="max-width:100px;" /> key-1-b.png<br>
 
-![key-9-b.png](ClickableIcons/key-9-b.png) key-9-b.png
+<img src="ClickableIcons/key-1.png" style="max-width:100px;" /> key-1.png<br>
 
-![key-9.png](ClickableIcons/key-9.png) key-9.png
+<img src="ClickableIcons/key-2-b.png" style="max-width:100px;" /> key-2-b.png<br>
 
-![key-a-b.png](ClickableIcons/key-a-b.png) key-a-b.png
+<img src="ClickableIcons/key-2.png" style="max-width:100px;" /> key-2.png<br>
 
-![key-a.png](ClickableIcons/key-a.png) key-a.png
+<img src="ClickableIcons/key-3-b.png" style="max-width:100px;" /> key-3-b.png<br>
 
-![key-b-b.png](ClickableIcons/key-b-b.png) key-b-b.png
+<img src="ClickableIcons/key-3.png" style="max-width:100px;" /> key-3.png<br>
 
-![key-b.png](ClickableIcons/key-b.png) key-b.png
+<img src="ClickableIcons/key-4-b.png" style="max-width:100px;" /> key-4-b.png<br>
 
-![key-c-b.png](ClickableIcons/key-c-b.png) key-c-b.png
+<img src="ClickableIcons/key-4.png" style="max-width:100px;" /> key-4.png<br>
 
-![key-c.png](ClickableIcons/key-c.png) key-c.png
+<img src="ClickableIcons/key-5-b.png" style="max-width:100px;" /> key-5-b.png<br>
 
-![key-d-b.png](ClickableIcons/key-d-b.png) key-d-b.png
+<img src="ClickableIcons/key-5.png" style="max-width:100px;" /> key-5.png<br>
 
-![key-d.png](ClickableIcons/key-d.png) key-d.png
+<img src="ClickableIcons/key-6-b.png" style="max-width:100px;" /> key-6-b.png<br>
 
-![key-down-b.png](ClickableIcons/key-down-b.png) key-down-b.png
+<img src="ClickableIcons/key-6.png" style="max-width:100px;" /> key-6.png<br>
 
-![key-down.png](ClickableIcons/key-down.png) key-down.png
+<img src="ClickableIcons/key-7-b.png" style="max-width:100px;" /> key-7-b.png<br>
 
-![key-e-b.png](ClickableIcons/key-e-b.png) key-e-b.png
+<img src="ClickableIcons/key-7.png" style="max-width:100px;" /> key-7.png<br>
 
-![key-e.png](ClickableIcons/key-e.png) key-e.png
+<img src="ClickableIcons/key-8-b.png" style="max-width:100px;" /> key-8-b.png<br>
 
-![key-enter-b.png](ClickableIcons/key-enter-b.png) key-enter-b.png
+<img src="ClickableIcons/key-8.png" style="max-width:100px;" /> key-8.png<br>
 
-![key-enter.png](ClickableIcons/key-enter.png) key-enter.png
+<img src="ClickableIcons/key-9-b.png" style="max-width:100px;" /> key-9-b.png<br>
 
-![key-escape-b.png](ClickableIcons/key-escape-b.png) key-escape-b.png
+<img src="ClickableIcons/key-9.png" style="max-width:100px;" /> key-9.png<br>
 
-![key-escape.png](ClickableIcons/key-escape.png) key-escape.png
+<img src="ClickableIcons/key-a-b.png" style="max-width:100px;" /> key-a-b.png<br>
 
-![key-f-b.png](ClickableIcons/key-f-b.png) key-f-b.png
+<img src="ClickableIcons/key-a.png" style="max-width:100px;" /> key-a.png<br>
 
-![key-f.png](ClickableIcons/key-f.png) key-f.png
+<img src="ClickableIcons/key-b-b.png" style="max-width:100px;" /> key-b-b.png<br>
 
-![key-g-b.png](ClickableIcons/key-g-b.png) key-g-b.png
+<img src="ClickableIcons/key-b.png" style="max-width:100px;" /> key-b.png<br>
 
-![key-g.png](ClickableIcons/key-g.png) key-g.png
+<img src="ClickableIcons/key-c-b.png" style="max-width:100px;" /> key-c-b.png<br>
 
-![key-h-b.png](ClickableIcons/key-h-b.png) key-h-b.png
+<img src="ClickableIcons/key-c.png" style="max-width:100px;" /> key-c.png<br>
 
-![key-h.png](ClickableIcons/key-h.png) key-h.png
+<img src="ClickableIcons/key-d-b.png" style="max-width:100px;" /> key-d-b.png<br>
 
-![key-i-b.png](ClickableIcons/key-i-b.png) key-i-b.png
+<img src="ClickableIcons/key-d.png" style="max-width:100px;" /> key-d.png<br>
 
-![key-i.png](ClickableIcons/key-i.png) key-i.png
+<img src="ClickableIcons/key-down-b.png" style="max-width:100px;" /> key-down-b.png<br>
 
-![key-j-b.png](ClickableIcons/key-j-b.png) key-j-b.png
+<img src="ClickableIcons/key-down.png" style="max-width:100px;" /> key-down.png<br>
 
-![key-j.png](ClickableIcons/key-j.png) key-j.png
+<img src="ClickableIcons/key-e-b.png" style="max-width:100px;" /> key-e-b.png<br>
 
-![key-k-b.png](ClickableIcons/key-k-b.png) key-k-b.png
+<img src="ClickableIcons/key-e.png" style="max-width:100px;" /> key-e.png<br>
 
-![key-k.png](ClickableIcons/key-k.png) key-k.png
+<img src="ClickableIcons/key-enter-b.png" style="max-width:100px;" /> key-enter-b.png<br>
 
-![key-l-b.png](ClickableIcons/key-l-b.png) key-l-b.png
+<img src="ClickableIcons/key-enter.png" style="max-width:100px;" /> key-enter.png<br>
 
-![key-l.png](ClickableIcons/key-l.png) key-l.png
+<img src="ClickableIcons/key-escape-b.png" style="max-width:100px;" /> key-escape-b.png<br>
 
-![key-left-b.png](ClickableIcons/key-left-b.png) key-left-b.png
+<img src="ClickableIcons/key-escape.png" style="max-width:100px;" /> key-escape.png<br>
 
-![key-left.png](ClickableIcons/key-left.png) key-left.png
+<img src="ClickableIcons/key-f-b.png" style="max-width:100px;" /> key-f-b.png<br>
 
-![key-m-b.png](ClickableIcons/key-m-b.png) key-m-b.png
+<img src="ClickableIcons/key-f.png" style="max-width:100px;" /> key-f.png<br>
 
-![key-m.png](ClickableIcons/key-m.png) key-m.png
+<img src="ClickableIcons/key-g-b.png" style="max-width:100px;" /> key-g-b.png<br>
 
-![key-n-b.png](ClickableIcons/key-n-b.png) key-n-b.png
+<img src="ClickableIcons/key-g.png" style="max-width:100px;" /> key-g.png<br>
 
-![key-n.png](ClickableIcons/key-n.png) key-n.png
+<img src="ClickableIcons/key-h-b.png" style="max-width:100px;" /> key-h-b.png<br>
 
-![key-o-b.png](ClickableIcons/key-o-b.png) key-o-b.png
+<img src="ClickableIcons/key-h.png" style="max-width:100px;" /> key-h.png<br>
 
-![key-o.png](ClickableIcons/key-o.png) key-o.png
+<img src="ClickableIcons/key-i-b.png" style="max-width:100px;" /> key-i-b.png<br>
 
-![key-p-b.png](ClickableIcons/key-p-b.png) key-p-b.png
+<img src="ClickableIcons/key-i.png" style="max-width:100px;" /> key-i.png<br>
 
-![key-p.png](ClickableIcons/key-p.png) key-p.png
+<img src="ClickableIcons/key-j-b.png" style="max-width:100px;" /> key-j-b.png<br>
 
-![key-q-b.png](ClickableIcons/key-q-b.png) key-q-b.png
+<img src="ClickableIcons/key-j.png" style="max-width:100px;" /> key-j.png<br>
 
-![key-q.png](ClickableIcons/key-q.png) key-q.png
+<img src="ClickableIcons/key-k-b.png" style="max-width:100px;" /> key-k-b.png<br>
 
-![key-r-b.png](ClickableIcons/key-r-b.png) key-r-b.png
+<img src="ClickableIcons/key-k.png" style="max-width:100px;" /> key-k.png<br>
 
-![key-r.png](ClickableIcons/key-r.png) key-r.png
+<img src="ClickableIcons/key-l-b.png" style="max-width:100px;" /> key-l-b.png<br>
 
-![key-right-b.png](ClickableIcons/key-right-b.png) key-right-b.png
+<img src="ClickableIcons/key-l.png" style="max-width:100px;" /> key-l.png<br>
 
-![key-right.png](ClickableIcons/key-right.png) key-right.png
+<img src="ClickableIcons/key-left-b.png" style="max-width:100px;" /> key-left-b.png<br>
 
-![key-s-b.png](ClickableIcons/key-s-b.png) key-s-b.png
+<img src="ClickableIcons/key-left.png" style="max-width:100px;" /> key-left.png<br>
 
-![key-s.png](ClickableIcons/key-s.png) key-s.png
+<img src="ClickableIcons/key-m-b.png" style="max-width:100px;" /> key-m-b.png<br>
 
-![key-shift-b.png](ClickableIcons/key-shift-b.png) key-shift-b.png
+<img src="ClickableIcons/key-m.png" style="max-width:100px;" /> key-m.png<br>
 
-![key-shift.png](ClickableIcons/key-shift.png) key-shift.png
+<img src="ClickableIcons/key-n-b.png" style="max-width:100px;" /> key-n-b.png<br>
 
-![key-space-b.png](ClickableIcons/key-space-b.png) key-space-b.png
+<img src="ClickableIcons/key-n.png" style="max-width:100px;" /> key-n.png<br>
 
-![key-space.png](ClickableIcons/key-space.png) key-space.png
+<img src="ClickableIcons/key-o-b.png" style="max-width:100px;" /> key-o-b.png<br>
 
-![key-t-b.png](ClickableIcons/key-t-b.png) key-t-b.png
+<img src="ClickableIcons/key-o.png" style="max-width:100px;" /> key-o.png<br>
 
-![key-t.png](ClickableIcons/key-t.png) key-t.png
+<img src="ClickableIcons/key-p-b.png" style="max-width:100px;" /> key-p-b.png<br>
 
-![key-u-b.png](ClickableIcons/key-u-b.png) key-u-b.png
+<img src="ClickableIcons/key-p.png" style="max-width:100px;" /> key-p.png<br>
 
-![key-u.png](ClickableIcons/key-u.png) key-u.png
+<img src="ClickableIcons/key-q-b.png" style="max-width:100px;" /> key-q-b.png<br>
 
-![key-up-b.png](ClickableIcons/key-up-b.png) key-up-b.png
+<img src="ClickableIcons/key-q.png" style="max-width:100px;" /> key-q.png<br>
 
-![key-up.png](ClickableIcons/key-up.png) key-up.png
+<img src="ClickableIcons/key-r-b.png" style="max-width:100px;" /> key-r-b.png<br>
 
-![key-v-b.png](ClickableIcons/key-v-b.png) key-v-b.png
+<img src="ClickableIcons/key-r.png" style="max-width:100px;" /> key-r.png<br>
 
-![key-v.png](ClickableIcons/key-v.png) key-v.png
+<img src="ClickableIcons/key-right-b.png" style="max-width:100px;" /> key-right-b.png<br>
 
-![key-w-b.png](ClickableIcons/key-w-b.png) key-w-b.png
+<img src="ClickableIcons/key-right.png" style="max-width:100px;" /> key-right.png<br>
 
-![key-w.png](ClickableIcons/key-w.png) key-w.png
+<img src="ClickableIcons/key-s-b.png" style="max-width:100px;" /> key-s-b.png<br>
 
-![key-x-b.png](ClickableIcons/key-x-b.png) key-x-b.png
+<img src="ClickableIcons/key-s.png" style="max-width:100px;" /> key-s.png<br>
 
-![key-x.png](ClickableIcons/key-x.png) key-x.png
+<img src="ClickableIcons/key-shift-b.png" style="max-width:100px;" /> key-shift-b.png<br>
 
-![key-y-b.png](ClickableIcons/key-y-b.png) key-y-b.png
+<img src="ClickableIcons/key-shift.png" style="max-width:100px;" /> key-shift.png<br>
 
-![key-y.png](ClickableIcons/key-y.png) key-y.png
+<img src="ClickableIcons/key-space-b.png" style="max-width:100px;" /> key-space-b.png<br>
 
-![key-z-b.png](ClickableIcons/key-z-b.png) key-z-b.png
+<img src="ClickableIcons/key-space.png" style="max-width:100px;" /> key-space.png<br>
 
-![key-z.png](ClickableIcons/key-z.png) key-z.png
+<img src="ClickableIcons/key-t-b.png" style="max-width:100px;" /> key-t-b.png<br>
 
-![mouse-b.png](ClickableIcons/mouse-b.png) mouse-b.png
+<img src="ClickableIcons/key-t.png" style="max-width:100px;" /> key-t.png<br>
 
-![mouse.png](ClickableIcons/mouse.png) mouse.png
+<img src="ClickableIcons/key-u-b.png" style="max-width:100px;" /> key-u-b.png<br>
 
-![control-back.png](MediaControls/control-back.png) control-back.png
+<img src="ClickableIcons/key-u.png" style="max-width:100px;" /> key-u.png<br>
 
-![control-config.png](MediaControls/control-config.png) control-config.png
+<img src="ClickableIcons/key-up-b.png" style="max-width:100px;" /> key-up-b.png<br>
 
-![control-forward.png](MediaControls/control-forward.png) control-forward.png
+<img src="ClickableIcons/key-up.png" style="max-width:100px;" /> key-up.png<br>
 
-![control-home.png](MediaControls/control-home.png) control-home.png
+<img src="ClickableIcons/key-v-b.png" style="max-width:100px;" /> key-v-b.png<br>
 
-![control-music-off.png](MediaControls/control-music-off.png) control-music-off.png
+<img src="ClickableIcons/key-v.png" style="max-width:100px;" /> key-v.png<br>
 
-![control-music-on.png](MediaControls/control-music-on.png) control-music-on.png
+<img src="ClickableIcons/key-w-b.png" style="max-width:100px;" /> key-w-b.png<br>
 
-![control-pause.png](MediaControls/control-pause.png) control-pause.png
+<img src="ClickableIcons/key-w.png" style="max-width:100px;" /> key-w.png<br>
 
-![control-play.png](MediaControls/control-play.png) control-play.png
+<img src="ClickableIcons/key-x-b.png" style="max-width:100px;" /> key-x-b.png<br>
 
-![control-restart.png](MediaControls/control-restart.png) control-restart.png
+<img src="ClickableIcons/key-x.png" style="max-width:100px;" /> key-x.png<br>
 
-![control-sound-off.png](MediaControls/control-sound-off.png) control-sound-off.png
+<img src="ClickableIcons/key-y-b.png" style="max-width:100px;" /> key-y-b.png<br>
 
-![control-sound-on.png](MediaControls/control-sound-on.png) control-sound-on.png
+<img src="ClickableIcons/key-y.png" style="max-width:100px;" /> key-y.png<br>
 
-![ball-outlined-2.png](Shapes/ball-outlined-2.png) ball-outlined-2.png
+<img src="ClickableIcons/key-z-b.png" style="max-width:100px;" /> key-z-b.png<br>
 
-![ball-outlined.png](Shapes/ball-outlined.png) ball-outlined.png
+<img src="ClickableIcons/key-z.png" style="max-width:100px;" /> key-z.png<br>
 
-![ball-shaded-2.png](Shapes/ball-shaded-2.png) ball-shaded-2.png
+<img src="ClickableIcons/mouse-b.png" style="max-width:100px;" /> mouse-b.png<br>
 
-![ball-shaded.png](Shapes/ball-shaded.png) ball-shaded.png
+<img src="ClickableIcons/mouse.png" style="max-width:100px;" /> mouse.png<br>
 
-![rect-button-pressed.png](Shapes/rect-button-pressed.png) rect-button-pressed.png
+<img src="Shapes/rect-button-pressed.png" style="max-width:100px;" /> rect-button-pressed.png<br>
 
-![rect-button.png](Shapes/rect-button.png) rect-button.png
+<img src="Shapes/rect-button.png" style="max-width:100px;" /> rect-button.png<br>
 
-![round-button-pressed.png](Shapes/round-button-pressed.png) round-button-pressed.png
+<img src="Shapes/round-button-pressed.png" style="max-width:100px;" /> round-button-pressed.png<br>
 
-![round-button.png](Shapes/round-button.png) round-button.png
+<img src="Shapes/round-button.png" style="max-width:100px;" /> round-button.png<br>
 
-![tile-shaded-0.png](Shapes/tile-shaded-0.png) tile-shaded-0.png
+<img src="SpeechBubbles/speech-bubble-1.png" style="max-width:100px;" /> speech-bubble-1.png<br>
 
-![tile-shaded-1.png](Shapes/tile-shaded-1.png) tile-shaded-1.png
+<img src="SpeechBubbles/speech-bubble-2.png" style="max-width:100px;" /> speech-bubble-2.png<br>
 
-![speech-bubble-1.png](SpeechBubbles/speech-bubble-1.png) speech-bubble-1.png
+<img src="SpeechBubbles/speech-bubble-3.png" style="max-width:100px;" /> speech-bubble-3.png<br>
 
-![speech-bubble-2.png](SpeechBubbles/speech-bubble-2.png) speech-bubble-2.png
+<img src="SpeechBubbles/speech-bubble-4.png" style="max-width:100px;" /> speech-bubble-4.png<br>
 
-![speech-bubble-3.png](SpeechBubbles/speech-bubble-3.png) speech-bubble-3.png
+<img src="SpeechBubbles/speech-bubble-5.png" style="max-width:100px;" /> speech-bubble-5.png<br>
 
-![speech-bubble-4.png](SpeechBubbles/speech-bubble-4.png) speech-bubble-4.png
+<img src="SpeechBubbles/speech-bubble-6.png" style="max-width:100px;" /> speech-bubble-6.png<br>
 
-![speech-bubble-5.png](SpeechBubbles/speech-bubble-5.png) speech-bubble-5.png
+<img src="SpeechBubbles/speech-bubble-7.png" style="max-width:100px;" /> speech-bubble-7.png<br>
 
-![speech-bubble-6.png](SpeechBubbles/speech-bubble-6.png) speech-bubble-6.png
+<img src="SpeechBubbles/speech-bubble-8.png" style="max-width:100px;" /> speech-bubble-8.png<br>
 
-![speech-bubble-7.png](SpeechBubbles/speech-bubble-7.png) speech-bubble-7.png
+<img src="SpeechBubbles/speech-bubble-9.png" style="max-width:100px;" /> speech-bubble-9.png<br>
 
-![speech-bubble-8.png](SpeechBubbles/speech-bubble-8.png) speech-bubble-8.png
+<img src="Shapes/tile-shaded-0.png" style="max-width:100px;" /> tile-shaded-0.png<br>
 
-![speech-bubble-9.png](SpeechBubbles/speech-bubble-9.png) speech-bubble-9.png
+<img src="Shapes/tile-shaded-1.png" style="max-width:100px;" /> tile-shaded-1.png<br>
 

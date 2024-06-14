@@ -1,58 +1,58 @@
 # Image Previews
 
-![robot-attack-0.png](robot-attack-0.png) robot-attack-0.png
+<img src="robot-attack-0.png" style="max-width:100px;" /> robot-attack-0.png<br>
 
-![robot-attack-1.png](robot-attack-1.png) robot-attack-1.png
+<img src="robot-attack-1.png" style="max-width:100px;" /> robot-attack-1.png<br>
 
-![robot-attack-2.png](robot-attack-2.png) robot-attack-2.png
+<img src="robot-attack-2.png" style="max-width:100px;" /> robot-attack-2.png<br>
 
-![robot-back.png](robot-back.png) robot-back.png
+<img src="robot-back.png" style="max-width:100px;" /> robot-back.png<br>
 
-![robot-cheer-0.png](robot-cheer-0.png) robot-cheer-0.png
+<img src="robot-cheer-0.png" style="max-width:100px;" /> robot-cheer-0.png<br>
 
-![robot-cheer-1.png](robot-cheer-1.png) robot-cheer-1.png
+<img src="robot-cheer-1.png" style="max-width:100px;" /> robot-cheer-1.png<br>
 
-![robot-climb-0.png](robot-climb-0.png) robot-climb-0.png
+<img src="robot-climb-0.png" style="max-width:100px;" /> robot-climb-0.png<br>
 
-![robot-climb-1.png](robot-climb-1.png) robot-climb-1.png
+<img src="robot-climb-1.png" style="max-width:100px;" /> robot-climb-1.png<br>
 
-![robot-down.png](robot-down.png) robot-down.png
+<img src="robot-down.png" style="max-width:100px;" /> robot-down.png<br>
 
-![robot-duck.png](robot-duck.png) robot-duck.png
+<img src="robot-duck.png" style="max-width:100px;" /> robot-duck.png<br>
 
-![robot-fall.png](robot-fall.png) robot-fall.png
+<img src="robot-fall.png" style="max-width:100px;" /> robot-fall.png<br>
 
-![robot-hit.png](robot-hit.png) robot-hit.png
+<img src="robot-hit.png" style="max-width:100px;" /> robot-hit.png<br>
 
-![robot-idle.png](robot-idle.png) robot-idle.png
+<img src="robot-idle.png" style="max-width:100px;" /> robot-idle.png<br>
 
-![robot-interact.png](robot-interact.png) robot-interact.png
+<img src="robot-interact.png" style="max-width:100px;" /> robot-interact.png<br>
 
-![robot-jump.png](robot-jump.png) robot-jump.png
+<img src="robot-jump.png" style="max-width:100px;" /> robot-jump.png<br>
 
-![robot-rope.png](robot-rope.png) robot-rope.png
+<img src="robot-rope.png" style="max-width:100px;" /> robot-rope.png<br>
 
-![robot-run-0.png](robot-run-0.png) robot-run-0.png
+<img src="robot-run-0.png" style="max-width:100px;" /> robot-run-0.png<br>
 
-![robot-run-1.png](robot-run-1.png) robot-run-1.png
+<img src="robot-run-1.png" style="max-width:100px;" /> robot-run-1.png<br>
 
-![robot-run-2.png](robot-run-2.png) robot-run-2.png
+<img src="robot-run-2.png" style="max-width:100px;" /> robot-run-2.png<br>
 
-![robot-slide.png](robot-slide.png) robot-slide.png
+<img src="robot-slide.png" style="max-width:100px;" /> robot-slide.png<br>
 
-![robot-walk-0.png](robot-walk-0.png) robot-walk-0.png
+<img src="robot-walk-0.png" style="max-width:100px;" /> robot-walk-0.png<br>
 
-![robot-walk-1.png](robot-walk-1.png) robot-walk-1.png
+<img src="robot-walk-1.png" style="max-width:100px;" /> robot-walk-1.png<br>
 
-![robot-walk-2.png](robot-walk-2.png) robot-walk-2.png
+<img src="robot-walk-2.png" style="max-width:100px;" /> robot-walk-2.png<br>
 
-![robot-walk-3.png](robot-walk-3.png) robot-walk-3.png
+<img src="robot-walk-3.png" style="max-width:100px;" /> robot-walk-3.png<br>
 
-![robot-walk-4.png](robot-walk-4.png) robot-walk-4.png
+<img src="robot-walk-4.png" style="max-width:100px;" /> robot-walk-4.png<br>
 
-![robot-walk-5.png](robot-walk-5.png) robot-walk-5.png
+<img src="robot-walk-5.png" style="max-width:100px;" /> robot-walk-5.png<br>
 
-![robot-walk-6.png](robot-walk-6.png) robot-walk-6.png
+<img src="robot-walk-6.png" style="max-width:100px;" /> robot-walk-6.png<br>
 
-![robot-walk-7.png](robot-walk-7.png) robot-walk-7.png
+<img src="robot-walk-7.png" style="max-width:100px;" /> robot-walk-7.png<br>
 

@@ -1,110 +1,110 @@
 # Image Previews
 
-![car-0.png](Cars/car-0.png) car-0.png
+<img src="PirateShips/cannon-ball.png" style="max-width:100px;" /> cannon-ball.png<br>
 
-![car-1.png](Cars/car-1.png) car-1.png
+<img src="PirateShips/cannon.png" style="max-width:100px;" /> cannon.png<br>
 
-![car-2.png](Cars/car-2.png) car-2.png
+<img src="Cars/car-0.png" style="max-width:100px;" /> car-0.png<br>
 
-![motorcycle.png](Cars/motorcycle.png) motorcycle.png
+<img src="Cars/car-1.png" style="max-width:100px;" /> car-1.png<br>
 
-![cannon-ball.png](PirateShips/cannon-ball.png) cannon-ball.png
+<img src="Cars/car-2.png" style="max-width:100px;" /> car-2.png<br>
 
-![cannon.png](PirateShips/cannon.png) cannon.png
+<img src="PirateShips/lifeboat-1.png" style="max-width:100px;" /> lifeboat-1.png<br>
 
-![lifeboat-1.png](PirateShips/lifeboat-1.png) lifeboat-1.png
+<img src="PirateShips/lifeboat-2.png" style="max-width:100px;" /> lifeboat-2.png<br>
 
-![lifeboat-2.png](PirateShips/lifeboat-2.png) lifeboat-2.png
+<img src="PirateShips/lifeboat-3.png" style="max-width:100px;" /> lifeboat-3.png<br>
 
-![lifeboat-3.png](PirateShips/lifeboat-3.png) lifeboat-3.png
+<img src="Cars/motorcycle.png" style="max-width:100px;" /> motorcycle.png<br>
 
-![ship-0-1.png](PirateShips/ship-0-1.png) ship-0-1.png
+<img src="Planes/plane-0.png" style="max-width:100px;" /> plane-0.png<br>
 
-![ship-0-2.png](PirateShips/ship-0-2.png) ship-0-2.png
+<img src="Planes/plane-1.png" style="max-width:100px;" /> plane-1.png<br>
 
-![ship-0-3.png](PirateShips/ship-0-3.png) ship-0-3.png
+<img src="Planes/plane-2.png" style="max-width:100px;" /> plane-2.png<br>
 
-![ship-0-4.png](PirateShips/ship-0-4.png) ship-0-4.png
+<img src="Space/rocket.png" style="max-width:100px;" /> rocket.png<br>
 
-![ship-1-1.png](PirateShips/ship-1-1.png) ship-1-1.png
+<img src="PirateShips/ship-0-1.png" style="max-width:100px;" /> ship-0-1.png<br>
 
-![ship-1-2.png](PirateShips/ship-1-2.png) ship-1-2.png
+<img src="PirateShips/ship-0-2.png" style="max-width:100px;" /> ship-0-2.png<br>
 
-![ship-1-3.png](PirateShips/ship-1-3.png) ship-1-3.png
+<img src="PirateShips/ship-0-3.png" style="max-width:100px;" /> ship-0-3.png<br>
 
-![ship-1-4.png](PirateShips/ship-1-4.png) ship-1-4.png
+<img src="PirateShips/ship-0-4.png" style="max-width:100px;" /> ship-0-4.png<br>
 
-![ship-2-1.png](PirateShips/ship-2-1.png) ship-2-1.png
+<img src="PirateShips/ship-1-1.png" style="max-width:100px;" /> ship-1-1.png<br>
 
-![ship-2-2.png](PirateShips/ship-2-2.png) ship-2-2.png
+<img src="PirateShips/ship-1-2.png" style="max-width:100px;" /> ship-1-2.png<br>
 
-![ship-2-3.png](PirateShips/ship-2-3.png) ship-2-3.png
+<img src="PirateShips/ship-1-3.png" style="max-width:100px;" /> ship-1-3.png<br>
 
-![ship-2-4.png](PirateShips/ship-2-4.png) ship-2-4.png
+<img src="PirateShips/ship-1-4.png" style="max-width:100px;" /> ship-1-4.png<br>
 
-![ship-3-1.png](PirateShips/ship-3-1.png) ship-3-1.png
+<img src="PirateShips/ship-2-1.png" style="max-width:100px;" /> ship-2-1.png<br>
 
-![ship-3-2.png](PirateShips/ship-3-2.png) ship-3-2.png
+<img src="PirateShips/ship-2-2.png" style="max-width:100px;" /> ship-2-2.png<br>
 
-![ship-3-3.png](PirateShips/ship-3-3.png) ship-3-3.png
+<img src="PirateShips/ship-2-3.png" style="max-width:100px;" /> ship-2-3.png<br>
 
-![ship-3-4.png](PirateShips/ship-3-4.png) ship-3-4.png
+<img src="PirateShips/ship-2-4.png" style="max-width:100px;" /> ship-2-4.png<br>
 
-![ship-4-1.png](PirateShips/ship-4-1.png) ship-4-1.png
+<img src="PirateShips/ship-3-1.png" style="max-width:100px;" /> ship-3-1.png<br>
 
-![ship-4-2.png](PirateShips/ship-4-2.png) ship-4-2.png
+<img src="PirateShips/ship-3-2.png" style="max-width:100px;" /> ship-3-2.png<br>
 
-![ship-4-3.png](PirateShips/ship-4-3.png) ship-4-3.png
+<img src="PirateShips/ship-3-3.png" style="max-width:100px;" /> ship-3-3.png<br>
 
-![ship-4-4.png](PirateShips/ship-4-4.png) ship-4-4.png
+<img src="PirateShips/ship-3-4.png" style="max-width:100px;" /> ship-3-4.png<br>
 
-![ship-5-1.png](PirateShips/ship-5-1.png) ship-5-1.png
+<img src="PirateShips/ship-4-1.png" style="max-width:100px;" /> ship-4-1.png<br>
 
-![ship-5-2.png](PirateShips/ship-5-2.png) ship-5-2.png
+<img src="PirateShips/ship-4-2.png" style="max-width:100px;" /> ship-4-2.png<br>
 
-![ship-5-3.png](PirateShips/ship-5-3.png) ship-5-3.png
+<img src="PirateShips/ship-4-3.png" style="max-width:100px;" /> ship-4-3.png<br>
 
-![ship-5-4.png](PirateShips/ship-5-4.png) ship-5-4.png
+<img src="PirateShips/ship-4-4.png" style="max-width:100px;" /> ship-4-4.png<br>
 
-![plane-0.png](Planes/plane-0.png) plane-0.png
+<img src="PirateShips/ship-5-1.png" style="max-width:100px;" /> ship-5-1.png<br>
 
-![plane-1.png](Planes/plane-1.png) plane-1.png
+<img src="PirateShips/ship-5-2.png" style="max-width:100px;" /> ship-5-2.png<br>
 
-![plane-2.png](Planes/plane-2.png) plane-2.png
+<img src="PirateShips/ship-5-3.png" style="max-width:100px;" /> ship-5-3.png<br>
 
-![rocket.png](Space/rocket.png) rocket.png
+<img src="PirateShips/ship-5-4.png" style="max-width:100px;" /> ship-5-4.png<br>
 
-![space-rocket-0.png](Space/space-rocket-0.png) space-rocket-0.png
+<img src="Space/space-rocket-0.png" style="max-width:100px;" /> space-rocket-0.png<br>
 
-![space-rocket-1.png](Space/space-rocket-1.png) space-rocket-1.png
+<img src="Space/space-rocket-1.png" style="max-width:100px;" /> space-rocket-1.png<br>
 
-![space-rocket-2.png](Space/space-rocket-2.png) space-rocket-2.png
+<img src="Space/space-rocket-2.png" style="max-width:100px;" /> space-rocket-2.png<br>
 
-![space-ship-0.png](Space/space-ship-0.png) space-ship-0.png
+<img src="Space/space-ship-0.png" style="max-width:100px;" /> space-ship-0.png<br>
 
-![space-ship-1.png](Space/space-ship-1.png) space-ship-1.png
+<img src="Space/space-ship-1.png" style="max-width:100px;" /> space-ship-1.png<br>
 
-![space-ship-2.png](Space/space-ship-2.png) space-ship-2.png
+<img src="Space/space-ship-2.png" style="max-width:100px;" /> space-ship-2.png<br>
 
-![space-ship-3.png](Space/space-ship-3.png) space-ship-3.png
+<img src="Space/space-ship-3.png" style="max-width:100px;" /> space-ship-3.png<br>
 
-![space-ship-4.png](Space/space-ship-4.png) space-ship-4.png
+<img src="Space/space-ship-4.png" style="max-width:100px;" /> space-ship-4.png<br>
 
-![space-ship-5.png](Space/space-ship-5.png) space-ship-5.png
+<img src="Space/space-ship-5.png" style="max-width:100px;" /> space-ship-5.png<br>
 
-![space-ship-6.png](Space/space-ship-6.png) space-ship-6.png
+<img src="Space/space-ship-6.png" style="max-width:100px;" /> space-ship-6.png<br>
 
-![space-ship-7.png](Space/space-ship-7.png) space-ship-7.png
+<img src="Space/space-ship-7.png" style="max-width:100px;" /> space-ship-7.png<br>
 
-![space-ship-8.png](Space/space-ship-8.png) space-ship-8.png
+<img src="Space/space-ship-8.png" style="max-width:100px;" /> space-ship-8.png<br>
 
-![station-0.png](Space/station-0.png) station-0.png
+<img src="Space/station-0.png" style="max-width:100px;" /> station-0.png<br>
 
-![station-1.png](Space/station-1.png) station-1.png
+<img src="Space/station-1.png" style="max-width:100px;" /> station-1.png<br>
 
-![station-2.png](Space/station-2.png) station-2.png
+<img src="Space/station-2.png" style="max-width:100px;" /> station-2.png<br>
 
-![station-3.png](Space/station-3.png) station-3.png
+<img src="Space/station-3.png" style="max-width:100px;" /> station-3.png<br>
 
-![station-4.png](Space/station-4.png) station-4.png
+<img src="Space/station-4.png" style="max-width:100px;" /> station-4.png<br>
 

@@ -1,24 +1,24 @@
 # Image Previews
 
-![control-back.png](control-back.png) control-back.png
+<img src="control-back.png" style="max-width:100px;" /> control-back.png<br>
 
-![control-config.png](control-config.png) control-config.png
+<img src="control-config.png" style="max-width:100px;" /> control-config.png<br>
 
-![control-forward.png](control-forward.png) control-forward.png
+<img src="control-forward.png" style="max-width:100px;" /> control-forward.png<br>
 
-![control-home.png](control-home.png) control-home.png
+<img src="control-home.png" style="max-width:100px;" /> control-home.png<br>
 
-![control-music-off.png](control-music-off.png) control-music-off.png
+<img src="control-music-off.png" style="max-width:100px;" /> control-music-off.png<br>
 
-![control-music-on.png](control-music-on.png) control-music-on.png
+<img src="control-music-on.png" style="max-width:100px;" /> control-music-on.png<br>
 
-![control-pause.png](control-pause.png) control-pause.png
+<img src="control-pause.png" style="max-width:100px;" /> control-pause.png<br>
 
-![control-play.png](control-play.png) control-play.png
+<img src="control-play.png" style="max-width:100px;" /> control-play.png<br>
 
-![control-restart.png](control-restart.png) control-restart.png
+<img src="control-restart.png" style="max-width:100px;" /> control-restart.png<br>
 
-![control-sound-off.png](control-sound-off.png) control-sound-off.png
+<img src="control-sound-off.png" style="max-width:100px;" /> control-sound-off.png<br>
 
-![control-sound-on.png](control-sound-on.png) control-sound-on.png
+<img src="control-sound-on.png" style="max-width:100px;" /> control-sound-on.png<br>
 

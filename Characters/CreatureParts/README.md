@@ -1,128 +1,128 @@
 # Image Previews
 
-![antenna-a.png](antenna-a.png) antenna-a.png
+<img src="antenna-a.png" style="max-width:100px;" /> antenna-a.png<br>
 
-![antenna-b.png](antenna-b.png) antenna-b.png
+<img src="antenna-b.png" style="max-width:100px;" /> antenna-b.png<br>
 
-![antenna-c.png](antenna-c.png) antenna-c.png
+<img src="antenna-c.png" style="max-width:100px;" /> antenna-c.png<br>
 
-![arm-a.png](arm-a.png) arm-a.png
+<img src="arm-a.png" style="max-width:100px;" /> arm-a.png<br>
 
-![arm-b.png](arm-b.png) arm-b.png
+<img src="arm-b.png" style="max-width:100px;" /> arm-b.png<br>
 
-![arm-c.png](arm-c.png) arm-c.png
+<img src="arm-c.png" style="max-width:100px;" /> arm-c.png<br>
 
-![arm-d.png](arm-d.png) arm-d.png
+<img src="arm-d.png" style="max-width:100px;" /> arm-d.png<br>
 
-![arm-e.png](arm-e.png) arm-e.png
+<img src="arm-e.png" style="max-width:100px;" /> arm-e.png<br>
 
-![body-a.png](body-a.png) body-a.png
+<img src="body-a.png" style="max-width:100px;" /> body-a.png<br>
 
-![body-b.png](body-b.png) body-b.png
+<img src="body-b.png" style="max-width:100px;" /> body-b.png<br>
 
-![body-c.png](body-c.png) body-c.png
+<img src="body-c.png" style="max-width:100px;" /> body-c.png<br>
 
-![body-d.png](body-d.png) body-d.png
+<img src="body-d.png" style="max-width:100px;" /> body-d.png<br>
 
-![body-e.png](body-e.png) body-e.png
+<img src="body-e.png" style="max-width:100px;" /> body-e.png<br>
 
-![body-f.png](body-f.png) body-f.png
+<img src="body-f.png" style="max-width:100px;" /> body-f.png<br>
 
-![brow-a.png](brow-a.png) brow-a.png
+<img src="brow-a.png" style="max-width:100px;" /> brow-a.png<br>
 
-![brow-b.png](brow-b.png) brow-b.png
+<img src="brow-b.png" style="max-width:100px;" /> brow-b.png<br>
 
-![brow-c.png](brow-c.png) brow-c.png
+<img src="brow-c.png" style="max-width:100px;" /> brow-c.png<br>
 
-![drop-a.png](drop-a.png) drop-a.png
+<img src="drop-a.png" style="max-width:100px;" /> drop-a.png<br>
 
-![drop-b.png](drop-b.png) drop-b.png
+<img src="drop-b.png" style="max-width:100px;" /> drop-b.png<br>
 
-![ear-a.png](ear-a.png) ear-a.png
+<img src="ear-a.png" style="max-width:100px;" /> ear-a.png<br>
 
-![ear-b.png](ear-b.png) ear-b.png
+<img src="ear-b.png" style="max-width:100px;" /> ear-b.png<br>
 
-![eye-a.png](eye-a.png) eye-a.png
+<img src="eye-a.png" style="max-width:100px;" /> eye-a.png<br>
 
-![eye-b.png](eye-b.png) eye-b.png
+<img src="eye-b.png" style="max-width:100px;" /> eye-b.png<br>
 
-![eye-c.png](eye-c.png) eye-c.png
+<img src="eye-c.png" style="max-width:100px;" /> eye-c.png<br>
 
-![eye-d.png](eye-d.png) eye-d.png
+<img src="eye-d.png" style="max-width:100px;" /> eye-d.png<br>
 
-![eye-e.png](eye-e.png) eye-e.png
+<img src="eye-e.png" style="max-width:100px;" /> eye-e.png<br>
 
-![eye-f.png](eye-f.png) eye-f.png
+<img src="eye-f.png" style="max-width:100px;" /> eye-f.png<br>
 
-![eye-g.png](eye-g.png) eye-g.png
+<img src="eye-g.png" style="max-width:100px;" /> eye-g.png<br>
 
-![eye-h.png](eye-h.png) eye-h.png
+<img src="eye-h.png" style="max-width:100px;" /> eye-h.png<br>
 
-![eye-i.png](eye-i.png) eye-i.png
+<img src="eye-i.png" style="max-width:100px;" /> eye-i.png<br>
 
-![eye-j.png](eye-j.png) eye-j.png
+<img src="eye-j.png" style="max-width:100px;" /> eye-j.png<br>
 
-![eye-k.png](eye-k.png) eye-k.png
+<img src="eye-k.png" style="max-width:100px;" /> eye-k.png<br>
 
-![eye-l.png](eye-l.png) eye-l.png
+<img src="eye-l.png" style="max-width:100px;" /> eye-l.png<br>
 
-![eye-m.png](eye-m.png) eye-m.png
+<img src="eye-m.png" style="max-width:100px;" /> eye-m.png<br>
 
-![eye-n.png](eye-n.png) eye-n.png
+<img src="eye-n.png" style="max-width:100px;" /> eye-n.png<br>
 
-![eye-o.png](eye-o.png) eye-o.png
+<img src="eye-o.png" style="max-width:100px;" /> eye-o.png<br>
 
-![eye-p.png](eye-p.png) eye-p.png
+<img src="eye-p.png" style="max-width:100px;" /> eye-p.png<br>
 
-![eye-q.png](eye-q.png) eye-q.png
+<img src="eye-q.png" style="max-width:100px;" /> eye-q.png<br>
 
-![horn-a.png](horn-a.png) horn-a.png
+<img src="horn-a.png" style="max-width:100px;" /> horn-a.png<br>
 
-![horn-b.png](horn-b.png) horn-b.png
+<img src="horn-b.png" style="max-width:100px;" /> horn-b.png<br>
 
-![leg-a.png](leg-a.png) leg-a.png
+<img src="leg-a.png" style="max-width:100px;" /> leg-a.png<br>
 
-![leg-b.png](leg-b.png) leg-b.png
+<img src="leg-b.png" style="max-width:100px;" /> leg-b.png<br>
 
-![leg-c.png](leg-c.png) leg-c.png
+<img src="leg-c.png" style="max-width:100px;" /> leg-c.png<br>
 
-![leg-d.png](leg-d.png) leg-d.png
+<img src="leg-d.png" style="max-width:100px;" /> leg-d.png<br>
 
-![leg-e.png](leg-e.png) leg-e.png
+<img src="leg-e.png" style="max-width:100px;" /> leg-e.png<br>
 
-![mouth-a.png](mouth-a.png) mouth-a.png
+<img src="mouth-a.png" style="max-width:100px;" /> mouth-a.png<br>
 
-![mouth-b.png](mouth-b.png) mouth-b.png
+<img src="mouth-b.png" style="max-width:100px;" /> mouth-b.png<br>
 
-![mouth-c.png](mouth-c.png) mouth-c.png
+<img src="mouth-c.png" style="max-width:100px;" /> mouth-c.png<br>
 
-![mouth-d.png](mouth-d.png) mouth-d.png
+<img src="mouth-d.png" style="max-width:100px;" /> mouth-d.png<br>
 
-![mouth-e.png](mouth-e.png) mouth-e.png
+<img src="mouth-e.png" style="max-width:100px;" /> mouth-e.png<br>
 
-![mouth-f.png](mouth-f.png) mouth-f.png
+<img src="mouth-f.png" style="max-width:100px;" /> mouth-f.png<br>
 
-![mouth-g.png](mouth-g.png) mouth-g.png
+<img src="mouth-g.png" style="max-width:100px;" /> mouth-g.png<br>
 
-![mouth-h.png](mouth-h.png) mouth-h.png
+<img src="mouth-h.png" style="max-width:100px;" /> mouth-h.png<br>
 
-![mouth-i.png](mouth-i.png) mouth-i.png
+<img src="mouth-i.png" style="max-width:100px;" /> mouth-i.png<br>
 
-![mouth-j.png](mouth-j.png) mouth-j.png
+<img src="mouth-j.png" style="max-width:100px;" /> mouth-j.png<br>
 
-![mouth-k.png](mouth-k.png) mouth-k.png
+<img src="mouth-k.png" style="max-width:100px;" /> mouth-k.png<br>
 
-![mouth-l.png](mouth-l.png) mouth-l.png
+<img src="mouth-l.png" style="max-width:100px;" /> mouth-l.png<br>
 
-![mouth-m.png](mouth-m.png) mouth-m.png
+<img src="mouth-m.png" style="max-width:100px;" /> mouth-m.png<br>
 
-![mouth-n.png](mouth-n.png) mouth-n.png
+<img src="mouth-n.png" style="max-width:100px;" /> mouth-n.png<br>
 
-![nose-a.png](nose-a.png) nose-a.png
+<img src="nose-a.png" style="max-width:100px;" /> nose-a.png<br>
 
-![nose-b.png](nose-b.png) nose-b.png
+<img src="nose-b.png" style="max-width:100px;" /> nose-b.png<br>
 
-![nose-c.png](nose-c.png) nose-c.png
+<img src="nose-c.png" style="max-width:100px;" /> nose-c.png<br>
 
-![nose-d.png](nose-d.png) nose-d.png
+<img src="nose-d.png" style="max-width:100px;" /> nose-d.png<br>
 

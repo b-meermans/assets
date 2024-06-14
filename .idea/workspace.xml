@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40a73f49-21a5-45bb-af7c-0dec50cdb78f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Characters/Bunnies/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Characters/Bunnies/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Characters/Enemies/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Characters/Enemies/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Characters/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Characters/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Collectibles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/General/Collectibles/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Interactibles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/General/Interactibles/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/General/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landscape/Backgrounds/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape/Backgrounds/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landscape/Floors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape/Floors/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landscape/Plants/Flowers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape/Plants/Flowers/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landscape/Plants/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape/Plants/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landscape/Platforms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape/Platforms/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landscape/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Landscape/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Symbols/ClickableIcons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Symbols/ClickableIcons/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Symbols/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Symbols/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

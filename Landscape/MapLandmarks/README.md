@@ -1,76 +1,76 @@
 # Image Previews
 
-![map-banner.png](map-banner.png) map-banner.png
+<img src="map-banner.png" style="max-width:100px;" /> map-banner.png<br>
 
-![map-bridge-rope.png](map-bridge-rope.png) map-bridge-rope.png
+<img src="map-bridge-rope.png" style="max-width:100px;" /> map-bridge-rope.png<br>
 
-![map-bridge.png](map-bridge.png) map-bridge.png
+<img src="map-bridge.png" style="max-width:100px;" /> map-bridge.png<br>
 
-![map-cactus.png](map-cactus.png) map-cactus.png
+<img src="map-cactus.png" style="max-width:100px;" /> map-cactus.png<br>
 
-![map-campfire.png](map-campfire.png) map-campfire.png
+<img src="map-campfire.png" style="max-width:100px;" /> map-campfire.png<br>
 
-![map-castle-tall.png](map-castle-tall.png) map-castle-tall.png
+<img src="map-castle-tall.png" style="max-width:100px;" /> map-castle-tall.png<br>
 
-![map-castle.png](map-castle.png) map-castle.png
+<img src="map-castle.png" style="max-width:100px;" /> map-castle.png<br>
 
-![map-chest.png](map-chest.png) map-chest.png
+<img src="map-chest.png" style="max-width:100px;" /> map-chest.png<br>
 
-![map-church.png](map-church.png) map-church.png
+<img src="map-church.png" style="max-width:100px;" /> map-church.png<br>
 
-![map-compass.png](map-compass.png) map-compass.png
+<img src="map-compass.png" style="max-width:100px;" /> map-compass.png<br>
 
-![map-dock.png](map-dock.png) map-dock.png
+<img src="map-dock.png" style="max-width:100px;" /> map-dock.png<br>
 
-![map-flag.png](map-flag.png) map-flag.png
+<img src="map-flag.png" style="max-width:100px;" /> map-flag.png<br>
 
-![map-gate.png](map-gate.png) map-gate.png
+<img src="map-gate.png" style="max-width:100px;" /> map-gate.png<br>
 
-![map-graveyard.png](map-graveyard.png) map-graveyard.png
+<img src="map-graveyard.png" style="max-width:100px;" /> map-graveyard.png<br>
 
-![map-house-chimney.png](map-house-chimney.png) map-house-chimney.png
+<img src="map-house-chimney.png" style="max-width:100px;" /> map-house-chimney.png<br>
 
-![map-house-small.png](map-house-small.png) map-house-small.png
+<img src="map-house-small.png" style="max-width:100px;" /> map-house-small.png<br>
 
-![map-house-tall.png](map-house-tall.png) map-house-tall.png
+<img src="map-house-tall.png" style="max-width:100px;" /> map-house-tall.png<br>
 
-![map-house-viking.png](map-house-viking.png) map-house-viking.png
+<img src="map-house-viking.png" style="max-width:100px;" /> map-house-viking.png<br>
 
-![map-house.png](map-house.png) map-house.png
+<img src="map-house.png" style="max-width:100px;" /> map-house.png<br>
 
-![map-houses.png](map-houses.png) map-houses.png
+<img src="map-houses.png" style="max-width:100px;" /> map-houses.png<br>
 
-![map-lake-round.png](map-lake-round.png) map-lake-round.png
+<img src="map-lake-round.png" style="max-width:100px;" /> map-lake-round.png<br>
 
-![map-lake.png](map-lake.png) map-lake.png
+<img src="map-lake.png" style="max-width:100px;" /> map-lake.png<br>
 
-![map-lighthouse.png](map-lighthouse.png) map-lighthouse.png
+<img src="map-lighthouse.png" style="max-width:100px;" /> map-lighthouse.png<br>
 
-![map-mill.png](map-mill.png) map-mill.png
+<img src="map-mill.png" style="max-width:100px;" /> map-mill.png<br>
 
-![map-mine.png](map-mine.png) map-mine.png
+<img src="map-mine.png" style="max-width:100px;" /> map-mine.png<br>
 
-![map-palm.png](map-palm.png) map-palm.png
+<img src="map-palm.png" style="max-width:100px;" /> map-palm.png<br>
 
-![map-pyramid.png](map-pyramid.png) map-pyramid.png
+<img src="map-pyramid.png" style="max-width:100px;" /> map-pyramid.png<br>
 
-![map-rocks-mountain.png](map-rocks-mountain.png) map-rocks-mountain.png
+<img src="map-rocks-mountain.png" style="max-width:100px;" /> map-rocks-mountain.png<br>
 
-![map-rocks.png](map-rocks.png) map-rocks.png
+<img src="map-rocks.png" style="max-width:100px;" /> map-rocks.png<br>
 
-![map-ruins.png](map-ruins.png) map-ruins.png
+<img src="map-ruins.png" style="max-width:100px;" /> map-ruins.png<br>
 
-![map-ship.png](map-ship.png) map-ship.png
+<img src="map-ship.png" style="max-width:100px;" /> map-ship.png<br>
 
-![map-stable.png](map-stable.png) map-stable.png
+<img src="map-stable.png" style="max-width:100px;" /> map-stable.png<br>
 
-![map-tree-pine-large.png](map-tree-pine-large.png) map-tree-pine-large.png
+<img src="map-tree-pine-large.png" style="max-width:100px;" /> map-tree-pine-large.png<br>
 
-![map-tree-pine.png](map-tree-pine.png) map-tree-pine.png
+<img src="map-tree-pine.png" style="max-width:100px;" /> map-tree-pine.png<br>
 
-![map-vulcano.png](map-vulcano.png) map-vulcano.png
+<img src="map-vulcano.png" style="max-width:100px;" /> map-vulcano.png<br>
 
-![map-watchtower.png](map-watchtower.png) map-watchtower.png
+<img src="map-watchtower.png" style="max-width:100px;" /> map-watchtower.png<br>
 
-![map-water-wheel.png](map-water-wheel.png) map-water-wheel.png
+<img src="map-water-wheel.png" style="max-width:100px;" /> map-water-wheel.png<br>
 

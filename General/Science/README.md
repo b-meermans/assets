@@ -1,16 +1,16 @@
 # Image Previews
 
-![science-glass-0.png](science-glass-0.png) science-glass-0.png
+<img src="science-glass-0.png" style="max-width:100px;" /> science-glass-0.png<br>
 
-![science-glass-1.png](science-glass-1.png) science-glass-1.png
+<img src="science-glass-1.png" style="max-width:100px;" /> science-glass-1.png<br>
 
-![science-glass-2.png](science-glass-2.png) science-glass-2.png
+<img src="science-glass-2.png" style="max-width:100px;" /> science-glass-2.png<br>
 
-![science-glass-3.png](science-glass-3.png) science-glass-3.png
+<img src="science-glass-3.png" style="max-width:100px;" /> science-glass-3.png<br>
 
-![science-glass-4.png](science-glass-4.png) science-glass-4.png
+<img src="science-glass-4.png" style="max-width:100px;" /> science-glass-4.png<br>
 
-![science-microscope.png](science-microscope.png) science-microscope.png
+<img src="science-microscope.png" style="max-width:100px;" /> science-microscope.png<br>
 
-![science-stethoscope.png](science-stethoscope.png) science-stethoscope.png
+<img src="science-stethoscope.png" style="max-width:100px;" /> science-stethoscope.png<br>
 

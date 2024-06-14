@@ -1,26 +1,26 @@
 # Image Previews
 
-![piece-0.png](piece-0.png) piece-0.png
+<img src="piece-0.png" style="max-width:100px;" /> piece-0.png<br>
 
-![piece-1.png](piece-1.png) piece-1.png
+<img src="piece-1.png" style="max-width:100px;" /> piece-1.png<br>
 
-![piece-10.png](piece-10.png) piece-10.png
+<img src="piece-10.png" style="max-width:100px;" /> piece-10.png<br>
 
-![piece-11.png](piece-11.png) piece-11.png
+<img src="piece-11.png" style="max-width:100px;" /> piece-11.png<br>
 
-![piece-2.png](piece-2.png) piece-2.png
+<img src="piece-2.png" style="max-width:100px;" /> piece-2.png<br>
 
-![piece-3.png](piece-3.png) piece-3.png
+<img src="piece-3.png" style="max-width:100px;" /> piece-3.png<br>
 
-![piece-4.png](piece-4.png) piece-4.png
+<img src="piece-4.png" style="max-width:100px;" /> piece-4.png<br>
 
-![piece-5.png](piece-5.png) piece-5.png
+<img src="piece-5.png" style="max-width:100px;" /> piece-5.png<br>
 
-![piece-6.png](piece-6.png) piece-6.png
+<img src="piece-6.png" style="max-width:100px;" /> piece-6.png<br>
 
-![piece-7.png](piece-7.png) piece-7.png
+<img src="piece-7.png" style="max-width:100px;" /> piece-7.png<br>
 
-![piece-8.png](piece-8.png) piece-8.png
+<img src="piece-8.png" style="max-width:100px;" /> piece-8.png<br>
 
-![piece-9.png](piece-9.png) piece-9.png
+<img src="piece-9.png" style="max-width:100px;" /> piece-9.png<br>
 

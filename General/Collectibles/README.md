@@ -1,90 +1,90 @@
 # Image Previews
 
-![box-coin-boxed.png](box-coin-boxed.png) box-coin-boxed.png
+<img src="box-coin-boxed.png" style="max-width:100px;" /> box-coin-boxed.png<br>
 
-![box-crate-single.png](box-crate-single.png) box-crate-single.png
+<img src="box-crate-single.png" style="max-width:100px;" /> box-crate-single.png<br>
 
-![box-crate.png](box-crate.png) box-crate.png
+<img src="box-crate.png" style="max-width:100px;" /> box-crate.png<br>
 
-![box-explosive.png](box-explosive.png) box-explosive.png
+<img src="box-explosive.png" style="max-width:100px;" /> box-explosive.png<br>
 
-![box-item-boxed.png](box-item-boxed.png) box-item-boxed.png
+<img src="box-item-boxed.png" style="max-width:100px;" /> box-item-boxed.png<br>
 
-![bronze-0.png](bronze-0.png) bronze-0.png
+<img src="bronze-0.png" style="max-width:100px;" /> bronze-0.png<br>
 
-![bronze-1.png](bronze-1.png) bronze-1.png
+<img src="bronze-1.png" style="max-width:100px;" /> bronze-1.png<br>
 
-![bronze-2.png](bronze-2.png) bronze-2.png
+<img src="bronze-2.png" style="max-width:100px;" /> bronze-2.png<br>
 
-![bronze-3.png](bronze-3.png) bronze-3.png
+<img src="bronze-3.png" style="max-width:100px;" /> bronze-3.png<br>
 
-![bronze-4.png](bronze-4.png) bronze-4.png
+<img src="bronze-4.png" style="max-width:100px;" /> bronze-4.png<br>
 
-![bronze-5.png](bronze-5.png) bronze-5.png
+<img src="bronze-5.png" style="max-width:100px;" /> bronze-5.png<br>
 
-![bubble.png](bubble.png) bubble.png
+<img src="bubble.png" style="max-width:100px;" /> bubble.png<br>
 
-![carrot-gold.png](carrot-gold.png) carrot-gold.png
+<img src="carrot-gold.png" style="max-width:100px;" /> carrot-gold.png<br>
 
-![carrot.png](carrot.png) carrot.png
+<img src="carrot.png" style="max-width:100px;" /> carrot.png<br>
 
-![coin-bronze.png](coin-bronze.png) coin-bronze.png
+<img src="coin-bronze.png" style="max-width:100px;" /> coin-bronze.png<br>
 
-![coin-gold.png](coin-gold.png) coin-gold.png
+<img src="coin-gold.png" style="max-width:100px;" /> coin-gold.png<br>
 
-![coin-silver.png](coin-silver.png) coin-silver.png
+<img src="coin-silver.png" style="max-width:100px;" /> coin-silver.png<br>
 
-![gem-blue.png](gem-blue.png) gem-blue.png
+<img src="gem-blue.png" style="max-width:100px;" /> gem-blue.png<br>
 
-![gold-0.png](gold-0.png) gold-0.png
+<img src="gold-0.png" style="max-width:100px;" /> gold-0.png<br>
 
-![gold-1.png](gold-1.png) gold-1.png
+<img src="gold-1.png" style="max-width:100px;" /> gold-1.png<br>
 
-![gold-2.png](gold-2.png) gold-2.png
+<img src="gold-2.png" style="max-width:100px;" /> gold-2.png<br>
 
-![gold-3.png](gold-3.png) gold-3.png
+<img src="gold-3.png" style="max-width:100px;" /> gold-3.png<br>
 
-![gold-4.png](gold-4.png) gold-4.png
+<img src="gold-4.png" style="max-width:100px;" /> gold-4.png<br>
 
-![gold-5.png](gold-5.png) gold-5.png
+<img src="gold-5.png" style="max-width:100px;" /> gold-5.png<br>
 
-![hud-heart-empty.png](hud-heart-empty.png) hud-heart-empty.png
+<img src="hud-heart-empty.png" style="max-width:100px;" /> hud-heart-empty.png<br>
 
-![hud-heart-full.png](hud-heart-full.png) hud-heart-full.png
+<img src="hud-heart-full.png" style="max-width:100px;" /> hud-heart-full.png<br>
 
-![hud-heart-half.png](hud-heart-half.png) hud-heart-half.png
+<img src="hud-heart-half.png" style="max-width:100px;" /> hud-heart-half.png<br>
 
-![hud-jewel-blue-empty.png](hud-jewel-blue-empty.png) hud-jewel-blue-empty.png
+<img src="hud-jewel-blue-empty.png" style="max-width:100px;" /> hud-jewel-blue-empty.png<br>
 
-![hud-jewel-blue.png](hud-jewel-blue.png) hud-jewel-blue.png
+<img src="hud-jewel-blue.png" style="max-width:100px;" /> hud-jewel-blue.png<br>
 
-![hud-key-blue-empty.png](hud-key-blue-empty.png) hud-key-blue-empty.png
+<img src="hud-key-blue-empty.png" style="max-width:100px;" /> hud-key-blue-empty.png<br>
 
-![hud-key-blue.png](hud-key-blue.png) hud-key-blue.png
+<img src="hud-key-blue.png" style="max-width:100px;" /> hud-key-blue.png<br>
 
-![jetpack.png](jetpack.png) jetpack.png
+<img src="jetpack.png" style="max-width:100px;" /> jetpack.png<br>
 
-![portal-orange.png](portal-orange.png) portal-orange.png
+<img src="portal-orange.png" style="max-width:100px;" /> portal-orange.png<br>
 
-![portal-yellow.png](portal-yellow.png) portal-yellow.png
+<img src="portal-yellow.png" style="max-width:100px;" /> portal-yellow.png<br>
 
-![silver-0.png](silver-0.png) silver-0.png
+<img src="silver-0.png" style="max-width:100px;" /> silver-0.png<br>
 
-![silver-1.png](silver-1.png) silver-1.png
+<img src="silver-1.png" style="max-width:100px;" /> silver-1.png<br>
 
-![silver-2.png](silver-2.png) silver-2.png
+<img src="silver-2.png" style="max-width:100px;" /> silver-2.png<br>
 
-![silver-3.png](silver-3.png) silver-3.png
+<img src="silver-3.png" style="max-width:100px;" /> silver-3.png<br>
 
-![silver-4.png](silver-4.png) silver-4.png
+<img src="silver-4.png" style="max-width:100px;" /> silver-4.png<br>
 
-![silver-5.png](silver-5.png) silver-5.png
+<img src="silver-5.png" style="max-width:100px;" /> silver-5.png<br>
 
-![star-bronze.png](star-bronze.png) star-bronze.png
+<img src="star-bronze.png" style="max-width:100px;" /> star-bronze.png<br>
 
-![star-diamond.png](star-diamond.png) star-diamond.png
+<img src="star-diamond.png" style="max-width:100px;" /> star-diamond.png<br>
 
-![star-gold.png](star-gold.png) star-gold.png
+<img src="star-gold.png" style="max-width:100px;" /> star-gold.png<br>
 
-![star-silver.png](star-silver.png) star-silver.png
+<img src="star-silver.png" style="max-width:100px;" /> star-silver.png<br>
 

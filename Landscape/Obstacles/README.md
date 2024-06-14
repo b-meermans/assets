@@ -1,28 +1,28 @@
 # Image Previews
 
-![rock-down.png](rock-down.png) rock-down.png
+<img src="rock-down.png" style="max-width:100px;" /> rock-down.png<br>
 
-![rock-grass-down.png](rock-grass-down.png) rock-grass-down.png
+<img src="rock-grass-down.png" style="max-width:100px;" /> rock-grass-down.png<br>
 
-![rock-grass.png](rock-grass.png) rock-grass.png
+<img src="rock-grass.png" style="max-width:100px;" /> rock-grass.png<br>
 
-![rock-ice-down.png](rock-ice-down.png) rock-ice-down.png
+<img src="rock-ice-down.png" style="max-width:100px;" /> rock-ice-down.png<br>
 
-![rock-ice.png](rock-ice.png) rock-ice.png
+<img src="rock-ice.png" style="max-width:100px;" /> rock-ice.png<br>
 
-![rock-snow-down.png](rock-snow-down.png) rock-snow-down.png
+<img src="rock-snow-down.png" style="max-width:100px;" /> rock-snow-down.png<br>
 
-![rock-snow.png](rock-snow.png) rock-snow.png
+<img src="rock-snow.png" style="max-width:100px;" /> rock-snow.png<br>
 
-![rock.png](rock.png) rock.png
+<img src="rock.png" style="max-width:100px;" /> rock.png<br>
 
-![snowman.png](snowman.png) snowman.png
+<img src="snowman.png" style="max-width:100px;" /> snowman.png<br>
 
-![spike-bottom.png](spike-bottom.png) spike-bottom.png
+<img src="spike-bottom.png" style="max-width:100px;" /> spike-bottom.png<br>
 
-![spike-top.png](spike-top.png) spike-top.png
+<img src="spike-top.png" style="max-width:100px;" /> spike-top.png<br>
 
-![spikes-bottom.png](spikes-bottom.png) spikes-bottom.png
+<img src="spikes-bottom.png" style="max-width:100px;" /> spikes-bottom.png<br>
 
-![spikes-top.png](spikes-top.png) spikes-top.png
+<img src="spikes-top.png" style="max-width:100px;" /> spikes-top.png<br>
 

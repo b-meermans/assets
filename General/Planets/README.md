@@ -1,22 +1,22 @@
 # Image Previews
 
-![planet-0.png](planet-0.png) planet-0.png
+<img src="planet-0.png" style="max-width:100px;" /> planet-0.png<br>
 
-![planet-1.png](planet-1.png) planet-1.png
+<img src="planet-1.png" style="max-width:100px;" /> planet-1.png<br>
 
-![planet-2.png](planet-2.png) planet-2.png
+<img src="planet-2.png" style="max-width:100px;" /> planet-2.png<br>
 
-![planet-3.png](planet-3.png) planet-3.png
+<img src="planet-3.png" style="max-width:100px;" /> planet-3.png<br>
 
-![planet-4.png](planet-4.png) planet-4.png
+<img src="planet-4.png" style="max-width:100px;" /> planet-4.png<br>
 
-![planet-5.png](planet-5.png) planet-5.png
+<img src="planet-5.png" style="max-width:100px;" /> planet-5.png<br>
 
-![planet-6.png](planet-6.png) planet-6.png
+<img src="planet-6.png" style="max-width:100px;" /> planet-6.png<br>
 
-![planet-7.png](planet-7.png) planet-7.png
+<img src="planet-7.png" style="max-width:100px;" /> planet-7.png<br>
 
-![planet-8.png](planet-8.png) planet-8.png
+<img src="planet-8.png" style="max-width:100px;" /> planet-8.png<br>
 
-![planet-9.png](planet-9.png) planet-9.png
+<img src="planet-9.png" style="max-width:100px;" /> planet-9.png<br>
 

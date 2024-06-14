@@ -1,16 +1,16 @@
 # Image Previews
 
-![cactus.png](cactus.png) cactus.png
+<img src="cactus.png" style="max-width:100px;" /> cactus.png<br>
 
-![flower-0.png](flower-0.png) flower-0.png
+<img src="flower-0.png" style="max-width:100px;" /> flower-0.png<br>
 
-![flower-1.png](flower-1.png) flower-1.png
+<img src="flower-1.png" style="max-width:100px;" /> flower-1.png<br>
 
-![flower-2.png](flower-2.png) flower-2.png
+<img src="flower-2.png" style="max-width:100px;" /> flower-2.png<br>
 
-![flower-3.png](flower-3.png) flower-3.png
+<img src="flower-3.png" style="max-width:100px;" /> flower-3.png<br>
 
-![mushroom-brown.png](mushroom-brown.png) mushroom-brown.png
+<img src="mushroom-brown.png" style="max-width:100px;" /> mushroom-brown.png<br>
 
-![mushroom-red.png](mushroom-red.png) mushroom-red.png
+<img src="mushroom-red.png" style="max-width:100px;" /> mushroom-red.png<br>
 

@@ -1,52 +1,52 @@
 # Image Previews
 
-![boulder-0.png](boulder-0.png) boulder-0.png
+<img src="boulder-0.png" style="max-width:100px;" /> boulder-0.png<br>
 
-![boulder-1.png](boulder-1.png) boulder-1.png
+<img src="boulder-1.png" style="max-width:100px;" /> boulder-1.png<br>
 
-![boulder-2.png](boulder-2.png) boulder-2.png
+<img src="boulder-2.png" style="max-width:100px;" /> boulder-2.png<br>
 
-![boulder-3.png](boulder-3.png) boulder-3.png
+<img src="boulder-3.png" style="max-width:100px;" /> boulder-3.png<br>
 
-![mountain-0.png](mountain-0.png) mountain-0.png
+<img src="mountain-0.png" style="max-width:100px;" /> mountain-0.png<br>
 
-![mountain-1.png](mountain-1.png) mountain-1.png
+<img src="mountain-1.png" style="max-width:100px;" /> mountain-1.png<br>
 
-![mountain-2.png](mountain-2.png) mountain-2.png
+<img src="mountain-2.png" style="max-width:100px;" /> mountain-2.png<br>
 
-![mountain-3.png](mountain-3.png) mountain-3.png
+<img src="mountain-3.png" style="max-width:100px;" /> mountain-3.png<br>
 
-![mountain-4.png](mountain-4.png) mountain-4.png
+<img src="mountain-4.png" style="max-width:100px;" /> mountain-4.png<br>
 
-![mountain-5.png](mountain-5.png) mountain-5.png
+<img src="mountain-5.png" style="max-width:100px;" /> mountain-5.png<br>
 
-![mountain-6.png](mountain-6.png) mountain-6.png
+<img src="mountain-6.png" style="max-width:100px;" /> mountain-6.png<br>
 
-![mountain-7.png](mountain-7.png) mountain-7.png
+<img src="mountain-7.png" style="max-width:100px;" /> mountain-7.png<br>
 
-![mountain-8.png](mountain-8.png) mountain-8.png
+<img src="mountain-8.png" style="max-width:100px;" /> mountain-8.png<br>
 
-![rock-0.png](rock-0.png) rock-0.png
+<img src="rock-0.png" style="max-width:100px;" /> rock-0.png<br>
 
-![rock-1.png](rock-1.png) rock-1.png
+<img src="rock-1.png" style="max-width:100px;" /> rock-1.png<br>
 
-![rock-top-0.png](rock-top-0.png) rock-top-0.png
+<img src="rock-top-0.png" style="max-width:100px;" /> rock-top-0.png<br>
 
-![rock-top-1.png](rock-top-1.png) rock-top-1.png
+<img src="rock-top-1.png" style="max-width:100px;" /> rock-top-1.png<br>
 
-![rock-top-2.png](rock-top-2.png) rock-top-2.png
+<img src="rock-top-2.png" style="max-width:100px;" /> rock-top-2.png<br>
 
-![rock-top-3.png](rock-top-3.png) rock-top-3.png
+<img src="rock-top-3.png" style="max-width:100px;" /> rock-top-3.png<br>
 
-![rock-top-4.png](rock-top-4.png) rock-top-4.png
+<img src="rock-top-4.png" style="max-width:100px;" /> rock-top-4.png<br>
 
-![rock-top-5.png](rock-top-5.png) rock-top-5.png
+<img src="rock-top-5.png" style="max-width:100px;" /> rock-top-5.png<br>
 
-![snow-rock-0.png](snow-rock-0.png) snow-rock-0.png
+<img src="snow-rock-0.png" style="max-width:100px;" /> snow-rock-0.png<br>
 
-![snow-rock-1.png](snow-rock-1.png) snow-rock-1.png
+<img src="snow-rock-1.png" style="max-width:100px;" /> snow-rock-1.png<br>
 
-![snow-rock-2.png](snow-rock-2.png) snow-rock-2.png
+<img src="snow-rock-2.png" style="max-width:100px;" /> snow-rock-2.png<br>
 
-![snow-rock-3.png](snow-rock-3.png) snow-rock-3.png
+<img src="snow-rock-3.png" style="max-width:100px;" /> snow-rock-3.png<br>
 

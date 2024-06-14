@@ -1,20 +1,20 @@
 # Image Previews
 
-![bush-0.png](bush-0.png) bush-0.png
+<img src="bush-0.png" style="max-width:100px;" /> bush-0.png<br>
 
-![bush-1.png](bush-1.png) bush-1.png
+<img src="bush-1.png" style="max-width:100px;" /> bush-1.png<br>
 
-![bush-2.png](bush-2.png) bush-2.png
+<img src="bush-2.png" style="max-width:100px;" /> bush-2.png<br>
 
-![bush-3.png](bush-3.png) bush-3.png
+<img src="bush-3.png" style="max-width:100px;" /> bush-3.png<br>
 
-![bush-4.png](bush-4.png) bush-4.png
+<img src="bush-4.png" style="max-width:100px;" /> bush-4.png<br>
 
-![bush-5.png](bush-5.png) bush-5.png
+<img src="bush-5.png" style="max-width:100px;" /> bush-5.png<br>
 
-![bush-6.png](bush-6.png) bush-6.png
+<img src="bush-6.png" style="max-width:100px;" /> bush-6.png<br>
 
-![bush-7.png](bush-7.png) bush-7.png
+<img src="bush-7.png" style="max-width:100px;" /> bush-7.png<br>
 
-![bush-8.png](bush-8.png) bush-8.png
+<img src="bush-8.png" style="max-width:100px;" /> bush-8.png<br>
 

@@ -1,10 +1,10 @@
 # Image Previews
 
-![car-0.png](car-0.png) car-0.png
+<img src="car-0.png" style="max-width:100px;" /> car-0.png<br>
 
-![car-1.png](car-1.png) car-1.png
+<img src="car-1.png" style="max-width:100px;" /> car-1.png<br>
 
-![car-2.png](car-2.png) car-2.png
+<img src="car-2.png" style="max-width:100px;" /> car-2.png<br>
 
-![motorcycle.png](motorcycle.png) motorcycle.png
+<img src="motorcycle.png" style="max-width:100px;" /> motorcycle.png<br>
 

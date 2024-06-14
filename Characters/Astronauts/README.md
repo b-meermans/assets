@@ -1,6 +1,6 @@
 # Image Previews
 
-![astronaut-0.png](astronaut-0.png) astronaut-0.png
+<img src="astronaut-0.png" style="max-width:100px;" /> astronaut-0.png<br>
 
-![astronaut-1.png](astronaut-1.png) astronaut-1.png
+<img src="astronaut-1.png" style="max-width:100px;" /> astronaut-1.png<br>
 

@@ -1,38 +1,38 @@
 # Image Previews
 
-![kitchen-blade.png](kitchen-blade.png) kitchen-blade.png
+<img src="kitchen-blade.png" style="max-width:100px;" /> kitchen-blade.png<br>
 
-![kitchen-blender.png](kitchen-blender.png) kitchen-blender.png
+<img src="kitchen-blender.png" style="max-width:100px;" /> kitchen-blender.png<br>
 
-![kitchen-board.png](kitchen-board.png) kitchen-board.png
+<img src="kitchen-board.png" style="max-width:100px;" /> kitchen-board.png<br>
 
-![kitchen-bowl.png](kitchen-bowl.png) kitchen-bowl.png
+<img src="kitchen-bowl.png" style="max-width:100px;" /> kitchen-bowl.png<br>
 
-![kitchen-coffee.png](kitchen-coffee.png) kitchen-coffee.png
+<img src="kitchen-coffee.png" style="max-width:100px;" /> kitchen-coffee.png<br>
 
-![kitchen-fork.png](kitchen-fork.png) kitchen-fork.png
+<img src="kitchen-fork.png" style="max-width:100px;" /> kitchen-fork.png<br>
 
-![kitchen-kettle.png](kitchen-kettle.png) kitchen-kettle.png
+<img src="kitchen-kettle.png" style="max-width:100px;" /> kitchen-kettle.png<br>
 
-![kitchen-knife.png](kitchen-knife.png) kitchen-knife.png
+<img src="kitchen-knife.png" style="max-width:100px;" /> kitchen-knife.png<br>
 
-![kitchen-measuring.png](kitchen-measuring.png) kitchen-measuring.png
+<img src="kitchen-measuring.png" style="max-width:100px;" /> kitchen-measuring.png<br>
 
-![kitchen-mitt.png](kitchen-mitt.png) kitchen-mitt.png
+<img src="kitchen-mitt.png" style="max-width:100px;" /> kitchen-mitt.png<br>
 
-![kitchen-mug.png](kitchen-mug.png) kitchen-mug.png
+<img src="kitchen-mug.png" style="max-width:100px;" /> kitchen-mug.png<br>
 
-![kitchen-pan.png](kitchen-pan.png) kitchen-pan.png
+<img src="kitchen-pan.png" style="max-width:100px;" /> kitchen-pan.png<br>
 
-![kitchen-pepper.png](kitchen-pepper.png) kitchen-pepper.png
+<img src="kitchen-pepper.png" style="max-width:100px;" /> kitchen-pepper.png<br>
 
-![kitchen-pot.png](kitchen-pot.png) kitchen-pot.png
+<img src="kitchen-pot.png" style="max-width:100px;" /> kitchen-pot.png<br>
 
-![kitchen-salt.png](kitchen-salt.png) kitchen-salt.png
+<img src="kitchen-salt.png" style="max-width:100px;" /> kitchen-salt.png<br>
 
-![kitchen-spatula.png](kitchen-spatula.png) kitchen-spatula.png
+<img src="kitchen-spatula.png" style="max-width:100px;" /> kitchen-spatula.png<br>
 
-![kitchen-spoon.png](kitchen-spoon.png) kitchen-spoon.png
+<img src="kitchen-spoon.png" style="max-width:100px;" /> kitchen-spoon.png<br>
 
-![kitchen-tongs.png](kitchen-tongs.png) kitchen-tongs.png
+<img src="kitchen-tongs.png" style="max-width:100px;" /> kitchen-tongs.png<br>
 

@@ -1,72 +1,72 @@
 # Image Previews
 
-![background-color-desert.png](background-color-desert.png) background-color-desert.png
+<img src="background-color-desert.png" style="max-width:100px;" /> background-color-desert.png<br>
 
-![background-color-fall.png](background-color-fall.png) background-color-fall.png
+<img src="background-color-fall.png" style="max-width:100px;" /> background-color-fall.png<br>
 
-![background-color-forest.png](background-color-forest.png) background-color-forest.png
+<img src="background-color-forest.png" style="max-width:100px;" /> background-color-forest.png<br>
 
-![background-color-grass.png](background-color-grass.png) background-color-grass.png
+<img src="background-color-grass.png" style="max-width:100px;" /> background-color-grass.png<br>
 
-![background-neutral.png](background-neutral.png) background-neutral.png
+<img src="background-neutral.png" style="max-width:100px;" /> background-neutral.png<br>
 
-![bg-layer-1.png](bg-layer-1.png) bg-layer-1.png
+<img src="bg-layer-1.png" style="max-width:100px;" /> bg-layer-1.png<br>
 
-![bg-layer-2.png](bg-layer-2.png) bg-layer-2.png
+<img src="bg-layer-2.png" style="max-width:100px;" /> bg-layer-2.png<br>
 
-![bg-layer-3.png](bg-layer-3.png) bg-layer-3.png
+<img src="bg-layer-3.png" style="max-width:100px;" /> bg-layer-3.png<br>
 
-![bg-layer-4.png](bg-layer-4.png) bg-layer-4.png
+<img src="bg-layer-4.png" style="max-width:100px;" /> bg-layer-4.png<br>
 
-![blue-desert.png](blue-desert.png) blue-desert.png
+<img src="blue-desert.png" style="max-width:100px;" /> blue-desert.png<br>
 
-![blue-grass.png](blue-grass.png) blue-grass.png
+<img src="blue-grass.png" style="max-width:100px;" /> blue-grass.png<br>
 
-![blue-land.png](blue-land.png) blue-land.png
+<img src="blue-land.png" style="max-width:100px;" /> blue-land.png<br>
 
-![blue-mountain-bg.png](blue-mountain-bg.png) blue-mountain-bg.png
+<img src="blue-mountain-bg.png" style="max-width:100px;" /> blue-mountain-bg.png<br>
 
-![colored-desert.png](colored-desert.png) colored-desert.png
+<img src="colored-desert.png" style="max-width:100px;" /> colored-desert.png<br>
 
-![colored-grass.png](colored-grass.png) colored-grass.png
+<img src="colored-grass.png" style="max-width:100px;" /> colored-grass.png<br>
 
-![colored-land.png](colored-land.png) colored-land.png
+<img src="colored-land.png" style="max-width:100px;" /> colored-land.png<br>
 
-![forest-0.png](forest-0.png) forest-0.png
+<img src="forest-0.png" style="max-width:100px;" /> forest-0.png<br>
 
-![forest-1.png](forest-1.png) forest-1.png
+<img src="forest-1.png" style="max-width:100px;" /> forest-1.png<br>
 
-![forest-2.png](forest-2.png) forest-2.png
+<img src="forest-2.png" style="max-width:100px;" /> forest-2.png<br>
 
-![forest-bg.png](forest-bg.png) forest-bg.png
+<img src="forest-bg.png" style="max-width:100px;" /> forest-bg.png<br>
 
-![mountainscape.png](mountainscape.png) mountainscape.png
+<img src="mountainscape.png" style="max-width:100px;" /> mountainscape.png<br>
 
-![sandy-bg.png](sandy-bg.png) sandy-bg.png
+<img src="sandy-bg.png" style="max-width:100px;" /> sandy-bg.png<br>
 
-![snowy-bg.png](snowy-bg.png) snowy-bg.png
+<img src="snowy-bg.png" style="max-width:100px;" /> snowy-bg.png<br>
 
-![tile-beach-1.png](tile-beach-1.png) tile-beach-1.png
+<img src="tile-beach-1.png" style="max-width:100px;" /> tile-beach-1.png<br>
 
-![tile-beach-2.png](tile-beach-2.png) tile-beach-2.png
+<img src="tile-beach-2.png" style="max-width:100px;" /> tile-beach-2.png<br>
 
-![tile-checker.png](tile-checker.png) tile-checker.png
+<img src="tile-checker.png" style="max-width:100px;" /> tile-checker.png<br>
 
-![tile-grass-1.png](tile-grass-1.png) tile-grass-1.png
+<img src="tile-grass-1.png" style="max-width:100px;" /> tile-grass-1.png<br>
 
-![tile-grass-2.png](tile-grass-2.png) tile-grass-2.png
+<img src="tile-grass-2.png" style="max-width:100px;" /> tile-grass-2.png<br>
 
-![tile-grass-3.png](tile-grass-3.png) tile-grass-3.png
+<img src="tile-grass-3.png" style="max-width:100px;" /> tile-grass-3.png<br>
 
-![tile-mud.png](tile-mud.png) tile-mud.png
+<img src="tile-mud.png" style="max-width:100px;" /> tile-mud.png<br>
 
-![tile-panel.png](tile-panel.png) tile-panel.png
+<img src="tile-panel.png" style="max-width:100px;" /> tile-panel.png<br>
 
-![tile-parchment.png](tile-parchment.png) tile-parchment.png
+<img src="tile-parchment.png" style="max-width:100px;" /> tile-parchment.png<br>
 
-![tile-sand.png](tile-sand.png) tile-sand.png
+<img src="tile-sand.png" style="max-width:100px;" /> tile-sand.png<br>
 
-![tile-space.png](tile-space.png) tile-space.png
+<img src="tile-space.png" style="max-width:100px;" /> tile-space.png<br>
 
-![tile-water.png](tile-water.png) tile-water.png
+<img src="tile-water.png" style="max-width:100px;" /> tile-water.png<br>
 

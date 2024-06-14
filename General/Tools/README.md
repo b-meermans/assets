@@ -1,18 +1,18 @@
 # Image Previews
 
-![tool-axe.png](tool-axe.png) tool-axe.png
+<img src="tool-axe.png" style="max-width:100px;" /> tool-axe.png<br>
 
-![tool-brush.png](tool-brush.png) tool-brush.png
+<img src="tool-brush.png" style="max-width:100px;" /> tool-brush.png<br>
 
-![tool-pickaxe.png](tool-pickaxe.png) tool-pickaxe.png
+<img src="tool-pickaxe.png" style="max-width:100px;" /> tool-pickaxe.png<br>
 
-![tool-roller.png](tool-roller.png) tool-roller.png
+<img src="tool-roller.png" style="max-width:100px;" /> tool-roller.png<br>
 
-![tool-saw.png](tool-saw.png) tool-saw.png
+<img src="tool-saw.png" style="max-width:100px;" /> tool-saw.png<br>
 
-![tool-screwdriver.png](tool-screwdriver.png) tool-screwdriver.png
+<img src="tool-screwdriver.png" style="max-width:100px;" /> tool-screwdriver.png<br>
 
-![tool-shovel.png](tool-shovel.png) tool-shovel.png
+<img src="tool-shovel.png" style="max-width:100px;" /> tool-shovel.png<br>
 
-![tool-wrench.png](tool-wrench.png) tool-wrench.png
+<img src="tool-wrench.png" style="max-width:100px;" /> tool-wrench.png<br>
 

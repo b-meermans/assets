@@ -1,42 +1,42 @@
 # Image Previews
 
-![bird-a-0.png](bird-a-0.png) bird-a-0.png
+<img src="bird-a-0.png" style="max-width:100px;" /> bird-a-0.png<br>
 
-![bird-a-1.png](bird-a-1.png) bird-a-1.png
+<img src="bird-a-1.png" style="max-width:100px;" /> bird-a-1.png<br>
 
-![bird-a-2.png](bird-a-2.png) bird-a-2.png
+<img src="bird-a-2.png" style="max-width:100px;" /> bird-a-2.png<br>
 
-![bird-a-3.png](bird-a-3.png) bird-a-3.png
+<img src="bird-a-3.png" style="max-width:100px;" /> bird-a-3.png<br>
 
-![bird-b-0.png](bird-b-0.png) bird-b-0.png
+<img src="bird-b-0.png" style="max-width:100px;" /> bird-b-0.png<br>
 
-![bird-b-1.png](bird-b-1.png) bird-b-1.png
+<img src="bird-b-1.png" style="max-width:100px;" /> bird-b-1.png<br>
 
-![bird-b-2.png](bird-b-2.png) bird-b-2.png
+<img src="bird-b-2.png" style="max-width:100px;" /> bird-b-2.png<br>
 
-![bird-b-3.png](bird-b-3.png) bird-b-3.png
+<img src="bird-b-3.png" style="max-width:100px;" /> bird-b-3.png<br>
 
-![bird-c-0.png](bird-c-0.png) bird-c-0.png
+<img src="bird-c-0.png" style="max-width:100px;" /> bird-c-0.png<br>
 
-![bird-c-1.png](bird-c-1.png) bird-c-1.png
+<img src="bird-c-1.png" style="max-width:100px;" /> bird-c-1.png<br>
 
-![bird-c-2.png](bird-c-2.png) bird-c-2.png
+<img src="bird-c-2.png" style="max-width:100px;" /> bird-c-2.png<br>
 
-![bird-c-3.png](bird-c-3.png) bird-c-3.png
+<img src="bird-c-3.png" style="max-width:100px;" /> bird-c-3.png<br>
 
-![bird-d-0.png](bird-d-0.png) bird-d-0.png
+<img src="bird-d-0.png" style="max-width:100px;" /> bird-d-0.png<br>
 
-![bird-d-1.png](bird-d-1.png) bird-d-1.png
+<img src="bird-d-1.png" style="max-width:100px;" /> bird-d-1.png<br>
 
-![bird-d-2.png](bird-d-2.png) bird-d-2.png
+<img src="bird-d-2.png" style="max-width:100px;" /> bird-d-2.png<br>
 
-![bird-d-3.png](bird-d-3.png) bird-d-3.png
+<img src="bird-d-3.png" style="max-width:100px;" /> bird-d-3.png<br>
 
-![bird-e-0.png](bird-e-0.png) bird-e-0.png
+<img src="bird-e-0.png" style="max-width:100px;" /> bird-e-0.png<br>
 
-![bird-e-1.png](bird-e-1.png) bird-e-1.png
+<img src="bird-e-1.png" style="max-width:100px;" /> bird-e-1.png<br>
 
-![bird-e-2.png](bird-e-2.png) bird-e-2.png
+<img src="bird-e-2.png" style="max-width:100px;" /> bird-e-2.png<br>
 
-![bird-e-3.png](bird-e-3.png) bird-e-3.png
+<img src="bird-e-3.png" style="max-width:100px;" /> bird-e-3.png<br>
 

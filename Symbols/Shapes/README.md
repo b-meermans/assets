@@ -1,22 +1,22 @@
 # Image Previews
 
-![ball-outlined-2.png](ball-outlined-2.png) ball-outlined-2.png
+<img src="ball-outlined-2.png" style="max-width:100px;" /> ball-outlined-2.png<br>
 
-![ball-outlined.png](ball-outlined.png) ball-outlined.png
+<img src="ball-outlined.png" style="max-width:100px;" /> ball-outlined.png<br>
 
-![ball-shaded-2.png](ball-shaded-2.png) ball-shaded-2.png
+<img src="ball-shaded-2.png" style="max-width:100px;" /> ball-shaded-2.png<br>
 
-![ball-shaded.png](ball-shaded.png) ball-shaded.png
+<img src="ball-shaded.png" style="max-width:100px;" /> ball-shaded.png<br>
 
-![rect-button-pressed.png](rect-button-pressed.png) rect-button-pressed.png
+<img src="rect-button-pressed.png" style="max-width:100px;" /> rect-button-pressed.png<br>
 
-![rect-button.png](rect-button.png) rect-button.png
+<img src="rect-button.png" style="max-width:100px;" /> rect-button.png<br>
 
-![round-button-pressed.png](round-button-pressed.png) round-button-pressed.png
+<img src="round-button-pressed.png" style="max-width:100px;" /> round-button-pressed.png<br>
 
-![round-button.png](round-button.png) round-button.png
+<img src="round-button.png" style="max-width:100px;" /> round-button.png<br>
 
-![tile-shaded-0.png](tile-shaded-0.png) tile-shaded-0.png
+<img src="tile-shaded-0.png" style="max-width:100px;" /> tile-shaded-0.png<br>
 
-![tile-shaded-1.png](tile-shaded-1.png) tile-shaded-1.png
+<img src="tile-shaded-1.png" style="max-width:100px;" /> tile-shaded-1.png<br>
 

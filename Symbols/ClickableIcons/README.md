@@ -1,182 +1,182 @@
 # Image Previews
 
-![key-0-b.png](key-0-b.png) key-0-b.png
+<img src="key-0-b.png" style="max-width:100px;" /> key-0-b.png<br>
 
-![key-0.png](key-0.png) key-0.png
+<img src="key-0.png" style="max-width:100px;" /> key-0.png<br>
 
-![key-1-b.png](key-1-b.png) key-1-b.png
+<img src="key-1-b.png" style="max-width:100px;" /> key-1-b.png<br>
 
-![key-1.png](key-1.png) key-1.png
+<img src="key-1.png" style="max-width:100px;" /> key-1.png<br>
 
-![key-2-b.png](key-2-b.png) key-2-b.png
+<img src="key-2-b.png" style="max-width:100px;" /> key-2-b.png<br>
 
-![key-2.png](key-2.png) key-2.png
+<img src="key-2.png" style="max-width:100px;" /> key-2.png<br>
 
-![key-3-b.png](key-3-b.png) key-3-b.png
+<img src="key-3-b.png" style="max-width:100px;" /> key-3-b.png<br>
 
-![key-3.png](key-3.png) key-3.png
+<img src="key-3.png" style="max-width:100px;" /> key-3.png<br>
 
-![key-4-b.png](key-4-b.png) key-4-b.png
+<img src="key-4-b.png" style="max-width:100px;" /> key-4-b.png<br>
 
-![key-4.png](key-4.png) key-4.png
+<img src="key-4.png" style="max-width:100px;" /> key-4.png<br>
 
-![key-5-b.png](key-5-b.png) key-5-b.png
+<img src="key-5-b.png" style="max-width:100px;" /> key-5-b.png<br>
 
-![key-5.png](key-5.png) key-5.png
+<img src="key-5.png" style="max-width:100px;" /> key-5.png<br>
 
-![key-6-b.png](key-6-b.png) key-6-b.png
+<img src="key-6-b.png" style="max-width:100px;" /> key-6-b.png<br>
 
-![key-6.png](key-6.png) key-6.png
+<img src="key-6.png" style="max-width:100px;" /> key-6.png<br>
 
-![key-7-b.png](key-7-b.png) key-7-b.png
+<img src="key-7-b.png" style="max-width:100px;" /> key-7-b.png<br>
 
-![key-7.png](key-7.png) key-7.png
+<img src="key-7.png" style="max-width:100px;" /> key-7.png<br>
 
-![key-8-b.png](key-8-b.png) key-8-b.png
+<img src="key-8-b.png" style="max-width:100px;" /> key-8-b.png<br>
 
-![key-8.png](key-8.png) key-8.png
+<img src="key-8.png" style="max-width:100px;" /> key-8.png<br>
 
-![key-9-b.png](key-9-b.png) key-9-b.png
+<img src="key-9-b.png" style="max-width:100px;" /> key-9-b.png<br>
 
-![key-9.png](key-9.png) key-9.png
+<img src="key-9.png" style="max-width:100px;" /> key-9.png<br>
 
-![key-a-b.png](key-a-b.png) key-a-b.png
+<img src="key-a-b.png" style="max-width:100px;" /> key-a-b.png<br>
 
-![key-a.png](key-a.png) key-a.png
+<img src="key-a.png" style="max-width:100px;" /> key-a.png<br>
 
-![key-b-b.png](key-b-b.png) key-b-b.png
+<img src="key-b-b.png" style="max-width:100px;" /> key-b-b.png<br>
 
-![key-b.png](key-b.png) key-b.png
+<img src="key-b.png" style="max-width:100px;" /> key-b.png<br>
 
-![key-c-b.png](key-c-b.png) key-c-b.png
+<img src="key-c-b.png" style="max-width:100px;" /> key-c-b.png<br>
 
-![key-c.png](key-c.png) key-c.png
+<img src="key-c.png" style="max-width:100px;" /> key-c.png<br>
 
-![key-d-b.png](key-d-b.png) key-d-b.png
+<img src="key-d-b.png" style="max-width:100px;" /> key-d-b.png<br>
 
-![key-d.png](key-d.png) key-d.png
+<img src="key-d.png" style="max-width:100px;" /> key-d.png<br>
 
-![key-down-b.png](key-down-b.png) key-down-b.png
+<img src="key-down-b.png" style="max-width:100px;" /> key-down-b.png<br>
 
-![key-down.png](key-down.png) key-down.png
+<img src="key-down.png" style="max-width:100px;" /> key-down.png<br>
 
-![key-e-b.png](key-e-b.png) key-e-b.png
+<img src="key-e-b.png" style="max-width:100px;" /> key-e-b.png<br>
 
-![key-e.png](key-e.png) key-e.png
+<img src="key-e.png" style="max-width:100px;" /> key-e.png<br>
 
-![key-enter-b.png](key-enter-b.png) key-enter-b.png
+<img src="key-enter-b.png" style="max-width:100px;" /> key-enter-b.png<br>
 
-![key-enter.png](key-enter.png) key-enter.png
+<img src="key-enter.png" style="max-width:100px;" /> key-enter.png<br>
 
-![key-escape-b.png](key-escape-b.png) key-escape-b.png
+<img src="key-escape-b.png" style="max-width:100px;" /> key-escape-b.png<br>
 
-![key-escape.png](key-escape.png) key-escape.png
+<img src="key-escape.png" style="max-width:100px;" /> key-escape.png<br>
 
-![key-f-b.png](key-f-b.png) key-f-b.png
+<img src="key-f-b.png" style="max-width:100px;" /> key-f-b.png<br>
 
-![key-f.png](key-f.png) key-f.png
+<img src="key-f.png" style="max-width:100px;" /> key-f.png<br>
 
-![key-g-b.png](key-g-b.png) key-g-b.png
+<img src="key-g-b.png" style="max-width:100px;" /> key-g-b.png<br>
 
-![key-g.png](key-g.png) key-g.png
+<img src="key-g.png" style="max-width:100px;" /> key-g.png<br>
 
-![key-h-b.png](key-h-b.png) key-h-b.png
+<img src="key-h-b.png" style="max-width:100px;" /> key-h-b.png<br>
 
-![key-h.png](key-h.png) key-h.png
+<img src="key-h.png" style="max-width:100px;" /> key-h.png<br>
 
-![key-i-b.png](key-i-b.png) key-i-b.png
+<img src="key-i-b.png" style="max-width:100px;" /> key-i-b.png<br>
 
-![key-i.png](key-i.png) key-i.png
+<img src="key-i.png" style="max-width:100px;" /> key-i.png<br>
 
-![key-j-b.png](key-j-b.png) key-j-b.png
+<img src="key-j-b.png" style="max-width:100px;" /> key-j-b.png<br>
 
-![key-j.png](key-j.png) key-j.png
+<img src="key-j.png" style="max-width:100px;" /> key-j.png<br>
 
-![key-k-b.png](key-k-b.png) key-k-b.png
+<img src="key-k-b.png" style="max-width:100px;" /> key-k-b.png<br>
 
-![key-k.png](key-k.png) key-k.png
+<img src="key-k.png" style="max-width:100px;" /> key-k.png<br>
 
-![key-l-b.png](key-l-b.png) key-l-b.png
+<img src="key-l-b.png" style="max-width:100px;" /> key-l-b.png<br>
 
-![key-l.png](key-l.png) key-l.png
+<img src="key-l.png" style="max-width:100px;" /> key-l.png<br>
 
-![key-left-b.png](key-left-b.png) key-left-b.png
+<img src="key-left-b.png" style="max-width:100px;" /> key-left-b.png<br>
 
-![key-left.png](key-left.png) key-left.png
+<img src="key-left.png" style="max-width:100px;" /> key-left.png<br>
 
-![key-m-b.png](key-m-b.png) key-m-b.png
+<img src="key-m-b.png" style="max-width:100px;" /> key-m-b.png<br>
 
-![key-m.png](key-m.png) key-m.png
+<img src="key-m.png" style="max-width:100px;" /> key-m.png<br>
 
-![key-n-b.png](key-n-b.png) key-n-b.png
+<img src="key-n-b.png" style="max-width:100px;" /> key-n-b.png<br>
 
-![key-n.png](key-n.png) key-n.png
+<img src="key-n.png" style="max-width:100px;" /> key-n.png<br>
 
-![key-o-b.png](key-o-b.png) key-o-b.png
+<img src="key-o-b.png" style="max-width:100px;" /> key-o-b.png<br>
 
-![key-o.png](key-o.png) key-o.png
+<img src="key-o.png" style="max-width:100px;" /> key-o.png<br>
 
-![key-p-b.png](key-p-b.png) key-p-b.png
+<img src="key-p-b.png" style="max-width:100px;" /> key-p-b.png<br>
 
-![key-p.png](key-p.png) key-p.png
+<img src="key-p.png" style="max-width:100px;" /> key-p.png<br>
 
-![key-q-b.png](key-q-b.png) key-q-b.png
+<img src="key-q-b.png" style="max-width:100px;" /> key-q-b.png<br>
 
-![key-q.png](key-q.png) key-q.png
+<img src="key-q.png" style="max-width:100px;" /> key-q.png<br>
 
-![key-r-b.png](key-r-b.png) key-r-b.png
+<img src="key-r-b.png" style="max-width:100px;" /> key-r-b.png<br>
 
-![key-r.png](key-r.png) key-r.png
+<img src="key-r.png" style="max-width:100px;" /> key-r.png<br>
 
-![key-right-b.png](key-right-b.png) key-right-b.png
+<img src="key-right-b.png" style="max-width:100px;" /> key-right-b.png<br>
 
-![key-right.png](key-right.png) key-right.png
+<img src="key-right.png" style="max-width:100px;" /> key-right.png<br>
 
-![key-s-b.png](key-s-b.png) key-s-b.png
+<img src="key-s-b.png" style="max-width:100px;" /> key-s-b.png<br>
 
-![key-s.png](key-s.png) key-s.png
+<img src="key-s.png" style="max-width:100px;" /> key-s.png<br>
 
-![key-shift-b.png](key-shift-b.png) key-shift-b.png
+<img src="key-shift-b.png" style="max-width:100px;" /> key-shift-b.png<br>
 
-![key-shift.png](key-shift.png) key-shift.png
+<img src="key-shift.png" style="max-width:100px;" /> key-shift.png<br>
 
-![key-space-b.png](key-space-b.png) key-space-b.png
+<img src="key-space-b.png" style="max-width:100px;" /> key-space-b.png<br>
 
-![key-space.png](key-space.png) key-space.png
+<img src="key-space.png" style="max-width:100px;" /> key-space.png<br>
 
-![key-t-b.png](key-t-b.png) key-t-b.png
+<img src="key-t-b.png" style="max-width:100px;" /> key-t-b.png<br>
 
-![key-t.png](key-t.png) key-t.png
+<img src="key-t.png" style="max-width:100px;" /> key-t.png<br>
 
-![key-u-b.png](key-u-b.png) key-u-b.png
+<img src="key-u-b.png" style="max-width:100px;" /> key-u-b.png<br>
 
-![key-u.png](key-u.png) key-u.png
+<img src="key-u.png" style="max-width:100px;" /> key-u.png<br>
 
-![key-up-b.png](key-up-b.png) key-up-b.png
+<img src="key-up-b.png" style="max-width:100px;" /> key-up-b.png<br>
 
-![key-up.png](key-up.png) key-up.png
+<img src="key-up.png" style="max-width:100px;" /> key-up.png<br>
 
-![key-v-b.png](key-v-b.png) key-v-b.png
+<img src="key-v-b.png" style="max-width:100px;" /> key-v-b.png<br>
 
-![key-v.png](key-v.png) key-v.png
+<img src="key-v.png" style="max-width:100px;" /> key-v.png<br>
 
-![key-w-b.png](key-w-b.png) key-w-b.png
+<img src="key-w-b.png" style="max-width:100px;" /> key-w-b.png<br>
 
-![key-w.png](key-w.png) key-w.png
+<img src="key-w.png" style="max-width:100px;" /> key-w.png<br>
 
-![key-x-b.png](key-x-b.png) key-x-b.png
+<img src="key-x-b.png" style="max-width:100px;" /> key-x-b.png<br>
 
-![key-x.png](key-x.png) key-x.png
+<img src="key-x.png" style="max-width:100px;" /> key-x.png<br>
 
-![key-y-b.png](key-y-b.png) key-y-b.png
+<img src="key-y-b.png" style="max-width:100px;" /> key-y-b.png<br>
 
-![key-y.png](key-y.png) key-y.png
+<img src="key-y.png" style="max-width:100px;" /> key-y.png<br>
 
-![key-z-b.png](key-z-b.png) key-z-b.png
+<img src="key-z-b.png" style="max-width:100px;" /> key-z-b.png<br>
 
-![key-z.png](key-z.png) key-z.png
+<img src="key-z.png" style="max-width:100px;" /> key-z.png<br>
 
-![mouse-b.png](mouse-b.png) mouse-b.png
+<img src="mouse-b.png" style="max-width:100px;" /> mouse-b.png<br>
 
-![mouse.png](mouse.png) mouse.png
+<img src="mouse.png" style="max-width:100px;" /> mouse.png<br>
 

@@ -1,122 +1,122 @@
 # Image Previews
 
-![barnacle-0.png](barnacle-0.png) barnacle-0.png
+<img src="barnacle-0.png" style="max-width:100px;" /> barnacle-0.png<br>
 
-![barnacle-1.png](barnacle-1.png) barnacle-1.png
+<img src="barnacle-1.png" style="max-width:100px;" /> barnacle-1.png<br>
 
-![barnacle-3.png](barnacle-3.png) barnacle-3.png
+<img src="barnacle-3.png" style="max-width:100px;" /> barnacle-3.png<br>
 
-![bee-0.png](bee-0.png) bee-0.png
+<img src="bee-0.png" style="max-width:100px;" /> bee-0.png<br>
 
-![bee-1.png](bee-1.png) bee-1.png
+<img src="bee-1.png" style="max-width:100px;" /> bee-1.png<br>
 
-![bee-2.png](bee-2.png) bee-2.png
+<img src="bee-2.png" style="max-width:100px;" /> bee-2.png<br>
 
-![cloud.png](cloud.png) cloud.png
+<img src="cloud.png" style="max-width:100px;" /> cloud.png<br>
 
-![fishy-0.png](fishy-0.png) fishy-0.png
+<img src="fishy-0.png" style="max-width:100px;" /> fishy-0.png<br>
 
-![fishy-1.png](fishy-1.png) fishy-1.png
+<img src="fishy-1.png" style="max-width:100px;" /> fishy-1.png<br>
 
-![fishy-2.png](fishy-2.png) fishy-2.png
+<img src="fishy-2.png" style="max-width:100px;" /> fishy-2.png<br>
 
-![fly-0.png](fly-0.png) fly-0.png
+<img src="fly-0.png" style="max-width:100px;" /> fly-0.png<br>
 
-![fly-1.png](fly-1.png) fly-1.png
+<img src="fly-1.png" style="max-width:100px;" /> fly-1.png<br>
 
-![fly-2.png](fly-2.png) fly-2.png
+<img src="fly-2.png" style="max-width:100px;" /> fly-2.png<br>
 
-![flyman-fly.png](flyman-fly.png) flyman-fly.png
+<img src="flyman-fly.png" style="max-width:100px;" /> flyman-fly.png<br>
 
-![flyman-jump.png](flyman-jump.png) flyman-jump.png
+<img src="flyman-jump.png" style="max-width:100px;" /> flyman-jump.png<br>
 
-![flyman-stand.png](flyman-stand.png) flyman-stand.png
+<img src="flyman-stand.png" style="max-width:100px;" /> flyman-stand.png<br>
 
-![flyman-still_fly.png](flyman-still_fly.png) flyman-still_fly.png
+<img src="flyman-still_fly.png" style="max-width:100px;" /> flyman-still_fly.png<br>
 
-![flyman-still_jump.png](flyman-still_jump.png) flyman-still_jump.png
+<img src="flyman-still_jump.png" style="max-width:100px;" /> flyman-still_jump.png<br>
 
-![flyman-still_stand.png](flyman-still_stand.png) flyman-still_stand.png
+<img src="flyman-still_stand.png" style="max-width:100px;" /> flyman-still_stand.png<br>
 
-![frog-0.png](frog-0.png) frog-0.png
+<img src="frog-0.png" style="max-width:100px;" /> frog-0.png<br>
 
-![frog-1.png](frog-1.png) frog-1.png
+<img src="frog-1.png" style="max-width:100px;" /> frog-1.png<br>
 
-![frog-2.png](frog-2.png) frog-2.png
+<img src="frog-2.png" style="max-width:100px;" /> frog-2.png<br>
 
-![ladybug-0.png](ladybug-0.png) ladybug-0.png
+<img src="ladybug-0.png" style="max-width:100px;" /> ladybug-0.png<br>
 
-![ladybug-1.png](ladybug-1.png) ladybug-1.png
+<img src="ladybug-1.png" style="max-width:100px;" /> ladybug-1.png<br>
 
-![mouse-0.png](mouse-0.png) mouse-0.png
+<img src="mouse-0.png" style="max-width:100px;" /> mouse-0.png<br>
 
-![mouse-1.png](mouse-1.png) mouse-1.png
+<img src="mouse-1.png" style="max-width:100px;" /> mouse-1.png<br>
 
-![mouse-2.png](mouse-2.png) mouse-2.png
+<img src="mouse-2.png" style="max-width:100px;" /> mouse-2.png<br>
 
-![saw-0.png](saw-0.png) saw-0.png
+<img src="saw-0.png" style="max-width:100px;" /> saw-0.png<br>
 
-![saw-1.png](saw-1.png) saw-1.png
+<img src="saw-1.png" style="max-width:100px;" /> saw-1.png<br>
 
-![saw-2.png](saw-2.png) saw-2.png
+<img src="saw-2.png" style="max-width:100px;" /> saw-2.png<br>
 
-![saw-half-0.png](saw-half-0.png) saw-half-0.png
+<img src="saw-half-0.png" style="max-width:100px;" /> saw-half-0.png<br>
 
-![saw-half-1.png](saw-half-1.png) saw-half-1.png
+<img src="saw-half-1.png" style="max-width:100px;" /> saw-half-1.png<br>
 
-![saw-half-2.png](saw-half-2.png) saw-half-2.png
+<img src="saw-half-2.png" style="max-width:100px;" /> saw-half-2.png<br>
 
-![slime-block-0.png](slime-block-0.png) slime-block-0.png
+<img src="slime-block-0.png" style="max-width:100px;" /> slime-block-0.png<br>
 
-![slime-block-1.png](slime-block-1.png) slime-block-1.png
+<img src="slime-block-1.png" style="max-width:100px;" /> slime-block-1.png<br>
 
-![slime-block-2.png](slime-block-2.png) slime-block-2.png
+<img src="slime-block-2.png" style="max-width:100px;" /> slime-block-2.png<br>
 
-![slimey-0.png](slimey-0.png) slimey-0.png
+<img src="slimey-0.png" style="max-width:100px;" /> slimey-0.png<br>
 
-![slimey-1.png](slimey-1.png) slimey-1.png
+<img src="slimey-1.png" style="max-width:100px;" /> slimey-1.png<br>
 
-![slimey-2.png](slimey-2.png) slimey-2.png
+<img src="slimey-2.png" style="max-width:100px;" /> slimey-2.png<br>
 
-![slimey-3.png](slimey-3.png) slimey-3.png
+<img src="slimey-3.png" style="max-width:100px;" /> slimey-3.png<br>
 
-![snail-0.png](snail-0.png) snail-0.png
+<img src="snail-0.png" style="max-width:100px;" /> snail-0.png<br>
 
-![snail-1.png](snail-1.png) snail-1.png
+<img src="snail-1.png" style="max-width:100px;" /> snail-1.png<br>
 
-![spike-ball-0.png](spike-ball-0.png) spike-ball-0.png
+<img src="spike-ball-0.png" style="max-width:100px;" /> spike-ball-0.png<br>
 
-![spike-ball-1.png](spike-ball-1.png) spike-ball-1.png
+<img src="spike-ball-1.png" style="max-width:100px;" /> spike-ball-1.png<br>
 
-![spikeman-jump.png](spikeman-jump.png) spikeman-jump.png
+<img src="spikeman-jump.png" style="max-width:100px;" /> spikeman-jump.png<br>
 
-![spikeman-stand.png](spikeman-stand.png) spikeman-stand.png
+<img src="spikeman-stand.png" style="max-width:100px;" /> spikeman-stand.png<br>
 
-![spikeman-walk-1.png](spikeman-walk-1.png) spikeman-walk-1.png
+<img src="spikeman-walk-1.png" style="max-width:100px;" /> spikeman-walk-1.png<br>
 
-![spikeman-walk-2.png](spikeman-walk-2.png) spikeman-walk-2.png
+<img src="spikeman-walk-2.png" style="max-width:100px;" /> spikeman-walk-2.png<br>
 
-![springman-hurt.png](springman-hurt.png) springman-hurt.png
+<img src="springman-hurt.png" style="max-width:100px;" /> springman-hurt.png<br>
 
-![springman-stand.png](springman-stand.png) springman-stand.png
+<img src="springman-stand.png" style="max-width:100px;" /> springman-stand.png<br>
 
-![sun-0.png](sun-0.png) sun-0.png
+<img src="sun-0.png" style="max-width:100px;" /> sun-0.png<br>
 
-![sun-1.png](sun-1.png) sun-1.png
+<img src="sun-1.png" style="max-width:100px;" /> sun-1.png<br>
 
-![wingman-1.png](wingman-1.png) wingman-1.png
+<img src="wingman-1.png" style="max-width:100px;" /> wingman-1.png<br>
 
-![wingman-2.png](wingman-2.png) wingman-2.png
+<img src="wingman-2.png" style="max-width:100px;" /> wingman-2.png<br>
 
-![wingman-3.png](wingman-3.png) wingman-3.png
+<img src="wingman-3.png" style="max-width:100px;" /> wingman-3.png<br>
 
-![wingman-4.png](wingman-4.png) wingman-4.png
+<img src="wingman-4.png" style="max-width:100px;" /> wingman-4.png<br>
 
-![wingman-5.png](wingman-5.png) wingman-5.png
+<img src="wingman-5.png" style="max-width:100px;" /> wingman-5.png<br>
 
-![worm-0.png](worm-0.png) worm-0.png
+<img src="worm-0.png" style="max-width:100px;" /> worm-0.png<br>
 
-![worm-1.png](worm-1.png) worm-1.png
+<img src="worm-1.png" style="max-width:100px;" /> worm-1.png<br>
 
-![worm-2.png](worm-2.png) worm-2.png
+<img src="worm-2.png" style="max-width:100px;" /> worm-2.png<br>
 

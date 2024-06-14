@@ -1,26 +1,26 @@
 # Image Previews
 
-![bunny-1-hurt.png](bunny-1-hurt.png) bunny-1-hurt.png
+<img src="bunny-1-hurt.png" style="max-width:100px;" /> bunny-1-hurt.png<br>
 
-![bunny-1-jump.png](bunny-1-jump.png) bunny-1-jump.png
+<img src="bunny-1-jump.png" style="max-width:100px;" /> bunny-1-jump.png<br>
 
-![bunny-1-ready.png](bunny-1-ready.png) bunny-1-ready.png
+<img src="bunny-1-ready.png" style="max-width:100px;" /> bunny-1-ready.png<br>
 
-![bunny-1-stand.png](bunny-1-stand.png) bunny-1-stand.png
+<img src="bunny-1-stand.png" style="max-width:100px;" /> bunny-1-stand.png<br>
 
-![bunny-1-walk1.png](bunny-1-walk1.png) bunny-1-walk1.png
+<img src="bunny-1-walk1.png" style="max-width:100px;" /> bunny-1-walk1.png<br>
 
-![bunny-1-walk2.png](bunny-1-walk2.png) bunny-1-walk2.png
+<img src="bunny-1-walk2.png" style="max-width:100px;" /> bunny-1-walk2.png<br>
 
-![bunny-2-hurt.png](bunny-2-hurt.png) bunny-2-hurt.png
+<img src="bunny-2-hurt.png" style="max-width:100px;" /> bunny-2-hurt.png<br>
 
-![bunny-2-jump.png](bunny-2-jump.png) bunny-2-jump.png
+<img src="bunny-2-jump.png" style="max-width:100px;" /> bunny-2-jump.png<br>
 
-![bunny-2-ready.png](bunny-2-ready.png) bunny-2-ready.png
+<img src="bunny-2-ready.png" style="max-width:100px;" /> bunny-2-ready.png<br>
 
-![bunny-2-stand.png](bunny-2-stand.png) bunny-2-stand.png
+<img src="bunny-2-stand.png" style="max-width:100px;" /> bunny-2-stand.png<br>
 
-![bunny-2-walk1.png](bunny-2-walk1.png) bunny-2-walk1.png
+<img src="bunny-2-walk1.png" style="max-width:100px;" /> bunny-2-walk1.png<br>
 
-![bunny-2-walk2.png](bunny-2-walk2.png) bunny-2-walk2.png
+<img src="bunny-2-walk2.png" style="max-width:100px;" /> bunny-2-walk2.png<br>
 

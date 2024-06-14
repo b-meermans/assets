@@ -1,102 +1,102 @@
 # Image Previews
 
-![cute-bear.png](cute-bear.png) cute-bear.png
+<img src="cute-bear.png" style="max-width:100px;" /> cute-bear.png<br>
 
-![cute-beaver.png](cute-beaver.png) cute-beaver.png
+<img src="cute-beaver.png" style="max-width:100px;" /> cute-beaver.png<br>
 
-![cute-cat.png](cute-cat.png) cute-cat.png
+<img src="cute-cat.png" style="max-width:100px;" /> cute-cat.png<br>
 
-![cute-chicken.png](cute-chicken.png) cute-chicken.png
+<img src="cute-chicken.png" style="max-width:100px;" /> cute-chicken.png<br>
 
-![cute-cow.png](cute-cow.png) cute-cow.png
+<img src="cute-cow.png" style="max-width:100px;" /> cute-cow.png<br>
 
-![cute-dog.png](cute-dog.png) cute-dog.png
+<img src="cute-dog.png" style="max-width:100px;" /> cute-dog.png<br>
 
-![cute-elephant.png](cute-elephant.png) cute-elephant.png
+<img src="cute-elephant.png" style="max-width:100px;" /> cute-elephant.png<br>
 
-![cute-giraffe.png](cute-giraffe.png) cute-giraffe.png
+<img src="cute-giraffe.png" style="max-width:100px;" /> cute-giraffe.png<br>
 
-![cute-goat.png](cute-goat.png) cute-goat.png
+<img src="cute-goat.png" style="max-width:100px;" /> cute-goat.png<br>
 
-![cute-hippo.png](cute-hippo.png) cute-hippo.png
+<img src="cute-hippo.png" style="max-width:100px;" /> cute-hippo.png<br>
 
-![cute-kangaroo.png](cute-kangaroo.png) cute-kangaroo.png
+<img src="cute-kangaroo.png" style="max-width:100px;" /> cute-kangaroo.png<br>
 
-![cute-monkey.png](cute-monkey.png) cute-monkey.png
+<img src="cute-monkey.png" style="max-width:100px;" /> cute-monkey.png<br>
 
-![cute-moose.png](cute-moose.png) cute-moose.png
+<img src="cute-moose.png" style="max-width:100px;" /> cute-moose.png<br>
 
-![cute-owl.png](cute-owl.png) cute-owl.png
+<img src="cute-owl.png" style="max-width:100px;" /> cute-owl.png<br>
 
-![cute-ox.png](cute-ox.png) cute-ox.png
+<img src="cute-ox.png" style="max-width:100px;" /> cute-ox.png<br>
 
-![cute-penguin.png](cute-penguin.png) cute-penguin.png
+<img src="cute-penguin.png" style="max-width:100px;" /> cute-penguin.png<br>
 
-![cute-pig.png](cute-pig.png) cute-pig.png
+<img src="cute-pig.png" style="max-width:100px;" /> cute-pig.png<br>
 
-![cute-sheep.png](cute-sheep.png) cute-sheep.png
+<img src="cute-sheep.png" style="max-width:100px;" /> cute-sheep.png<br>
 
-![cute-squirrel.png](cute-squirrel.png) cute-squirrel.png
+<img src="cute-squirrel.png" style="max-width:100px;" /> cute-squirrel.png<br>
 
-![cute-zebra.png](cute-zebra.png) cute-zebra.png
+<img src="cute-zebra.png" style="max-width:100px;" /> cute-zebra.png<br>
 
-![round-bear.png](round-bear.png) round-bear.png
+<img src="round-bear.png" style="max-width:100px;" /> round-bear.png<br>
 
-![round-buffalo.png](round-buffalo.png) round-buffalo.png
+<img src="round-buffalo.png" style="max-width:100px;" /> round-buffalo.png<br>
 
-![round-chick.png](round-chick.png) round-chick.png
+<img src="round-chick.png" style="max-width:100px;" /> round-chick.png<br>
 
-![round-chicken.png](round-chicken.png) round-chicken.png
+<img src="round-chicken.png" style="max-width:100px;" /> round-chicken.png<br>
 
-![round-cow.png](round-cow.png) round-cow.png
+<img src="round-cow.png" style="max-width:100px;" /> round-cow.png<br>
 
-![round-crocodile.png](round-crocodile.png) round-crocodile.png
+<img src="round-crocodile.png" style="max-width:100px;" /> round-crocodile.png<br>
 
-![round-dog.png](round-dog.png) round-dog.png
+<img src="round-dog.png" style="max-width:100px;" /> round-dog.png<br>
 
-![round-duck.png](round-duck.png) round-duck.png
+<img src="round-duck.png" style="max-width:100px;" /> round-duck.png<br>
 
-![round-elephant.png](round-elephant.png) round-elephant.png
+<img src="round-elephant.png" style="max-width:100px;" /> round-elephant.png<br>
 
-![round-frog.png](round-frog.png) round-frog.png
+<img src="round-frog.png" style="max-width:100px;" /> round-frog.png<br>
 
-![round-giraffe.png](round-giraffe.png) round-giraffe.png
+<img src="round-giraffe.png" style="max-width:100px;" /> round-giraffe.png<br>
 
-![round-goat.png](round-goat.png) round-goat.png
+<img src="round-goat.png" style="max-width:100px;" /> round-goat.png<br>
 
-![round-gorilla.png](round-gorilla.png) round-gorilla.png
+<img src="round-gorilla.png" style="max-width:100px;" /> round-gorilla.png<br>
 
-![round-hippo.png](round-hippo.png) round-hippo.png
+<img src="round-hippo.png" style="max-width:100px;" /> round-hippo.png<br>
 
-![round-horse.png](round-horse.png) round-horse.png
+<img src="round-horse.png" style="max-width:100px;" /> round-horse.png<br>
 
-![round-monkey.png](round-monkey.png) round-monkey.png
+<img src="round-monkey.png" style="max-width:100px;" /> round-monkey.png<br>
 
-![round-moose.png](round-moose.png) round-moose.png
+<img src="round-moose.png" style="max-width:100px;" /> round-moose.png<br>
 
-![round-narwhal.png](round-narwhal.png) round-narwhal.png
+<img src="round-narwhal.png" style="max-width:100px;" /> round-narwhal.png<br>
 
-![round-owl.png](round-owl.png) round-owl.png
+<img src="round-owl.png" style="max-width:100px;" /> round-owl.png<br>
 
-![round-panda.png](round-panda.png) round-panda.png
+<img src="round-panda.png" style="max-width:100px;" /> round-panda.png<br>
 
-![round-parrot.png](round-parrot.png) round-parrot.png
+<img src="round-parrot.png" style="max-width:100px;" /> round-parrot.png<br>
 
-![round-penguin.png](round-penguin.png) round-penguin.png
+<img src="round-penguin.png" style="max-width:100px;" /> round-penguin.png<br>
 
-![round-pig.png](round-pig.png) round-pig.png
+<img src="round-pig.png" style="max-width:100px;" /> round-pig.png<br>
 
-![round-rabbit.png](round-rabbit.png) round-rabbit.png
+<img src="round-rabbit.png" style="max-width:100px;" /> round-rabbit.png<br>
 
-![round-rhino.png](round-rhino.png) round-rhino.png
+<img src="round-rhino.png" style="max-width:100px;" /> round-rhino.png<br>
 
-![round-sloth.png](round-sloth.png) round-sloth.png
+<img src="round-sloth.png" style="max-width:100px;" /> round-sloth.png<br>
 
-![round-snake.png](round-snake.png) round-snake.png
+<img src="round-snake.png" style="max-width:100px;" /> round-snake.png<br>
 
-![round-walrus.png](round-walrus.png) round-walrus.png
+<img src="round-walrus.png" style="max-width:100px;" /> round-walrus.png<br>
 
-![round-whale.png](round-whale.png) round-whale.png
+<img src="round-whale.png" style="max-width:100px;" /> round-whale.png<br>
 
-![round-zebra.png](round-zebra.png) round-zebra.png
+<img src="round-zebra.png" style="max-width:100px;" /> round-zebra.png<br>
 

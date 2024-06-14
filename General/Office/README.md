@@ -1,28 +1,28 @@
 # Image Previews
 
-![office-book-0.png](office-book-0.png) office-book-0.png
+<img src="office-book-0.png" style="max-width:100px;" /> office-book-0.png<br>
 
-![office-book-1.png](office-book-1.png) office-book-1.png
+<img src="office-book-1.png" style="max-width:100px;" /> office-book-1.png<br>
 
-![office-book-3.png](office-book-3.png) office-book-3.png
+<img src="office-book-3.png" style="max-width:100px;" /> office-book-3.png<br>
 
-![office-book.png](office-book.png) office-book.png
+<img src="office-book.png" style="max-width:100px;" /> office-book.png<br>
 
-![office-briefcase.png](office-briefcase.png) office-briefcase.png
+<img src="office-briefcase.png" style="max-width:100px;" /> office-briefcase.png<br>
 
-![office-clipboard.png](office-clipboard.png) office-clipboard.png
+<img src="office-clipboard.png" style="max-width:100px;" /> office-clipboard.png<br>
 
-![office-folder.png](office-folder.png) office-folder.png
+<img src="office-folder.png" style="max-width:100px;" /> office-folder.png<br>
 
-![office-laptop.png](office-laptop.png) office-laptop.png
+<img src="office-laptop.png" style="max-width:100px;" /> office-laptop.png<br>
 
-![office-note.png](office-note.png) office-note.png
+<img src="office-note.png" style="max-width:100px;" /> office-note.png<br>
 
-![office-paint.png](office-paint.png) office-paint.png
+<img src="office-paint.png" style="max-width:100px;" /> office-paint.png<br>
 
-![office-palette.png](office-palette.png) office-palette.png
+<img src="office-palette.png" style="max-width:100px;" /> office-palette.png<br>
 
-![office-pen.png](office-pen.png) office-pen.png
+<img src="office-pen.png" style="max-width:100px;" /> office-pen.png<br>
 
-![office-pencil.png](office-pencil.png) office-pencil.png
+<img src="office-pencil.png" style="max-width:100px;" /> office-pencil.png<br>
 

@@ -1,36 +1,36 @@
 # Image Previews
 
-![dirt.png](dirt.png) dirt.png
+<img src="dirt.png" style="max-width:100px;" /> dirt.png<br>
 
-![grass.png](grass.png) grass.png
+<img src="grass.png" style="max-width:100px;" /> grass.png<br>
 
-![ground-dirt.png](ground-dirt.png) ground-dirt.png
+<img src="ground-dirt.png" style="max-width:100px;" /> ground-dirt.png<br>
 
-![ground-grass.png](ground-grass.png) ground-grass.png
+<img src="ground-grass.png" style="max-width:100px;" /> ground-grass.png<br>
 
-![ground-ice.png](ground-ice.png) ground-ice.png
+<img src="ground-ice.png" style="max-width:100px;" /> ground-ice.png<br>
 
-![ground-rock.png](ground-rock.png) ground-rock.png
+<img src="ground-rock.png" style="max-width:100px;" /> ground-rock.png<br>
 
-![ground-snow.png](ground-snow.png) ground-snow.png
+<img src="ground-snow.png" style="max-width:100px;" /> ground-snow.png<br>
 
-![lava-top-high.png](lava-top-high.png) lava-top-high.png
+<img src="lava-top-high.png" style="max-width:100px;" /> lava-top-high.png<br>
 
-![sand.png](sand.png) sand.png
+<img src="sand.png" style="max-width:100px;" /> sand.png<br>
 
-![sandfloor-0.png](sandfloor-0.png) sandfloor-0.png
+<img src="sandfloor-0.png" style="max-width:100px;" /> sandfloor-0.png<br>
 
-![sandfloor-1.png](sandfloor-1.png) sandfloor-1.png
+<img src="sandfloor-1.png" style="max-width:100px;" /> sandfloor-1.png<br>
 
-![sandfloor-2.png](sandfloor-2.png) sandfloor-2.png
+<img src="sandfloor-2.png" style="max-width:100px;" /> sandfloor-2.png<br>
 
-![sandfloor-3.png](sandfloor-3.png) sandfloor-3.png
+<img src="sandfloor-3.png" style="max-width:100px;" /> sandfloor-3.png<br>
 
-![sandfloor-4.png](sandfloor-4.png) sandfloor-4.png
+<img src="sandfloor-4.png" style="max-width:100px;" /> sandfloor-4.png<br>
 
-![sandfloor-5.png](sandfloor-5.png) sandfloor-5.png
+<img src="sandfloor-5.png" style="max-width:100px;" /> sandfloor-5.png<br>
 
-![snow.png](snow.png) snow.png
+<img src="snow.png" style="max-width:100px;" /> snow.png<br>
 
-![water-top-high.png](water-top-high.png) water-top-high.png
+<img src="water-top-high.png" style="max-width:100px;" /> water-top-high.png<br>
 

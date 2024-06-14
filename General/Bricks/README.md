@@ -1,54 +1,54 @@
 # Image Previews
 
-![brick-1 (2).png](brick-1 (2).png) brick-1 (2).png
+<img src="brick-1 (2).png" style="max-width:100px;" /> brick-1 (2).png<br>
 
-![brick-1.png](brick-1.png) brick-1.png
+<img src="brick-1.png" style="max-width:100px;" /> brick-1.png<br>
 
-![brick-11.png](brick-11.png) brick-11.png
+<img src="brick-11.png" style="max-width:100px;" /> brick-11.png<br>
 
-![brick-12.png](brick-12.png) brick-12.png
+<img src="brick-12.png" style="max-width:100px;" /> brick-12.png<br>
 
-![brick-13.png](brick-13.png) brick-13.png
+<img src="brick-13.png" style="max-width:100px;" /> brick-13.png<br>
 
-![brick-14.png](brick-14.png) brick-14.png
+<img src="brick-14.png" style="max-width:100px;" /> brick-14.png<br>
 
-![brick-15.png](brick-15.png) brick-15.png
+<img src="brick-15.png" style="max-width:100px;" /> brick-15.png<br>
 
-![brick-16.png](brick-16.png) brick-16.png
+<img src="brick-16.png" style="max-width:100px;" /> brick-16.png<br>
 
-![brick-2.png](brick-2.png) brick-2.png
+<img src="brick-2.png" style="max-width:100px;" /> brick-2.png<br>
 
-![brick-3.png](brick-3.png) brick-3.png
+<img src="brick-3.png" style="max-width:100px;" /> brick-3.png<br>
 
-![brick-4.png](brick-4.png) brick-4.png
+<img src="brick-4.png" style="max-width:100px;" /> brick-4.png<br>
 
-![brick-5.png](brick-5.png) brick-5.png
+<img src="brick-5.png" style="max-width:100px;" /> brick-5.png<br>
 
-![brick-6.png](brick-6.png) brick-6.png
+<img src="brick-6.png" style="max-width:100px;" /> brick-6.png<br>
 
-![brick-7.png](brick-7.png) brick-7.png
+<img src="brick-7.png" style="max-width:100px;" /> brick-7.png<br>
 
-![brick-8.png](brick-8.png) brick-8.png
+<img src="brick-8.png" style="max-width:100px;" /> brick-8.png<br>
 
-![brick-9.png](brick-9.png) brick-9.png
+<img src="brick-9.png" style="max-width:100px;" /> brick-9.png<br>
 
-![brick-special-1 (2).png](brick-special-1 (2).png) brick-special-1 (2).png
+<img src="brick-special-1 (2).png" style="max-width:100px;" /> brick-special-1 (2).png<br>
 
-![brick-special-1.png](brick-special-1.png) brick-special-1.png
+<img src="brick-special-1.png" style="max-width:100px;" /> brick-special-1.png<br>
 
-![brick-special-2.png](brick-special-2.png) brick-special-2.png
+<img src="brick-special-2.png" style="max-width:100px;" /> brick-special-2.png<br>
 
-![brick-special-3.png](brick-special-3.png) brick-special-3.png
+<img src="brick-special-3.png" style="max-width:100px;" /> brick-special-3.png<br>
 
-![brick-special-4.png](brick-special-4.png) brick-special-4.png
+<img src="brick-special-4.png" style="max-width:100px;" /> brick-special-4.png<br>
 
-![brick-special-5.png](brick-special-5.png) brick-special-5.png
+<img src="brick-special-5.png" style="max-width:100px;" /> brick-special-5.png<br>
 
-![brick-special-6.png](brick-special-6.png) brick-special-6.png
+<img src="brick-special-6.png" style="max-width:100px;" /> brick-special-6.png<br>
 
-![brick-special-7.png](brick-special-7.png) brick-special-7.png
+<img src="brick-special-7.png" style="max-width:100px;" /> brick-special-7.png<br>
 
-![brick-special-8.png](brick-special-8.png) brick-special-8.png
+<img src="brick-special-8.png" style="max-width:100px;" /> brick-special-8.png<br>
 
-![brick-special-9.png](brick-special-9.png) brick-special-9.png
+<img src="brick-special-9.png" style="max-width:100px;" /> brick-special-9.png<br>
 

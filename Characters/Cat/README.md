@@ -1,130 +1,130 @@
 # Image Previews
 
-![cat-fall-1.png](cat-fall-1.png) cat-fall-1.png
+<img src="cat-fall-1.png" style="max-width:100px;" /> cat-fall-1.png<br>
 
-![cat-fall-2.png](cat-fall-2.png) cat-fall-2.png
+<img src="cat-fall-2.png" style="max-width:100px;" /> cat-fall-2.png<br>
 
-![cat-fall-3.png](cat-fall-3.png) cat-fall-3.png
+<img src="cat-fall-3.png" style="max-width:100px;" /> cat-fall-3.png<br>
 
-![cat-fall-4.png](cat-fall-4.png) cat-fall-4.png
+<img src="cat-fall-4.png" style="max-width:100px;" /> cat-fall-4.png<br>
 
-![cat-fall-5.png](cat-fall-5.png) cat-fall-5.png
+<img src="cat-fall-5.png" style="max-width:100px;" /> cat-fall-5.png<br>
 
-![cat-fall-6.png](cat-fall-6.png) cat-fall-6.png
+<img src="cat-fall-6.png" style="max-width:100px;" /> cat-fall-6.png<br>
 
-![cat-fall-7.png](cat-fall-7.png) cat-fall-7.png
+<img src="cat-fall-7.png" style="max-width:100px;" /> cat-fall-7.png<br>
 
-![cat-fall-8.png](cat-fall-8.png) cat-fall-8.png
+<img src="cat-fall-8.png" style="max-width:100px;" /> cat-fall-8.png<br>
 
-![cat-idle-1.png](cat-idle-1.png) cat-idle-1.png
+<img src="cat-idle-1.png" style="max-width:100px;" /> cat-idle-1.png<br>
 
-![cat-idle-10.png](cat-idle-10.png) cat-idle-10.png
+<img src="cat-idle-10.png" style="max-width:100px;" /> cat-idle-10.png<br>
 
-![cat-idle-2.png](cat-idle-2.png) cat-idle-2.png
+<img src="cat-idle-2.png" style="max-width:100px;" /> cat-idle-2.png<br>
 
-![cat-idle-3.png](cat-idle-3.png) cat-idle-3.png
+<img src="cat-idle-3.png" style="max-width:100px;" /> cat-idle-3.png<br>
 
-![cat-idle-4.png](cat-idle-4.png) cat-idle-4.png
+<img src="cat-idle-4.png" style="max-width:100px;" /> cat-idle-4.png<br>
 
-![cat-idle-5.png](cat-idle-5.png) cat-idle-5.png
+<img src="cat-idle-5.png" style="max-width:100px;" /> cat-idle-5.png<br>
 
-![cat-idle-6.png](cat-idle-6.png) cat-idle-6.png
+<img src="cat-idle-6.png" style="max-width:100px;" /> cat-idle-6.png<br>
 
-![cat-idle-7.png](cat-idle-7.png) cat-idle-7.png
+<img src="cat-idle-7.png" style="max-width:100px;" /> cat-idle-7.png<br>
 
-![cat-idle-8.png](cat-idle-8.png) cat-idle-8.png
+<img src="cat-idle-8.png" style="max-width:100px;" /> cat-idle-8.png<br>
 
-![cat-idle-9.png](cat-idle-9.png) cat-idle-9.png
+<img src="cat-idle-9.png" style="max-width:100px;" /> cat-idle-9.png<br>
 
-![cat-jump-1.png](cat-jump-1.png) cat-jump-1.png
+<img src="cat-jump-1.png" style="max-width:100px;" /> cat-jump-1.png<br>
 
-![cat-jump-2.png](cat-jump-2.png) cat-jump-2.png
+<img src="cat-jump-2.png" style="max-width:100px;" /> cat-jump-2.png<br>
 
-![cat-jump-3.png](cat-jump-3.png) cat-jump-3.png
+<img src="cat-jump-3.png" style="max-width:100px;" /> cat-jump-3.png<br>
 
-![cat-jump-4.png](cat-jump-4.png) cat-jump-4.png
+<img src="cat-jump-4.png" style="max-width:100px;" /> cat-jump-4.png<br>
 
-![cat-jump-5.png](cat-jump-5.png) cat-jump-5.png
+<img src="cat-jump-5.png" style="max-width:100px;" /> cat-jump-5.png<br>
 
-![cat-jump-6.png](cat-jump-6.png) cat-jump-6.png
+<img src="cat-jump-6.png" style="max-width:100px;" /> cat-jump-6.png<br>
 
-![cat-jump-7.png](cat-jump-7.png) cat-jump-7.png
+<img src="cat-jump-7.png" style="max-width:100px;" /> cat-jump-7.png<br>
 
-![cat-jump-8.png](cat-jump-8.png) cat-jump-8.png
+<img src="cat-jump-8.png" style="max-width:100px;" /> cat-jump-8.png<br>
 
-![cat-run-1.png](cat-run-1.png) cat-run-1.png
+<img src="cat-run-1.png" style="max-width:100px;" /> cat-run-1.png<br>
 
-![cat-run-2.png](cat-run-2.png) cat-run-2.png
+<img src="cat-run-2.png" style="max-width:100px;" /> cat-run-2.png<br>
 
-![cat-run-3.png](cat-run-3.png) cat-run-3.png
+<img src="cat-run-3.png" style="max-width:100px;" /> cat-run-3.png<br>
 
-![cat-run-4.png](cat-run-4.png) cat-run-4.png
+<img src="cat-run-4.png" style="max-width:100px;" /> cat-run-4.png<br>
 
-![cat-run-5.png](cat-run-5.png) cat-run-5.png
+<img src="cat-run-5.png" style="max-width:100px;" /> cat-run-5.png<br>
 
-![cat-run-6.png](cat-run-6.png) cat-run-6.png
+<img src="cat-run-6.png" style="max-width:100px;" /> cat-run-6.png<br>
 
-![cat-run-7.png](cat-run-7.png) cat-run-7.png
+<img src="cat-run-7.png" style="max-width:100px;" /> cat-run-7.png<br>
 
-![cat-run-8.png](cat-run-8.png) cat-run-8.png
+<img src="cat-run-8.png" style="max-width:100px;" /> cat-run-8.png<br>
 
-![cat-slide-1.png](cat-slide-1.png) cat-slide-1.png
+<img src="cat-slide-1.png" style="max-width:100px;" /> cat-slide-1.png<br>
 
-![cat-slide-10.png](cat-slide-10.png) cat-slide-10.png
+<img src="cat-slide-10.png" style="max-width:100px;" /> cat-slide-10.png<br>
 
-![cat-slide-2.png](cat-slide-2.png) cat-slide-2.png
+<img src="cat-slide-2.png" style="max-width:100px;" /> cat-slide-2.png<br>
 
-![cat-slide-3.png](cat-slide-3.png) cat-slide-3.png
+<img src="cat-slide-3.png" style="max-width:100px;" /> cat-slide-3.png<br>
 
-![cat-slide-4.png](cat-slide-4.png) cat-slide-4.png
+<img src="cat-slide-4.png" style="max-width:100px;" /> cat-slide-4.png<br>
 
-![cat-slide-5.png](cat-slide-5.png) cat-slide-5.png
+<img src="cat-slide-5.png" style="max-width:100px;" /> cat-slide-5.png<br>
 
-![cat-slide-6.png](cat-slide-6.png) cat-slide-6.png
+<img src="cat-slide-6.png" style="max-width:100px;" /> cat-slide-6.png<br>
 
-![cat-slide-7.png](cat-slide-7.png) cat-slide-7.png
+<img src="cat-slide-7.png" style="max-width:100px;" /> cat-slide-7.png<br>
 
-![cat-slide-8.png](cat-slide-8.png) cat-slide-8.png
+<img src="cat-slide-8.png" style="max-width:100px;" /> cat-slide-8.png<br>
 
-![cat-slide-9.png](cat-slide-9.png) cat-slide-9.png
+<img src="cat-slide-9.png" style="max-width:100px;" /> cat-slide-9.png<br>
 
-![cat-tired-1.png](cat-tired-1.png) cat-tired-1.png
+<img src="cat-tired-1.png" style="max-width:100px;" /> cat-tired-1.png<br>
 
-![cat-tired-10.png](cat-tired-10.png) cat-tired-10.png
+<img src="cat-tired-10.png" style="max-width:100px;" /> cat-tired-10.png<br>
 
-![cat-tired-2.png](cat-tired-2.png) cat-tired-2.png
+<img src="cat-tired-2.png" style="max-width:100px;" /> cat-tired-2.png<br>
 
-![cat-tired-3.png](cat-tired-3.png) cat-tired-3.png
+<img src="cat-tired-3.png" style="max-width:100px;" /> cat-tired-3.png<br>
 
-![cat-tired-4.png](cat-tired-4.png) cat-tired-4.png
+<img src="cat-tired-4.png" style="max-width:100px;" /> cat-tired-4.png<br>
 
-![cat-tired-5.png](cat-tired-5.png) cat-tired-5.png
+<img src="cat-tired-5.png" style="max-width:100px;" /> cat-tired-5.png<br>
 
-![cat-tired-6.png](cat-tired-6.png) cat-tired-6.png
+<img src="cat-tired-6.png" style="max-width:100px;" /> cat-tired-6.png<br>
 
-![cat-tired-7.png](cat-tired-7.png) cat-tired-7.png
+<img src="cat-tired-7.png" style="max-width:100px;" /> cat-tired-7.png<br>
 
-![cat-tired-8.png](cat-tired-8.png) cat-tired-8.png
+<img src="cat-tired-8.png" style="max-width:100px;" /> cat-tired-8.png<br>
 
-![cat-tired-9.png](cat-tired-9.png) cat-tired-9.png
+<img src="cat-tired-9.png" style="max-width:100px;" /> cat-tired-9.png<br>
 
-![cat-walk-1.png](cat-walk-1.png) cat-walk-1.png
+<img src="cat-walk-1.png" style="max-width:100px;" /> cat-walk-1.png<br>
 
-![cat-walk-10.png](cat-walk-10.png) cat-walk-10.png
+<img src="cat-walk-10.png" style="max-width:100px;" /> cat-walk-10.png<br>
 
-![cat-walk-2.png](cat-walk-2.png) cat-walk-2.png
+<img src="cat-walk-2.png" style="max-width:100px;" /> cat-walk-2.png<br>
 
-![cat-walk-3.png](cat-walk-3.png) cat-walk-3.png
+<img src="cat-walk-3.png" style="max-width:100px;" /> cat-walk-3.png<br>
 
-![cat-walk-4.png](cat-walk-4.png) cat-walk-4.png
+<img src="cat-walk-4.png" style="max-width:100px;" /> cat-walk-4.png<br>
 
-![cat-walk-5.png](cat-walk-5.png) cat-walk-5.png
+<img src="cat-walk-5.png" style="max-width:100px;" /> cat-walk-5.png<br>
 
-![cat-walk-6.png](cat-walk-6.png) cat-walk-6.png
+<img src="cat-walk-6.png" style="max-width:100px;" /> cat-walk-6.png<br>
 
-![cat-walk-7.png](cat-walk-7.png) cat-walk-7.png
+<img src="cat-walk-7.png" style="max-width:100px;" /> cat-walk-7.png<br>
 
-![cat-walk-8.png](cat-walk-8.png) cat-walk-8.png
+<img src="cat-walk-8.png" style="max-width:100px;" /> cat-walk-8.png<br>
 
-![cat-walk-9.png](cat-walk-9.png) cat-walk-9.png
+<img src="cat-walk-9.png" style="max-width:100px;" /> cat-walk-9.png<br>
 

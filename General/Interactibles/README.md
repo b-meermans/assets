@@ -1,32 +1,32 @@
 # Image Previews
 
-![button-pressed.png](button-pressed.png) button-pressed.png
+<img src="button-pressed.png" style="max-width:100px;" /> button-pressed.png<br>
 
-![button-unpressed.png](button-unpressed.png) button-unpressed.png
+<img src="button-unpressed.png" style="max-width:100px;" /> button-unpressed.png<br>
 
-![flag-down.png](flag-down.png) flag-down.png
+<img src="flag-down.png" style="max-width:100px;" /> flag-down.png<br>
 
-![flag-mid.png](flag-mid.png) flag-mid.png
+<img src="flag-mid.png" style="max-width:100px;" /> flag-mid.png<br>
 
-![flag-up.png](flag-up.png) flag-up.png
+<img src="flag-up.png" style="max-width:100px;" /> flag-up.png<br>
 
-![lever-left.png](lever-left.png) lever-left.png
+<img src="lever-left.png" style="max-width:100px;" /> lever-left.png<br>
 
-![lever-mid.png](lever-mid.png) lever-mid.png
+<img src="lever-mid.png" style="max-width:100px;" /> lever-mid.png<br>
 
-![lever-right.png](lever-right.png) lever-right.png
+<img src="lever-right.png" style="max-width:100px;" /> lever-right.png<br>
 
-![paddle.png](paddle.png) paddle.png
+<img src="paddle.png" style="max-width:100px;" /> paddle.png<br>
 
-![spring-in.png](spring-in.png) spring-in.png
+<img src="spring-in.png" style="max-width:100px;" /> spring-in.png<br>
 
-![spring-mid.png](spring-mid.png) spring-mid.png
+<img src="spring-mid.png" style="max-width:100px;" /> spring-mid.png<br>
 
-![spring-out.png](spring-out.png) spring-out.png
+<img src="spring-out.png" style="max-width:100px;" /> spring-out.png<br>
 
-![torch-off.png](torch-off.png) torch-off.png
+<img src="torch-off.png" style="max-width:100px;" /> torch-off.png<br>
 
-![torch-on-1.png](torch-on-1.png) torch-on-1.png
+<img src="torch-on-1.png" style="max-width:100px;" /> torch-on-1.png<br>
 
-![torch-on-2.png](torch-on-2.png) torch-on-2.png
+<img src="torch-on-2.png" style="max-width:100px;" /> torch-on-2.png<br>
 

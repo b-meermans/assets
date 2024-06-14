@@ -1,46 +1,46 @@
 # Image Previews
 
-![body-circle.png](body-circle.png) body-circle.png
+<img src="body-circle.png" style="max-width:100px;" /> body-circle.png<br>
 
-![body-rhombus.png](body-rhombus.png) body-rhombus.png
+<img src="body-rhombus.png" style="max-width:100px;" /> body-rhombus.png<br>
 
-![body-square.png](body-square.png) body-square.png
+<img src="body-square.png" style="max-width:100px;" /> body-square.png<br>
 
-![body-squircle.png](body-squircle.png) body-squircle.png
+<img src="body-squircle.png" style="max-width:100px;" /> body-squircle.png<br>
 
-![face-0.png](face-0.png) face-0.png
+<img src="face-0.png" style="max-width:100px;" /> face-0.png<br>
 
-![face-1.png](face-1.png) face-1.png
+<img src="face-1.png" style="max-width:100px;" /> face-1.png<br>
 
-![face-10.png](face-10.png) face-10.png
+<img src="face-10.png" style="max-width:100px;" /> face-10.png<br>
 
-![face-11.png](face-11.png) face-11.png
+<img src="face-11.png" style="max-width:100px;" /> face-11.png<br>
 
-![face-2.png](face-2.png) face-2.png
+<img src="face-2.png" style="max-width:100px;" /> face-2.png<br>
 
-![face-3.png](face-3.png) face-3.png
+<img src="face-3.png" style="max-width:100px;" /> face-3.png<br>
 
-![face-4.png](face-4.png) face-4.png
+<img src="face-4.png" style="max-width:100px;" /> face-4.png<br>
 
-![face-5.png](face-5.png) face-5.png
+<img src="face-5.png" style="max-width:100px;" /> face-5.png<br>
 
-![face-6.png](face-6.png) face-6.png
+<img src="face-6.png" style="max-width:100px;" /> face-6.png<br>
 
-![face-7.png](face-7.png) face-7.png
+<img src="face-7.png" style="max-width:100px;" /> face-7.png<br>
 
-![face-8.png](face-8.png) face-8.png
+<img src="face-8.png" style="max-width:100px;" /> face-8.png<br>
 
-![face-9.png](face-9.png) face-9.png
+<img src="face-9.png" style="max-width:100px;" /> face-9.png<br>
 
-![hand-closed.png](hand-closed.png) hand-closed.png
+<img src="hand-closed.png" style="max-width:100px;" /> hand-closed.png<br>
 
-![hand-open.png](hand-open.png) hand-open.png
+<img src="hand-open.png" style="max-width:100px;" /> hand-open.png<br>
 
-![hand-peace.png](hand-peace.png) hand-peace.png
+<img src="hand-peace.png" style="max-width:100px;" /> hand-peace.png<br>
 
-![hand-point.png](hand-point.png) hand-point.png
+<img src="hand-point.png" style="max-width:100px;" /> hand-point.png<br>
 
-![hand-rock.png](hand-rock.png) hand-rock.png
+<img src="hand-rock.png" style="max-width:100px;" /> hand-rock.png<br>
 
-![hand-thumb.png](hand-thumb.png) hand-thumb.png
+<img src="hand-thumb.png" style="max-width:100px;" /> hand-thumb.png<br>
 
