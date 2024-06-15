@@ -24,6 +24,20 @@
 
 <img src="lighting-yellow.png" width="100" /> lighting-yellow.png<br>
 
+<img src="paintdrip-0.png" width="100" /> paintdrip-0.png<br>
+
+<img src="paintdrip-1.png" width="100" /> paintdrip-1.png<br>
+
+<img src="paintdrip-2.png" width="100" /> paintdrip-2.png<br>
+
+<img src="paintsplat-0.png" width="100" /> paintsplat-0.png<br>
+
+<img src="paintsplat-1.png" width="100" /> paintsplat-1.png<br>
+
+<img src="paintsplat-2.png" width="100" /> paintsplat-2.png<br>
+
+<img src="paintsplat-3.png" width="100" /> paintsplat-3.png<br>
+
 <img src="particle-0.png" width="100" /> particle-0.png<br>
 
 <img src="particle-1.png" width="100" /> particle-1.png<br>

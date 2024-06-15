@@ -54,6 +54,14 @@
 
 <img src="Plants/Flowers/cactus.png" width="100" /> cactus.png<br>
 
+<img src="Platforms/cake-half-left.png" width="100" /> cake-half-left.png<br>
+
+<img src="Platforms/cake-half-mid.png" width="100" /> cake-half-mid.png<br>
+
+<img src="Platforms/cake-half-right.png" width="100" /> cake-half-right.png<br>
+
+<img src="Platforms/cake-half.png" width="100" /> cake-half.png<br>
+
 <img src="Buildings/castle-small.png" width="100" /> castle-small.png<br>
 
 <img src="Clouds/cloud-1.png" width="100" /> cloud-1.png<br>
@@ -152,9 +160,9 @@
 
 <img src="Platforms/ground-cake-broken.png" width="100" /> ground-cake-broken.png<br>
 
-<img src="Platforms/ground-cake-small.png" width="100" /> ground-cake-small.png<br>
+<img src="Platforms/ground-cake-small-broken.png" width="100" /> ground-cake-small-broken.png<br>
 
-<img src="Platforms/ground-cake-small_broken.png" width="100" /> ground-cake-small_broken.png<br>
+<img src="Platforms/ground-cake-small.png" width="100" /> ground-cake-small.png<br>
 
 <img src="Platforms/ground-cake.png" width="100" /> ground-cake.png<br>
 
@@ -162,9 +170,9 @@
 
 <img src="Platforms/ground-grass-broken.png" width="100" /> ground-grass-broken.png<br>
 
-<img src="Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
+<img src="Platforms/ground-grass-small-broken.png" width="100" /> ground-grass-small-broken.png<br>
 
-<img src="Platforms/ground-grass-small_broken.png" width="100" /> ground-grass-small_broken.png<br>
+<img src="Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
 
 <img src="Floors/ground-grass.png" width="100" /> ground-grass.png<br>
 
@@ -176,17 +184,17 @@
 
 <img src="Platforms/ground-sand-broken.png" width="100" /> ground-sand-broken.png<br>
 
-<img src="Platforms/ground-sand-small.png" width="100" /> ground-sand-small.png<br>
+<img src="Platforms/ground-sand-small-broken.png" width="100" /> ground-sand-small-broken.png<br>
 
-<img src="Platforms/ground-sand-small_broken.png" width="100" /> ground-sand-small_broken.png<br>
+<img src="Platforms/ground-sand-small.png" width="100" /> ground-sand-small.png<br>
 
 <img src="Platforms/ground-sand.png" width="100" /> ground-sand.png<br>
 
 <img src="Platforms/ground-snow-broken.png" width="100" /> ground-snow-broken.png<br>
 
-<img src="Platforms/ground-snow-small.png" width="100" /> ground-snow-small.png<br>
+<img src="Platforms/ground-snow-small-broken.png" width="100" /> ground-snow-small-broken.png<br>
 
-<img src="Platforms/ground-snow-small_broken.png" width="100" /> ground-snow-small_broken.png<br>
+<img src="Platforms/ground-snow-small.png" width="100" /> ground-snow-small.png<br>
 
 <img src="Floors/ground-snow.png" width="100" /> ground-snow.png<br>
 
@@ -194,17 +202,17 @@
 
 <img src="Platforms/ground-stone-broken.png" width="100" /> ground-stone-broken.png<br>
 
-<img src="Platforms/ground-stone-small.png" width="100" /> ground-stone-small.png<br>
+<img src="Platforms/ground-stone-small-broken.png" width="100" /> ground-stone-small-broken.png<br>
 
-<img src="Platforms/ground-stone-small_broken.png" width="100" /> ground-stone-small_broken.png<br>
+<img src="Platforms/ground-stone-small.png" width="100" /> ground-stone-small.png<br>
 
 <img src="Platforms/ground-stone.png" width="100" /> ground-stone.png<br>
 
 <img src="Platforms/ground-wood-broken.png" width="100" /> ground-wood-broken.png<br>
 
-<img src="Platforms/ground-wood-small.png" width="100" /> ground-wood-small.png<br>
+<img src="Platforms/ground-wood-small-broken.png" width="100" /> ground-wood-small-broken.png<br>
 
-<img src="Platforms/ground-wood-small_broken.png" width="100" /> ground-wood-small_broken.png<br>
+<img src="Platforms/ground-wood-small.png" width="100" /> ground-wood-small.png<br>
 
 <img src="Platforms/ground-wood.png" width="100" /> ground-wood.png<br>
 

@@ -74,6 +74,14 @@
 
 <img src="PirateShips/ship-5-4.png" width="100" /> ship-5-4.png<br>
 
+<img src="Alien/ship-damage-1.png" width="100" /> ship-damage-1.png<br>
+
+<img src="Alien/ship-damage-2.png" width="100" /> ship-damage-2.png<br>
+
+<img src="Alien/ship-dome.png" width="100" /> ship-dome.png<br>
+
+<img src="Alien/ship-healthy.png" width="100" /> ship-healthy.png<br>
+
 <img src="Space/space-rocket-0.png" width="100" /> space-rocket-0.png<br>
 
 <img src="Space/space-rocket-1.png" width="100" /> space-rocket-1.png<br>

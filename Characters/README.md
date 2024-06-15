@@ -14,6 +14,8 @@
 
 <img src="Aliens/alien-a-round.png" width="100" /> alien-a-round.png<br>
 
+<img src="Aliens/alien-a-ship.png" width="100" /> alien-a-ship.png<br>
+
 <img src="Aliens/alien-a-ski-fall.png" width="100" /> alien-a-ski-fall.png<br>
 
 <img src="Aliens/alien-a-ski-jump.png" width="100" /> alien-a-ski-jump.png<br>
@@ -49,6 +51,8 @@
 <img src="Aliens/alien-b-jump.png" width="100" /> alien-b-jump.png<br>
 
 <img src="Aliens/alien-b-round.png" width="100" /> alien-b-round.png<br>
+
+<img src="Aliens/alien-b-ship.png" width="100" /> alien-b-ship.png<br>
 
 <img src="Aliens/alien-b-ski-fall.png" width="100" /> alien-b-ski-fall.png<br>
 
@@ -86,6 +90,8 @@
 
 <img src="Aliens/alien-c-round.png" width="100" /> alien-c-round.png<br>
 
+<img src="Aliens/alien-c-ship.png" width="100" /> alien-c-ship.png<br>
+
 <img src="Aliens/alien-c-ski-fall.png" width="100" /> alien-c-ski-fall.png<br>
 
 <img src="Aliens/alien-c-ski-jump.png" width="100" /> alien-c-ski-jump.png<br>
@@ -122,6 +128,8 @@
 
 <img src="Aliens/alien-d-round.png" width="100" /> alien-d-round.png<br>
 
+<img src="Aliens/alien-d-ship.png" width="100" /> alien-d-ship.png<br>
+
 <img src="Aliens/alien-d-ski-fall.png" width="100" /> alien-d-ski-fall.png<br>
 
 <img src="Aliens/alien-d-ski-jump.png" width="100" /> alien-d-ski-jump.png<br>
@@ -157,6 +165,8 @@
 <img src="Aliens/alien-e-jump.png" width="100" /> alien-e-jump.png<br>
 
 <img src="Aliens/alien-e-round.png" width="100" /> alien-e-round.png<br>
+
+<img src="Aliens/alien-e-ship.png" width="100" /> alien-e-ship.png<br>
 
 <img src="Aliens/alien-e-ski-fall.png" width="100" /> alien-e-ski-fall.png<br>
 
@@ -205,6 +215,14 @@
 <img src="Enemies/barnacle-1.png" width="100" /> barnacle-1.png<br>
 
 <img src="Enemies/barnacle-3.png" width="100" /> barnacle-3.png<br>
+
+<img src="Enemies/bat-0.png" width="100" /> bat-0.png<br>
+
+<img src="Enemies/bat-1.png" width="100" /> bat-1.png<br>
+
+<img src="Enemies/bat-2.png" width="100" /> bat-2.png<br>
+
+<img src="Enemies/bat-3.png" width="100" /> bat-3.png<br>
 
 <img src="Enemies/bee-0.png" width="100" /> bee-0.png<br>
 
@@ -708,17 +726,25 @@
 
 <img src="Enemies/flyman-stand.png" width="100" /> flyman-stand.png<br>
 
-<img src="Enemies/flyman-still_fly.png" width="100" /> flyman-still_fly.png<br>
+<img src="Enemies/flyman-still-fly.png" width="100" /> flyman-still-fly.png<br>
 
-<img src="Enemies/flyman-still_jump.png" width="100" /> flyman-still_jump.png<br>
+<img src="Enemies/flyman-still-jump.png" width="100" /> flyman-still-jump.png<br>
 
-<img src="Enemies/flyman-still_stand.png" width="100" /> flyman-still_stand.png<br>
+<img src="Enemies/flyman-still-stand.png" width="100" /> flyman-still-stand.png<br>
 
 <img src="Enemies/frog-0.png" width="100" /> frog-0.png<br>
 
 <img src="Enemies/frog-1.png" width="100" /> frog-1.png<br>
 
 <img src="Enemies/frog-2.png" width="100" /> frog-2.png<br>
+
+<img src="Enemies/ghost-0.png" width="100" /> ghost-0.png<br>
+
+<img src="Enemies/ghost-1.png" width="100" /> ghost-1.png<br>
+
+<img src="Enemies/ghost-2.png" width="100" /> ghost-2.png<br>
+
+<img src="Enemies/ghost-3.png" width="100" /> ghost-3.png<br>
 
 <img src="BlockyParts/hand-closed.png" width="100" /> hand-closed.png<br>
 

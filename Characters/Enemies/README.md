@@ -6,6 +6,14 @@
 
 <img src="barnacle-3.png" width="100" /> barnacle-3.png<br>
 
+<img src="bat-0.png" width="100" /> bat-0.png<br>
+
+<img src="bat-1.png" width="100" /> bat-1.png<br>
+
+<img src="bat-2.png" width="100" /> bat-2.png<br>
+
+<img src="bat-3.png" width="100" /> bat-3.png<br>
+
 <img src="bee-0.png" width="100" /> bee-0.png<br>
 
 <img src="bee-1.png" width="100" /> bee-1.png<br>
@@ -32,17 +40,25 @@
 
 <img src="flyman-stand.png" width="100" /> flyman-stand.png<br>
 
-<img src="flyman-still_fly.png" width="100" /> flyman-still_fly.png<br>
+<img src="flyman-still-fly.png" width="100" /> flyman-still-fly.png<br>
 
-<img src="flyman-still_jump.png" width="100" /> flyman-still_jump.png<br>
+<img src="flyman-still-jump.png" width="100" /> flyman-still-jump.png<br>
 
-<img src="flyman-still_stand.png" width="100" /> flyman-still_stand.png<br>
+<img src="flyman-still-stand.png" width="100" /> flyman-still-stand.png<br>
 
 <img src="frog-0.png" width="100" /> frog-0.png<br>
 
 <img src="frog-1.png" width="100" /> frog-1.png<br>
 
 <img src="frog-2.png" width="100" /> frog-2.png<br>
+
+<img src="ghost-0.png" width="100" /> ghost-0.png<br>
+
+<img src="ghost-1.png" width="100" /> ghost-1.png<br>
+
+<img src="ghost-2.png" width="100" /> ghost-2.png<br>
+
+<img src="ghost-3.png" width="100" /> ghost-3.png<br>
 
 <img src="ladybug-0.png" width="100" /> ladybug-0.png<br>
 

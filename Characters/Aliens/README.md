@@ -14,6 +14,8 @@
 
 <img src="alien-a-round.png" width="100" /> alien-a-round.png<br>
 
+<img src="alien-a-ship.png" width="100" /> alien-a-ship.png<br>
+
 <img src="alien-a-ski-fall.png" width="100" /> alien-a-ski-fall.png<br>
 
 <img src="alien-a-ski-jump.png" width="100" /> alien-a-ski-jump.png<br>
@@ -49,6 +51,8 @@
 <img src="alien-b-jump.png" width="100" /> alien-b-jump.png<br>
 
 <img src="alien-b-round.png" width="100" /> alien-b-round.png<br>
+
+<img src="alien-b-ship.png" width="100" /> alien-b-ship.png<br>
 
 <img src="alien-b-ski-fall.png" width="100" /> alien-b-ski-fall.png<br>
 
@@ -86,6 +90,8 @@
 
 <img src="alien-c-round.png" width="100" /> alien-c-round.png<br>
 
+<img src="alien-c-ship.png" width="100" /> alien-c-ship.png<br>
+
 <img src="alien-c-ski-fall.png" width="100" /> alien-c-ski-fall.png<br>
 
 <img src="alien-c-ski-jump.png" width="100" /> alien-c-ski-jump.png<br>
@@ -122,6 +128,8 @@
 
 <img src="alien-d-round.png" width="100" /> alien-d-round.png<br>
 
+<img src="alien-d-ship.png" width="100" /> alien-d-ship.png<br>
+
 <img src="alien-d-ski-fall.png" width="100" /> alien-d-ski-fall.png<br>
 
 <img src="alien-d-ski-jump.png" width="100" /> alien-d-ski-jump.png<br>
@@ -157,6 +165,8 @@
 <img src="alien-e-jump.png" width="100" /> alien-e-jump.png<br>
 
 <img src="alien-e-round.png" width="100" /> alien-e-round.png<br>
+
+<img src="alien-e-ship.png" width="100" /> alien-e-ship.png<br>
 
 <img src="alien-e-ski-fall.png" width="100" /> alien-e-ski-fall.png<br>
 

@@ -14,6 +14,8 @@
 
 <img src="Characters/Aliens/alien-a-round.png" width="100" /> alien-a-round.png<br>
 
+<img src="Characters/Aliens/alien-a-ship.png" width="100" /> alien-a-ship.png<br>
+
 <img src="Characters/Aliens/alien-a-ski-fall.png" width="100" /> alien-a-ski-fall.png<br>
 
 <img src="Characters/Aliens/alien-a-ski-jump.png" width="100" /> alien-a-ski-jump.png<br>
@@ -49,6 +51,8 @@
 <img src="Characters/Aliens/alien-b-jump.png" width="100" /> alien-b-jump.png<br>
 
 <img src="Characters/Aliens/alien-b-round.png" width="100" /> alien-b-round.png<br>
+
+<img src="Characters/Aliens/alien-b-ship.png" width="100" /> alien-b-ship.png<br>
 
 <img src="Characters/Aliens/alien-b-ski-fall.png" width="100" /> alien-b-ski-fall.png<br>
 
@@ -86,6 +90,8 @@
 
 <img src="Characters/Aliens/alien-c-round.png" width="100" /> alien-c-round.png<br>
 
+<img src="Characters/Aliens/alien-c-ship.png" width="100" /> alien-c-ship.png<br>
+
 <img src="Characters/Aliens/alien-c-ski-fall.png" width="100" /> alien-c-ski-fall.png<br>
 
 <img src="Characters/Aliens/alien-c-ski-jump.png" width="100" /> alien-c-ski-jump.png<br>
@@ -121,6 +127,8 @@
 <img src="Characters/Aliens/alien-d-jump.png" width="100" /> alien-d-jump.png<br>
 
 <img src="Characters/Aliens/alien-d-round.png" width="100" /> alien-d-round.png<br>
+
+<img src="Characters/Aliens/alien-d-ship.png" width="100" /> alien-d-ship.png<br>
 
 <img src="Characters/Aliens/alien-d-ski-fall.png" width="100" /> alien-d-ski-fall.png<br>
 
@@ -158,6 +166,8 @@
 
 <img src="Characters/Aliens/alien-e-round.png" width="100" /> alien-e-round.png<br>
 
+<img src="Characters/Aliens/alien-e-ship.png" width="100" /> alien-e-ship.png<br>
+
 <img src="Characters/Aliens/alien-e-ski-fall.png" width="100" /> alien-e-ski-fall.png<br>
 
 <img src="Characters/Aliens/alien-e-ski-jump.png" width="100" /> alien-e-ski-jump.png<br>
@@ -185,6 +195,8 @@
 <img src="Characters/CreatureParts/antenna-b.png" width="100" /> antenna-b.png<br>
 
 <img src="Characters/CreatureParts/antenna-c.png" width="100" /> antenna-c.png<br>
+
+<img src="General/Food/apple.png" width="100" /> apple.png<br>
 
 <img src="Characters/CreatureParts/arm-a.png" width="100" /> arm-a.png<br>
 
@@ -223,6 +235,14 @@
 <img src="Characters/Enemies/barnacle-1.png" width="100" /> barnacle-1.png<br>
 
 <img src="Characters/Enemies/barnacle-3.png" width="100" /> barnacle-3.png<br>
+
+<img src="Characters/Enemies/bat-0.png" width="100" /> bat-0.png<br>
+
+<img src="Characters/Enemies/bat-1.png" width="100" /> bat-1.png<br>
+
+<img src="Characters/Enemies/bat-2.png" width="100" /> bat-2.png<br>
+
+<img src="Characters/Enemies/bat-3.png" width="100" /> bat-3.png<br>
 
 <img src="Characters/Enemies/bee-0.png" width="100" /> bee-0.png<br>
 
@@ -473,6 +493,18 @@
 <img src="General/Interactibles/button-unpressed.png" width="100" /> button-unpressed.png<br>
 
 <img src="Landscape/Plants/Flowers/cactus.png" width="100" /> cactus.png<br>
+
+<img src="Landscape/Platforms/cake-half-left.png" width="100" /> cake-half-left.png<br>
+
+<img src="Landscape/Platforms/cake-half-mid.png" width="100" /> cake-half-mid.png<br>
+
+<img src="Landscape/Platforms/cake-half-right.png" width="100" /> cake-half-right.png<br>
+
+<img src="Landscape/Platforms/cake-half.png" width="100" /> cake-half.png<br>
+
+<img src="General/Food/candy-cane.png" width="100" /> candy-cane.png<br>
+
+<img src="General/Food/candy-drop.png" width="100" /> candy-drop.png<br>
 
 <img src="Transport/PirateShips/cannon-ball.png" width="100" /> cannon-ball.png<br>
 
@@ -725,6 +757,8 @@
 <img src="Characters/Cat/cat-walk-8.png" width="100" /> cat-walk-8.png<br>
 
 <img src="Characters/Cat/cat-walk-9.png" width="100" /> cat-walk-9.png<br>
+
+<img src="General/Food/cherry.png" width="100" /> cherry.png<br>
 
 <img src="Landscape/Clouds/cloud-1.png" width="100" /> cloud-1.png<br>
 
@@ -1082,6 +1116,8 @@
 
 <img src="Characters/Fish/fish-4.png" width="100" /> fish-4.png<br>
 
+<img src="General/Food/fish-cooked.png" width="100" /> fish-cooked.png<br>
+
 <img src="Characters/Fish/fishbone-0.png" width="100" /> fishbone-0.png<br>
 
 <img src="Characters/Fish/fishbone-1.png" width="100" /> fishbone-1.png<br>
@@ -1126,11 +1162,11 @@
 
 <img src="Characters/Enemies/flyman-stand.png" width="100" /> flyman-stand.png<br>
 
-<img src="Characters/Enemies/flyman-still_fly.png" width="100" /> flyman-still_fly.png<br>
+<img src="Characters/Enemies/flyman-still-fly.png" width="100" /> flyman-still-fly.png<br>
 
-<img src="Characters/Enemies/flyman-still_jump.png" width="100" /> flyman-still_jump.png<br>
+<img src="Characters/Enemies/flyman-still-jump.png" width="100" /> flyman-still-jump.png<br>
 
-<img src="Characters/Enemies/flyman-still_stand.png" width="100" /> flyman-still_stand.png<br>
+<img src="Characters/Enemies/flyman-still-stand.png" width="100" /> flyman-still-stand.png<br>
 
 <img src="Landscape/Backgrounds/forest-0.png" width="100" /> forest-0.png<br>
 
@@ -1155,6 +1191,14 @@
 <img src="General/Effects/gel-4.png" width="100" /> gel-4.png<br>
 
 <img src="General/Collectibles/gem-blue.png" width="100" /> gem-blue.png<br>
+
+<img src="Characters/Enemies/ghost-0.png" width="100" /> ghost-0.png<br>
+
+<img src="Characters/Enemies/ghost-1.png" width="100" /> ghost-1.png<br>
+
+<img src="Characters/Enemies/ghost-2.png" width="100" /> ghost-2.png<br>
+
+<img src="Characters/Enemies/ghost-3.png" width="100" /> ghost-3.png<br>
 
 <img src="General/Collectibles/gold-0.png" width="100" /> gold-0.png<br>
 
@@ -1192,9 +1236,9 @@
 
 <img src="Landscape/Platforms/ground-cake-broken.png" width="100" /> ground-cake-broken.png<br>
 
-<img src="Landscape/Platforms/ground-cake-small.png" width="100" /> ground-cake-small.png<br>
+<img src="Landscape/Platforms/ground-cake-small-broken.png" width="100" /> ground-cake-small-broken.png<br>
 
-<img src="Landscape/Platforms/ground-cake-small_broken.png" width="100" /> ground-cake-small_broken.png<br>
+<img src="Landscape/Platforms/ground-cake-small.png" width="100" /> ground-cake-small.png<br>
 
 <img src="Landscape/Platforms/ground-cake.png" width="100" /> ground-cake.png<br>
 
@@ -1202,9 +1246,9 @@
 
 <img src="Landscape/Platforms/ground-grass-broken.png" width="100" /> ground-grass-broken.png<br>
 
-<img src="Landscape/Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
+<img src="Landscape/Platforms/ground-grass-small-broken.png" width="100" /> ground-grass-small-broken.png<br>
 
-<img src="Landscape/Platforms/ground-grass-small_broken.png" width="100" /> ground-grass-small_broken.png<br>
+<img src="Landscape/Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
 
 <img src="Landscape/Floors/ground-grass.png" width="100" /> ground-grass.png<br>
 
@@ -1216,17 +1260,17 @@
 
 <img src="Landscape/Platforms/ground-sand-broken.png" width="100" /> ground-sand-broken.png<br>
 
-<img src="Landscape/Platforms/ground-sand-small.png" width="100" /> ground-sand-small.png<br>
+<img src="Landscape/Platforms/ground-sand-small-broken.png" width="100" /> ground-sand-small-broken.png<br>
 
-<img src="Landscape/Platforms/ground-sand-small_broken.png" width="100" /> ground-sand-small_broken.png<br>
+<img src="Landscape/Platforms/ground-sand-small.png" width="100" /> ground-sand-small.png<br>
 
 <img src="Landscape/Platforms/ground-sand.png" width="100" /> ground-sand.png<br>
 
 <img src="Landscape/Platforms/ground-snow-broken.png" width="100" /> ground-snow-broken.png<br>
 
-<img src="Landscape/Platforms/ground-snow-small.png" width="100" /> ground-snow-small.png<br>
+<img src="Landscape/Platforms/ground-snow-small-broken.png" width="100" /> ground-snow-small-broken.png<br>
 
-<img src="Landscape/Platforms/ground-snow-small_broken.png" width="100" /> ground-snow-small_broken.png<br>
+<img src="Landscape/Platforms/ground-snow-small.png" width="100" /> ground-snow-small.png<br>
 
 <img src="Landscape/Floors/ground-snow.png" width="100" /> ground-snow.png<br>
 
@@ -1234,17 +1278,17 @@
 
 <img src="Landscape/Platforms/ground-stone-broken.png" width="100" /> ground-stone-broken.png<br>
 
-<img src="Landscape/Platforms/ground-stone-small.png" width="100" /> ground-stone-small.png<br>
+<img src="Landscape/Platforms/ground-stone-small-broken.png" width="100" /> ground-stone-small-broken.png<br>
 
-<img src="Landscape/Platforms/ground-stone-small_broken.png" width="100" /> ground-stone-small_broken.png<br>
+<img src="Landscape/Platforms/ground-stone-small.png" width="100" /> ground-stone-small.png<br>
 
 <img src="Landscape/Platforms/ground-stone.png" width="100" /> ground-stone.png<br>
 
 <img src="Landscape/Platforms/ground-wood-broken.png" width="100" /> ground-wood-broken.png<br>
 
-<img src="Landscape/Platforms/ground-wood-small.png" width="100" /> ground-wood-small.png<br>
+<img src="Landscape/Platforms/ground-wood-small-broken.png" width="100" /> ground-wood-small-broken.png<br>
 
-<img src="Landscape/Platforms/ground-wood-small_broken.png" width="100" /> ground-wood-small_broken.png<br>
+<img src="Landscape/Platforms/ground-wood-small.png" width="100" /> ground-wood-small.png<br>
 
 <img src="Landscape/Platforms/ground-wood.png" width="100" /> ground-wood.png<br>
 
@@ -1285,6 +1329,8 @@
 <img src="General/Collectibles/hud-key-blue-empty.png" width="100" /> hud-key-blue-empty.png<br>
 
 <img src="General/Collectibles/hud-key-blue.png" width="100" /> hud-key-blue.png<br>
+
+<img src="General/Food/ice-cream.png" width="100" /> ice-cream.png<br>
 
 <img src="Landscape/Buildings/igloo.png" width="100" /> igloo.png<br>
 
@@ -1534,6 +1580,10 @@
 
 <img src="General/Effects/lighting-yellow.png" width="100" /> lighting-yellow.png<br>
 
+<img src="General/Food/lollipop-1.png" width="100" /> lollipop-1.png<br>
+
+<img src="General/Food/lollipop2.png" width="100" /> lollipop2.png<br>
+
 <img src="Landscape/MapLandmarks/map-banner.png" width="100" /> map-banner.png<br>
 
 <img src="Landscape/MapLandmarks/map-bridge-rope.png" width="100" /> map-bridge-rope.png<br>
@@ -1686,7 +1736,11 @@
 
 <img src="Characters/CreatureParts/mouth-n.png" width="100" /> mouth-n.png<br>
 
+<img src="General/Food/mushroom-brown.png" width="100" /> mushroom-brown.png<br>
+
 <img src="Landscape/Plants/Flowers/mushroom-brown.png" width="100" /> mushroom-brown.png<br>
+
+<img src="General/Food/mushroom-red.png" width="100" /> mushroom-red.png<br>
 
 <img src="Landscape/Plants/Flowers/mushroom-red.png" width="100" /> mushroom-red.png<br>
 
@@ -1725,6 +1779,20 @@
 <img src="General/Office/office-pencil.png" width="100" /> office-pencil.png<br>
 
 <img src="General/Interactibles/paddle.png" width="100" /> paddle.png<br>
+
+<img src="General/Effects/paintdrip-0.png" width="100" /> paintdrip-0.png<br>
+
+<img src="General/Effects/paintdrip-1.png" width="100" /> paintdrip-1.png<br>
+
+<img src="General/Effects/paintdrip-2.png" width="100" /> paintdrip-2.png<br>
+
+<img src="General/Effects/paintsplat-0.png" width="100" /> paintsplat-0.png<br>
+
+<img src="General/Effects/paintsplat-1.png" width="100" /> paintsplat-1.png<br>
+
+<img src="General/Effects/paintsplat-2.png" width="100" /> paintsplat-2.png<br>
+
+<img src="General/Effects/paintsplat-3.png" width="100" /> paintsplat-3.png<br>
 
 <img src="General/Effects/particle-0.png" width="100" /> particle-0.png<br>
 
@@ -2068,6 +2136,14 @@
 
 <img src="Transport/PirateShips/ship-5-4.png" width="100" /> ship-5-4.png<br>
 
+<img src="Transport/Alien/ship-damage-1.png" width="100" /> ship-damage-1.png<br>
+
+<img src="Transport/Alien/ship-damage-2.png" width="100" /> ship-damage-2.png<br>
+
+<img src="Transport/Alien/ship-dome.png" width="100" /> ship-dome.png<br>
+
+<img src="Transport/Alien/ship-healthy.png" width="100" /> ship-healthy.png<br>
+
 <img src="General/Collectibles/silver-0.png" width="100" /> silver-0.png<br>
 
 <img src="General/Collectibles/silver-1.png" width="100" /> silver-1.png<br>
@@ -2203,6 +2279,8 @@
 <img src="Transport/Space/station-3.png" width="100" /> station-3.png<br>
 
 <img src="Transport/Space/station-4.png" width="100" /> station-4.png<br>
+
+<img src="General/Food/stew.png" width="100" /> stew.png<br>
 
 <img src="Characters/Enemies/sun-0.png" width="100" /> sun-0.png<br>
 
@@ -2346,7 +2424,13 @@
 
 <img src="Landscape/Plants/Trees/trunk-7.png" width="100" /> trunk-7.png<br>
 
+<img src="General/Interactibles/umbrella-closed.png" width="100" /> umbrella-closed.png<br>
+
+<img src="General/Interactibles/umbrella-opened.png" width="100" /> umbrella-opened.png<br>
+
 <img src="Landscape/Floors/water-top-high.png" width="100" /> water-top-high.png<br>
+
+<img src="General/Food/wheat.png" width="100" /> wheat.png<br>
 
 <img src="Characters/Enemies/wingman-1.png" width="100" /> wingman-1.png<br>
 

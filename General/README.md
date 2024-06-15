@@ -1,5 +1,7 @@
 # Image Previews
 
+<img src="Food/apple.png" width="100" /> apple.png<br>
+
 <img src="Collectibles/box-coin-boxed.png" width="100" /> box-coin-boxed.png<br>
 
 <img src="Collectibles/box-crate-single.png" width="100" /> box-crate-single.png<br>
@@ -80,9 +82,15 @@
 
 <img src="Interactibles/button-unpressed.png" width="100" /> button-unpressed.png<br>
 
+<img src="Food/candy-cane.png" width="100" /> candy-cane.png<br>
+
+<img src="Food/candy-drop.png" width="100" /> candy-drop.png<br>
+
 <img src="Collectibles/carrot-gold.png" width="100" /> carrot-gold.png<br>
 
 <img src="Collectibles/carrot.png" width="100" /> carrot.png<br>
+
+<img src="Food/cherry.png" width="100" /> cherry.png<br>
 
 <img src="Collectibles/coin-bronze.png" width="100" /> coin-bronze.png<br>
 
@@ -99,6 +107,8 @@
 <img src="Effects/fire-1.png" width="100" /> fire-1.png<br>
 
 <img src="Effects/fire-2.png" width="100" /> fire-2.png<br>
+
+<img src="Food/fish-cooked.png" width="100" /> fish-cooked.png<br>
 
 <img src="Interactibles/flag-down.png" width="100" /> flag-down.png<br>
 
@@ -143,6 +153,8 @@
 <img src="Collectibles/hud-key-blue-empty.png" width="100" /> hud-key-blue-empty.png<br>
 
 <img src="Collectibles/hud-key-blue.png" width="100" /> hud-key-blue.png<br>
+
+<img src="Food/ice-cream.png" width="100" /> ice-cream.png<br>
 
 <img src="Collectibles/jetpack.png" width="100" /> jetpack.png<br>
 
@@ -192,6 +204,10 @@
 
 <img src="Effects/lighting-yellow.png" width="100" /> lighting-yellow.png<br>
 
+<img src="Food/lollipop-1.png" width="100" /> lollipop-1.png<br>
+
+<img src="Food/lollipop2.png" width="100" /> lollipop2.png<br>
+
 <img src="Medals/medal-1.png" width="100" /> medal-1.png<br>
 
 <img src="Medals/medal-2.png" width="100" /> medal-2.png<br>
@@ -209,6 +225,10 @@
 <img src="Medals/medal-8.png" width="100" /> medal-8.png<br>
 
 <img src="Medals/medal-9.png" width="100" /> medal-9.png<br>
+
+<img src="Food/mushroom-brown.png" width="100" /> mushroom-brown.png<br>
+
+<img src="Food/mushroom-red.png" width="100" /> mushroom-red.png<br>
 
 <img src="Office/office-book-0.png" width="100" /> office-book-0.png<br>
 
@@ -237,6 +257,20 @@
 <img src="Office/office-pencil.png" width="100" /> office-pencil.png<br>
 
 <img src="Interactibles/paddle.png" width="100" /> paddle.png<br>
+
+<img src="Effects/paintdrip-0.png" width="100" /> paintdrip-0.png<br>
+
+<img src="Effects/paintdrip-1.png" width="100" /> paintdrip-1.png<br>
+
+<img src="Effects/paintdrip-2.png" width="100" /> paintdrip-2.png<br>
+
+<img src="Effects/paintsplat-0.png" width="100" /> paintsplat-0.png<br>
+
+<img src="Effects/paintsplat-1.png" width="100" /> paintsplat-1.png<br>
+
+<img src="Effects/paintsplat-2.png" width="100" /> paintsplat-2.png<br>
+
+<img src="Effects/paintsplat-3.png" width="100" /> paintsplat-3.png<br>
 
 <img src="Effects/particle-0.png" width="100" /> particle-0.png<br>
 
@@ -332,6 +366,8 @@
 
 <img src="Collectibles/star-silver.png" width="100" /> star-silver.png<br>
 
+<img src="Food/stew.png" width="100" /> stew.png<br>
+
 <img src="Tools/tool-axe.png" width="100" /> tool-axe.png<br>
 
 <img src="Tools/tool-brush.png" width="100" /> tool-brush.png<br>
@@ -369,4 +405,10 @@
 <img src="Travel/travel-purse.png" width="100" /> travel-purse.png<br>
 
 <img src="Travel/travel-wallet.png" width="100" /> travel-wallet.png<br>
+
+<img src="Interactibles/umbrella-closed.png" width="100" /> umbrella-closed.png<br>
+
+<img src="Interactibles/umbrella-opened.png" width="100" /> umbrella-opened.png<br>
+
+<img src="Food/wheat.png" width="100" /> wheat.png<br>
 
