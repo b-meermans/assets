@@ -14,15 +14,15 @@ import java.util.Arrays;
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 
-public class GenReadme {
+public class ImageData {
 
     public static void main(String[] args) {
-        String specificFolderPath = "./Finalized/";
+        String specificFolderPath = "./";
         processFolders(new File(specificFolderPath), specificFolderPath);
 		postProcess(new File(specificFolderPath));
 	
 	
-		String outputFilePath = "./Finalized/imageData.txt"; 
+		String outputFilePath = "./imageData.txt"; 
 
         try (FileWriter writer = new FileWriter(outputFilePath)) {
             Path basePath = Paths.get(specificFolderPath).toAbsolutePath().getParent();

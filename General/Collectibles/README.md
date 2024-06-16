@@ -34,7 +34,11 @@
 
 <img src="coin-silver.png" width="100" /> coin-silver.png<br>
 
-<img src="gem-blue.png" width="100" /> gem-blue.png<br>
+<img src="door-key.png" width="100" /> door-key.png<br>
+
+<img src="door-lock.png" width="100" /> door-lock.png<br>
+
+<img src="gem.png" width="100" /> gem.png<br>
 
 <img src="gold-0.png" width="100" /> gold-0.png<br>
 

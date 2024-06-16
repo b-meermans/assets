@@ -706,3 +706,5 @@
 
 <img src="Floors/water-top-high.png" width="100" /> water-top-high.png<br>
 
+<img src="Obstacles/weight.png" width="100" /> weight.png<br>
+

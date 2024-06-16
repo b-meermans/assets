@@ -28,3 +28,5 @@
 
 <img src="spikes-top.png" width="100" /> spikes-top.png<br>
 
+<img src="weight.png" width="100" /> weight.png<br>
+

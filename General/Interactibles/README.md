@@ -8,11 +8,19 @@
 
 <img src="button-unpressed.png" width="100" /> button-unpressed.png<br>
 
+<img src="door-closed.png" width="100" /> door-closed.png<br>
+
+<img src="door-open.png" width="100" /> door-open.png<br>
+
 <img src="flag-down.png" width="100" /> flag-down.png<br>
 
 <img src="flag-mid.png" width="100" /> flag-mid.png<br>
 
 <img src="flag-up.png" width="100" /> flag-up.png<br>
+
+<img src="ladder-middle.png" width="100" /> ladder-middle.png<br>
+
+<img src="ladder-top.png" width="100" /> ladder-top.png<br>
 
 <img src="lever-left.png" width="100" /> lever-left.png<br>
 

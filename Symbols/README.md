@@ -1,12 +1,14 @@
 # Image Previews
 
-<img src="Shapes/ball-outlined-2.png" width="100" /> ball-outlined-2.png<br>
+<img src="UserControls/arrow-shape.png" width="100" /> arrow-shape.png<br>
 
-<img src="Shapes/ball-outlined.png" width="100" /> ball-outlined.png<br>
+<img src="UserControls/ball-outlined-1.png" width="100" /> ball-outlined-1.png<br>
 
-<img src="Shapes/ball-shaded-2.png" width="100" /> ball-shaded-2.png<br>
+<img src="UserControls/ball-outlined-2.png" width="100" /> ball-outlined-2.png<br>
 
-<img src="Shapes/ball-shaded.png" width="100" /> ball-shaded.png<br>
+<img src="UserControls/ball-shaded-1.png" width="100" /> ball-shaded-1.png<br>
+
+<img src="UserControls/ball-shaded-2.png" width="100" /> ball-shaded-2.png<br>
 
 <img src="BubbleFont/bubble-0.png" width="100" /> bubble-0.png<br>
 
@@ -37,6 +39,36 @@
 <img src="BubbleFont/bubble-percent.png" width="100" /> bubble-percent.png<br>
 
 <img src="BubbleFont/bubble-plus.png" width="100" /> bubble-plus.png<br>
+
+<img src="UserControls/button-circle-1.png" width="100" /> button-circle-1.png<br>
+
+<img src="UserControls/button-circle-2.png" width="100" /> button-circle-2.png<br>
+
+<img src="UserControls/button-rect-1.png" width="100" /> button-rect-1.png<br>
+
+<img src="UserControls/button-rect-2.png" width="100" /> button-rect-2.png<br>
+
+<img src="UserControls/button-rect-3.png" width="100" /> button-rect-3.png<br>
+
+<img src="UserControls/button-rect-4.png" width="100" /> button-rect-4.png<br>
+
+<img src="UserControls/button-round-1.png" width="100" /> button-round-1.png<br>
+
+<img src="UserControls/button-round-2.png" width="100" /> button-round-2.png<br>
+
+<img src="UserControls/button-square-1.png" width="100" /> button-square-1.png<br>
+
+<img src="UserControls/button-square-2.png" width="100" /> button-square-2.png<br>
+
+<img src="UserControls/check-round-1.png" width="100" /> check-round-1.png<br>
+
+<img src="UserControls/check-round-2.png" width="100" /> check-round-2.png<br>
+
+<img src="UserControls/check-square-1.png" width="100" /> check-square-1.png<br>
+
+<img src="UserControls/check-square-2.png" width="100" /> check-square-2.png<br>
+
+<img src="UserControls/check-square-3.png" width="100" /> check-square-3.png<br>
 
 <img src="MediaControls/control-back.png" width="100" /> control-back.png<br>
 
@@ -240,13 +272,9 @@
 
 <img src="ClickableIcons/mouse.png" width="100" /> mouse.png<br>
 
-<img src="Shapes/rect-button-pressed.png" width="100" /> rect-button-pressed.png<br>
+<img src="UserControls/slide-bar-marker.png" width="100" /> slide-bar-marker.png<br>
 
-<img src="Shapes/rect-button.png" width="100" /> rect-button.png<br>
-
-<img src="Shapes/round-button-pressed.png" width="100" /> round-button-pressed.png<br>
-
-<img src="Shapes/round-button.png" width="100" /> round-button.png<br>
+<img src="UserControls/slide-bar.png" width="100" /> slide-bar.png<br>
 
 <img src="SpeechBubbles/speech-bubble-1.png" width="100" /> speech-bubble-1.png<br>
 
@@ -266,7 +294,7 @@
 
 <img src="SpeechBubbles/speech-bubble-9.png" width="100" /> speech-bubble-9.png<br>
 
-<img src="Shapes/tile-shaded-0.png" width="100" /> tile-shaded-0.png<br>
+<img src="UserControls/tile-shaded-0.png" width="100" /> tile-shaded-0.png<br>
 
-<img src="Shapes/tile-shaded-1.png" width="100" /> tile-shaded-1.png<br>
+<img src="UserControls/tile-shaded-1.png" width="100" /> tile-shaded-1.png<br>
 

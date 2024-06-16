@@ -208,6 +208,8 @@
 
 <img src="Characters/CreatureParts/arm-e.png" width="100" /> arm-e.png<br>
 
+<img src="Symbols/UserControls/arrow-shape.png" width="100" /> arrow-shape.png<br>
+
 <img src="Characters/Astronauts/astronaut-0.png" width="100" /> astronaut-0.png<br>
 
 <img src="Characters/Astronauts/astronaut-1.png" width="100" /> astronaut-1.png<br>
@@ -222,13 +224,13 @@
 
 <img src="Landscape/Backgrounds/background-neutral.png" width="100" /> background-neutral.png<br>
 
-<img src="Symbols/Shapes/ball-outlined-2.png" width="100" /> ball-outlined-2.png<br>
+<img src="Symbols/UserControls/ball-outlined-1.png" width="100" /> ball-outlined-1.png<br>
 
-<img src="Symbols/Shapes/ball-outlined.png" width="100" /> ball-outlined.png<br>
+<img src="Symbols/UserControls/ball-outlined-2.png" width="100" /> ball-outlined-2.png<br>
 
-<img src="Symbols/Shapes/ball-shaded-2.png" width="100" /> ball-shaded-2.png<br>
+<img src="Symbols/UserControls/ball-shaded-1.png" width="100" /> ball-shaded-1.png<br>
 
-<img src="Symbols/Shapes/ball-shaded.png" width="100" /> ball-shaded.png<br>
+<img src="Symbols/UserControls/ball-shaded-2.png" width="100" /> ball-shaded-2.png<br>
 
 <img src="Characters/Enemies/barnacle-0.png" width="100" /> barnacle-0.png<br>
 
@@ -492,7 +494,27 @@
 
 <img src="Landscape/Plants/Bushes/bush-8.png" width="100" /> bush-8.png<br>
 
+<img src="Symbols/UserControls/button-circle-1.png" width="100" /> button-circle-1.png<br>
+
+<img src="Symbols/UserControls/button-circle-2.png" width="100" /> button-circle-2.png<br>
+
 <img src="General/Interactibles/button-pressed.png" width="100" /> button-pressed.png<br>
+
+<img src="Symbols/UserControls/button-rect-1.png" width="100" /> button-rect-1.png<br>
+
+<img src="Symbols/UserControls/button-rect-2.png" width="100" /> button-rect-2.png<br>
+
+<img src="Symbols/UserControls/button-rect-3.png" width="100" /> button-rect-3.png<br>
+
+<img src="Symbols/UserControls/button-rect-4.png" width="100" /> button-rect-4.png<br>
+
+<img src="Symbols/UserControls/button-round-1.png" width="100" /> button-round-1.png<br>
+
+<img src="Symbols/UserControls/button-round-2.png" width="100" /> button-round-2.png<br>
+
+<img src="Symbols/UserControls/button-square-1.png" width="100" /> button-square-1.png<br>
+
+<img src="Symbols/UserControls/button-square-2.png" width="100" /> button-square-2.png<br>
 
 <img src="General/Interactibles/button-unpressed.png" width="100" /> button-unpressed.png<br>
 
@@ -766,6 +788,16 @@
 
 <img src="Characters/Cat/cat-walk-9.png" width="100" /> cat-walk-9.png<br>
 
+<img src="Symbols/UserControls/check-round-1.png" width="100" /> check-round-1.png<br>
+
+<img src="Symbols/UserControls/check-round-2.png" width="100" /> check-round-2.png<br>
+
+<img src="Symbols/UserControls/check-square-1.png" width="100" /> check-square-1.png<br>
+
+<img src="Symbols/UserControls/check-square-2.png" width="100" /> check-square-2.png<br>
+
+<img src="Symbols/UserControls/check-square-3.png" width="100" /> check-square-3.png<br>
+
 <img src="General/Food/cherry.png" width="100" /> cherry.png<br>
 
 <img src="Landscape/Sky/cloud-1.png" width="100" /> cloud-1.png<br>
@@ -1034,6 +1066,14 @@
 
 <img src="Characters/Dog/dog-walk-9.png" width="100" /> dog-walk-9.png<br>
 
+<img src="General/Interactibles/door-closed.png" width="100" /> door-closed.png<br>
+
+<img src="General/Collectibles/door-key.png" width="100" /> door-key.png<br>
+
+<img src="General/Collectibles/door-lock.png" width="100" /> door-lock.png<br>
+
+<img src="General/Interactibles/door-open.png" width="100" /> door-open.png<br>
+
 <img src="Characters/CreatureParts/drop-a.png" width="100" /> drop-a.png<br>
 
 <img src="Characters/CreatureParts/drop-b.png" width="100" /> drop-b.png<br>
@@ -1270,7 +1310,7 @@
 
 <img src="General/Effects/gel-4.png" width="100" /> gel-4.png<br>
 
-<img src="General/Collectibles/gem-blue.png" width="100" /> gem-blue.png<br>
+<img src="General/Collectibles/gem.png" width="100" /> gem.png<br>
 
 <img src="Characters/Enemies/ghost-0.png" width="100" /> ghost-0.png<br>
 
@@ -1816,6 +1856,10 @@
 
 <img src="General/Kitchen/kitchen-tongs.png" width="100" /> kitchen-tongs.png<br>
 
+<img src="General/Interactibles/ladder-middle.png" width="100" /> ladder-middle.png<br>
+
+<img src="General/Interactibles/ladder-top.png" width="100" /> ladder-top.png<br>
+
 <img src="Characters/Enemies/ladybug-0.png" width="100" /> ladybug-0.png<br>
 
 <img src="Characters/Enemies/ladybug-1.png" width="100" /> ladybug-1.png<br>
@@ -2166,10 +2210,6 @@
 
 <img src="Landscape/Buildings/pyramid-2.png" width="100" /> pyramid-2.png<br>
 
-<img src="Symbols/Shapes/rect-button-pressed.png" width="100" /> rect-button-pressed.png<br>
-
-<img src="Symbols/Shapes/rect-button.png" width="100" /> rect-button.png<br>
-
 <img src="Characters/Robot/robot-attack-0.png" width="100" /> robot-attack-0.png<br>
 
 <img src="Characters/Robot/robot-attack-1.png" width="100" /> robot-attack-1.png<br>
@@ -2263,10 +2303,6 @@
 <img src="Characters/CuteAnimals/round-bear.png" width="100" /> round-bear.png<br>
 
 <img src="Characters/CuteAnimals/round-buffalo.png" width="100" /> round-buffalo.png<br>
-
-<img src="Symbols/Shapes/round-button-pressed.png" width="100" /> round-button-pressed.png<br>
-
-<img src="Symbols/Shapes/round-button.png" width="100" /> round-button.png<br>
 
 <img src="Characters/CuteAnimals/round-chick.png" width="100" /> round-chick.png<br>
 
@@ -2434,6 +2470,10 @@
 
 <img src="General/Collectibles/silver-5.png" width="100" /> silver-5.png<br>
 
+<img src="Symbols/UserControls/slide-bar-marker.png" width="100" /> slide-bar-marker.png<br>
+
+<img src="Symbols/UserControls/slide-bar.png" width="100" /> slide-bar.png<br>
+
 <img src="Characters/Enemies/slime-block-0.png" width="100" /> slime-block-0.png<br>
 
 <img src="Characters/Enemies/slime-block-1.png" width="100" /> slime-block-1.png<br>
@@ -2590,9 +2630,9 @@
 
 <img src="Landscape/Backgrounds/tile-sand.png" width="100" /> tile-sand.png<br>
 
-<img src="Symbols/Shapes/tile-shaded-0.png" width="100" /> tile-shaded-0.png<br>
+<img src="Symbols/UserControls/tile-shaded-0.png" width="100" /> tile-shaded-0.png<br>
 
-<img src="Symbols/Shapes/tile-shaded-1.png" width="100" /> tile-shaded-1.png<br>
+<img src="Symbols/UserControls/tile-shaded-1.png" width="100" /> tile-shaded-1.png<br>
 
 <img src="Landscape/Backgrounds/tile-space.png" width="100" /> tile-space.png<br>
 
@@ -2715,6 +2755,8 @@
 <img src="General/Interactibles/umbrella-opened.png" width="100" /> umbrella-opened.png<br>
 
 <img src="Landscape/Floors/water-top-high.png" width="100" /> water-top-high.png<br>
+
+<img src="Landscape/Obstacles/weight.png" width="100" /> weight.png<br>
 
 <img src="General/Food/wheat.png" width="100" /> wheat.png<br>
 

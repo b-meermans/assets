@@ -102,6 +102,14 @@
 
 <img src="Collectibles/coin-silver.png" width="100" /> coin-silver.png<br>
 
+<img src="Interactibles/door-closed.png" width="100" /> door-closed.png<br>
+
+<img src="Collectibles/door-key.png" width="100" /> door-key.png<br>
+
+<img src="Collectibles/door-lock.png" width="100" /> door-lock.png<br>
+
+<img src="Interactibles/door-open.png" width="100" /> door-open.png<br>
+
 <img src="Effects/explosion-0.png" width="100" /> explosion-0.png<br>
 
 <img src="Effects/explosion-1.png" width="100" /> explosion-1.png<br>
@@ -142,7 +150,7 @@
 
 <img src="Effects/gel-4.png" width="100" /> gel-4.png<br>
 
-<img src="Collectibles/gem-blue.png" width="100" /> gem-blue.png<br>
+<img src="Collectibles/gem.png" width="100" /> gem.png<br>
 
 <img src="Collectibles/gold-0.png" width="100" /> gold-0.png<br>
 
@@ -209,6 +217,10 @@
 <img src="Kitchen/kitchen-spoon.png" width="100" /> kitchen-spoon.png<br>
 
 <img src="Kitchen/kitchen-tongs.png" width="100" /> kitchen-tongs.png<br>
+
+<img src="Interactibles/ladder-middle.png" width="100" /> ladder-middle.png<br>
+
+<img src="Interactibles/ladder-top.png" width="100" /> ladder-top.png<br>
 
 <img src="Interactibles/lever-left.png" width="100" /> lever-left.png<br>
 
