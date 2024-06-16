@@ -18,7 +18,11 @@
 
 <img src="Bushes/bush-8.png" width="100" /> bush-8.png<br>
 
-<img src="Flowers/cactus.png" width="100" /> cactus.png<br>
+<img src="Trees/cactus-0.png" width="100" /> cactus-0.png<br>
+
+<img src="Trees/cactus-1.png" width="100" /> cactus-1.png<br>
+
+<img src="Trees/cactus-2.png" width="100" /> cactus-2.png<br>
 
 <img src="Coral/coral-0.png" width="100" /> coral-0.png<br>
 
@@ -103,6 +107,14 @@
 <img src="Trees/tree-8-alt.png" width="100" /> tree-8-alt.png<br>
 
 <img src="Trees/tree-8.png" width="100" /> tree-8.png<br>
+
+<img src="Trees/tree-top-alt.png" width="100" /> tree-top-alt.png<br>
+
+<img src="Trees/tree-top.png" width="100" /> tree-top.png<br>
+
+<img src="Trees/tree-twigs-alt.png" width="100" /> tree-twigs-alt.png<br>
+
+<img src="Trees/tree-twigs.png" width="100" /> tree-twigs.png<br>
 
 <img src="Trees/trunk-0.png" width="100" /> trunk-0.png<br>
 

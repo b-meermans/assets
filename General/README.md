@@ -44,6 +44,8 @@
 
 <img src="Bricks/brick-9.png" width="100" /> brick-9.png<br>
 
+<img src="Interactibles/brick-cracked.png" width="100" /> brick-cracked.png<br>
+
 <img src="Bricks/brick-special-1 (2).png" width="100" /> brick-special-1 (2).png<br>
 
 <img src="Bricks/brick-special-1.png" width="100" /> brick-special-1.png<br>
@@ -63,6 +65,8 @@
 <img src="Bricks/brick-special-8.png" width="100" /> brick-special-8.png<br>
 
 <img src="Bricks/brick-special-9.png" width="100" /> brick-special-9.png<br>
+
+<img src="Interactibles/brick-whole.png" width="100" /> brick-whole.png<br>
 
 <img src="Collectibles/bronze-0.png" width="100" /> bronze-0.png<br>
 
@@ -97,6 +101,18 @@
 <img src="Collectibles/coin-gold.png" width="100" /> coin-gold.png<br>
 
 <img src="Collectibles/coin-silver.png" width="100" /> coin-silver.png<br>
+
+<img src="Effects/explosion-0.png" width="100" /> explosion-0.png<br>
+
+<img src="Effects/explosion-1.png" width="100" /> explosion-1.png<br>
+
+<img src="Effects/explosion-2.png" width="100" /> explosion-2.png<br>
+
+<img src="Effects/explosion-3.png" width="100" /> explosion-3.png<br>
+
+<img src="Effects/explosion-4.png" width="100" /> explosion-4.png<br>
+
+<img src="Effects/explosion-5.png" width="100" /> explosion-5.png<br>
 
 <img src="Effects/explosion-big.png" width="100" /> explosion-big.png<br>
 
@@ -256,7 +272,9 @@
 
 <img src="Office/office-pencil.png" width="100" /> office-pencil.png<br>
 
-<img src="Interactibles/paddle.png" width="100" /> paddle.png<br>
+<img src="Interactibles/paddle-1.png" width="100" /> paddle-1.png<br>
+
+<img src="Interactibles/paddle-2.png" width="100" /> paddle-2.png<br>
 
 <img src="Effects/paintdrip-0.png" width="100" /> paintdrip-0.png<br>
 

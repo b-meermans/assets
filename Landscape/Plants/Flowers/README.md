@@ -1,7 +1,5 @@
 # Image Previews
 
-<img src="cactus.png" width="100" /> cactus.png<br>
-
 <img src="flower-0.png" width="100" /> flower-0.png<br>
 
 <img src="flower-1.png" width="100" /> flower-1.png<br>

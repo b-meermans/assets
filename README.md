@@ -376,6 +376,8 @@
 
 <img src="General/Bricks/brick-9.png" width="100" /> brick-9.png<br>
 
+<img src="General/Interactibles/brick-cracked.png" width="100" /> brick-cracked.png<br>
+
 <img src="General/Bricks/brick-special-1 (2).png" width="100" /> brick-special-1 (2).png<br>
 
 <img src="General/Bricks/brick-special-1.png" width="100" /> brick-special-1.png<br>
@@ -395,6 +397,8 @@
 <img src="General/Bricks/brick-special-8.png" width="100" /> brick-special-8.png<br>
 
 <img src="General/Bricks/brick-special-9.png" width="100" /> brick-special-9.png<br>
+
+<img src="General/Interactibles/brick-whole.png" width="100" /> brick-whole.png<br>
 
 <img src="General/Collectibles/bronze-0.png" width="100" /> bronze-0.png<br>
 
@@ -492,7 +496,11 @@
 
 <img src="General/Interactibles/button-unpressed.png" width="100" /> button-unpressed.png<br>
 
-<img src="Landscape/Plants/Flowers/cactus.png" width="100" /> cactus.png<br>
+<img src="Landscape/Plants/Trees/cactus-0.png" width="100" /> cactus-0.png<br>
+
+<img src="Landscape/Plants/Trees/cactus-1.png" width="100" /> cactus-1.png<br>
+
+<img src="Landscape/Plants/Trees/cactus-2.png" width="100" /> cactus-2.png<br>
 
 <img src="Landscape/Platforms/cake-half-left.png" width="100" /> cake-half-left.png<br>
 
@@ -760,21 +768,21 @@
 
 <img src="General/Food/cherry.png" width="100" /> cherry.png<br>
 
-<img src="Landscape/Clouds/cloud-1.png" width="100" /> cloud-1.png<br>
+<img src="Landscape/Sky/cloud-1.png" width="100" /> cloud-1.png<br>
 
-<img src="Landscape/Clouds/cloud-2.png" width="100" /> cloud-2.png<br>
+<img src="Landscape/Sky/cloud-2.png" width="100" /> cloud-2.png<br>
 
-<img src="Landscape/Clouds/cloud-3.png" width="100" /> cloud-3.png<br>
+<img src="Landscape/Sky/cloud-3.png" width="100" /> cloud-3.png<br>
 
-<img src="Landscape/Clouds/cloud-4.png" width="100" /> cloud-4.png<br>
+<img src="Landscape/Sky/cloud-4.png" width="100" /> cloud-4.png<br>
 
-<img src="Landscape/Clouds/cloud-5.png" width="100" /> cloud-5.png<br>
+<img src="Landscape/Sky/cloud-5.png" width="100" /> cloud-5.png<br>
 
-<img src="Landscape/Clouds/cloud-6.png" width="100" /> cloud-6.png<br>
+<img src="Landscape/Sky/cloud-6.png" width="100" /> cloud-6.png<br>
 
-<img src="Landscape/Clouds/cloud-7.png" width="100" /> cloud-7.png<br>
+<img src="Landscape/Sky/cloud-7.png" width="100" /> cloud-7.png<br>
 
-<img src="Landscape/Clouds/cloud-8.png" width="100" /> cloud-8.png<br>
+<img src="Landscape/Sky/cloud-8.png" width="100" /> cloud-8.png<br>
 
 <img src="Characters/Enemies/cloud.png" width="100" /> cloud.png<br>
 
@@ -1038,6 +1046,76 @@
 
 <img src="Characters/Fish/eel-small.png" width="100" /> eel-small.png<br>
 
+<img src="Characters/Emotes/emote-alert.png" width="100" /> emote-alert.png<br>
+
+<img src="Characters/Emotes/emote-anger.png" width="100" /> emote-anger.png<br>
+
+<img src="Characters/Emotes/emote-bars.png" width="100" /> emote-bars.png<br>
+
+<img src="Characters/Emotes/emote-cash.png" width="100" /> emote-cash.png<br>
+
+<img src="Characters/Emotes/emote-circle.png" width="100" /> emote-circle.png<br>
+
+<img src="Characters/Emotes/emote-cloud.png" width="100" /> emote-cloud.png<br>
+
+<img src="Characters/Emotes/emote-cross.png" width="100" /> emote-cross.png<br>
+
+<img src="Characters/Emotes/emote-dots-1.png" width="100" /> emote-dots-1.png<br>
+
+<img src="Characters/Emotes/emote-dots-2.png" width="100" /> emote-dots-2.png<br>
+
+<img src="Characters/Emotes/emote-dots-3.png" width="100" /> emote-dots-3.png<br>
+
+<img src="Characters/Emotes/emote-drop.png" width="100" /> emote-drop.png<br>
+
+<img src="Characters/Emotes/emote-drops.png" width="100" /> emote-drops.png<br>
+
+<img src="Characters/Emotes/emote-exclamation.png" width="100" /> emote-exclamation.png<br>
+
+<img src="Characters/Emotes/emote-exclamations.png" width="100" /> emote-exclamations.png<br>
+
+<img src="Characters/Emotes/emote-faceangry.png" width="100" /> emote-faceangry.png<br>
+
+<img src="Characters/Emotes/emote-facehappy.png" width="100" /> emote-facehappy.png<br>
+
+<img src="Characters/Emotes/emote-facesad.png" width="100" /> emote-facesad.png<br>
+
+<img src="Characters/Emotes/emote-heart.png" width="100" /> emote-heart.png<br>
+
+<img src="Characters/Emotes/emote-heartbroken.png" width="100" /> emote-heartbroken.png<br>
+
+<img src="Characters/Emotes/emote-hearts.png" width="100" /> emote-hearts.png<br>
+
+<img src="Characters/Emotes/emote-idea.png" width="100" /> emote-idea.png<br>
+
+<img src="Characters/Emotes/emote-laugh.png" width="100" /> emote-laugh.png<br>
+
+<img src="Characters/Emotes/emote-music.png" width="100" /> emote-music.png<br>
+
+<img src="Characters/Emotes/emote-question.png" width="100" /> emote-question.png<br>
+
+<img src="Characters/Emotes/emote-sleep.png" width="100" /> emote-sleep.png<br>
+
+<img src="Characters/Emotes/emote-sleeps.png" width="100" /> emote-sleeps.png<br>
+
+<img src="Characters/Emotes/emote-star.png" width="100" /> emote-star.png<br>
+
+<img src="Characters/Emotes/emote-stars.png" width="100" /> emote-stars.png<br>
+
+<img src="Characters/Emotes/emote-swirl.png" width="100" /> emote-swirl.png<br>
+
+<img src="General/Effects/explosion-0.png" width="100" /> explosion-0.png<br>
+
+<img src="General/Effects/explosion-1.png" width="100" /> explosion-1.png<br>
+
+<img src="General/Effects/explosion-2.png" width="100" /> explosion-2.png<br>
+
+<img src="General/Effects/explosion-3.png" width="100" /> explosion-3.png<br>
+
+<img src="General/Effects/explosion-4.png" width="100" /> explosion-4.png<br>
+
+<img src="General/Effects/explosion-5.png" width="100" /> explosion-5.png<br>
+
 <img src="General/Effects/explosion-big.png" width="100" /> explosion-big.png<br>
 
 <img src="General/Effects/explosion-medium.png" width="100" /> explosion-medium.png<br>
@@ -1101,6 +1179,8 @@
 <img src="Characters/BlockyParts/face-8.png" width="100" /> face-8.png<br>
 
 <img src="Characters/BlockyParts/face-9.png" width="100" /> face-9.png<br>
+
+<img src="Landscape/Obstacles/fence.png" width="100" /> fence.png<br>
 
 <img src="General/Effects/fire-1.png" width="100" /> fire-1.png<br>
 
@@ -1303,6 +1383,194 @@
 <img src="Characters/BlockyParts/hand-rock.png" width="100" /> hand-rock.png<br>
 
 <img src="Characters/BlockyParts/hand-thumb.png" width="100" /> hand-thumb.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-0.png" width="100" /> hex-concrete-0.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-1.png" width="100" /> hex-concrete-1.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-10.png" width="100" /> hex-concrete-10.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-11.png" width="100" /> hex-concrete-11.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-12.png" width="100" /> hex-concrete-12.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-13.png" width="100" /> hex-concrete-13.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-14.png" width="100" /> hex-concrete-14.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-15.png" width="100" /> hex-concrete-15.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-16.png" width="100" /> hex-concrete-16.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-2.png" width="100" /> hex-concrete-2.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-3.png" width="100" /> hex-concrete-3.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-4.png" width="100" /> hex-concrete-4.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-5.png" width="100" /> hex-concrete-5.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-6.png" width="100" /> hex-concrete-6.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-7.png" width="100" /> hex-concrete-7.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-8.png" width="100" /> hex-concrete-8.png<br>
+
+<img src="Landscape/HexagonTiles/Stone/hex-concrete-9.png" width="100" /> hex-concrete-9.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-0.png" width="100" /> hex-dirt-0.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-1.png" width="100" /> hex-dirt-1.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-10.png" width="100" /> hex-dirt-10.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-11.png" width="100" /> hex-dirt-11.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-12.png" width="100" /> hex-dirt-12.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-13.png" width="100" /> hex-dirt-13.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-14.png" width="100" /> hex-dirt-14.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-15.png" width="100" /> hex-dirt-15.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-16.png" width="100" /> hex-dirt-16.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-17.png" width="100" /> hex-dirt-17.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-2.png" width="100" /> hex-dirt-2.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-3.png" width="100" /> hex-dirt-3.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-4.png" width="100" /> hex-dirt-4.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-5.png" width="100" /> hex-dirt-5.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-6.png" width="100" /> hex-dirt-6.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-7.png" width="100" /> hex-dirt-7.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-8.png" width="100" /> hex-dirt-8.png<br>
+
+<img src="Landscape/HexagonTiles/Dirt/hex-dirt-9.png" width="100" /> hex-dirt-9.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-0.png" width="100" /> hex-grass-0.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-1.png" width="100" /> hex-grass-1.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-10.png" width="100" /> hex-grass-10.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-11.png" width="100" /> hex-grass-11.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-12.png" width="100" /> hex-grass-12.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-13.png" width="100" /> hex-grass-13.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-14.png" width="100" /> hex-grass-14.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-15.png" width="100" /> hex-grass-15.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-16.png" width="100" /> hex-grass-16.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-17.png" width="100" /> hex-grass-17.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-18.png" width="100" /> hex-grass-18.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-2.png" width="100" /> hex-grass-2.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-3.png" width="100" /> hex-grass-3.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-4.png" width="100" /> hex-grass-4.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-5.png" width="100" /> hex-grass-5.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-6.png" width="100" /> hex-grass-6.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-7.png" width="100" /> hex-grass-7.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-8.png" width="100" /> hex-grass-8.png<br>
+
+<img src="Landscape/HexagonTiles/Grass/hex-grass-9.png" width="100" /> hex-grass-9.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-0.png" width="100" /> hex-mars-0.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-1.png" width="100" /> hex-mars-1.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-10.png" width="100" /> hex-mars-10.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-11.png" width="100" /> hex-mars-11.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-12.png" width="100" /> hex-mars-12.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-13.png" width="100" /> hex-mars-13.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-14.png" width="100" /> hex-mars-14.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-15.png" width="100" /> hex-mars-15.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-16.png" width="100" /> hex-mars-16.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-17.png" width="100" /> hex-mars-17.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-18.png" width="100" /> hex-mars-18.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-19.png" width="100" /> hex-mars-19.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-2.png" width="100" /> hex-mars-2.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-20.png" width="100" /> hex-mars-20.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-21.png" width="100" /> hex-mars-21.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-22.png" width="100" /> hex-mars-22.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-23.png" width="100" /> hex-mars-23.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-24.png" width="100" /> hex-mars-24.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-25.png" width="100" /> hex-mars-25.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-3.png" width="100" /> hex-mars-3.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-4.png" width="100" /> hex-mars-4.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-5.png" width="100" /> hex-mars-5.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-6.png" width="100" /> hex-mars-6.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-7.png" width="100" /> hex-mars-7.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-8.png" width="100" /> hex-mars-8.png<br>
+
+<img src="Landscape/HexagonTiles/Mars/hex-mars-9.png" width="100" /> hex-mars-9.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-0.png" width="100" /> hex-sand-0.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-1.png" width="100" /> hex-sand-1.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-10.png" width="100" /> hex-sand-10.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-11.png" width="100" /> hex-sand-11.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-12.png" width="100" /> hex-sand-12.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-13.png" width="100" /> hex-sand-13.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-2.png" width="100" /> hex-sand-2.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-3.png" width="100" /> hex-sand-3.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-4.png" width="100" /> hex-sand-4.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-5.png" width="100" /> hex-sand-5.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-6.png" width="100" /> hex-sand-6.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-7.png" width="100" /> hex-sand-7.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-8.png" width="100" /> hex-sand-8.png<br>
+
+<img src="Landscape/HexagonTiles/Sand/hex-sand-9.png" width="100" /> hex-sand-9.png<br>
 
 <img src="Characters/CreatureParts/horn-a.png" width="100" /> horn-a.png<br>
 
@@ -1676,6 +1944,12 @@
 
 <img src="General/Medals/medal-9.png" width="100" /> medal-9.png<br>
 
+<img src="Landscape/Sky/moon-0.png" width="100" /> moon-0.png<br>
+
+<img src="Landscape/Sky/moon-1.png" width="100" /> moon-1.png<br>
+
+<img src="Landscape/Sky/moon-2.png" width="100" /> moon-2.png<br>
+
 <img src="Transport/Cars/motorcycle.png" width="100" /> motorcycle.png<br>
 
 <img src="Landscape/Rocks/mountain-0.png" width="100" /> mountain-0.png<br>
@@ -1778,7 +2052,9 @@
 
 <img src="General/Office/office-pencil.png" width="100" /> office-pencil.png<br>
 
-<img src="General/Interactibles/paddle.png" width="100" /> paddle.png<br>
+<img src="General/Interactibles/paddle-1.png" width="100" /> paddle-1.png<br>
+
+<img src="General/Interactibles/paddle-2.png" width="100" /> paddle-2.png<br>
 
 <img src="General/Effects/paintdrip-0.png" width="100" /> paintdrip-0.png<br>
 
@@ -1886,7 +2162,9 @@
 
 <img src="Characters/Fish/puffer.png" width="100" /> puffer.png<br>
 
-<img src="Landscape/Buildings/pyramid.png" width="100" /> pyramid.png<br>
+<img src="Landscape/Buildings/pyramid-1.png" width="100" /> pyramid-1.png<br>
+
+<img src="Landscape/Buildings/pyramid-2.png" width="100" /> pyramid-2.png<br>
 
 <img src="Symbols/Shapes/rect-button-pressed.png" width="100" /> rect-button-pressed.png<br>
 
@@ -2407,6 +2685,14 @@
 <img src="Landscape/Plants/Trees/tree-8-alt.png" width="100" /> tree-8-alt.png<br>
 
 <img src="Landscape/Plants/Trees/tree-8.png" width="100" /> tree-8.png<br>
+
+<img src="Landscape/Plants/Trees/tree-top-alt.png" width="100" /> tree-top-alt.png<br>
+
+<img src="Landscape/Plants/Trees/tree-top.png" width="100" /> tree-top.png<br>
+
+<img src="Landscape/Plants/Trees/tree-twigs-alt.png" width="100" /> tree-twigs-alt.png<br>
+
+<img src="Landscape/Plants/Trees/tree-twigs.png" width="100" /> tree-twigs.png<br>
 
 <img src="Landscape/Plants/Trees/trunk-0.png" width="100" /> trunk-0.png<br>
 

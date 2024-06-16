@@ -16,3 +16,9 @@
 
 <img src="cloud-8.png" width="100" /> cloud-8.png<br>
 
+<img src="moon-0.png" width="100" /> moon-0.png<br>
+
+<img src="moon-1.png" width="100" /> moon-1.png<br>
+
+<img src="moon-2.png" width="100" /> moon-2.png<br>
+

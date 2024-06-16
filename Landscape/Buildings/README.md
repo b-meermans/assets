@@ -12,7 +12,9 @@
 
 <img src="igloo.png" width="100" /> igloo.png<br>
 
-<img src="pyramid.png" width="100" /> pyramid.png<br>
+<img src="pyramid-1.png" width="100" /> pyramid-1.png<br>
+
+<img src="pyramid-2.png" width="100" /> pyramid-2.png<br>
 
 <img src="tower-small.png" width="100" /> tower-small.png<br>
 

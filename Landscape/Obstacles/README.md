@@ -1,5 +1,7 @@
 # Image Previews
 
+<img src="fence.png" width="100" /> fence.png<br>
+
 <img src="rock-down.png" width="100" /> rock-down.png<br>
 
 <img src="rock-grass-down.png" width="100" /> rock-grass-down.png<br>

@@ -1,5 +1,9 @@
 # Image Previews
 
+<img src="brick-cracked.png" width="100" /> brick-cracked.png<br>
+
+<img src="brick-whole.png" width="100" /> brick-whole.png<br>
+
 <img src="button-pressed.png" width="100" /> button-pressed.png<br>
 
 <img src="button-unpressed.png" width="100" /> button-unpressed.png<br>
@@ -16,7 +20,9 @@
 
 <img src="lever-right.png" width="100" /> lever-right.png<br>
 
-<img src="paddle.png" width="100" /> paddle.png<br>
+<img src="paddle-1.png" width="100" /> paddle-1.png<br>
+
+<img src="paddle-2.png" width="100" /> paddle-2.png<br>
 
 <img src="spring-in.png" width="100" /> spring-in.png<br>
 
