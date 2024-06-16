@@ -24,30 +24,6 @@
 
 <img src="Trees/cactus-2.png" width="100" /> cactus-2.png<br>
 
-<img src="Coral/coral-0.png" width="100" /> coral-0.png<br>
-
-<img src="Coral/coral-1.png" width="100" /> coral-1.png<br>
-
-<img src="Coral/coral-10.png" width="100" /> coral-10.png<br>
-
-<img src="Coral/coral-11.png" width="100" /> coral-11.png<br>
-
-<img src="Coral/coral-2.png" width="100" /> coral-2.png<br>
-
-<img src="Coral/coral-3.png" width="100" /> coral-3.png<br>
-
-<img src="Coral/coral-4.png" width="100" /> coral-4.png<br>
-
-<img src="Coral/coral-5.png" width="100" /> coral-5.png<br>
-
-<img src="Coral/coral-6.png" width="100" /> coral-6.png<br>
-
-<img src="Coral/coral-7.png" width="100" /> coral-7.png<br>
-
-<img src="Coral/coral-8.png" width="100" /> coral-8.png<br>
-
-<img src="Coral/coral-9.png" width="100" /> coral-9.png<br>
-
 <img src="Flowers/flower-0.png" width="100" /> flower-0.png<br>
 
 <img src="Flowers/flower-1.png" width="100" /> flower-1.png<br>
@@ -108,6 +84,8 @@
 
 <img src="Trees/tree-8.png" width="100" /> tree-8.png<br>
 
+<img src="Trees/tree-palm.png" width="100" /> tree-palm.png<br>
+
 <img src="Trees/tree-top-alt.png" width="100" /> tree-top-alt.png<br>
 
 <img src="Trees/tree-top.png" width="100" /> tree-top.png<br>
@@ -131,4 +109,22 @@
 <img src="Trees/trunk-6.png" width="100" /> trunk-6.png<br>
 
 <img src="Trees/trunk-7.png" width="100" /> trunk-7.png<br>
+
+<img src="Trees/trunk-8.png" width="100" /> trunk-8.png<br>
+
+<img src="Coral/water-plant-0.png" width="100" /> water-plant-0.png<br>
+
+<img src="Coral/water-plant-1.png" width="100" /> water-plant-1.png<br>
+
+<img src="Coral/water-plant-2.png" width="100" /> water-plant-2.png<br>
+
+<img src="Coral/water-plant-3.png" width="100" /> water-plant-3.png<br>
+
+<img src="Coral/water-plant-4.png" width="100" /> water-plant-4.png<br>
+
+<img src="Coral/water-plant-5.png" width="100" /> water-plant-5.png<br>
+
+<img src="Coral/water-plant-6.png" width="100" /> water-plant-6.png<br>
+
+<img src="Coral/water-plant-7.png" width="100" /> water-plant-7.png<br>
 

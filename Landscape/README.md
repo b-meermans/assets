@@ -90,30 +90,6 @@
 
 <img src="Backgrounds/colored-land.png" width="100" /> colored-land.png<br>
 
-<img src="Plants/Coral/coral-0.png" width="100" /> coral-0.png<br>
-
-<img src="Plants/Coral/coral-1.png" width="100" /> coral-1.png<br>
-
-<img src="Plants/Coral/coral-10.png" width="100" /> coral-10.png<br>
-
-<img src="Plants/Coral/coral-11.png" width="100" /> coral-11.png<br>
-
-<img src="Plants/Coral/coral-2.png" width="100" /> coral-2.png<br>
-
-<img src="Plants/Coral/coral-3.png" width="100" /> coral-3.png<br>
-
-<img src="Plants/Coral/coral-4.png" width="100" /> coral-4.png<br>
-
-<img src="Plants/Coral/coral-5.png" width="100" /> coral-5.png<br>
-
-<img src="Plants/Coral/coral-6.png" width="100" /> coral-6.png<br>
-
-<img src="Plants/Coral/coral-7.png" width="100" /> coral-7.png<br>
-
-<img src="Plants/Coral/coral-8.png" width="100" /> coral-8.png<br>
-
-<img src="Plants/Coral/coral-9.png" width="100" /> coral-9.png<br>
-
 <img src="Platforms/dirt-half-left.png" width="100" /> dirt-half-left.png<br>
 
 <img src="Platforms/dirt-half-mid.png" width="100" /> dirt-half-mid.png<br>
@@ -526,6 +502,8 @@
 
 <img src="Plants/Flowers/mushroom-red.png" width="100" /> mushroom-red.png<br>
 
+<img src="Obstacles/pipe.png" width="100" /> pipe.png<br>
+
 <img src="Platforms/planet-half-left.png" width="100" /> planet-half-left.png<br>
 
 <img src="Platforms/planet-half-mid.png" width="100" /> planet-half-mid.png<br>
@@ -626,15 +604,21 @@
 
 <img src="Platforms/tile-half.png" width="100" /> tile-half.png<br>
 
+<img src="Backgrounds/tile-mud-2.png" width="100" /> tile-mud-2.png<br>
+
 <img src="Backgrounds/tile-mud.png" width="100" /> tile-mud.png<br>
 
 <img src="Backgrounds/tile-panel.png" width="100" /> tile-panel.png<br>
 
 <img src="Backgrounds/tile-parchment.png" width="100" /> tile-parchment.png<br>
 
+<img src="Backgrounds/tile-sand-2.png" width="100" /> tile-sand-2.png<br>
+
 <img src="Backgrounds/tile-sand.png" width="100" /> tile-sand.png<br>
 
 <img src="Backgrounds/tile-space.png" width="100" /> tile-space.png<br>
+
+<img src="Backgrounds/tile-water-2.png" width="100" /> tile-water-2.png<br>
 
 <img src="Backgrounds/tile-water.png" width="100" /> tile-water.png<br>
 
@@ -680,6 +664,8 @@
 
 <img src="Plants/Trees/tree-8.png" width="100" /> tree-8.png<br>
 
+<img src="Plants/Trees/tree-palm.png" width="100" /> tree-palm.png<br>
+
 <img src="Plants/Trees/tree-top-alt.png" width="100" /> tree-top-alt.png<br>
 
 <img src="Plants/Trees/tree-top.png" width="100" /> tree-top.png<br>
@@ -703,6 +689,24 @@
 <img src="Plants/Trees/trunk-6.png" width="100" /> trunk-6.png<br>
 
 <img src="Plants/Trees/trunk-7.png" width="100" /> trunk-7.png<br>
+
+<img src="Plants/Trees/trunk-8.png" width="100" /> trunk-8.png<br>
+
+<img src="Plants/Coral/water-plant-0.png" width="100" /> water-plant-0.png<br>
+
+<img src="Plants/Coral/water-plant-1.png" width="100" /> water-plant-1.png<br>
+
+<img src="Plants/Coral/water-plant-2.png" width="100" /> water-plant-2.png<br>
+
+<img src="Plants/Coral/water-plant-3.png" width="100" /> water-plant-3.png<br>
+
+<img src="Plants/Coral/water-plant-4.png" width="100" /> water-plant-4.png<br>
+
+<img src="Plants/Coral/water-plant-5.png" width="100" /> water-plant-5.png<br>
+
+<img src="Plants/Coral/water-plant-6.png" width="100" /> water-plant-6.png<br>
+
+<img src="Plants/Coral/water-plant-7.png" width="100" /> water-plant-7.png<br>
 
 <img src="Floors/water-top-high.png" width="100" /> water-top-high.png<br>
 

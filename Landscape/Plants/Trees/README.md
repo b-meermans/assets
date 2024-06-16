@@ -42,6 +42,8 @@
 
 <img src="tree-8.png" width="100" /> tree-8.png<br>
 
+<img src="tree-palm.png" width="100" /> tree-palm.png<br>
+
 <img src="tree-top-alt.png" width="100" /> tree-top-alt.png<br>
 
 <img src="tree-top.png" width="100" /> tree-top.png<br>
@@ -65,4 +67,6 @@
 <img src="trunk-6.png" width="100" /> trunk-6.png<br>
 
 <img src="trunk-7.png" width="100" /> trunk-7.png<br>
+
+<img src="trunk-8.png" width="100" /> trunk-8.png<br>
 

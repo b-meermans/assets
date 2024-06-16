@@ -58,15 +58,21 @@
 
 <img src="tile-grass-3.png" width="100" /> tile-grass-3.png<br>
 
+<img src="tile-mud-2.png" width="100" /> tile-mud-2.png<br>
+
 <img src="tile-mud.png" width="100" /> tile-mud.png<br>
 
 <img src="tile-panel.png" width="100" /> tile-panel.png<br>
 
 <img src="tile-parchment.png" width="100" /> tile-parchment.png<br>
 
+<img src="tile-sand-2.png" width="100" /> tile-sand-2.png<br>
+
 <img src="tile-sand.png" width="100" /> tile-sand.png<br>
 
 <img src="tile-space.png" width="100" /> tile-space.png<br>
+
+<img src="tile-water-2.png" width="100" /> tile-water-2.png<br>
 
 <img src="tile-water.png" width="100" /> tile-water.png<br>
 

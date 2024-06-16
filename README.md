@@ -800,6 +800,78 @@
 
 <img src="General/Food/cherry.png" width="100" /> cherry.png<br>
 
+<img src="Symbols/ClearFont/clearfont-0.png" width="100" /> clearfont-0.png<br>
+
+<img src="Symbols/ClearFont/clearfont-1.png" width="100" /> clearfont-1.png<br>
+
+<img src="Symbols/ClearFont/clearfont-2.png" width="100" /> clearfont-2.png<br>
+
+<img src="Symbols/ClearFont/clearfont-3.png" width="100" /> clearfont-3.png<br>
+
+<img src="Symbols/ClearFont/clearfont-4.png" width="100" /> clearfont-4.png<br>
+
+<img src="Symbols/ClearFont/clearfont-5.png" width="100" /> clearfont-5.png<br>
+
+<img src="Symbols/ClearFont/clearfont-6.png" width="100" /> clearfont-6.png<br>
+
+<img src="Symbols/ClearFont/clearfont-7.png" width="100" /> clearfont-7.png<br>
+
+<img src="Symbols/ClearFont/clearfont-8.png" width="100" /> clearfont-8.png<br>
+
+<img src="Symbols/ClearFont/clearfont-9.png" width="100" /> clearfont-9.png<br>
+
+<img src="Symbols/ClearFont/clearfont-a.png" width="100" /> clearfont-a.png<br>
+
+<img src="Symbols/ClearFont/clearfont-b.png" width="100" /> clearfont-b.png<br>
+
+<img src="Symbols/ClearFont/clearfont-c.png" width="100" /> clearfont-c.png<br>
+
+<img src="Symbols/ClearFont/clearfont-d.png" width="100" /> clearfont-d.png<br>
+
+<img src="Symbols/ClearFont/clearfont-e.png" width="100" /> clearfont-e.png<br>
+
+<img src="Symbols/ClearFont/clearfont-f.png" width="100" /> clearfont-f.png<br>
+
+<img src="Symbols/ClearFont/clearfont-g.png" width="100" /> clearfont-g.png<br>
+
+<img src="Symbols/ClearFont/clearfont-h.png" width="100" /> clearfont-h.png<br>
+
+<img src="Symbols/ClearFont/clearfont-i.png" width="100" /> clearfont-i.png<br>
+
+<img src="Symbols/ClearFont/clearfont-j.png" width="100" /> clearfont-j.png<br>
+
+<img src="Symbols/ClearFont/clearfont-k.png" width="100" /> clearfont-k.png<br>
+
+<img src="Symbols/ClearFont/clearfont-l.png" width="100" /> clearfont-l.png<br>
+
+<img src="Symbols/ClearFont/clearfont-m.png" width="100" /> clearfont-m.png<br>
+
+<img src="Symbols/ClearFont/clearfont-n.png" width="100" /> clearfont-n.png<br>
+
+<img src="Symbols/ClearFont/clearfont-o.png" width="100" /> clearfont-o.png<br>
+
+<img src="Symbols/ClearFont/clearfont-p.png" width="100" /> clearfont-p.png<br>
+
+<img src="Symbols/ClearFont/clearfont-q.png" width="100" /> clearfont-q.png<br>
+
+<img src="Symbols/ClearFont/clearfont-r.png" width="100" /> clearfont-r.png<br>
+
+<img src="Symbols/ClearFont/clearfont-s.png" width="100" /> clearfont-s.png<br>
+
+<img src="Symbols/ClearFont/clearfont-t.png" width="100" /> clearfont-t.png<br>
+
+<img src="Symbols/ClearFont/clearfont-u.png" width="100" /> clearfont-u.png<br>
+
+<img src="Symbols/ClearFont/clearfont-v.png" width="100" /> clearfont-v.png<br>
+
+<img src="Symbols/ClearFont/clearfont-w.png" width="100" /> clearfont-w.png<br>
+
+<img src="Symbols/ClearFont/clearfont-x.png" width="100" /> clearfont-x.png<br>
+
+<img src="Symbols/ClearFont/clearfont-y.png" width="100" /> clearfont-y.png<br>
+
+<img src="Symbols/ClearFont/clearfont-z.png" width="100" /> clearfont-z.png<br>
+
 <img src="Landscape/Sky/cloud-1.png" width="100" /> cloud-1.png<br>
 
 <img src="Landscape/Sky/cloud-2.png" width="100" /> cloud-2.png<br>
@@ -851,30 +923,6 @@
 <img src="Symbols/MediaControls/control-sound-off.png" width="100" /> control-sound-off.png<br>
 
 <img src="Symbols/MediaControls/control-sound-on.png" width="100" /> control-sound-on.png<br>
-
-<img src="Landscape/Plants/Coral/coral-0.png" width="100" /> coral-0.png<br>
-
-<img src="Landscape/Plants/Coral/coral-1.png" width="100" /> coral-1.png<br>
-
-<img src="Landscape/Plants/Coral/coral-10.png" width="100" /> coral-10.png<br>
-
-<img src="Landscape/Plants/Coral/coral-11.png" width="100" /> coral-11.png<br>
-
-<img src="Landscape/Plants/Coral/coral-2.png" width="100" /> coral-2.png<br>
-
-<img src="Landscape/Plants/Coral/coral-3.png" width="100" /> coral-3.png<br>
-
-<img src="Landscape/Plants/Coral/coral-4.png" width="100" /> coral-4.png<br>
-
-<img src="Landscape/Plants/Coral/coral-5.png" width="100" /> coral-5.png<br>
-
-<img src="Landscape/Plants/Coral/coral-6.png" width="100" /> coral-6.png<br>
-
-<img src="Landscape/Plants/Coral/coral-7.png" width="100" /> coral-7.png<br>
-
-<img src="Landscape/Plants/Coral/coral-8.png" width="100" /> coral-8.png<br>
-
-<img src="Landscape/Plants/Coral/coral-9.png" width="100" /> coral-9.png<br>
 
 <img src="Characters/CuteAnimals/cute-bear.png" width="100" /> cute-bear.png<br>
 
@@ -2158,6 +2206,8 @@
 
 <img src="Boardgames/Pieces/piece-9.png" width="100" /> piece-9.png<br>
 
+<img src="Landscape/Obstacles/pipe.png" width="100" /> pipe.png<br>
+
 <img src="Transport/Planes/plane-0.png" width="100" /> plane-0.png<br>
 
 <img src="Transport/Planes/plane-1.png" width="100" /> plane-1.png<br>
@@ -2622,11 +2672,15 @@
 
 <img src="Landscape/Platforms/tile-half.png" width="100" /> tile-half.png<br>
 
+<img src="Landscape/Backgrounds/tile-mud-2.png" width="100" /> tile-mud-2.png<br>
+
 <img src="Landscape/Backgrounds/tile-mud.png" width="100" /> tile-mud.png<br>
 
 <img src="Landscape/Backgrounds/tile-panel.png" width="100" /> tile-panel.png<br>
 
 <img src="Landscape/Backgrounds/tile-parchment.png" width="100" /> tile-parchment.png<br>
+
+<img src="Landscape/Backgrounds/tile-sand-2.png" width="100" /> tile-sand-2.png<br>
 
 <img src="Landscape/Backgrounds/tile-sand.png" width="100" /> tile-sand.png<br>
 
@@ -2635,6 +2689,8 @@
 <img src="Symbols/UserControls/tile-shaded-1.png" width="100" /> tile-shaded-1.png<br>
 
 <img src="Landscape/Backgrounds/tile-space.png" width="100" /> tile-space.png<br>
+
+<img src="Landscape/Backgrounds/tile-water-2.png" width="100" /> tile-water-2.png<br>
 
 <img src="Landscape/Backgrounds/tile-water.png" width="100" /> tile-water.png<br>
 
@@ -2726,6 +2782,8 @@
 
 <img src="Landscape/Plants/Trees/tree-8.png" width="100" /> tree-8.png<br>
 
+<img src="Landscape/Plants/Trees/tree-palm.png" width="100" /> tree-palm.png<br>
+
 <img src="Landscape/Plants/Trees/tree-top-alt.png" width="100" /> tree-top-alt.png<br>
 
 <img src="Landscape/Plants/Trees/tree-top.png" width="100" /> tree-top.png<br>
@@ -2750,9 +2808,27 @@
 
 <img src="Landscape/Plants/Trees/trunk-7.png" width="100" /> trunk-7.png<br>
 
+<img src="Landscape/Plants/Trees/trunk-8.png" width="100" /> trunk-8.png<br>
+
 <img src="General/Interactibles/umbrella-closed.png" width="100" /> umbrella-closed.png<br>
 
 <img src="General/Interactibles/umbrella-opened.png" width="100" /> umbrella-opened.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-0.png" width="100" /> water-plant-0.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-1.png" width="100" /> water-plant-1.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-2.png" width="100" /> water-plant-2.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-3.png" width="100" /> water-plant-3.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-4.png" width="100" /> water-plant-4.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-5.png" width="100" /> water-plant-5.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-6.png" width="100" /> water-plant-6.png<br>
+
+<img src="Landscape/Plants/Coral/water-plant-7.png" width="100" /> water-plant-7.png<br>
 
 <img src="Landscape/Floors/water-top-high.png" width="100" /> water-top-high.png<br>
 
