@@ -19,14 +19,17 @@ public class ImageData {
     public static void main(String[] args) {
         String specificFolderPath = "./";
         processFolders(new File(specificFolderPath), specificFolderPath);
-		postProcess(new File(specificFolderPath));
-	
-	
-		String outputFilePath = "./imageData.txt"; 
+        postProcess(new File(specificFolderPath));
+        
+        String outputFilePath = "./imageData.txt";
+        
+        List<String> imageDataList = new ArrayList<>(); // Collect image data entries here
 
-        try (FileWriter writer = new FileWriter(outputFilePath)) {
+        try {
             Path basePath = Paths.get(specificFolderPath).toAbsolutePath().getParent();
-            processFolders2(new File(specificFolderPath), writer, basePath, "Finalized");
+            processFolders2(new File(specificFolderPath), imageDataList, basePath, "Finalized");
+            Collections.sort(imageDataList); // Sort the list alphabetically
+            writeToFile(outputFilePath, imageDataList); // Write the sorted list to the file
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -40,10 +43,10 @@ public class ImageData {
                 processFolders(subDir, rootPath);
             }
         }
-	}
-	
-	private static void postProcess(File folder) {		
-		File[] files = folder.listFiles();
+    }
+
+    private static void postProcess(File folder) {        
+        File[] files = folder.listFiles();
         if (files != null) {
             for (File file : files) {
                 if (file.isDirectory()) {
@@ -51,12 +54,11 @@ public class ImageData {
                 } else if (file.isFile() && file.getName().equalsIgnoreCase("README.md")) {
                     sortReadme(file); // Sort the README.md file
                 }
-			}
-		}
-            
+            }
+        }
     }
-	
-	private static void sortReadme(File readmeFile) {
+
+    private static void sortReadme(File readmeFile) {
         List<String> imageLines = new ArrayList<>();
 
         try (BufferedReader reader = new BufferedReader(new FileReader(readmeFile))) {
@@ -65,12 +67,12 @@ public class ImageData {
                 if (line.startsWith("<")) {
                     imageLines.add(line);
                 }
-			}
-			Collections.sort(imageLines, (a, b) -> {
-				String aFilename = a.substring(a.indexOf(" /> ")).trim();
-				String bFilename = b.substring(b.indexOf(" /> ")).trim();
-				return aFilename.compareToIgnoreCase(bFilename);
-			});
+            }
+            Collections.sort(imageLines, (a, b) -> {
+                String aFilename = a.substring(a.indexOf(" /> ")).trim();
+                String bFilename = b.substring(b.indexOf(" /> ")).trim();
+                return aFilename.compareToIgnoreCase(bFilename);
+            });
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -111,29 +113,39 @@ public class ImageData {
             }
         }
     }
-	
-	private static void processFolders2(File folder, FileWriter writer, Path basePath, String rootFolderName) throws IOException {
+
+    private static void processFolders2(File folder, List<String> imageDataList, Path basePath, String rootFolderName) throws IOException {
         File[] files = folder.listFiles();
         if (files != null) {
             Arrays.sort(files, (f1, f2) -> f1.getName().compareToIgnoreCase(f2.getName()));
 
             for (File file : files) {
                 if (file.isDirectory()) {
-                    processFolders2(file, writer, basePath, rootFolderName);
+                    processFolders2(file, imageDataList, basePath, rootFolderName);
                 } else if (file.isFile() && file.getName().endsWith(".png")) {
-                    writeImageInfo(file, writer, basePath, rootFolderName);
+                    addImageInfoToList(file, imageDataList, basePath, rootFolderName);
                 }
             }
         }
     }
 
-    private static void writeImageInfo(File file, FileWriter writer, Path basePath, String rootFolderName) throws IOException {
+    private static void addImageInfoToList(File file, List<String> imageDataList, Path basePath, String rootFolderName) throws IOException {
         BufferedImage image = ImageIO.read(file);
         if (image != null) {
             int width = image.getWidth();
             int height = image.getHeight();
             String relativePath = getRelativePath2(file, basePath, rootFolderName);
-            writer.write(String.format("%s %d %d\n", relativePath, width, height));
+            String filenameWithoutExtension = file.getName().substring(0, file.getName().lastIndexOf('.'));
+            imageDataList.add(String.format("%s %s %d %d", filenameWithoutExtension, relativePath, width, height));
+        }
+    }
+
+    private static void writeToFile(String outputFilePath, List<String> imageDataList) throws IOException {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFilePath))) {
+            for (String line : imageDataList) {
+                writer.write(line);
+                writer.newLine();
+            }
         }
     }
 
