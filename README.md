@@ -1418,9 +1418,9 @@
 
 <img src="Landscape/Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
 
-<img src="Landscape/Floors/ground-grass.png" width="100" /> ground-grass.png<br>
-
 <img src="Landscape/Platforms/ground-grass.png" width="100" /> ground-grass.png<br>
+
+<img src="Landscape/Floors/ground-grass.png" width="100" /> ground-grass.png<br>
 
 <img src="Landscape/Floors/ground-ice.png" width="100" /> ground-ice.png<br>
 
@@ -1440,9 +1440,9 @@
 
 <img src="Landscape/Platforms/ground-snow-small.png" width="100" /> ground-snow-small.png<br>
 
-<img src="Landscape/Floors/ground-snow.png" width="100" /> ground-snow.png<br>
-
 <img src="Landscape/Platforms/ground-snow.png" width="100" /> ground-snow.png<br>
+
+<img src="Landscape/Floors/ground-snow.png" width="100" /> ground-snow.png<br>
 
 <img src="Landscape/Platforms/ground-stone-broken.png" width="100" /> ground-stone-broken.png<br>
 
