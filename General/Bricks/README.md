@@ -1,6 +1,6 @@
 # Image Previews
 
-<img src="brick-1 (2).png" width="100" /> brick-1 (2).png<br>
+<img src="brick-0.png" width="100" /> brick-0.png<br>
 
 <img src="brick-1.png" width="100" /> brick-1.png<br>
 
@@ -32,7 +32,7 @@
 
 <img src="brick-9.png" width="100" /> brick-9.png<br>
 
-<img src="brick-special-1 (2).png" width="100" /> brick-special-1 (2).png<br>
+<img src="brick-special-0.png" width="100" /> brick-special-0.png<br>
 
 <img src="brick-special-1.png" width="100" /> brick-special-1.png<br>
 

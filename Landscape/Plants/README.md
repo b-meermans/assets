@@ -44,10 +44,6 @@
 
 <img src="Grass/grass-7.png" width="100" /> grass-7.png<br>
 
-<img src="Flowers/mushroom-brown.png" width="100" /> mushroom-brown.png<br>
-
-<img src="Flowers/mushroom-red.png" width="100" /> mushroom-red.png<br>
-
 <img src="Trees/tree-0-alt.png" width="100" /> tree-0-alt.png<br>
 
 <img src="Trees/tree-0.png" width="100" /> tree-0.png<br>

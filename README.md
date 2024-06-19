@@ -346,7 +346,7 @@
 
 <img src="General/Collectibles/box-item-boxed.png" width="100" /> box-item-boxed.png<br>
 
-<img src="General/Bricks/brick-1 (2).png" width="100" /> brick-1 (2).png<br>
+<img src="General/Bricks/brick-0.png" width="100" /> brick-0.png<br>
 
 <img src="General/Bricks/brick-1.png" width="100" /> brick-1.png<br>
 
@@ -380,7 +380,7 @@
 
 <img src="General/Interactibles/brick-cracked.png" width="100" /> brick-cracked.png<br>
 
-<img src="General/Bricks/brick-special-1 (2).png" width="100" /> brick-special-1 (2).png<br>
+<img src="General/Bricks/brick-special-0.png" width="100" /> brick-special-0.png<br>
 
 <img src="General/Bricks/brick-special-1.png" width="100" /> brick-special-1.png<br>
 
@@ -1418,9 +1418,9 @@
 
 <img src="Landscape/Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
 
-<img src="Landscape/Platforms/ground-grass.png" width="100" /> ground-grass.png<br>
-
 <img src="Landscape/Floors/ground-grass.png" width="100" /> ground-grass.png<br>
+
+<img src="Landscape/Platforms/ground-grass.png" width="100" /> ground-grass.png<br>
 
 <img src="Landscape/Floors/ground-ice.png" width="100" /> ground-ice.png<br>
 
@@ -1440,9 +1440,9 @@
 
 <img src="Landscape/Platforms/ground-snow-small.png" width="100" /> ground-snow-small.png<br>
 
-<img src="Landscape/Platforms/ground-snow.png" width="100" /> ground-snow.png<br>
-
 <img src="Landscape/Floors/ground-snow.png" width="100" /> ground-snow.png<br>
+
+<img src="Landscape/Platforms/ground-snow.png" width="100" /> ground-snow.png<br>
 
 <img src="Landscape/Platforms/ground-stone-broken.png" width="100" /> ground-stone-broken.png<br>
 
@@ -2104,11 +2104,7 @@
 
 <img src="General/Food/mushroom-brown.png" width="100" /> mushroom-brown.png<br>
 
-<img src="Landscape/Plants/Flowers/mushroom-brown.png" width="100" /> mushroom-brown.png<br>
-
 <img src="General/Food/mushroom-red.png" width="100" /> mushroom-red.png<br>
-
-<img src="Landscape/Plants/Flowers/mushroom-red.png" width="100" /> mushroom-red.png<br>
 
 <img src="Characters/CreatureParts/nose-a.png" width="100" /> nose-a.png<br>
 

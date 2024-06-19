@@ -8,7 +8,3 @@
 
 <img src="flower-3.png" width="100" /> flower-3.png<br>
 
-<img src="mushroom-brown.png" width="100" /> mushroom-brown.png<br>
-
-<img src="mushroom-red.png" width="100" /> mushroom-red.png<br>
-

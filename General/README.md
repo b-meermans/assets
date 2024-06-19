@@ -12,7 +12,7 @@
 
 <img src="Collectibles/box-item-boxed.png" width="100" /> box-item-boxed.png<br>
 
-<img src="Bricks/brick-1 (2).png" width="100" /> brick-1 (2).png<br>
+<img src="Bricks/brick-0.png" width="100" /> brick-0.png<br>
 
 <img src="Bricks/brick-1.png" width="100" /> brick-1.png<br>
 
@@ -46,7 +46,7 @@
 
 <img src="Interactibles/brick-cracked.png" width="100" /> brick-cracked.png<br>
 
-<img src="Bricks/brick-special-1 (2).png" width="100" /> brick-special-1 (2).png<br>
+<img src="Bricks/brick-special-0.png" width="100" /> brick-special-0.png<br>
 
 <img src="Bricks/brick-special-1.png" width="100" /> brick-special-1.png<br>
 

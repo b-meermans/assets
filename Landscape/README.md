@@ -156,9 +156,9 @@
 
 <img src="Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
 
-<img src="Platforms/ground-grass.png" width="100" /> ground-grass.png<br>
-
 <img src="Floors/ground-grass.png" width="100" /> ground-grass.png<br>
+
+<img src="Platforms/ground-grass.png" width="100" /> ground-grass.png<br>
 
 <img src="Floors/ground-ice.png" width="100" /> ground-ice.png<br>
 
@@ -178,9 +178,9 @@
 
 <img src="Platforms/ground-snow-small.png" width="100" /> ground-snow-small.png<br>
 
-<img src="Platforms/ground-snow.png" width="100" /> ground-snow.png<br>
-
 <img src="Floors/ground-snow.png" width="100" /> ground-snow.png<br>
+
+<img src="Platforms/ground-snow.png" width="100" /> ground-snow.png<br>
 
 <img src="Platforms/ground-stone-broken.png" width="100" /> ground-stone-broken.png<br>
 
@@ -497,10 +497,6 @@
 <img src="Rocks/mountain-8.png" width="100" /> mountain-8.png<br>
 
 <img src="Backgrounds/mountainscape.png" width="100" /> mountainscape.png<br>
-
-<img src="Plants/Flowers/mushroom-brown.png" width="100" /> mushroom-brown.png<br>
-
-<img src="Plants/Flowers/mushroom-red.png" width="100" /> mushroom-red.png<br>
 
 <img src="Obstacles/pipe.png" width="100" /> pipe.png<br>
 
