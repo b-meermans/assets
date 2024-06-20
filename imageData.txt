@@ -704,8 +704,8 @@ grass-half ./Landscape/Platforms/grass-half.png 128 73
 grass-half-left ./Landscape/Platforms/grass-half-left.png 128 73
 grass-half-mid ./Landscape/Platforms/grass-half-mid.png 128 73
 grass-half-right ./Landscape/Platforms/grass-half-right.png 128 73
-ground-cake ./Landscape/Platforms/ground-cake.png 380 94
 ground-cake-broken ./Landscape/Platforms/ground-cake-broken.png 380 94
+ground-cake-full ./Landscape/Platforms/ground-cake-full.png 380 94
 ground-cake-small ./Landscape/Platforms/ground-cake-small.png 201 100
 ground-cake-small-broken ./Landscape/Platforms/ground-cake-small-broken.png 200 100
 ground-dirt ./Landscape/Floors/ground-dirt.png 808 71
@@ -729,8 +729,8 @@ ground-stone-broken ./Landscape/Platforms/ground-stone-broken.png 380 94
 ground-stone-full ./Landscape/Platforms/ground-stone-full.png 380 94
 ground-stone-small ./Landscape/Platforms/ground-stone-small.png 200 100
 ground-stone-small-broken ./Landscape/Platforms/ground-stone-small-broken.png 200 100
-ground-wood ./Landscape/Platforms/ground-wood.png 380 94
 ground-wood-broken ./Landscape/Platforms/ground-wood-broken.png 380 94
+ground-wood-full ./Landscape/Platforms/ground-wood-full.png 380 94
 ground-wood-small ./Landscape/Platforms/ground-wood-small.png 200 100
 ground-wood-small-broken ./Landscape/Platforms/ground-wood-small-broken.png 200 100
 hand-closed ./Characters/BlockyParts/hand-closed.png 70 68

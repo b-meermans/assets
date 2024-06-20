@@ -1414,11 +1414,11 @@
 
 <img src="Landscape/Platforms/ground-cake-broken.png" width="100" /> ground-cake-broken.png<br>
 
+<img src="Landscape/Platforms/ground-cake-full.png" width="100" /> ground-cake-full.png<br>
+
 <img src="Landscape/Platforms/ground-cake-small-broken.png" width="100" /> ground-cake-small-broken.png<br>
 
 <img src="Landscape/Platforms/ground-cake-small.png" width="100" /> ground-cake-small.png<br>
-
-<img src="Landscape/Platforms/ground-cake.png" width="100" /> ground-cake.png<br>
 
 <img src="Landscape/Floors/ground-dirt.png" width="100" /> ground-dirt.png<br>
 
@@ -1464,11 +1464,11 @@
 
 <img src="Landscape/Platforms/ground-wood-broken.png" width="100" /> ground-wood-broken.png<br>
 
+<img src="Landscape/Platforms/ground-wood-full.png" width="100" /> ground-wood-full.png<br>
+
 <img src="Landscape/Platforms/ground-wood-small-broken.png" width="100" /> ground-wood-small-broken.png<br>
 
 <img src="Landscape/Platforms/ground-wood-small.png" width="100" /> ground-wood-small.png<br>
-
-<img src="Landscape/Platforms/ground-wood.png" width="100" /> ground-wood.png<br>
 
 <img src="Characters/BlockyParts/hand-closed.png" width="100" /> hand-closed.png<br>
 

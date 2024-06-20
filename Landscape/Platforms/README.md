@@ -26,11 +26,11 @@
 
 <img src="ground-cake-broken.png" width="100" /> ground-cake-broken.png<br>
 
+<img src="ground-cake-full.png" width="100" /> ground-cake-full.png<br>
+
 <img src="ground-cake-small-broken.png" width="100" /> ground-cake-small-broken.png<br>
 
 <img src="ground-cake-small.png" width="100" /> ground-cake-small.png<br>
-
-<img src="ground-cake.png" width="100" /> ground-cake.png<br>
 
 <img src="ground-grass-broken.png" width="100" /> ground-grass-broken.png<br>
 
@@ -66,11 +66,11 @@
 
 <img src="ground-wood-broken.png" width="100" /> ground-wood-broken.png<br>
 
+<img src="ground-wood-full.png" width="100" /> ground-wood-full.png<br>
+
 <img src="ground-wood-small-broken.png" width="100" /> ground-wood-small-broken.png<br>
 
 <img src="ground-wood-small.png" width="100" /> ground-wood-small.png<br>
-
-<img src="ground-wood.png" width="100" /> ground-wood.png<br>
 
 <img src="planet-half-full.png" width="100" /> planet-half-full.png<br>
 
