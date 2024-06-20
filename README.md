@@ -196,6 +196,8 @@
 
 <img src="Characters/CreatureParts/antenna-c.png" width="100" /> antenna-c.png<br>
 
+<img src="Original/aops.png" width="100" /> aops.png<br>
+
 <img src="General/Food/apple.png" width="100" /> apple.png<br>
 
 <img src="Characters/CreatureParts/arm-a.png" width="100" /> arm-a.png<br>
@@ -231,6 +233,10 @@
 <img src="Symbols/UserControls/ball-shaded-1.png" width="100" /> ball-shaded-1.png<br>
 
 <img src="Symbols/UserControls/ball-shaded-2.png" width="100" /> ball-shaded-2.png<br>
+
+<img src="Original/balloon-elephant.png" width="100" /> balloon-elephant.png<br>
+
+<img src="Original/balloon-zebra-blue.png" width="100" /> balloon-zebra-blue.png<br>
 
 <img src="Characters/Enemies/barnacle-0.png" width="100" /> barnacle-0.png<br>
 
@@ -890,6 +896,8 @@
 
 <img src="Characters/Enemies/cloud-angry.png" width="100" /> cloud-angry.png<br>
 
+<img src="Original/cloud.png" width="100" /> cloud.png<br>
+
 <img src="General/Collectibles/coin-bronze.png" width="100" /> coin-bronze.png<br>
 
 <img src="General/Collectibles/coin-gold.png" width="100" /> coin-gold.png<br>
@@ -1273,6 +1281,8 @@
 <img src="General/Effects/fire-1.png" width="100" /> fire-1.png<br>
 
 <img src="General/Effects/fire-2.png" width="100" /> fire-2.png<br>
+
+<img src="Original/firefly.png" width="100" /> firefly.png<br>
 
 <img src="Characters/Fish/fish-0.png" width="100" /> fish-0.png<br>
 
@@ -1936,6 +1946,8 @@
 
 <img src="Transport/PirateShips/lifeboat-3.png" width="100" /> lifeboat-3.png<br>
 
+<img src="Original/light.png" width="100" /> light.png<br>
+
 <img src="General/Effects/lighting-blue.png" width="100" /> lighting-blue.png<br>
 
 <img src="General/Effects/lighting-yellow.png" width="100" /> lighting-yellow.png<br>
@@ -2036,6 +2048,8 @@
 
 <img src="General/Medals/medal-9.png" width="100" /> medal-9.png<br>
 
+<img src="Original/mist.png" width="100" /> mist.png<br>
+
 <img src="Landscape/Sky/moon-0.png" width="100" /> moon-0.png<br>
 
 <img src="Landscape/Sky/moon-1.png" width="100" /> moon-1.png<br>
@@ -2061,6 +2075,10 @@
 <img src="Landscape/Rocks/mountain-7.png" width="100" /> mountain-7.png<br>
 
 <img src="Landscape/Rocks/mountain-8.png" width="100" /> mountain-8.png<br>
+
+<img src="Original/mountain-day.png" width="100" /> mountain-day.png<br>
+
+<img src="Original/mountain-night.png" width="100" /> mountain-night.png<br>
 
 <img src="Landscape/Backgrounds/mountainscape.png" width="100" /> mountainscape.png<br>
 
@@ -2210,6 +2228,10 @@
 
 <img src="Transport/Planes/plane-2.png" width="100" /> plane-2.png<br>
 
+<img src="Original/plane-fish.png" width="100" /> plane-fish.png<br>
+
+<img src="Original/plane-penguin.png" width="100" /> plane-penguin.png<br>
+
 <img src="General/Planets/planet-0.png" width="100" /> planet-0.png<br>
 
 <img src="General/Planets/planet-1.png" width="100" /> planet-1.png<br>
@@ -2255,6 +2277,8 @@
 <img src="Landscape/Buildings/pyramid-1.png" width="100" /> pyramid-1.png<br>
 
 <img src="Landscape/Buildings/pyramid-2.png" width="100" /> pyramid-2.png<br>
+
+<img src="Original/raindrop.png" width="100" /> raindrop.png<br>
 
 <img src="Characters/Robot/robot-attack-0.png" width="100" /> robot-attack-0.png<br>
 
@@ -2616,6 +2640,8 @@
 
 <img src="Landscape/Obstacles/spikes-top.png" width="100" /> spikes-top.png<br>
 
+<img src="Original/spotlight.png" width="100" /> spotlight.png<br>
+
 <img src="General/Interactibles/spring-in.png" width="100" /> spring-in.png<br>
 
 <img src="General/Interactibles/spring-mid.png" width="100" /> spring-mid.png<br>
@@ -2645,6 +2671,8 @@
 <img src="Transport/Space/station-4.png" width="100" /> station-4.png<br>
 
 <img src="General/Food/stew.png" width="100" /> stew.png<br>
+
+<img src="Original/storm-cloud.png" width="100" /> storm-cloud.png<br>
 
 <img src="Characters/Enemies/sun-0.png" width="100" /> sun-0.png<br>
 
@@ -2831,6 +2859,12 @@
 <img src="Landscape/Obstacles/weight.png" width="100" /> weight.png<br>
 
 <img src="General/Food/wheat.png" width="100" /> wheat.png<br>
+
+<img src="Original/windmill-tower-dark.png" width="100" /> windmill-tower-dark.png<br>
+
+<img src="Original/windmill-tower-light.png" width="100" /> windmill-tower-light.png<br>
+
+<img src="Original/windmill-vanes.png" width="100" /> windmill-vanes.png<br>
 
 <img src="Characters/Enemies/wingman-1.png" width="100" /> wingman-1.png<br>
 

@@ -96,6 +96,7 @@ alien-e-walk-2 ./Characters/Aliens/alien-e-walk-2.png 128 143
 antenna-a ./Characters/CreatureParts/antenna-a.png 60 106
 antenna-b ./Characters/CreatureParts/antenna-b.png 43 75
 antenna-c ./Characters/CreatureParts/antenna-c.png 99 138
+aops ./Original/aops.png 60 69
 apple ./General/Food/apple.png 128 128
 arm-a ./Characters/CreatureParts/arm-a.png 116 304
 arm-b ./Characters/CreatureParts/arm-b.png 66 286
@@ -114,6 +115,8 @@ ball-outlined-1 ./Symbols/UserControls/ball-outlined-1.png 148 148
 ball-outlined-2 ./Symbols/UserControls/ball-outlined-2.png 148 148
 ball-shaded-1 ./Symbols/UserControls/ball-shaded-1.png 128 128
 ball-shaded-2 ./Symbols/UserControls/ball-shaded-2.png 128 128
+balloon-elephant ./Original/balloon-elephant.png 155 107
+balloon-zebra-blue ./Original/balloon-zebra-blue.png 144 106
 barnacle-0 ./Characters/Enemies/barnacle-0.png 128 128
 barnacle-1 ./Characters/Enemies/barnacle-1.png 128 128
 barnacle-3 ./Characters/Enemies/barnacle-3.png 128 128
@@ -434,6 +437,7 @@ clearfont-w ./Symbols/ClearFont/clearfont-w.png 76 64
 clearfont-x ./Symbols/ClearFont/clearfont-x.png 58 64
 clearfont-y ./Symbols/ClearFont/clearfont-y.png 57 64
 clearfont-z ./Symbols/ClearFont/clearfont-z.png 50 64
+cloud ./Original/cloud.png 150 60
 cloud-1 ./Landscape/Sky/cloud-1.png 406 242
 cloud-2 ./Landscape/Sky/cloud-2.png 392 312
 cloud-3 ./Landscape/Sky/cloud-3.png 432 278
@@ -635,6 +639,7 @@ face-9 ./Characters/BlockyParts/face-9.png 100 78
 fence ./Landscape/Obstacles/fence.png 207 155
 fire-1 ./General/Effects/fire-1.png 18 39
 fire-2 ./General/Effects/fire-2.png 11 27
+firefly ./Original/firefly.png 20 20
 fish-0 ./Characters/Fish/fish-0.png 108 58
 fish-1 ./Characters/Fish/fish-1.png 108 76
 fish-2 ./Characters/Fish/fish-2.png 78 46
@@ -966,6 +971,7 @@ lever-right ./General/Interactibles/lever-right.png 128 128
 lifeboat-1 ./Transport/PirateShips/lifeboat-1.png 38 20
 lifeboat-2 ./Transport/PirateShips/lifeboat-2.png 38 20
 lifeboat-3 ./Transport/PirateShips/lifeboat-3.png 38 20
+light ./Original/light.png 15 15
 lighting-blue ./General/Effects/lighting-blue.png 55 114
 lighting-yellow ./General/Effects/lighting-yellow.png 55 114
 lollipop-1 ./General/Food/lollipop-1.png 70 140
@@ -1016,6 +1022,7 @@ medal-6 ./General/Medals/medal-6.png 40 80
 medal-7 ./General/Medals/medal-7.png 40 80
 medal-8 ./General/Medals/medal-8.png 40 80
 medal-9 ./General/Medals/medal-9.png 40 81
+mist ./Original/mist.png 30 30
 moon-0 ./Landscape/Sky/moon-0.png 156 160
 moon-1 ./Landscape/Sky/moon-1.png 168 168
 moon-2 ./Landscape/Sky/moon-2.png 168 168
@@ -1029,6 +1036,8 @@ mountain-5 ./Landscape/Rocks/mountain-5.png 158 78
 mountain-6 ./Landscape/Rocks/mountain-6.png 162 120
 mountain-7 ./Landscape/Rocks/mountain-7.png 135 111
 mountain-8 ./Landscape/Rocks/mountain-8.png 158 79
+mountain-day ./Original/mountain-day.png 800 600
+mountain-night ./Original/mountain-night.png 800 600
 mountainscape ./Landscape/Backgrounds/mountainscape.png 1920 1080
 mouse ./Symbols/ClickableIcons/mouse.png 64 64
 mouse-0 ./Characters/Enemies/mouse-0.png 107 63
@@ -1103,6 +1112,8 @@ pipe ./Landscape/Obstacles/pipe.png 102 219
 plane-0 ./Transport/Planes/plane-0.png 88 73
 plane-1 ./Transport/Planes/plane-1.png 88 73
 plane-2 ./Transport/Planes/plane-2.png 88 73
+plane-fish ./Original/plane-fish.png 100 49
+plane-penguin ./Original/plane-penguin.png 100 45
 planet-0 ./General/Planets/planet-0.png 192 192
 planet-1 ./General/Planets/planet-1.png 192 192
 planet-2 ./General/Planets/planet-2.png 192 192
@@ -1126,6 +1137,7 @@ puff-small ./General/Effects/puff-small.png 25 21
 puffer ./Characters/Fish/puffer.png 106 103
 pyramid-1 ./Landscape/Buildings/pyramid-1.png 204 149
 pyramid-2 ./Landscape/Buildings/pyramid-2.png 204 200
+raindrop ./Original/raindrop.png 5 10
 robot-attack-0 ./Characters/Robot/robot-attack-0.png 154 205
 robot-attack-1 ./Characters/Robot/robot-attack-1.png 154 205
 robot-attack-2 ./Characters/Robot/robot-attack-2.png 154 205
@@ -1306,6 +1318,7 @@ spikeman-walk-1 ./Characters/Enemies/spikeman-walk-1.png 120 159
 spikeman-walk-2 ./Characters/Enemies/spikeman-walk-2.png 90 155
 spikes-bottom ./Landscape/Obstacles/spikes-bottom.png 95 53
 spikes-top ./Landscape/Obstacles/spikes-top.png 95 53
+spotlight ./Original/spotlight.png 70 70
 spring-in ./General/Interactibles/spring-in.png 145 57
 spring-mid ./General/Interactibles/spring-mid.png 145 77
 spring-out ./General/Interactibles/spring-out.png 145 110
@@ -1321,6 +1334,7 @@ station-2 ./Transport/Space/station-2.png 99 278
 station-3 ./Transport/Space/station-3.png 32 138
 station-4 ./Transport/Space/station-4.png 248 116
 stew ./General/Food/stew.png 128 128
+storm-cloud ./Original/storm-cloud.png 148 65
 sun-0 ./Characters/Enemies/sun-0.png 148 142
 sun-1 ./Characters/Enemies/sun-1.png 142 148
 tile ./Landscape/Platforms/tile.png 160 160
@@ -1414,6 +1428,9 @@ water-plant-7 ./Landscape/Plants/Coral/water-plant-7.png 128 128
 water-top-high ./Landscape/Floors/water-top-high.png 128 128
 weight ./Landscape/Obstacles/weight.png 128 128
 wheat ./General/Food/wheat.png 128 128
+windmill-tower-dark ./Original/windmill-tower-dark.png 414 414
+windmill-tower-light ./Original/windmill-tower-light.png 414 414
+windmill-vanes ./Original/windmill-vanes.png 414 414
 wingman-1 ./Characters/Enemies/wingman-1.png 174 126
 wingman-2 ./Characters/Enemies/wingman-2.png 206 107
 wingman-3 ./Characters/Enemies/wingman-3.png 216 101
