@@ -20,7 +20,7 @@
 
 <img src="bee-2.png" width="100" /> bee-2.png<br>
 
-<img src="cloud.png" width="100" /> cloud.png<br>
+<img src="cloud-angry.png" width="100" /> cloud-angry.png<br>
 
 <img src="fishy-0.png" width="100" /> fishy-0.png<br>
 

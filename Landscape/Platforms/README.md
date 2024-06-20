@@ -34,35 +34,35 @@
 
 <img src="ground-grass-broken.png" width="100" /> ground-grass-broken.png<br>
 
+<img src="ground-grass-full.png" width="100" /> ground-grass-full.png<br>
+
 <img src="ground-grass-small-broken.png" width="100" /> ground-grass-small-broken.png<br>
 
 <img src="ground-grass-small.png" width="100" /> ground-grass-small.png<br>
 
-<img src="ground-grass.png" width="100" /> ground-grass.png<br>
-
 <img src="ground-sand-broken.png" width="100" /> ground-sand-broken.png<br>
+
+<img src="ground-sand-full.png" width="100" /> ground-sand-full.png<br>
 
 <img src="ground-sand-small-broken.png" width="100" /> ground-sand-small-broken.png<br>
 
 <img src="ground-sand-small.png" width="100" /> ground-sand-small.png<br>
 
-<img src="ground-sand.png" width="100" /> ground-sand.png<br>
-
 <img src="ground-snow-broken.png" width="100" /> ground-snow-broken.png<br>
+
+<img src="ground-snow-full.png" width="100" /> ground-snow-full.png<br>
 
 <img src="ground-snow-small-broken.png" width="100" /> ground-snow-small-broken.png<br>
 
 <img src="ground-snow-small.png" width="100" /> ground-snow-small.png<br>
 
-<img src="ground-snow.png" width="100" /> ground-snow.png<br>
-
 <img src="ground-stone-broken.png" width="100" /> ground-stone-broken.png<br>
+
+<img src="ground-stone-full.png" width="100" /> ground-stone-full.png<br>
 
 <img src="ground-stone-small-broken.png" width="100" /> ground-stone-small-broken.png<br>
 
 <img src="ground-stone-small.png" width="100" /> ground-stone-small.png<br>
-
-<img src="ground-stone.png" width="100" /> ground-stone.png<br>
 
 <img src="ground-wood-broken.png" width="100" /> ground-wood-broken.png<br>
 
@@ -72,13 +72,13 @@
 
 <img src="ground-wood.png" width="100" /> ground-wood.png<br>
 
+<img src="planet-half-full.png" width="100" /> planet-half-full.png<br>
+
 <img src="planet-half-left.png" width="100" /> planet-half-left.png<br>
 
 <img src="planet-half-mid.png" width="100" /> planet-half-mid.png<br>
 
 <img src="planet-half-right.png" width="100" /> planet-half-right.png<br>
-
-<img src="planet-half.png" width="100" /> planet-half.png<br>
 
 <img src="tile-exclamation.png" width="100" /> tile-exclamation.png<br>
 

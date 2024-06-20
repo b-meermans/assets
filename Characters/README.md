@@ -448,7 +448,7 @@
 
 <img src="Cat/cat-walk-9.png" width="100" /> cat-walk-9.png<br>
 
-<img src="Enemies/cloud.png" width="100" /> cloud.png<br>
+<img src="Enemies/cloud-angry.png" width="100" /> cloud-angry.png<br>
 
 <img src="CuteAnimals/cute-bear.png" width="100" /> cute-bear.png<br>
 

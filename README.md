@@ -888,7 +888,7 @@
 
 <img src="Landscape/Sky/cloud-8.png" width="100" /> cloud-8.png<br>
 
-<img src="Characters/Enemies/cloud.png" width="100" /> cloud.png<br>
+<img src="Characters/Enemies/cloud-angry.png" width="100" /> cloud-angry.png<br>
 
 <img src="General/Collectibles/coin-bronze.png" width="100" /> coin-bronze.png<br>
 
@@ -1414,13 +1414,13 @@
 
 <img src="Landscape/Platforms/ground-grass-broken.png" width="100" /> ground-grass-broken.png<br>
 
+<img src="Landscape/Platforms/ground-grass-full.png" width="100" /> ground-grass-full.png<br>
+
 <img src="Landscape/Platforms/ground-grass-small-broken.png" width="100" /> ground-grass-small-broken.png<br>
 
 <img src="Landscape/Platforms/ground-grass-small.png" width="100" /> ground-grass-small.png<br>
 
 <img src="Landscape/Floors/ground-grass.png" width="100" /> ground-grass.png<br>
-
-<img src="Landscape/Platforms/ground-grass.png" width="100" /> ground-grass.png<br>
 
 <img src="Landscape/Floors/ground-ice.png" width="100" /> ground-ice.png<br>
 
@@ -1428,13 +1428,15 @@
 
 <img src="Landscape/Platforms/ground-sand-broken.png" width="100" /> ground-sand-broken.png<br>
 
+<img src="Landscape/Platforms/ground-sand-full.png" width="100" /> ground-sand-full.png<br>
+
 <img src="Landscape/Platforms/ground-sand-small-broken.png" width="100" /> ground-sand-small-broken.png<br>
 
 <img src="Landscape/Platforms/ground-sand-small.png" width="100" /> ground-sand-small.png<br>
 
-<img src="Landscape/Platforms/ground-sand.png" width="100" /> ground-sand.png<br>
-
 <img src="Landscape/Platforms/ground-snow-broken.png" width="100" /> ground-snow-broken.png<br>
+
+<img src="Landscape/Platforms/ground-snow-full.png" width="100" /> ground-snow-full.png<br>
 
 <img src="Landscape/Platforms/ground-snow-small-broken.png" width="100" /> ground-snow-small-broken.png<br>
 
@@ -1442,15 +1444,13 @@
 
 <img src="Landscape/Floors/ground-snow.png" width="100" /> ground-snow.png<br>
 
-<img src="Landscape/Platforms/ground-snow.png" width="100" /> ground-snow.png<br>
-
 <img src="Landscape/Platforms/ground-stone-broken.png" width="100" /> ground-stone-broken.png<br>
+
+<img src="Landscape/Platforms/ground-stone-full.png" width="100" /> ground-stone-full.png<br>
 
 <img src="Landscape/Platforms/ground-stone-small-broken.png" width="100" /> ground-stone-small-broken.png<br>
 
 <img src="Landscape/Platforms/ground-stone-small.png" width="100" /> ground-stone-small.png<br>
-
-<img src="Landscape/Platforms/ground-stone.png" width="100" /> ground-stone.png<br>
 
 <img src="Landscape/Platforms/ground-wood-broken.png" width="100" /> ground-wood-broken.png<br>
 
@@ -2230,13 +2230,13 @@
 
 <img src="General/Planets/planet-9.png" width="100" /> planet-9.png<br>
 
+<img src="Landscape/Platforms/planet-half-full.png" width="100" /> planet-half-full.png<br>
+
 <img src="Landscape/Platforms/planet-half-left.png" width="100" /> planet-half-left.png<br>
 
 <img src="Landscape/Platforms/planet-half-mid.png" width="100" /> planet-half-mid.png<br>
 
 <img src="Landscape/Platforms/planet-half-right.png" width="100" /> planet-half-right.png<br>
-
-<img src="Landscape/Platforms/planet-half.png" width="100" /> planet-half.png<br>
 
 <img src="General/Effects/portal-orange-particle.png" width="100" /> portal-orange-particle.png<br>
 
