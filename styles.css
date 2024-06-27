@@ -183,8 +183,10 @@ body {
 .image-cell img {
     max-width: 100%; /* Max width for image */
     max-height: 100%; /* Max height for image */
-    object-fit: contain; /* Contain image without distortion */
-    display: block; /* Block display for image */
+    object-fit: contain; /* Contain image without distortion */    
+	display: block; /* Block display for image */
+    width: auto; /* Ensure width adjusts automatically */
+    height: auto; /* Ensure height adjusts automatically */
 }
 
 .copy-label {
