@@ -1,5 +1,9 @@
 /* Root Variables */
 :root {
+	--switch-bg-color: #164e7b; /* Background color of the switch toggle */
+	--switch-hover-bg-color: #4D7A97;   /* Background hover color of the switch toggle*/
+  
+	
     --cell-width: 160px; /* Width of each cell */
     --cell-height: 200px; /* Height of each cell */
     --cell-gap: 40px; /* Gap between cells and buttons */
@@ -243,16 +247,15 @@ body {
     z-index: 1000; /* Ensure it floats above other content */
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Center items vertically */
-	background-color: var(--grid-bg-color);
-	color: black;
+	background-color: var(--switch-bg-color);
+	color: white;
 	
 }
 
 /* Floating Button Hover Effect */
 .floating-button:hover {
-    background-color: var(--menu-bg-color); /* Darker background on hover */
-	color: white;
-	
+    background-color: var(--switch-hover-bg-color); /* Darker background on hover */
+	color: white;	
 }
 
 
