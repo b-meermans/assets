@@ -18,36 +18,38 @@ def generate_html(folder_path, root_directory, menu_html):
 
     # Generate HTML content
     html_content = f'''<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Previews</title>
-    <link rel="stylesheet" href="/cs-assets/styles.css">
-</head>
-<body>
-    <div class="menu-container">
-        <div class="menu">
-{menu_html}
-        </div>
-    </div>
-    <div class="image-grid">
-'''
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Image Previews</title>
+        <link rel="stylesheet" href="/cs-assets/styles.css">
+    </head>
+    <body>
+        <div class="content-container">
+            <div class="menu-container">
+                <div class="menu">
+    {menu_html}
+                </div>
+            </div>
+            <div class="image-grid">
+    '''
 
     for src, alt in image_entries:
         html_content += f'''
-        <div class="image-cell">
-            <img src="{src}" alt="{alt}">
-            <div class="image-label">{alt}</div>
-        </div>
+                <div class="image-cell">
+                    <img src="{src}" alt="{alt}">
+                    <div class="image-label">{alt}</div>
+                </div>
         '''
 
     html_content += '''
-    </div>
-    <script src="/cs-assets/scripts.js"></script>
-</body>
-</html>
-'''
+            </div>
+        </div>
+        <script src="/cs-assets/scripts.js"></script>
+    </body>
+    </html>
+    '''
 
     # Write the HTML content to index.html
     with open(index_path, 'w') as file:
@@ -61,8 +63,8 @@ def generate_menu_html(root_directory):
     for dirname in next(os.walk(root_directory))[1]:
         if dirname.startswith('.'):
             continue  # Skip hidden folders
-        relative_dir = os.path.relpath(os.path.join(root_directory, dirname), root_directory)
-        link_path = f"/cs-assets/{relative_dir}/index.html"
+        relative_dir = os.path.relpath(os.path.join(root_directory, dirname), root_directory).replace('\\', '/')
+        link_path = f"./{relative_dir}/index.html"
         menu_html += f'''
             <div class="dropdown">
                 <a href="{link_path}">{dirname}</a>
@@ -73,8 +75,8 @@ def generate_menu_html(root_directory):
         for subdirname in next(os.walk(subdir_path))[1]:
             if subdirname.startswith('.'):
                 continue  # Skip hidden folders
-            sub_relative_dir = os.path.relpath(os.path.join(subdir_path, subdirname), root_directory)
-            sub_link_path = f"/cs-assets/{sub_relative_dir}/index.html"
+            sub_relative_dir = os.path.relpath(os.path.join(subdir_path, subdirname), root_directory).replace('\\', '/')
+            sub_link_path = f"./{sub_relative_dir}/index.html"
             menu_html += f'                    <a href="{sub_link_path}">{subdirname}</a>\n'
 
         menu_html += '''

@@ -1,6 +1,5 @@
 /* Root Variables */
 :root {
-    --container-width: 90%; /* Width of the content container */
     --cell-width: 160px; /* Width of each cell */
     --cell-height: 200px; /* Height of each cell */
     --cell-gap: 40px; /* Gap between cells and buttons */
@@ -15,7 +14,7 @@
     --dropdown-text-color: white; /* Text color of dropdown items */
     --dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Shadow for dropdown content */
     --image-label-bg-color: rgba(255, 255, 255, 0.8); /* Background color for image label */
-    --grid-bg-color: #e6f2ff;
+	--grid-bg-color: #e6f2ff;
     --cell-bg-color: #f5f5f5; /* Background color for image cells */
     --cell-padding: 10px; /* Padding inside each cell */
     --menu-item-padding: 20px 20px; /* Padding for menu links */
@@ -26,17 +25,15 @@
     --image-max-height: 80%; /* Max height for the image */
     --image-label-height: 20%; /* Height for the label */
     --cell-margin: 5px; /* Space between cells */
-	--corner-radius: 10px;
+	--radius-corner: 10px;
 }
 
 /* General Styles */
 body {
     font-family: 'Roboto Flex', Arial, Helvetica, sans-serif; /* Font family for the body */
-    font-size: 14px;
+	font-size: 14px;
     display: flex; /* Enable flex layout for body */
     flex-direction: column; /* Default to column direction */
-    align-items: center; /* Center content horizontally */
-    margin: 0;
 }
 
 /* Content Container Styles */
@@ -54,7 +51,7 @@ body {
     background-color: var(--menu-bg-color); /* Background color of the menu */
     padding: var(--menu-padding); /* Padding for the menu */
     flex-wrap: wrap; /* Wrap items to next line if needed */
-    border-radius: var(--corner-radius);
+    border-radius: var(--radius-corner);
 }
 
 .menu a {
@@ -76,12 +73,14 @@ body {
 /* Active Menu Styles */
 .menu .active-menu {
     background-color: var(--active-menu-bg-color); /* Background color for active menu items */
-    border-radius: var(--corner-radius); /* Add rounded corners */
+    border-radius: var(--radius-corner); /* Add rounded corners */
 }
 
-.dropdown-content .active-submenu {
-    background-color: var(--active-menu-bg-color); /* Background color for active submenu items */
-	border-radius: var(--corner-radius);
+/* Dropdown Hover and Active Effect */
+.dropdown:hover > a,
+.dropdown.active > a {
+    background-color: #bf4500; /* Slightly different shade of red */
+    border-radius: var(--radius-corner); /* Add rounded corners */
 }
 
 /* Dropdown Container */
@@ -99,12 +98,11 @@ body {
     box-shadow: var(--dropdown-shadow); /* Shadow for dropdown */
     z-index: 1; /* Ensure dropdown appears above other elements */
     top: 100%; /* Position below the parent */
+    border-bottom-left-radius: var(--radius-corner); /* Add rounded corners to the bottom left */
+    border-bottom-right-radius: var(--radius-corner); /* Add rounded corners to the bottom right */
     left: 0; /* Align to the left of the parent */
     color: var(--dropdown-text-color); /* Text color for dropdown items */
-    border-bottom-left-radius: var(--corner-radius); /* Add rounded corners to the bottom left */
-    border-bottom-right-radius: var(--corner-radius); /* Add rounded corners to the bottom right */
 }
-
 
 /* Dropdown Links */
 .dropdown-content a {
@@ -126,17 +124,23 @@ body {
     display: block; /* Display dropdown content */
 }
 
+
+/* Show Dropdown Content on Active */
+.dropdown.active .dropdown-content {
+    display: block; /* Display dropdown content when active */
+}
+
 /* Image Grid Styles */
 .image-grid {
     display: grid; /* Use grid layout for image grid */
-    background-color: var(--grid-bg-color);
+	background-color: var(--grid-bg-color);
     grid-template-columns: repeat(auto-fit, minmax(calc(var(--cell-width) + var(--cell-padding) * 2), 1fr)); /* Responsive columns */
     gap: var(--cell-gap); /* Gap between grid items */
     padding: var(--cell-gap); /* Add padding to grid */
     flex-grow: 1; /* Allow the grid to grow */
     justify-content: center; /* Center the grid */
-    margin: 50px 0; /* Center the grid container */
-    border-radius: var(--corner-radius);
+	margin: 50px 0px 50px 0px;
+	border-radius: 15px;
 }
 
 /* Image Cell Styles */
@@ -182,3 +186,4 @@ body {
     justify-content: center; /* Center text horizontally */
     border-radius: 15px;
 }
+
