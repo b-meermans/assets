@@ -1,5 +1,6 @@
 /* Root Variables */
 :root {
+    --container-width: 90%; /* Width of the content container */
     --cell-width: 160px; /* Width of each cell */
     --cell-height: 200px; /* Height of each cell */
     --cell-gap: 40px; /* Gap between cells and buttons */
@@ -14,7 +15,7 @@
     --dropdown-text-color: white; /* Text color of dropdown items */
     --dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Shadow for dropdown content */
     --image-label-bg-color: rgba(255, 255, 255, 0.8); /* Background color for image label */
-	--grid-bg-color: #e6f2ff;
+    --grid-bg-color: #e6f2ff;
     --cell-bg-color: #f5f5f5; /* Background color for image cells */
     --cell-padding: 10px; /* Padding inside each cell */
     --menu-item-padding: 20px 20px; /* Padding for menu links */
@@ -25,53 +26,62 @@
     --image-max-height: 80%; /* Max height for the image */
     --image-label-height: 20%; /* Height for the label */
     --cell-margin: 5px; /* Space between cells */
+	--corner-radius: 10px;
 }
 
 /* General Styles */
 body {
     font-family: 'Roboto Flex', Arial, Helvetica, sans-serif; /* Font family for the body */
-	font-size: 14px;
+    font-size: 14px;
     display: flex; /* Enable flex layout for body */
     flex-direction: column; /* Default to column direction */
+    align-items: center; /* Center content horizontally */
+    margin: 0;
+}
+
+/* Content Container Styles */
+.content-container {
+    width: var(--container-width); /* Set container width */
+    max-width: 1200px; /* Optional: max-width for larger screens */
+    margin: 0 auto; /* Center container horizontally */
 }
 
 /* Menu Styles */
 .menu {
     display: flex; /* Use flexbox for menu layout */
     justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
     background-color: var(--menu-bg-color); /* Background color of the menu */
     padding: var(--menu-padding); /* Padding for the menu */
     flex-wrap: wrap; /* Wrap items to next line if needed */
-	border-radius: 5px;
+    border-radius: var(--corner-radius);
 }
 
 .menu a {
     color: var(--button-text-color); /* Text color for menu links */
     text-align: center; /* Center align the text */
     padding: var(--menu-item-padding); /* Padding for menu links */
+    margin: 5px; /* Add margin to center the highlighted area */
     text-decoration: none; /* Remove underline from links */
     font-size: var(--menu-item-font-size); /* Font size for menu links */
     box-sizing: border-box; /* Ensure padding and border are included in the width and height */
-    display: inline-block; /* Ensure inline-block display */
+    display: flex; /* Use flexbox for inner alignment */
+    align-items: center; /* Center items vertically */
     max-width: var(--menu-item-max-width); /* Maximum width for each category */
     white-space: nowrap; /* Prevent text wrapping */
     overflow: hidden; /* Hide overflow */
     text-overflow: ellipsis; /* Add ellipsis for overflow text */
 }
 
-.menu-container {
-    display: flex; /* Use flexbox for layout */
-    justify-content: center; /* Center the menu container */
-    width: 100%; /* Full width */
-}
-
-/* Active Menu and Submenu Styles */
+/* Active Menu Styles */
 .menu .active-menu {
     background-color: var(--active-menu-bg-color); /* Background color for active menu items */
+    border-radius: var(--corner-radius); /* Add rounded corners */
 }
 
 .dropdown-content .active-submenu {
     background-color: var(--active-menu-bg-color); /* Background color for active submenu items */
+	border-radius: var(--corner-radius);
 }
 
 /* Dropdown Container */
@@ -91,7 +101,10 @@ body {
     top: 100%; /* Position below the parent */
     left: 0; /* Align to the left of the parent */
     color: var(--dropdown-text-color); /* Text color for dropdown items */
+    border-bottom-left-radius: var(--corner-radius); /* Add rounded corners to the bottom left */
+    border-bottom-right-radius: var(--corner-radius); /* Add rounded corners to the bottom right */
 }
+
 
 /* Dropdown Links */
 .dropdown-content a {
@@ -108,26 +121,22 @@ body {
 }
 
 /* Show Dropdown Content on Hover */
-.dropdown:hover .dropdown-content {
-    display: block; /* Display dropdown content on hover */
-}
-
-/* Show Dropdown Content on Active */
+.dropdown:hover .dropdown-content,
 .dropdown.active .dropdown-content {
-    display: block; /* Display dropdown content when active */
+    display: block; /* Display dropdown content */
 }
 
 /* Image Grid Styles */
 .image-grid {
     display: grid; /* Use grid layout for image grid */
-	background-color: var(--grid-bg-color);
+    background-color: var(--grid-bg-color);
     grid-template-columns: repeat(auto-fit, minmax(calc(var(--cell-width) + var(--cell-padding) * 2), 1fr)); /* Responsive columns */
     gap: var(--cell-gap); /* Gap between grid items */
     padding: var(--cell-gap); /* Add padding to grid */
     flex-grow: 1; /* Allow the grid to grow */
     justify-content: center; /* Center the grid */
-	margin: 50px 50px 50px 50px;
-	border-radius: 15px;
+    margin: 50px 0; /* Center the grid container */
+    border-radius: var(--corner-radius);
 }
 
 /* Image Cell Styles */
@@ -173,4 +182,3 @@ body {
     justify-content: center; /* Center text horizontally */
     border-radius: 15px;
 }
-
