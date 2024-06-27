@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Image Previews</title>
         <link rel="stylesheet" href="/cs-assets/styles.css">
+        <link rel="icon" href="/cs-assets/favicon.ico" type="image/x-icon"> <!-- Favicon link -->
     </head>
     <body>
         <div class="content-container">
@@ -114,59 +115,59 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell" onclick="copyToClipboard('science-glass-0.png')">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-0.png', 'copy-label-0')">
                     <div class="image-container">
                         <img src="science-glass-0.png" alt="science-glass-0.png">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="copy-label-0">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                     <div class="image-label">science-glass-0.png</div>
                 </div>
         
-                <div class="image-cell" onclick="copyToClipboard('science-glass-1.png')">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-1.png', 'copy-label-1')">
                     <div class="image-container">
                         <img src="science-glass-1.png" alt="science-glass-1.png">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="copy-label-1">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                     <div class="image-label">science-glass-1.png</div>
                 </div>
         
-                <div class="image-cell" onclick="copyToClipboard('science-glass-2.png')">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-2.png', 'copy-label-2')">
                     <div class="image-container">
                         <img src="science-glass-2.png" alt="science-glass-2.png">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="copy-label-2">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                     <div class="image-label">science-glass-2.png</div>
                 </div>
         
-                <div class="image-cell" onclick="copyToClipboard('science-glass-3.png')">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-3.png', 'copy-label-3')">
                     <div class="image-container">
                         <img src="science-glass-3.png" alt="science-glass-3.png">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="copy-label-3">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                     <div class="image-label">science-glass-3.png</div>
                 </div>
         
-                <div class="image-cell" onclick="copyToClipboard('science-glass-4.png')">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-4.png', 'copy-label-4')">
                     <div class="image-container">
                         <img src="science-glass-4.png" alt="science-glass-4.png">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="copy-label-4">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                     <div class="image-label">science-glass-4.png</div>
                 </div>
         
-                <div class="image-cell" onclick="copyToClipboard('science-microscope.png')">
+                <div class="image-cell" onclick="copyToClipboard('science-microscope.png', 'copy-label-5')">
                     <div class="image-container">
                         <img src="science-microscope.png" alt="science-microscope.png">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="copy-label-5">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                     <div class="image-label">science-microscope.png</div>
                 </div>
         
-                <div class="image-cell" onclick="copyToClipboard('science-stethoscope.png')">
+                <div class="image-cell" onclick="copyToClipboard('science-stethoscope.png', 'copy-label-6')">
                     <div class="image-container">
                         <img src="science-stethoscope.png" alt="science-stethoscope.png">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="copy-label-6">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                     <div class="image-label">science-stethoscope.png</div>
                 </div>
         
@@ -174,9 +175,14 @@
         </div>
         <script src="/cs-assets/scripts.js"></script>
         <script>
-            function copyToClipboard(text) {
+            function copyToClipboard(text, labelId) {
                 navigator.clipboard.writeText(text).then(function() {
                     console.log('Copied to clipboard: ' + text);
+                    const label = document.getElementById(labelId);
+                    label.innerHTML = 'Copied!<img src="/cs-assets/copy.svg" alt="Copy">';
+                    setTimeout(() => {
+                        label.innerHTML = 'Copy<img src="/cs-assets/copy.svg" alt="Copy">';
+                    }, 2000);
                 }, function(err) {
                     console.error('Could not copy text: ', err);
                 });

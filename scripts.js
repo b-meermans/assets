@@ -44,9 +44,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-function copyToClipboard(text) {
+function copyToClipboard(text, labelId) {
     navigator.clipboard.writeText(text).then(function() {
         console.log('Copied to clipboard: ' + text);
+        const label = document.getElementById(labelId);
+        label.innerHTML = 'Copied!<img src="/cs-assets/copy.svg" alt="Copy">';
+        setTimeout(() => {
+            label.innerHTML = 'Copy<img src="/cs-assets/copy.svg" alt="Copy">';
+        }, 2000);
     }, function(err) {
         console.error('Could not copy text: ', err);
     });
