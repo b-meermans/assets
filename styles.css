@@ -1,7 +1,7 @@
 /* Root Variables */
 :root {
-    --cell-width: 160px; /* Width of each cell (20% smaller) */
-    --cell-height: 200px; /* Height of each cell (20% smaller) */
+    --cell-width: 160px; /* Width of each cell */
+    --cell-height: 200px; /* Height of each cell */
     --cell-gap: 15px; /* Gap between cells and buttons */
     --menu-bg-color: #333; /* Background color of the menu */
     --menu-hover-bg-color: #575757; /* Background color of menu items on hover */
@@ -15,6 +15,7 @@
     --dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Shadow for dropdown content */
     --image-label-bg-color: rgba(255, 255, 255, 0.8); /* Background color for image label */
     --cell-bg-color: #f0f0f0; /* Background color for image cells */
+    --padding: 20px; /* Padding inside each cell */
 }
 
 /* General Styles */
@@ -109,39 +110,46 @@ body {
 /* Image Grid Styles */
 .image-grid {
     display: grid; /* Use grid layout for image grid */
-    grid-template-columns: repeat(auto-fill, minmax(var(--cell-width), 1fr)); /* Responsive columns */
+    grid-template-columns: repeat(auto-fit, minmax(calc(var(--cell-width) + var(--padding) * 2), 1fr)); /* Responsive columns */
     gap: var(--cell-gap); /* Gap between grid items */
     padding: var(--cell-gap); /* Add padding to grid */
     flex-grow: 1; /* Allow the grid to grow */
-    grid-template-columns: repeat(6, var(--cell-width)); /* Limit the number of columns to 6 */
+    justify-content: center; /* Center the grid */
 }
 
 /* Image Cell Styles */
 .image-cell {
-    width: var(--cell-width); /* Width of image cell */
-    height: var(--cell-height); /* Height of image cell */
+    width: calc(var(--cell-width) + var(--padding) * 2); /* Width of image cell */
+    height: calc(var(--cell-height) + var(--padding) * 2); /* Height of image cell */
     background-color: var(--cell-bg-color); /* Light gray background for each cell */
     box-sizing: border-box; /* Include border and padding in size */
     position: relative; /* Relative positioning for image cell */
     overflow: hidden; /* Hide overflow */
+    display: flex; /* Flexbox for inner alignment */
+    flex-direction: column; /* Column direction for inner elements */
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    padding: var(--padding); /* Padding inside each cell */
+    margin: 5px; /* Space between cells */
 }
 
 /* Image Styles */
 .image-cell img {
-    width: 100%; /* Full width for image */
-    height: 80%; /* 80% height for the image */
+    max-width: 100%; /* Max width for image */
+    max-height: 80%; /* Max height for the image */
     object-fit: scale-down; /* Scale down the image if it's larger than the cell */
     display: block; /* Block display for image */
 }
 
 /* Image Label Styles */
 .image-label {
-    position: absolute; /* Absolute positioning for label */
-    bottom: 0; /* Align to bottom of cell */
     width: 100%; /* Full width for label */
     height: 20%; /* 20% height for the label */
     text-align: center; /* Center align the text */
-    line-height: calc(20% * var(--cell-height) / 100); /* Vertical center for the label */
     background-color: var(--image-label-bg-color); /* Background color for label */
+    line-height: calc(20% * var(--cell-height) / 100); /* Vertical center for the label */
     margin: 0; /* No margin */
+    display: flex; /* Flexbox for alignment */
+    align-items: center; /* Center text vertically */
+    justify-content: center; /* Center text horizontally */
 }
