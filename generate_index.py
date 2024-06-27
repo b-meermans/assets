@@ -64,7 +64,7 @@ def generate_menu_html(root_directory):
         if dirname.startswith('.'):
             continue  # Skip hidden folders
         relative_dir = os.path.relpath(os.path.join(root_directory, dirname), root_directory).replace('\\', '/')
-        link_path = f"/{relative_dir}/index.html"
+        link_path = f"/cs-assets/{relative_dir}/index.html"
         menu_html += f'''
             <div class="dropdown">
                 <a href="{link_path}">{dirname}</a>
@@ -76,7 +76,7 @@ def generate_menu_html(root_directory):
             if subdirname.startswith('.'):
                 continue  # Skip hidden folders
             sub_relative_dir = os.path.relpath(os.path.join(subdir_path, subdirname), root_directory).replace('\\', '/')
-            sub_link_path = f"/{sub_relative_dir}/index.html"
+            sub_link_path = f"/cs-assets/{sub_relative_dir}/index.html"
             menu_html += f'                    <a href="{sub_link_path}">{subdirname}</a>\n'
 
         menu_html += '''
