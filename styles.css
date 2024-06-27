@@ -165,11 +165,12 @@ body {
 /* Image Styles */
 .image-cell img {
     max-width: 100%; /* Max width for image */
-    height: calc(80% - 10px); /* Adjust height to fit above the label */
+    max-height: calc(80% - 10px); /* Max height to fit above the label */
     object-fit: contain; /* Contain image without distortion */
     display: block; /* Block display for image */
     margin-bottom: 10px; /* Space between image and text */
 }
+
 
 /* Image Label Styles */
 .image-label {
