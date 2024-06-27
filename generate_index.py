@@ -23,10 +23,9 @@ def generate_html(folder_path):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Previews</title>
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/cs-assets/styles.css">
 </head>
 <body>
-    <h1>Image Previews</h1>
     <div class="menu-container">
         <div class="menu">
             <div class="dropdown">
@@ -95,7 +94,7 @@ def generate_html(folder_path):
 
     html_content += '''
     </div>
-    <script src="/scripts.js"></script>
+    <script src="/cs-assets/scripts.js"></script>
 </body>
 </html>
 '''
