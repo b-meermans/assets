@@ -1,7 +1,7 @@
 import os
 import re
 
-def generate_html(folder_path):
+def generate_html(folder_path, root_directory):
     readme_path = os.path.join(folder_path, 'readme.md')
     index_path = os.path.join(folder_path, 'index.html')
 
@@ -28,57 +28,32 @@ def generate_html(folder_path):
 <body>
     <div class="menu-container">
         <div class="menu">
+'''
+
+    # Generate menu items dynamically
+    for dirpath, dirnames, _ in os.walk(root_directory):
+        for dirname in dirnames:
+            relative_dir = os.path.relpath(os.path.join(dirpath, dirname), root_directory)
+            link_path = f"/cs-assets/{relative_dir}/index.html"
+            html_content += f'''
             <div class="dropdown">
-                <a href="/Boardgames/">Boardgames</a>
+                <a href="{link_path}">{dirname}</a>
                 <div class="dropdown-content">
-                    <a href="/Boardgames/Dice/index.html">Dice</a>
-                    <a href="/Boardgames/Pieces/index.html">Pieces</a>
-                    <a href="/Boardgames/PlayingCards/index.html">Playing Cards</a>
+'''
+            # Generate sub-menu items dynamically
+            for subdirpath, subdirnames, _ in os.walk(os.path.join(root_directory, relative_dir)):
+                for subdirname in subdirnames:
+                    sub_relative_dir = os.path.relpath(os.path.join(subdirpath, subdirname), root_directory)
+                    sub_link_path = f"/cs-assets/{sub_relative_dir}/index.html"
+                    html_content += f'                    <a href="{sub_link_path}">{subdirname}</a>\n'
+                break  # Only process the top-level subdirectories
+
+            html_content += '''
                 </div>
             </div>
-            <div class="dropdown">
-                <a href="/Characters/">Characters</a>
-                <div class="dropdown-content">
-                    <a href="/Characters/Heroes/index.html">Heroes</a>
-                    <a href="/Characters/Villains/index.html">Villains</a>
-                </div>
-            </div>
-            <div class="dropdown">
-                <a href="/General/">General</a>
-                <div class="dropdown-content">
-                    <a href="/General/Item1/index.html">Item 1</a>
-                    <a href="/General/Item2/index.html">Item 2</a>
-                </div>
-            </div>
-            <div class="dropdown">
-                <a href="/Landscape/">Landscape</a>
-                <div class="dropdown-content">
-                    <a href="/Landscape/Mountains/index.html">Mountains</a>
-                    <a href="/Landscape/Rivers/index.html">Rivers</a>
-                </div>
-            </div>
-            <div class="dropdown">
-                <a href="/Original/">Original</a>
-                <div class="dropdown-content">
-                    <a href="/Original/Concepts/index.html">Concepts</a>
-                    <a href="/Original/Designs/index.html">Designs</a>
-                </div>
-            </div>
-            <div class="dropdown">
-                <a href="/Symbols/">Symbols</a>
-                <div class="dropdown-content">
-                    <a href="/Symbols/Basic/index.html">Basic</a>
-                    <a href="/Symbols/Complex/index.html">Complex</a>
-                    <a href="/Symbols/SpeechBubbles/index.html">Speech Bubbles</a>
-                </div>
-            </div>
-            <div class="dropdown">
-                <a href="/Transport/">Transport</a>
-                <div class="dropdown-content">
-                    <a href="/Transport/Cars/index.html">Cars</a>
-                    <a href="/Transport/Planes/index.html">Planes</a>
-                </div>
-            </div>
+'''
+
+    html_content += '''
         </div>
     </div>
     <div class="image-grid">
@@ -112,4 +87,4 @@ root_directory = './'
 for subdir, dirs, _ in os.walk(root_directory):
     # Exclude hidden folders
     dirs[:] = [d for d in dirs if not d.startswith('.')]
-    generate_html(subdir)
+    generate_html(subdir, root_directory)
