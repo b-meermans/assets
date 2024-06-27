@@ -160,17 +160,16 @@ body {
     align-items: center; /* Center content horizontally */
     padding: var(--cell-padding); /* Padding inside each cell */
     margin: var(--cell-margin); /* Space between cells */
+    justify-content: space-between; /* Space between image and label */
 }
 
-/* Image Styles */
 .image-cell img {
     max-width: 100%; /* Max width for image */
     max-height: calc(80% - 10px); /* Max height to fit above the label */
     object-fit: contain; /* Contain image without distortion */
     display: block; /* Block display for image */
-    margin-bottom: 10px; /* Space between image and text */
     margin-top: auto; /* Center vertically */
-    margin-bottom: auto; /* Center vertically */
+    margin-bottom: 10px; /* Space between image and text */
 }
 
 
