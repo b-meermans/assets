@@ -114,58 +114,74 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-0.png')">
                     <div class="image-container">
                         <img src="science-glass-0.png" alt="science-glass-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">science-glass-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-1.png')">
                     <div class="image-container">
                         <img src="science-glass-1.png" alt="science-glass-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">science-glass-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-2.png')">
                     <div class="image-container">
                         <img src="science-glass-2.png" alt="science-glass-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">science-glass-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-3.png')">
                     <div class="image-container">
                         <img src="science-glass-3.png" alt="science-glass-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">science-glass-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('science-glass-4.png')">
                     <div class="image-container">
                         <img src="science-glass-4.png" alt="science-glass-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">science-glass-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('science-microscope.png')">
                     <div class="image-container">
                         <img src="science-microscope.png" alt="science-microscope.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">science-microscope.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('science-stethoscope.png')">
                     <div class="image-container">
                         <img src="science-stethoscope.png" alt="science-stethoscope.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">science-stethoscope.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

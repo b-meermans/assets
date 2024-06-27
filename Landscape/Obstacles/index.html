@@ -114,121 +114,146 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fence.png')">
                     <div class="image-container">
                         <img src="fence.png" alt="fence.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fence.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('pipe.png')">
                     <div class="image-container">
                         <img src="pipe.png" alt="pipe.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">pipe.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock-down.png')">
                     <div class="image-container">
                         <img src="rock-down.png" alt="rock-down.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock-down.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock-grass-down.png')">
                     <div class="image-container">
                         <img src="rock-grass-down.png" alt="rock-grass-down.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock-grass-down.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock-grass.png')">
                     <div class="image-container">
                         <img src="rock-grass.png" alt="rock-grass.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock-grass.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock-ice-down.png')">
                     <div class="image-container">
                         <img src="rock-ice-down.png" alt="rock-ice-down.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock-ice-down.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock-ice.png')">
                     <div class="image-container">
                         <img src="rock-ice.png" alt="rock-ice.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock-ice.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock-snow-down.png')">
                     <div class="image-container">
                         <img src="rock-snow-down.png" alt="rock-snow-down.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock-snow-down.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock-snow.png')">
                     <div class="image-container">
                         <img src="rock-snow.png" alt="rock-snow.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock-snow.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('rock.png')">
                     <div class="image-container">
                         <img src="rock.png" alt="rock.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">rock.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('snowman.png')">
                     <div class="image-container">
                         <img src="snowman.png" alt="snowman.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">snowman.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('spike-bottom.png')">
                     <div class="image-container">
                         <img src="spike-bottom.png" alt="spike-bottom.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">spike-bottom.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('spike-top.png')">
                     <div class="image-container">
                         <img src="spike-top.png" alt="spike-top.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">spike-top.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('spikes-bottom.png')">
                     <div class="image-container">
                         <img src="spikes-bottom.png" alt="spikes-bottom.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">spikes-bottom.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('spikes-top.png')">
                     <div class="image-container">
                         <img src="spikes-top.png" alt="spikes-top.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">spikes-top.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('weight.png')">
                     <div class="image-container">
                         <img src="weight.png" alt="weight.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">weight.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

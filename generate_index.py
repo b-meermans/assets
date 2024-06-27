@@ -36,11 +36,13 @@ def generate_html(folder_path, root_directory, menu_html):
     '''
 
     for src, alt in image_entries:
+        filename = os.path.basename(src)
         html_content += f'''
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('{filename}')">
                     <div class="image-container">
                         <img src="{src}" alt="{alt}">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">{alt}</div>
                 </div>
         '''
@@ -49,6 +51,15 @@ def generate_html(folder_path, root_directory, menu_html):
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     '''
@@ -58,6 +69,7 @@ def generate_html(folder_path, root_directory, menu_html):
         file.write(html_content)
 
     print(f"Generated {index_path}")
+
 
 def generate_menu_html(root_directory):
     menu_html = ""

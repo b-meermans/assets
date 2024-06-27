@@ -114,114 +114,138 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-0.png')">
                     <div class="image-container">
                         <img src="bubble-0.png" alt="bubble-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-1.png')">
                     <div class="image-container">
                         <img src="bubble-1.png" alt="bubble-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-2.png')">
                     <div class="image-container">
                         <img src="bubble-2.png" alt="bubble-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-3.png')">
                     <div class="image-container">
                         <img src="bubble-3.png" alt="bubble-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-4.png')">
                     <div class="image-container">
                         <img src="bubble-4.png" alt="bubble-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-5.png')">
                     <div class="image-container">
                         <img src="bubble-5.png" alt="bubble-5.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-5.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-6.png')">
                     <div class="image-container">
                         <img src="bubble-6.png" alt="bubble-6.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-6.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-7.png')">
                     <div class="image-container">
                         <img src="bubble-7.png" alt="bubble-7.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-7.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-8.png')">
                     <div class="image-container">
                         <img src="bubble-8.png" alt="bubble-8.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-8.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-9.png')">
                     <div class="image-container">
                         <img src="bubble-9.png" alt="bubble-9.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-9.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-colon.png')">
                     <div class="image-container">
                         <img src="bubble-colon.png" alt="bubble-colon.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-colon.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-decimal.png')">
                     <div class="image-container">
                         <img src="bubble-decimal.png" alt="bubble-decimal.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-decimal.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-dollar.png')">
                     <div class="image-container">
                         <img src="bubble-dollar.png" alt="bubble-dollar.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-dollar.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-percent.png')">
                     <div class="image-container">
                         <img src="bubble-percent.png" alt="bubble-percent.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-percent.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('bubble-plus.png')">
                     <div class="image-container">
                         <img src="bubble-plus.png" alt="bubble-plus.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">bubble-plus.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

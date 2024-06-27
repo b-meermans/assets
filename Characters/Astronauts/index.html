@@ -114,23 +114,34 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('astronaut-0.png')">
                     <div class="image-container">
                         <img src="astronaut-0.png" alt="astronaut-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">astronaut-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('astronaut-1.png')">
                     <div class="image-container">
                         <img src="astronaut-1.png" alt="astronaut-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">astronaut-1.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

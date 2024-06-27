@@ -114,100 +114,122 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('eel-large.png')">
                     <div class="image-container">
                         <img src="eel-large.png" alt="eel-large.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">eel-large.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('eel-small.png')">
                     <div class="image-container">
                         <img src="eel-small.png" alt="eel-small.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">eel-small.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fish-0.png')">
                     <div class="image-container">
                         <img src="fish-0.png" alt="fish-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fish-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fish-1.png')">
                     <div class="image-container">
                         <img src="fish-1.png" alt="fish-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fish-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fish-2.png')">
                     <div class="image-container">
                         <img src="fish-2.png" alt="fish-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fish-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fish-3.png')">
                     <div class="image-container">
                         <img src="fish-3.png" alt="fish-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fish-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fish-4.png')">
                     <div class="image-container">
                         <img src="fish-4.png" alt="fish-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fish-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fishbone-0.png')">
                     <div class="image-container">
                         <img src="fishbone-0.png" alt="fishbone-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fishbone-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fishbone-1.png')">
                     <div class="image-container">
                         <img src="fishbone-1.png" alt="fishbone-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fishbone-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fishbone-2.png')">
                     <div class="image-container">
                         <img src="fishbone-2.png" alt="fishbone-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fishbone-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fishbone-3.png')">
                     <div class="image-container">
                         <img src="fishbone-3.png" alt="fishbone-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fishbone-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('fishbone-4.png')">
                     <div class="image-container">
                         <img src="fishbone-4.png" alt="fishbone-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">fishbone-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('puffer.png')">
                     <div class="image-container">
                         <img src="puffer.png" alt="puffer.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">puffer.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

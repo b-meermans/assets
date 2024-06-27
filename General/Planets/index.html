@@ -114,79 +114,98 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-0.png')">
                     <div class="image-container">
                         <img src="planet-0.png" alt="planet-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-1.png')">
                     <div class="image-container">
                         <img src="planet-1.png" alt="planet-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-2.png')">
                     <div class="image-container">
                         <img src="planet-2.png" alt="planet-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-3.png')">
                     <div class="image-container">
                         <img src="planet-3.png" alt="planet-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-4.png')">
                     <div class="image-container">
                         <img src="planet-4.png" alt="planet-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-5.png')">
                     <div class="image-container">
                         <img src="planet-5.png" alt="planet-5.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-5.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-6.png')">
                     <div class="image-container">
                         <img src="planet-6.png" alt="planet-6.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-6.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-7.png')">
                     <div class="image-container">
                         <img src="planet-7.png" alt="planet-7.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-7.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-8.png')">
                     <div class="image-container">
                         <img src="planet-8.png" alt="planet-8.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-8.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('planet-9.png')">
                     <div class="image-container">
                         <img src="planet-9.png" alt="planet-9.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">planet-9.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

@@ -114,37 +114,50 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('ship-damage-1.png')">
                     <div class="image-container">
                         <img src="ship-damage-1.png" alt="ship-damage-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">ship-damage-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('ship-damage-2.png')">
                     <div class="image-container">
                         <img src="ship-damage-2.png" alt="ship-damage-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">ship-damage-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('ship-dome.png')">
                     <div class="image-container">
                         <img src="ship-dome.png" alt="ship-dome.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">ship-dome.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('ship-healthy.png')">
                     <div class="image-container">
                         <img src="ship-healthy.png" alt="ship-healthy.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">ship-healthy.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

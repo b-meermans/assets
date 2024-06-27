@@ -114,100 +114,122 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-book-0.png')">
                     <div class="image-container">
                         <img src="office-book-0.png" alt="office-book-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-book-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-book-1.png')">
                     <div class="image-container">
                         <img src="office-book-1.png" alt="office-book-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-book-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-book-3.png')">
                     <div class="image-container">
                         <img src="office-book-3.png" alt="office-book-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-book-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-book.png')">
                     <div class="image-container">
                         <img src="office-book.png" alt="office-book.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-book.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-briefcase.png')">
                     <div class="image-container">
                         <img src="office-briefcase.png" alt="office-briefcase.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-briefcase.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-clipboard.png')">
                     <div class="image-container">
                         <img src="office-clipboard.png" alt="office-clipboard.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-clipboard.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-folder.png')">
                     <div class="image-container">
                         <img src="office-folder.png" alt="office-folder.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-folder.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-laptop.png')">
                     <div class="image-container">
                         <img src="office-laptop.png" alt="office-laptop.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-laptop.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-note.png')">
                     <div class="image-container">
                         <img src="office-note.png" alt="office-note.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-note.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-paint.png')">
                     <div class="image-container">
                         <img src="office-paint.png" alt="office-paint.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-paint.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-palette.png')">
                     <div class="image-container">
                         <img src="office-palette.png" alt="office-palette.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-palette.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-pen.png')">
                     <div class="image-container">
                         <img src="office-pen.png" alt="office-pen.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-pen.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('office-pencil.png')">
                     <div class="image-container">
                         <img src="office-pencil.png" alt="office-pencil.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">office-pencil.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

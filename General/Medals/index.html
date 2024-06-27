@@ -114,72 +114,90 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-1.png')">
                     <div class="image-container">
                         <img src="medal-1.png" alt="medal-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-2.png')">
                     <div class="image-container">
                         <img src="medal-2.png" alt="medal-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-3.png')">
                     <div class="image-container">
                         <img src="medal-3.png" alt="medal-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-4.png')">
                     <div class="image-container">
                         <img src="medal-4.png" alt="medal-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-5.png')">
                     <div class="image-container">
                         <img src="medal-5.png" alt="medal-5.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-5.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-6.png')">
                     <div class="image-container">
                         <img src="medal-6.png" alt="medal-6.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-6.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-7.png')">
                     <div class="image-container">
                         <img src="medal-7.png" alt="medal-7.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-7.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-8.png')">
                     <div class="image-container">
                         <img src="medal-8.png" alt="medal-8.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-8.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('medal-9.png')">
                     <div class="image-container">
                         <img src="medal-9.png" alt="medal-9.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">medal-9.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

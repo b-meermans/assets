@@ -114,107 +114,130 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-0.png')">
                     <div class="image-container">
                         <img src="hex-sand-0.png" alt="hex-sand-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-1.png')">
                     <div class="image-container">
                         <img src="hex-sand-1.png" alt="hex-sand-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-10.png')">
                     <div class="image-container">
                         <img src="hex-sand-10.png" alt="hex-sand-10.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-10.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-11.png')">
                     <div class="image-container">
                         <img src="hex-sand-11.png" alt="hex-sand-11.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-11.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-12.png')">
                     <div class="image-container">
                         <img src="hex-sand-12.png" alt="hex-sand-12.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-12.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-13.png')">
                     <div class="image-container">
                         <img src="hex-sand-13.png" alt="hex-sand-13.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-13.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-2.png')">
                     <div class="image-container">
                         <img src="hex-sand-2.png" alt="hex-sand-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-3.png')">
                     <div class="image-container">
                         <img src="hex-sand-3.png" alt="hex-sand-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-4.png')">
                     <div class="image-container">
                         <img src="hex-sand-4.png" alt="hex-sand-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-5.png')">
                     <div class="image-container">
                         <img src="hex-sand-5.png" alt="hex-sand-5.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-5.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-6.png')">
                     <div class="image-container">
                         <img src="hex-sand-6.png" alt="hex-sand-6.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-6.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-7.png')">
                     <div class="image-container">
                         <img src="hex-sand-7.png" alt="hex-sand-7.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-7.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-8.png')">
                     <div class="image-container">
                         <img src="hex-sand-8.png" alt="hex-sand-8.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-8.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('hex-sand-9.png')">
                     <div class="image-container">
                         <img src="hex-sand-9.png" alt="hex-sand-9.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">hex-sand-9.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

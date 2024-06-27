@@ -114,72 +114,90 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-1.png')">
                     <div class="image-container">
                         <img src="speech-bubble-1.png" alt="speech-bubble-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-2.png')">
                     <div class="image-container">
                         <img src="speech-bubble-2.png" alt="speech-bubble-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-3.png')">
                     <div class="image-container">
                         <img src="speech-bubble-3.png" alt="speech-bubble-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-4.png')">
                     <div class="image-container">
                         <img src="speech-bubble-4.png" alt="speech-bubble-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-5.png')">
                     <div class="image-container">
                         <img src="speech-bubble-5.png" alt="speech-bubble-5.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-5.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-6.png')">
                     <div class="image-container">
                         <img src="speech-bubble-6.png" alt="speech-bubble-6.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-6.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-7.png')">
                     <div class="image-container">
                         <img src="speech-bubble-7.png" alt="speech-bubble-7.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-7.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-8.png')">
                     <div class="image-container">
                         <img src="speech-bubble-8.png" alt="speech-bubble-8.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-8.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('speech-bubble-9.png')">
                     <div class="image-container">
                         <img src="speech-bubble-9.png" alt="speech-bubble-9.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">speech-bubble-9.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

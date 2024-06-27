@@ -114,79 +114,98 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('castle-small.png')">
                     <div class="image-container">
                         <img src="castle-small.png" alt="castle-small.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">castle-small.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('house-1.png')">
                     <div class="image-container">
                         <img src="house-1.png" alt="house-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">house-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('house-2.png')">
                     <div class="image-container">
                         <img src="house-2.png" alt="house-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">house-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('house-small-1.png')">
                     <div class="image-container">
                         <img src="house-small-1.png" alt="house-small-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">house-small-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('house-small-2.png')">
                     <div class="image-container">
                         <img src="house-small-2.png" alt="house-small-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">house-small-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('igloo.png')">
                     <div class="image-container">
                         <img src="igloo.png" alt="igloo.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">igloo.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('pyramid-1.png')">
                     <div class="image-container">
                         <img src="pyramid-1.png" alt="pyramid-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">pyramid-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('pyramid-2.png')">
                     <div class="image-container">
                         <img src="pyramid-2.png" alt="pyramid-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">pyramid-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('tower-small.png')">
                     <div class="image-container">
                         <img src="tower-small.png" alt="tower-small.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">tower-small.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('tower.png')">
                     <div class="image-container">
                         <img src="tower.png" alt="tower.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">tower.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

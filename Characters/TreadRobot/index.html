@@ -114,37 +114,50 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('tread-drive-0.png')">
                     <div class="image-container">
                         <img src="tread-drive-0.png" alt="tread-drive-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">tread-drive-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('tread-drive-1.png')">
                     <div class="image-container">
                         <img src="tread-drive-1.png" alt="tread-drive-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">tread-drive-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('tread-jump.png')">
                     <div class="image-container">
                         <img src="tread-jump.png" alt="tread-jump.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">tread-jump.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('tread-top-full.png')">
                     <div class="image-container">
                         <img src="tread-top-full.png" alt="tread-top-full.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">tread-top-full.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     

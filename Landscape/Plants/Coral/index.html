@@ -114,65 +114,82 @@
             </div>
             <div class="image-grid">
     
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-0.png')">
                     <div class="image-container">
                         <img src="water-plant-0.png" alt="water-plant-0.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-0.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-1.png')">
                     <div class="image-container">
                         <img src="water-plant-1.png" alt="water-plant-1.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-1.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-2.png')">
                     <div class="image-container">
                         <img src="water-plant-2.png" alt="water-plant-2.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-2.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-3.png')">
                     <div class="image-container">
                         <img src="water-plant-3.png" alt="water-plant-3.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-3.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-4.png')">
                     <div class="image-container">
                         <img src="water-plant-4.png" alt="water-plant-4.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-4.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-5.png')">
                     <div class="image-container">
                         <img src="water-plant-5.png" alt="water-plant-5.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-5.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-6.png')">
                     <div class="image-container">
                         <img src="water-plant-6.png" alt="water-plant-6.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-6.png</div>
                 </div>
         
-                <div class="image-cell">
+                <div class="image-cell" onclick="copyToClipboard('water-plant-7.png')">
                     <div class="image-container">
                         <img src="water-plant-7.png" alt="water-plant-7.png">
                     </div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">water-plant-7.png</div>
                 </div>
         
             </div>
         </div>
         <script src="/cs-assets/scripts.js"></script>
+        <script>
+            function copyToClipboard(text) {
+                navigator.clipboard.writeText(text).then(function() {
+                    console.log('Copied to clipboard: ' + text);
+                }, function(err) {
+                    console.error('Could not copy text: ', err);
+                });
+            }
+        </script>
     </body>
     </html>
     
