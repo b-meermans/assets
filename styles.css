@@ -1,11 +1,11 @@
 /* Root Variables */
 :root {
-    --cell-width: 200px; /* Width of each cell */
-    --cell-height: 250px; /* Height of each cell */
+    --cell-width: 160px; /* Width of each cell (20% smaller) */
+    --cell-height: 200px; /* Height of each cell (20% smaller) */
     --cell-gap: 15px; /* Gap between cells and buttons */
     --menu-bg-color: #333; /* Background color of the menu */
     --menu-hover-bg-color: #575757; /* Background color of menu items on hover */
-	--active-menu-bg-color: #953500;
+    --active-menu-bg-color: #953500; /* Background color for active menu items */
     --button-bg-color: #007BFF; /* Background color of buttons */
     --button-hover-bg-color: #0056b3; /* Background color of buttons on hover */
     --button-text-color: white; /* Text color of buttons */
@@ -14,6 +14,7 @@
     --dropdown-text-color: white; /* Text color of dropdown items */
     --dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Shadow for dropdown content */
     --image-label-bg-color: rgba(255, 255, 255, 0.8); /* Background color for image label */
+    --cell-bg-color: #f0f0f0; /* Background color for image cells */
 }
 
 /* General Styles */
@@ -53,14 +54,13 @@ body {
     width: 100%; /* Full width */
 }
 
-
 /* Active Menu and Submenu Styles */
 .menu .active-menu {
-    background-color: var(--active-menu-bg-color); /* Subtle orange background */
+    background-color: var(--active-menu-bg-color); /* Background color for active menu items */
 }
 
 .dropdown-content .active-submenu {
-    background-color: var(--active-menu-bg-color); /* Subtle orange background */
+    background-color: var(--active-menu-bg-color); /* Background color for active submenu items */
 }
 
 /* Dropdown Container */
@@ -113,12 +113,14 @@ body {
     gap: var(--cell-gap); /* Gap between grid items */
     padding: var(--cell-gap); /* Add padding to grid */
     flex-grow: 1; /* Allow the grid to grow */
+    grid-template-columns: repeat(6, var(--cell-width)); /* Limit the number of columns to 6 */
 }
 
 /* Image Cell Styles */
 .image-cell {
     width: var(--cell-width); /* Width of image cell */
     height: var(--cell-height); /* Height of image cell */
+    background-color: var(--cell-bg-color); /* Light gray background for each cell */
     box-sizing: border-box; /* Include border and padding in size */
     position: relative; /* Relative positioning for image cell */
     overflow: hidden; /* Hide overflow */
@@ -128,7 +130,7 @@ body {
 .image-cell img {
     width: 100%; /* Full width for image */
     height: 80%; /* 80% height for the image */
-    object-fit: contain; /* Contain image without distortion */
+    object-fit: scale-down; /* Scale down the image if it's larger than the cell */
     display: block; /* Block display for image */
 }
 
@@ -143,4 +145,3 @@ body {
     background-color: var(--image-label-bg-color); /* Background color for label */
     margin: 0; /* No margin */
 }
-
