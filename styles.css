@@ -178,15 +178,14 @@ body {
     align-items: center; /* Center content vertically */
     flex-grow: 1; /* Allow the image container to grow and fill available space */
     width: 100%; /* Full width of the cell */
+    height: calc(80% - 10px); /* Ensure the container doesn't exceed the intended height */
 }
 
 .image-cell img {
     max-width: 100%; /* Max width for image */
     max-height: 100%; /* Max height for image */
-    object-fit: contain; /* Contain image without distortion */    
-	display: block; /* Block display for image */
-    width: auto; /* Ensure width adjusts automatically */
-    height: auto; /* Ensure height adjusts automatically */
+    object-fit: contain; /* Contain image without distortion */
+    display: block; /* Block display for image */
 }
 
 .copy-label {
