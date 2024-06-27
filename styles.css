@@ -227,12 +227,13 @@ body {
     box-sizing: border-box; /* Ensure padding and border are included in the width and height */
 }
 
-
 /* Floating Button Styles */
 .floating-button {
     position: fixed; /* Fixed positioning to float above content */
     bottom: 20px; /* Distance from the bottom */
     right: 20px; /* Distance from the right */
+    background-color: #007BFF; /* Button background color */
+    color: white; /* Button text color */
     border: none; /* No border */
     padding: 10px 20px; /* Padding for the button */
     border-radius: 5px; /* Rounded corners */
@@ -241,14 +242,16 @@ body {
     z-index: 1000; /* Ensure it floats above other content */
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Center items vertically */
-	background-color: var(--grid-bg-color); /* Darker background on hover */
-	color: black; /* Button text color */
+	background-color: var(--grid-bg-color);
+	color: black;
+	
 }
 
 /* Floating Button Hover Effect */
 .floating-button:hover {
-	background-color: var(--menu-bg-color);; /* Button background color */
-    color: white; /* Button text color */
+    background-color: var(--menu-bg-color); /* Darker background on hover */
+	color: white;
+	
 }
 
 

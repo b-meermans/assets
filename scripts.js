@@ -44,7 +44,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-
 function copyToClipboard(text, labelId) {
     navigator.clipboard.writeText(text).then(function() {
         console.log('Copied to clipboard: ' + text);

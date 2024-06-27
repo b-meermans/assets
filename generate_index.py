@@ -36,14 +36,15 @@ def generate_html(folder_path, root_directory, menu_html):
             <div class="image-grid">
     '''
 
-    for src, alt in image_entries:
+    for index, (src, alt) in enumerate(image_entries):
         filename = os.path.basename(src)
+        label_id = f'copy-label-{index}'
         html_content += f'''
-                <div class="image-cell" onclick="copyToClipboard('{filename}')">
+                <div class="image-cell" onclick="copyToClipboard('{filename}', '{label_id}')">
                     <div class="image-container">
                         <img src="{src}" alt="{alt}">
                     </div>
-                    <div class="copy-label">Copy</div>
+                    <div class="copy-label" id="{label_id}">Copy</div>
                     <div class="image-label">{alt}</div>
                 </div>
         '''
