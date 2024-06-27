@@ -38,7 +38,9 @@ def generate_html(folder_path, root_directory, menu_html):
     for src, alt in image_entries:
         html_content += f'''
                 <div class="image-cell">
-                    <img src="{src}" alt="{alt}">
+                    <div class="image-container">
+                        <img src="{src}" alt="{alt}">
+                    </div>
                     <div class="image-label">{alt}</div>
                 </div>
         '''
@@ -59,20 +61,39 @@ def generate_html(folder_path, root_directory, menu_html):
 
 def generate_menu_html(root_directory):
     menu_html = ""
-    # Generate menu items dynamically for the first level of directories
-    for dirname in next(os.walk(root_directory))[1]:
+    directories = next(os.walk(root_directory))[1]
+    
+    # Sort directories alphabetically
+    directories.sort()
+    
+    # Place "Original" folder at the beginning
+    if "Original" in directories:
+        directories.remove("Original")
+        directories.insert(0, "Original")
+    
+    # Generate menu items dynamically
+    for dirname in directories:
         if dirname.startswith('.'):
             continue  # Skip hidden folders
         relative_dir = os.path.relpath(os.path.join(root_directory, dirname), root_directory).replace('\\', '/')
         link_path = f"/cs-assets/{relative_dir}/index.html"
+        
+        # Change the display name of "Original" to "Theater"
+        display_name = "Theater" if dirname == "Original" else dirname
+        
         menu_html += f'''
             <div class="dropdown">
-                <a href="{link_path}">{dirname}</a>
+                <a href="{link_path}">{display_name}</a>
                 <div class="dropdown-content">
 '''
         # Generate sub-menu items for the immediate subdirectories only
         subdir_path = os.path.join(root_directory, dirname)
-        for subdirname in next(os.walk(subdir_path))[1]:
+        subdirs = next(os.walk(subdir_path))[1]
+        
+        # Sort subdirectories alphabetically
+        subdirs.sort()
+        
+        for subdirname in subdirs:
             if subdirname.startswith('.'):
                 continue  # Skip hidden folders
             sub_relative_dir = os.path.relpath(os.path.join(subdir_path, subdirname), root_directory).replace('\\', '/')

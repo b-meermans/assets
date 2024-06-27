@@ -162,15 +162,19 @@ body {
     margin: var(--cell-margin); /* Space between cells */
 }
 
-.image-cell img {
-    max-width: 100%; /* Max width for image */
-    max-height: calc(80% - 10px); /* Max height to fit above the label */
-    object-fit: contain; /* Contain image without distortion */
-    display: block; /* Block display for image */
-    margin: auto 0; /* Center vertically */
+.image-container {
+    flex: 1; /* Take up remaining space in the cell */
+    display: flex; /* Flexbox for inner alignment */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
 }
 
-
+.image-cell img {
+    max-width: 100%; /* Max width for image */
+    max-height: 100%; /* Max height to fit within the container */
+    object-fit: contain; /* Contain image without distortion */
+    display: block; /* Block display for image */
+}
 
 /* Image Label Styles */
 .image-label {
