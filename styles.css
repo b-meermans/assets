@@ -169,7 +169,10 @@ body {
     object-fit: contain; /* Contain image without distortion */
     display: block; /* Block display for image */
     margin-bottom: 10px; /* Space between image and text */
+    margin-top: auto; /* Center vertically */
+    margin-bottom: auto; /* Center vertically */
 }
+
 
 
 /* Image Label Styles */
