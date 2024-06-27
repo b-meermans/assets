@@ -10,7 +10,7 @@ def generate_html(folder_path, root_directory, menu_html):
         return
 
     # Read the markdown file
-    with open(readme_path, 'r') as file:
+    with open(readme_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
     # Extract image entries using regex
@@ -24,7 +24,7 @@ def generate_html(folder_path, root_directory, menu_html):
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Image Previews</title>
         <link rel="stylesheet" href="/cs-assets/styles.css">
-        <link rel="icon" href="/cs-assets/favicon.ico" type="image/x-icon"> <!-- Favicon link -->
+        <link rel="icon" href="/cs-assets/favicon.ico" type="image/x-icon">
     </head>
     <body>
         <div class="content-container">
@@ -36,14 +36,14 @@ def generate_html(folder_path, root_directory, menu_html):
             <div class="image-grid">
     '''
 
-    for idx, (src, alt) in enumerate(image_entries):
+    for src, alt in image_entries:
         filename = os.path.basename(src)
         html_content += f'''
-                <div class="image-cell" onclick="copyToClipboard('{filename}', 'copy-label-{idx}')">
+                <div class="image-cell" onclick="copyToClipboard('{filename}')">
                     <div class="image-container">
                         <img src="{src}" alt="{alt}">
                     </div>
-                    <div class="copy-label" id="copy-label-{idx}">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
+                    <div class="copy-label">Copy</div>
                     <div class="image-label">{alt}</div>
                 </div>
         '''
@@ -51,32 +51,17 @@ def generate_html(folder_path, root_directory, menu_html):
     html_content += '''
             </div>
         </div>
+        <button class="floating-button" onclick="switchMode()">🔁 Docs</button>
         <script src="/cs-assets/scripts.js"></script>
-        <script>
-            function copyToClipboard(text, labelId) {
-                navigator.clipboard.writeText(text).then(function() {
-                    console.log('Copied to clipboard: ' + text);
-                    const label = document.getElementById(labelId);
-                    label.innerHTML = 'Copied!<img src="/cs-assets/copy.svg" alt="Copy">';
-                    setTimeout(() => {
-                        label.innerHTML = 'Copy<img src="/cs-assets/copy.svg" alt="Copy">';
-                    }, 2000);
-                }, function(err) {
-                    console.error('Could not copy text: ', err);
-                });
-            }
-        </script>
     </body>
     </html>
     '''
 
-    # Write the HTML content to index.html
-    with open(index_path, 'w') as file:
+    # Write the HTML content to index.html with UTF-8 encoding
+    with open(index_path, 'w', encoding='utf-8') as file:
         file.write(html_content)
 
     print(f"Generated {index_path}")
-
-
 
 def generate_menu_html(root_directory):
     menu_html = ""

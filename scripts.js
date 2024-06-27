@@ -57,3 +57,7 @@ function copyToClipboard(text, labelId) {
         console.error('Could not copy text: ', err);
     });
 }
+
+function switchMode() {
+    window.location.href = 'https://aops-ba.github.io/cs-java-summer';
+}
