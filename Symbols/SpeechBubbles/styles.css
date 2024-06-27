@@ -1,0 +1,146 @@
+/* Root Variables */
+:root {
+    --cell-width: 200px; /* Width of each cell */
+    --cell-height: 250px; /* Height of each cell */
+    --cell-gap: 15px; /* Gap between cells and buttons */
+    --menu-bg-color: #333; /* Background color of the menu */
+    --menu-hover-bg-color: #575757; /* Background color of menu items on hover */
+	--active-menu-bg-color: #953500;
+    --button-bg-color: #007BFF; /* Background color of buttons */
+    --button-hover-bg-color: #0056b3; /* Background color of buttons on hover */
+    --button-text-color: white; /* Text color of buttons */
+    --dropdown-bg-color: #333; /* Background color of dropdown content */
+    --dropdown-hover-bg-color: #575757; /* Background color of dropdown items on hover */
+    --dropdown-text-color: white; /* Text color of dropdown items */
+    --dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Shadow for dropdown content */
+    --image-label-bg-color: rgba(255, 255, 255, 0.8); /* Background color for image label */
+}
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif; /* Font family for the body */
+    display: flex; /* Enable flex layout for body */
+    flex-direction: column; /* Default to column direction */
+    margin: 0; /* Remove default margin */
+}
+
+/* Menu Styles */
+.menu {
+    display: flex; /* Use flexbox for menu layout */
+    justify-content: center; /* Center items horizontally */
+    background-color: var(--menu-bg-color); /* Background color of the menu */
+    padding: 10px; /* Padding for the menu */
+    flex-wrap: wrap; /* Wrap items to next line if needed */
+}
+
+.menu a {
+    color: white; /* Text color for menu links */
+    text-align: center; /* Center align the text */
+    padding: 14px 20px; /* Padding for menu links */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 17px; /* Font size for menu links */
+    box-sizing: border-box; /* Ensure padding and border are included in the width and height */
+    display: inline-block; /* Ensure inline-block display */
+    max-width: 300px; /* Maximum width for each category */
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
+}
+
+.menu-container {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center the menu container */
+    width: 100%; /* Full width */
+}
+
+
+/* Active Menu and Submenu Styles */
+.menu .active-menu {
+    background-color: var(--active-menu-bg-color); /* Subtle orange background */
+}
+
+.dropdown-content .active-submenu {
+    background-color: var(--active-menu-bg-color); /* Subtle orange background */
+}
+
+/* Dropdown Container */
+.dropdown {
+    position: relative; /* Relative positioning for dropdown */
+    display: inline-block; /* Inline block for dropdown */
+}
+
+/* Dropdown Content */
+.dropdown-content {
+    display: none; /* Hide dropdown content initially */
+    position: absolute; /* Absolute positioning for dropdown content */
+    background-color: var(--dropdown-bg-color); /* Background color for dropdown */
+    min-width: 160px; /* Minimum width for dropdown */
+    box-shadow: var(--dropdown-shadow); /* Shadow for dropdown */
+    z-index: 1; /* Ensure dropdown appears above other elements */
+    top: 100%; /* Position below the parent */
+    left: 0; /* Align to the left of the parent */
+    color: var(--dropdown-text-color); /* Text color for dropdown items */
+}
+
+/* Dropdown Links */
+.dropdown-content a {
+    color: var(--dropdown-text-color); /* Text color for dropdown links */
+    padding: 12px 16px; /* Padding for dropdown links */
+    text-decoration: none; /* Remove underline from links */
+    display: block; /* Block display for dropdown links */
+    text-align: left; /* Left align the text */
+}
+
+/* Dropdown Hover Effect */
+.dropdown-content a:hover {
+    background-color: var(--dropdown-hover-bg-color); /* Background color on hover */
+}
+
+/* Show Dropdown Content on Hover */
+.dropdown:hover .dropdown-content {
+    display: block; /* Display dropdown content on hover */
+}
+
+/* Show Dropdown Content on Active */
+.dropdown.active .dropdown-content {
+    display: block; /* Display dropdown content when active */
+}
+
+/* Image Grid Styles */
+.image-grid {
+    display: grid; /* Use grid layout for image grid */
+    grid-template-columns: repeat(auto-fill, minmax(var(--cell-width), 1fr)); /* Responsive columns */
+    gap: var(--cell-gap); /* Gap between grid items */
+    padding: var(--cell-gap); /* Add padding to grid */
+    flex-grow: 1; /* Allow the grid to grow */
+}
+
+/* Image Cell Styles */
+.image-cell {
+    width: var(--cell-width); /* Width of image cell */
+    height: var(--cell-height); /* Height of image cell */
+    box-sizing: border-box; /* Include border and padding in size */
+    position: relative; /* Relative positioning for image cell */
+    overflow: hidden; /* Hide overflow */
+}
+
+/* Image Styles */
+.image-cell img {
+    width: 100%; /* Full width for image */
+    height: 80%; /* 80% height for the image */
+    object-fit: contain; /* Contain image without distortion */
+    display: block; /* Block display for image */
+}
+
+/* Image Label Styles */
+.image-label {
+    position: absolute; /* Absolute positioning for label */
+    bottom: 0; /* Align to bottom of cell */
+    width: 100%; /* Full width for label */
+    height: 20%; /* 20% height for the label */
+    text-align: center; /* Center align the text */
+    line-height: calc(20% * var(--cell-height) / 100); /* Vertical center for the label */
+    background-color: var(--image-label-bg-color); /* Background color for label */
+    margin: 0; /* No margin */
+}
+
