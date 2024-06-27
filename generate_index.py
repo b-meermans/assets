@@ -1,7 +1,7 @@
 import os
 import re
 
-def generate_html(folder_path, root_directory):
+def generate_html(folder_path, root_directory, menu_html):
     readme_path = os.path.join(folder_path, 'readme.md')
     index_path = os.path.join(folder_path, 'index.html')
 
@@ -17,7 +17,7 @@ def generate_html(folder_path, root_directory):
     image_entries = re.findall(r'<img src="([^"]+)" width="100" /> ([^<]+)<br>', content)
 
     # Generate HTML content
-    html_content = '''<!DOCTYPE html>
+    html_content = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,32 +28,7 @@ def generate_html(folder_path, root_directory):
 <body>
     <div class="menu-container">
         <div class="menu">
-'''
-
-    # Generate menu items dynamically
-    for dirpath, dirnames, _ in os.walk(root_directory):
-        for dirname in dirnames:
-            relative_dir = os.path.relpath(os.path.join(dirpath, dirname), root_directory)
-            link_path = f"/cs-assets/{relative_dir}/index.html"
-            html_content += f'''
-            <div class="dropdown">
-                <a href="{link_path}">{dirname}</a>
-                <div class="dropdown-content">
-'''
-            # Generate sub-menu items dynamically
-            for subdirpath, subdirnames, _ in os.walk(os.path.join(root_directory, relative_dir)):
-                for subdirname in subdirnames:
-                    sub_relative_dir = os.path.relpath(os.path.join(subdirpath, subdirname), root_directory)
-                    sub_link_path = f"/cs-assets/{sub_relative_dir}/index.html"
-                    html_content += f'                    <a href="{sub_link_path}">{subdirname}</a>\n'
-                break  # Only process the top-level subdirectories
-
-            html_content += '''
-                </div>
-            </div>
-'''
-
-    html_content += '''
+{menu_html}
         </div>
     </div>
     <div class="image-grid">
@@ -80,11 +55,42 @@ def generate_html(folder_path, root_directory):
 
     print(f"Generated {index_path}")
 
+def generate_menu_html(root_directory):
+    menu_html = ""
+    # Generate menu items dynamically for the first level of directories
+    for dirname in next(os.walk(root_directory))[1]:
+        if dirname.startswith('.'):
+            continue  # Skip hidden folders
+        relative_dir = os.path.relpath(os.path.join(root_directory, dirname), root_directory)
+        link_path = f"/cs-assets/{relative_dir}/index.html"
+        menu_html += f'''
+            <div class="dropdown">
+                <a href="{link_path}">{dirname}</a>
+                <div class="dropdown-content">
+'''
+        # Generate sub-menu items for the immediate subdirectories only
+        subdir_path = os.path.join(root_directory, dirname)
+        for subdirname in next(os.walk(subdir_path))[1]:
+            if subdirname.startswith('.'):
+                continue  # Skip hidden folders
+            sub_relative_dir = os.path.relpath(os.path.join(subdir_path, subdirname), root_directory)
+            sub_link_path = f"/cs-assets/{sub_relative_dir}/index.html"
+            menu_html += f'                    <a href="{sub_link_path}">{subdirname}</a>\n'
+
+        menu_html += '''
+                </div>
+            </div>
+'''
+    return menu_html
+
 # Path to the root directory containing the folders
 root_directory = './'
+
+# Generate the menu HTML once
+menu_html = generate_menu_html(root_directory)
 
 # Recursively process each folder and subfolder, excluding hidden ones
 for subdir, dirs, _ in os.walk(root_directory):
     # Exclude hidden folders
     dirs[:] = [d for d in dirs if not d.startswith('.')]
-    generate_html(subdir, root_directory)
+    generate_html(subdir, root_directory, menu_html)
