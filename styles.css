@@ -124,6 +124,11 @@ body {
     display: block; /* Display dropdown content */
 }
 
+/* Active Submenu Styles */
+.dropdown-content .active-submenu {
+    background-color: var(--active-menu-bg-color); /* Background color for active submenu items */
+    border-radius: var(--radius-corner); /* Add rounded corners */
+}
 
 /* Show Dropdown Content on Active */
 .dropdown.active .dropdown-content {
@@ -183,23 +188,27 @@ body {
 }
 
 .copy-label {
-    display: none; /* Hidden by default */
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center items vertically */
+    justify-content: flex-end; /* Align items to the right */
     position: absolute; /* Absolute positioning */
     top: 5px; /* 5px from the top */
     right: 5px; /* 5px from the right */
     color: #000; /* Black text */
+    padding: 2px 5px; /* Padding around the text */
     font-size: 12px; /* Smaller font size */
-    display: flex; /* Use flexbox for alignment */
-    align-items: center; /* Center align items vertically */
-    justify-content: flex-end; /* Right-align the text */
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.3s; /* Smooth transition for visibility */
 }
 
 .copy-label img {
-    margin-left: 5px; /* Space between the text and the icon */
+    width: 14px; /* Smaller copy icon */
+    height: 14px; /* Smaller copy icon */
+    margin-left: 5px; /* Space between text and icon */
 }
 
 .image-cell:hover .copy-label {
-    display: flex; /* Show on hover */
+    opacity: 1; /* Show on hover */
 }
 
 
