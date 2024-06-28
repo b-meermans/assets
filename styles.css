@@ -9,7 +9,7 @@
     --cell-gap: 40px; /* Gap between cells and buttons */
     --menu-bg-color: #164e7b; /* Background color of the menu */
     --menu-hover-bg-color: #4D7A97; /* Background color of menu items on hover */
-    --active-menu-bg-color: #953500; /* Background color for active menu items */
+    --active-menu-bg-color: #4D7A97; /* Background color for active menu items */
     --button-bg-color: #007BFF; /* Background color of buttons */
     --button-hover-bg-color: #0056b3; /* Background color of buttons on hover */
     --button-text-color: white; /* Text color of buttons */
