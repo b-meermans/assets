@@ -83,7 +83,7 @@ body {
 /* Dropdown Hover and Active Effect */
 .dropdown:hover > a,
 .dropdown.active > a {
-    background-color: #bf4500; /* Slightly different shade of red */
+    background-color: var(--dropdown-hover-bg-color); /* Slightly different shade of red */
     border-radius: var(--radius-corner); /* Add rounded corners */
 }
 
