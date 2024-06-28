@@ -17,7 +17,7 @@ def generate_html(folder_path, root_directory, menu_html):
     image_entries = re.findall(r'<img src="([^"]+)" width="100" /> ([^<]+)<br>', content)
 
     # Generate HTML content
-    title = os.path.relpath(folder_path, root_directory).replace(os.sep, '-') + ' Assets'
+    title = 'Assets: ' +os.path.relpath(folder_path, root_directory).replace(os.sep, '-')
 
     html_content = f'''<!DOCTYPE html>
         <html lang="en">
