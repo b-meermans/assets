@@ -17,24 +17,26 @@ def generate_html(folder_path, root_directory, menu_html):
     image_entries = re.findall(r'<img src="([^"]+)" width="100" /> ([^<]+)<br>', content)
 
     # Generate HTML content
+    title = os.path.relpath(folder_path, root_directory).replace(os.sep, '-') + ' Assets'
+
     html_content = f'''<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Image Previews</title>
-        <link rel="stylesheet" href="/cs-assets/styles.css">
-        <link rel="icon" href="/cs-assets/favicon.ico" type="image/x-icon">
-    </head>
-    <body>
-        <div class="content-container">
-            <div class="menu-container">
-                <div class="menu">
-    {menu_html}
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>{title}</title>
+            <link rel="stylesheet" href="/cs-assets/styles.css">
+            <link rel="icon" href="/cs-assets/favicon.ico" type="image/x-icon">
+        </head>
+        <body>
+            <div class="content-container">
+                <div class="menu-container">
+                    <div class="menu">
+        {menu_html}
+                    </div>
                 </div>
-            </div>
-            <div class="image-grid">
-    '''
+                <div class="image-grid">
+        '''
 
     for index, (src, alt) in enumerate(image_entries):
         filename = os.path.basename(src)
