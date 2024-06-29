@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
 				suggestionItem.classList.add('suggestion-item');
 				suggestionItem.innerHTML = `
 					<span>${image.filename}</span>
-					<img src="${image.path}" class="preview-image" alt="${image.filename}">
+					<img src="/${image.path}" class="preview-image" alt="${image.filename}">
 				`;
 				suggestionItem.addEventListener('click', () => {
 					copyToClipboard(image.filename);
