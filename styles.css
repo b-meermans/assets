@@ -261,7 +261,7 @@ body {
 
 .search-container {
     margin: 20px auto;
-    width: 80%;
+    width: 60%;
     max-width: 600px;
     position: relative;
 }
@@ -290,18 +290,21 @@ body {
 }
 
 .suggestion-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 10px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
-.suggestion-item:hover {
-    background-color: #f0f0f0;
-}
-
 .preview-image {
+    margin-left: auto; /* Push the image to the right */
     max-width: 50px;
     max-height: 50px;
-    margin-left: 10px;
     vertical-align: middle;
+}
+
+.suggestion-item:hover {
+    background-color: #f0f0f0;
 }

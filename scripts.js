@@ -65,17 +65,17 @@ document.addEventListener('DOMContentLoaded', function() {
 			filteredImages.forEach(image => {
 				const suggestionItem = document.createElement('div');
 				suggestionItem.classList.add('suggestion-item');
-
-				const imgPreview = document.createElement('img');
-				imgPreview.src = `/${image.path}`;
-				imgPreview.classList.add('preview-image');
-
-				const textNode = document.createTextNode(image.filename);
-				suggestionItem.appendChild(imgPreview);
-				suggestionItem.appendChild(textNode);
-
+				suggestionItem.innerHTML = `
+					<span>${image.filename}</span>
+					<img src="${image.path}" class="preview-image" alt="${image.filename}">
+				`;
 				suggestionItem.addEventListener('click', () => {
 					copyToClipboard(image.filename);
+					const copiedLabel = document.createElement('div');
+					copiedLabel.textContent = 'Copied!';
+					copiedLabel.classList.add('copy-label');
+					suggestionItem.appendChild(copiedLabel);
+					setTimeout(() => suggestionItem.removeChild(copiedLabel), 2000);
 				});
 
 				suggestions.appendChild(suggestionItem);
