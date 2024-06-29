@@ -72,10 +72,17 @@ document.addEventListener('DOMContentLoaded', function() {
 				suggestionItem.addEventListener('click', () => {
 					copyToClipboard(image.filename);
 					const copiedLabel = document.createElement('div');
+					copiedLabel.className = 'copied-label';
 					copiedLabel.textContent = 'Copied!';
-					copiedLabel.classList.add('copy-label');
 					suggestionItem.appendChild(copiedLabel);
-					setTimeout(() => suggestionItem.removeChild(copiedLabel), 2000);
+					
+					setTimeout(() => {
+						copiedLabel.classList.add('show-copied');
+					}, 100); // Slight delay to trigger transition
+
+					setTimeout(() => {
+						suggestionItem.removeChild(copiedLabel);
+					}, 2000);
 				});
 
 				suggestions.appendChild(suggestionItem);
