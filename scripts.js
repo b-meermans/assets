@@ -53,40 +53,38 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchBar = document.getElementById('search-bar');
     const suggestions = document.getElementById('suggestions');
 
-    searchBar.addEventListener('input', function() {
-        const query = searchBar.value.toLowerCase();
-        suggestions.innerHTML = '';
+	searchBar.addEventListener('input', function() {
+		const query = searchBar.value.toLowerCase();
+		suggestions.innerHTML = '';
 
-        if (query) {
-            const filteredImages = imageFilenames.filter(image => 
-                image.filename.toLowerCase().includes(query)
-            );
+		if (query) {
+			const filteredImages = imageFilenames.filter(image => 
+				image.filename.toLowerCase().includes(query)
+			);
 
-            filteredImages.forEach(image => {
-                const suggestionItem = document.createElement('div');
-                suggestionItem.classList.add('suggestion-item');
-                suggestionItem.textContent = image.filename;
-                suggestionItem.addEventListener('mouseover', () => {
-                    const imgPreview = document.createElement('img');
-                    imgPreview.src = `/${image.path}`;
-                    imgPreview.classList.add('preview-image');
-                    suggestionItem.appendChild(imgPreview);
-                });
-                suggestionItem.addEventListener('mouseout', () => {
-                    const imgPreview = suggestionItem.querySelector('.preview-image');
-                    if (imgPreview) suggestionItem.removeChild(imgPreview);
-                });
-                suggestionItem.addEventListener('click', () => {
-                    copyToClipboard(image.filename);
-                });
+			filteredImages.forEach(image => {
+				const suggestionItem = document.createElement('div');
+				suggestionItem.classList.add('suggestion-item');
 
-                suggestions.appendChild(suggestionItem);
-            });
-            suggestions.style.display = 'block';
-        } else {
-            suggestions.style.display = 'none';
-        }
-    });
+				const imgPreview = document.createElement('img');
+				imgPreview.src = `/${image.path}`;
+				imgPreview.classList.add('preview-image');
+
+				const textNode = document.createTextNode(image.filename);
+				suggestionItem.appendChild(imgPreview);
+				suggestionItem.appendChild(textNode);
+
+				suggestionItem.addEventListener('click', () => {
+					copyToClipboard(image.filename);
+				});
+
+				suggestions.appendChild(suggestionItem);
+			});
+			suggestions.style.display = 'block';
+		} else {
+			suggestions.style.display = 'none';
+		}
+	});
 
     document.addEventListener('click', function(event) {
         if (!searchBar.contains(event.target) && !suggestions.contains(event.target)) {
