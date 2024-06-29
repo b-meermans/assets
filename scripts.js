@@ -11,6 +11,14 @@ document.addEventListener('click', function(event) {
     }
 });
 
+let imageFilenames = [];
+
+fetch('/cs-assets/image_list.json')
+    .then(response => response.json())
+    .then(data => {
+        imageFilenames = data;
+    });
+
 document.addEventListener('DOMContentLoaded', function() {
     // Get the current URL path
     const path = window.location.pathname.toLowerCase().replace('\\', '/');
@@ -36,11 +44,77 @@ document.addEventListener('DOMContentLoaded', function() {
 
             if (path === submenuHref || path === submenuHref + '/') {
                 submenuLink.classList.add('active-submenu');
-                // Ensure the main menu item is also highlighted
                 dropdown.querySelector('a').classList.add('active-menu');
                 console.log('Submenu active:', submenuHref); // Debugging: Log active submenu
             }
         });
+    });
+
+    const searchBar = document.getElementById('search-bar');
+    const suggestions = document.getElementById('suggestions');
+
+    searchBar.addEventListener('input', function() {
+        const query = searchBar.value.toLowerCase();
+        suggestions.innerHTML = '';
+
+        if (query) {
+            const filteredImages = imageFilenames.filter(image => 
+                image.filename.toLowerCase().includes(query)
+            );
+
+            filteredImages.forEach(image => {
+                const suggestionItem = document.createElement('div');
+                suggestionItem.classList.add('suggestion-item');
+                suggestionItem.textContent = image.filename;
+                suggestionItem.addEventListener('mouseover', () => {
+                    const imgPreview = document.createElement('img');
+                    imgPreview.src = `/${image.path}`;
+                    imgPreview.classList.add('preview-image');
+                    suggestionItem.appendChild(imgPreview);
+                });
+                suggestionItem.addEventListener('mouseout', () => {
+                    const imgPreview = suggestionItem.querySelector('.preview-image');
+                    if (imgPreview) suggestionItem.removeChild(imgPreview);
+                });
+                suggestionItem.addEventListener('click', () => {
+                    copyToClipboard(image.filename);
+                });
+
+                suggestions.appendChild(suggestionItem);
+            });
+            suggestions.style.display = 'block';
+        } else {
+            suggestions.style.display = 'none';
+        }
+    });
+
+    document.addEventListener('click', function(event) {
+        if (!searchBar.contains(event.target) && !suggestions.contains(event.target)) {
+            suggestions.style.display = 'none';
+        }
+    });
+
+    searchBar.addEventListener('focus', function() {
+        if (searchBar.value) {
+            suggestions.style.display = 'block';
+        }
+    });
+
+    document.addEventListener('click', function(event) {
+        if (!searchBar.contains(event.target) && !suggestions.contains(event.target)) {
+            suggestions.style.display = 'none';
+        }
+    });
+
+    document.querySelector('.menu-container').addEventListener('mouseenter', function() {
+        suggestions.style.display = 'none';
+    });
+
+    searchBar.addEventListener('click', function() {
+        const input = this.value.toLowerCase();
+        if (input) {
+            suggestions.style.display = 'block';
+        }
     });
 });
 

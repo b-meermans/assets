@@ -259,3 +259,49 @@ body {
 }
 
 
+.search-container {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    position: relative;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: white; /* Add background color */
+    box-shadow: none; /* Ensure no shadow */
+	z-index: 11;
+}
+
+.suggestions-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.suggestion-item:hover {
+    background-color: #f0f0f0;
+}
+
+.preview-image {
+    max-width: 50px;
+    max-height: 50px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
