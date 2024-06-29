@@ -9,7 +9,7 @@ def generate_image_list(root_directory):
             if file.endswith(('.png', '.jpg', '.jpeg', '.gif')):
                 rel_path = os.path.relpath(folder_path, root_directory).replace('\\', '/')
                 image_list.append({
-                    'path': f"{rel_path}/{file}",
+                    'path': f"/cs-assets/{rel_path}/{file}",
                     'filename': file
                 })
     return image_list
