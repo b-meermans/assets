@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
 					const copiedLabel = document.createElement('div');
 					copiedLabel.className = 'copied-label';
 					copiedLabel.textContent = 'Copied!';
-					suggestionItem.insertBefore(copiedLabel, imgPreview);
+					suggestionItem.appendChild(copiedLabel);
 					
 					setTimeout(() => {
 						copiedLabel.classList.add('show-copied');
