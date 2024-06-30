@@ -391,3 +391,28 @@ body {
         gap: 5px; /* Decrease gap between items */
     }
 }
+
+@media (max-width: 450px) {
+    .menu {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5px;
+        margin: 0 auto;
+        padding: 10px;
+        width: 100%; /* Full width for better spacing */
+    }
+
+    .image-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5px;
+    }
+
+    .image-cell {
+        width: calc(var(--cell-width) * 0.8);
+        height: calc(var(--cell-height) * 0.8);
+    }
+
+    .image-container {
+        height: calc(80% - 5px); /* Adjusted height for smaller images */
+    }
+}
