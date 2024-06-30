@@ -319,7 +319,7 @@ body {
 }
 
 .preview-image {
-    margin-left: 5px;
+    margin-left: auto;
     max-width: 50px;
     max-height: 50px;
     vertical-align: middle;
