@@ -65,7 +65,7 @@ def generate_html(folder_path, root_directory, menu_html):
                         <div class="image-container">
                             <img src="{src}" alt="{alt}">
                         </div>
-                        <div class="copy-label" id="{label_id}">Copy <img src="/cs-assets/copy.svg" alt="Copy"></div>
+                        <div class="copy-label" id="{label_id}">Copy<img src="/cs-assets/copy.svg" alt="Copy"></div>
                         <div class="image-label">{alt}</div>
                     </div>
         '''

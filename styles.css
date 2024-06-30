@@ -1,264 +1,275 @@
 /* Root Variables */
 :root {
-	--switch-bg-color: #164e7b; /* Background color of the switch toggle */
-	--switch-hover-bg-color: #4D7A97;   /* Background hover color of the switch toggle*/
-  
-	
-    --cell-width: 160px; /* Width of each cell */
-    --cell-height: 200px; /* Height of each cell */
-    --cell-gap: 40px; /* Gap between cells and buttons */
-    --menu-bg-color: #164e7b; /* Background color of the menu */
-    --menu-hover-bg-color: #4D7A97; /* Background color of menu items on hover */
-    --active-menu-bg-color: #4D7A97; /* Background color for active menu items */
-    --button-bg-color: #007BFF; /* Background color of buttons */
-    --button-hover-bg-color: #0056b3; /* Background color of buttons on hover */
-    --button-text-color: white; /* Text color of buttons */
-    --dropdown-bg-color: #265e8b; /* Background color of dropdown content */
-    --dropdown-hover-bg-color: #575757; /* Background color of dropdown items on hover */
-    --dropdown-text-color: white; /* Text color of dropdown items */
-    --dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Shadow for dropdown content */
-    --image-label-bg-color: rgba(255, 255, 255, 0.8); /* Background color for image label */
-	--grid-bg-color: #e6f2ff;
-    --cell-bg-color: #f5f5f5; /* Background color for image cells */
-    --cell-padding: 10px; /* Padding inside each cell */
-    --menu-item-padding: 10px 20px; /* Padding for menu links */
-    --menu-item-font-size: 20px; /* Font size for menu links */
-    --menu-item-max-width: 300px; /* Maximum width for each category */
-    --dropdown-content-min-width: 160px; /* Minimum width for dropdown */
-    --dropdown-content-padding: 12px 16px; /* Padding for dropdown links */
-    --image-max-height: 80%; /* Max height for the image */
-    --image-label-height: 20%; /* Height for the label */
-    --cell-margin: 5px; /* Space between cells */
-	--radius-corner: 10px;
+    --switch-bg-color: #164e7b;
+    --switch-hover-bg-color: #4D7A97;
+    --cell-width: 160px;
+    --cell-height: 200px;
+    --cell-gap: 40px;
+    --menu-bg-color: #164e7b;
+    --menu-hover-bg-color: #4D7A97;
+    --active-menu-bg-color: #4D7A97;
+    --button-bg-color: #007BFF;
+    --button-hover-bg-color: #0056b3;
+    --button-text-color: white;
+    --dropdown-bg-color: #265e8b;
+    --dropdown-hover-bg-color: #575757;
+    --dropdown-text-color: white;
+    --dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    --image-label-bg-color: rgba(255, 255, 255, 0.8);
+    --grid-bg-color: #e6f2ff;
+    --cell-bg-color: #f5f5f5;
+    --cell-padding: 10px;
+    --menu-item-padding: 10px 20px;
+    --menu-item-font-size: 20px;
+    --menu-item-max-width: 300px;
+    --dropdown-content-min-width: 160px;
+    --dropdown-content-padding: 12px 16px;
+    --image-max-height: 80%;
+    --image-label-height: 20%;
+    --cell-margin: 5px;
+    --radius-corner: 10px;
 }
 
 /* General Styles */
 body {
-    font-family: 'Roboto Flex', Arial, Helvetica, sans-serif; /* Font family for the body */
-	font-size: 14px;
-    display: flex; /* Enable flex layout for body */
-    flex-direction: column; /* Default to column direction */
+    font-family: 'Roboto Flex', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Content Container Styles */
 .content-container {
-    width: var(--container-width); /* Set container width */
-    max-width: 1200px; /* Optional: max-width for larger screens */
-    margin: 0 auto; /* Center container horizontally */
+    width: var(--container-width);
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 /* Menu Styles */
 .menu {
-    display: flex; /* Use flexbox for menu layout */
-    justify-content: center; /* Center items horizontally */
-    align-items: center; /* Center items vertically */
-    background-color: var(--menu-bg-color); /* Background color of the menu */
-    padding: var(--menu-padding); /* Padding for the menu */
-    flex-wrap: wrap; /* Wrap items to next line if needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--menu-bg-color);
+    padding: var(--menu-padding);
+    flex-wrap: wrap;
     border-radius: var(--radius-corner);
+    transition: all 0.3s ease-in-out;
 }
 
 .menu a {
-    color: var(--button-text-color); /* Text color for menu links */
-    text-align: center; /* Center align the text */
-    padding: var(--menu-item-padding); /* Padding for menu links */
-    margin: 5px; /* Add margin to center the highlighted area */
-    text-decoration: none; /* Remove underline from links */
-    font-size: var(--menu-item-font-size); /* Font size for menu links */
-    box-sizing: border-box; /* Ensure padding and border are included in the width and height */
-    display: flex; /* Use flexbox for inner alignment */
-    align-items: center; /* Center items vertically */
-    max-width: var(--menu-item-max-width); /* Maximum width for each category */
-    white-space: nowrap; /* Prevent text wrapping */
-    overflow: hidden; /* Hide overflow */
-    text-overflow: ellipsis; /* Add ellipsis for overflow text */
+    color: var(--button-text-color);
+    text-align: center;
+    padding: var(--menu-item-padding);
+    margin: 5px;
+    text-decoration: none;
+    font-size: var(--menu-item-font-size);
+    display: flex;
+    align-items: center;
+    max-width: var(--menu-item-max-width);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 /* Active Menu Styles */
 .menu .active-menu {
-    background-color: var(--active-menu-bg-color); /* Background color for active menu items */
-    border-radius: var(--radius-corner); /* Add rounded corners */
+    background-color: var(--active-menu-bg-color);
+    border-radius: var(--radius-corner);
 }
 
 /* Dropdown Hover and Active Effect */
 .dropdown:hover > a,
 .dropdown.active > a {
-    background-color: var(--dropdown-hover-bg-color); /* Slightly different shade of red */
-    border-radius: var(--radius-corner); /* Add rounded corners */
+    background-color: var(--dropdown-hover-bg-color);
+    border-radius: var(--radius-corner);
 }
 
 /* Dropdown Container */
 .dropdown {
-    position: relative; /* Relative positioning for dropdown */
-    display: inline-block; /* Inline block for dropdown */
+    position: relative;
+    display: inline-block;
 }
 
 /* Dropdown Content */
 .dropdown-content {
-    display: none; /* Hide dropdown content initially */
-    position: absolute; /* Absolute positioning for dropdown content */
-    background-color: var(--dropdown-bg-color); /* Background color for dropdown */
-    min-width: var(--dropdown-content-min-width); /* Minimum width for dropdown */
-    box-shadow: var(--dropdown-shadow); /* Shadow for dropdown */
-    z-index: 1; /* Ensure dropdown appears above other elements */
-    top: 100%; /* Position below the parent */
-    border-bottom-left-radius: var(--radius-corner); /* Add rounded corners to the bottom left */
-    border-bottom-right-radius: var(--radius-corner); /* Add rounded corners to the bottom right */
-    left: 0; /* Align to the left of the parent */
-    color: var(--dropdown-text-color); /* Text color for dropdown items */
+    display: none;
+    position: absolute;
+    background-color: var(--dropdown-bg-color);
+    min-width: var(--dropdown-content-min-width);
+    box-shadow: var(--dropdown-shadow);
+    z-index: 1;
+    top: 100%;
+    border-bottom-left-radius: var(--radius-corner);
+    border-bottom-right-radius: var(--radius-corner);
+    left: 0;
+    color: var(--dropdown-text-color);
+    right: auto;
 }
 
 /* Dropdown Links */
 .dropdown-content a {
-    color: var(--dropdown-text-color); /* Text color for dropdown links */
-    padding: var(--dropdown-content-padding); /* Padding for dropdown links */
-    text-decoration: none; /* Remove underline from links */
-    display: block; /* Block display for dropdown links */
-    text-align: left; /* Left align the text */
+    color: var(--dropdown-text-color);
+    padding: var(--dropdown-content-padding);
+    text-decoration: none;
+    display: block;
+    text-align: left;
 }
 
 /* Dropdown Hover Effect */
 .dropdown-content a:hover {
-    background-color: var(--dropdown-hover-bg-color); /* Background color on hover */
+    background-color: var(--dropdown-hover-bg-color);
 }
 
 /* Show Dropdown Content on Hover */
 .dropdown:hover .dropdown-content,
 .dropdown.active .dropdown-content {
-    display: block; /* Display dropdown content */
+    display: block;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.dropdown-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 0 8px 8px 8px;
+    border-style: solid;
+    border-color: transparent transparent var(--dropdown-bg-color) transparent;
 }
 
 /* Active Submenu Styles */
 .dropdown-content .active-submenu {
-    background-color: var(--active-menu-bg-color); /* Background color for active submenu items */
-    border-radius: var(--radius-corner); /* Add rounded corners */
+    background-color: var(--active-menu-bg-color);
+    border-radius: var(--radius-corner);
 }
 
 /* Show Dropdown Content on Active */
 .dropdown.active .dropdown-content {
-    display: block; /* Display dropdown content when active */
+    display: block;
 }
 
 /* Image Grid Styles */
 .image-grid {
-    display: grid; /* Use grid layout for image grid */
-	background-color: var(--grid-bg-color);
-    grid-template-columns: repeat(auto-fit, minmax(calc(var(--cell-width) + var(--cell-padding) * 2), 1fr)); /* Responsive columns */
-    gap: var(--cell-gap); /* Gap between grid items */
-    padding: var(--cell-gap); /* Add padding to grid */
-    flex-grow: 1; /* Allow the grid to grow */
-    justify-content: center; /* Center the grid */
-	margin: 50px 0px 50px 0px;
-	border-radius: 15px;
+    display: grid;
+    background-color: var(--grid-bg-color);
+    grid-template-columns: repeat(auto-fit, minmax(calc(var(--cell-width) + var(--cell-padding) * 2), 1fr));
+    gap: var(--cell-gap);
+    padding: var(--cell-gap);
+    flex-grow: 1;
+    justify-content: center;
+    margin: 50px 0px;
+    border-radius: 15px;
 }
 
 /* Image Cell Styles */
 .image-cell {
-    width: calc(var(--cell-width) + var(--cell-padding) * 2); /* Width of image cell */
-    height: calc(var(--cell-height) + var(--cell-padding) * 2); /* Height of image cell */
-    background-color: var(--cell-bg-color); /* Light gray background for each cell */
+    width: calc(var(--cell-width) + var(--cell-padding) * 2);
+    height: calc(var(--cell-height) + var(--cell-padding) * 2);
+    background-color: var(--cell-bg-color);
     border-style: solid;
     border-radius: 15px;
     border-width: 1px;
     border-color: var(--menu-bg-color);
-    box-sizing: border-box; /* Include border and padding in size */
-    position: relative; /* Relative positioning for image cell */
-    overflow: hidden; /* Hide overflow */
-    display: flex; /* Flexbox for inner alignment */
-    flex-direction: column; /* Column direction for inner elements */
-    align-items: center; /* Center content horizontally */
-    padding: var(--cell-padding); /* Padding inside each cell */
-    margin: var(--cell-margin); /* Space between cells */
-    transition: background-color 0.3s; /* Smooth transition for background color */
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--cell-padding);
+    margin: var(--cell-margin);
+    transition: background-color 0.3s;
 }
 
 .image-cell:hover {
-    background-color: #d3d3d3; /* Change to a different gray color on hover */
+    background-color: #d3d3d3;
 }
 
 .image-container {
-    display: flex; /* Enable flex layout */
-    justify-content: center; /* Center content horizontally */
-    align-items: center; /* Center content vertically */
-    flex-grow: 1; /* Allow the image container to grow and fill available space */
-    width: 100%; /* Full width of the cell */
-    height: calc(80% - 10px); /* Ensure the container doesn't exceed the intended height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    width: 100%;
+    height: calc(80% - 10px);
 }
 
 .image-cell img {
-    max-width: 100%; /* Max width for image */
-    max-height: 100%; /* Max height for image */
-    object-fit: contain; /* Contain image without distortion */
-    display: block; /* Block display for image */
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    display: block;
 }
 
 .copy-label {
-    display: flex; /* Use flexbox for alignment */
-    align-items: center; /* Center items vertically */
-    justify-content: flex-end; /* Align items to the right */
-    position: absolute; /* Absolute positioning */
-    top: 5px; /* 5px from the top */
-    right: 5px; /* 5px from the right */
-    color: #000; /* Black text */
-    padding: 2px 5px; /* Padding around the text */
-    font-size: 12px; /* Smaller font size */
-    opacity: 0; /* Hidden by default */
-    transition: opacity 0.3s; /* Smooth transition for visibility */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color: gray;
+    padding: 2px 5px;
+    font-size: 14px;
+    opacity: 0;
+    transition: opacity 0.3s;
 }
 
 .copy-label img {
-    width: 14px; /* Smaller copy icon */
-    height: 14px; /* Smaller copy icon */
-    margin-left: 5px; /* Space between text and icon */
+    margin-left: 5px; /* Push the icon to the rightmost edge */
+    width: 14px;
+    height: 14px;
 }
 
 .image-cell:hover .copy-label {
-    opacity: 1; /* Show on hover */
+    opacity: 1;
 }
-
 
 /* Image Label Styles */
 .image-label {
-    width: 100%; /* Full width for label */
-    height: var(--image-label-height); /* Fixed height for the label */
-    text-align: center; /* Center align the text */
-    background-color: var(--image-label-bg-color); /* Background color for label */
-    line-height: calc(var(--image-label-height) * var(--cell-height) / 100); /* Vertical center for the label */
-    margin: 0; /* No margin */
-    display: flex; /* Flexbox for alignment */
-    align-items: center; /* Center text vertically */
-    justify-content: center; /* Center text horizontally */
+    width: 100%;
+    height: var(--image-label-height);
+    text-align: center;
+    background-color: var(--image-label-bg-color);
+    line-height: calc(var(--image-label-height) * var(--cell-height) / 100);
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 15px;
-    box-sizing: border-box; /* Ensure padding and border are included in the width and height */
+    box-sizing: border-box;
 }
 
 /* Floating Button Styles */
 .floating-button {
-    position: fixed; /* Fixed positioning to float above content */
-    bottom: 20px; /* Distance from the bottom */
-    right: 20px; /* Distance from the right */
-    background-color: #007BFF; /* Button background color */
-    color: white; /* Button text color */
-    border: none; /* No border */
-    padding: 10px 20px; /* Padding for the button */
-    border-radius: 5px; /* Rounded corners */
-    font-size: 16px; /* Font size */
-    cursor: pointer; /* Pointer cursor on hover */
-    z-index: 1000; /* Ensure it floats above other content */
-    display: flex; /* Use flexbox for alignment */
-    align-items: center; /* Center items vertically */
-	background-color: var(--switch-bg-color);
-	color: white;
-	
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: var(--switch-bg-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
 }
 
-/* Floating Button Hover Effect */
 .floating-button:hover {
-    background-color: var(--switch-hover-bg-color); /* Darker background on hover */
-	color: white;	
+    background-color: var(--switch-hover-bg-color);
 }
 
-
+/* Search Container */
 .search-container {
     margin: 20px auto;
     width: 60%;
@@ -271,9 +282,9 @@ body {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
-    background-color: white; /* Add background color */
-    box-shadow: none; /* Ensure no shadow */
-	z-index: 11;
+    background-color: white;
+    box-shadow: none;
+    z-index: 11;
 }
 
 .suggestions-list {
@@ -299,20 +310,75 @@ body {
 }
 
 .preview-image {
-    margin-left: auto; /* Push the image to the right */
+    margin-left: auto;
     max-width: 50px;
     max-height: 50px;
     vertical-align: middle;
 }
 
-.copy-label {
-    margin-right: 10px;
-    color: black;
-    font-weight: bold;
-    display: inline-block;
-    vertical-align: middle;
-}
-
 .suggestion-item:hover {
     background-color: #f0f0f0;
+}
+
+@media (max-width: 1000px) {
+    .menu {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 5px;
+        width: 100%;
+    }
+
+    .menu a {
+        text-align: center;
+        padding: 10px;
+        margin: 0;
+    }
+	
+	.dropdown-content {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        box-sizing: border-box;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+        right: 0; /* Align to the right edge of the dropdown */
+    }
+	
+	.image-grid {
+        grid-template-columns: repeat(3, 1fr); /* Ensure at least 2 columns */
+        gap: 5px; /* Decrease gap between items */
+    }
+}
+
+@media (max-width: 700px) {
+    .menu {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 5px;
+        width: 80%; /* Reduce width to add padding */
+        margin: 0 auto; /* Center the menu */
+        padding: 10px; /* Add padding */
+    }
+	
+		.image-grid {
+        grid-template-columns: repeat(2, 1fr); /* Ensure at least 2 columns */
+        gap: 5px; /* Decrease gap between items */
+    }
+}
+
+@media (max-width: 600px) {
+    .menu {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 5px;
+        margin: 0 auto; /* Center the menu */
+        padding: 30px; /* Add padding */
+    }
+	
+		.image-grid {
+        grid-template-columns: repeat(2, 1fr); /* Ensure at least 2 columns */
+        gap: 5px; /* Decrease gap between items */
+    }
 }
