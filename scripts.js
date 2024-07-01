@@ -83,31 +83,37 @@ document.addEventListener('DOMContentLoaded', function() {
 				suggestions.appendChild(suggestionItem);
 			});
 			suggestions.style.display = 'block';
+			suggestions.classList.add('visible');
 		} else {
 			suggestions.style.display = 'none';
+			suggestions.classList.remove('visible');
 		}
 	});
 
     document.addEventListener('click', function(event) {
         if (!searchBar.contains(event.target) && !suggestions.contains(event.target)) {
             suggestions.style.display = 'none';
+			suggestions.classList.remove('visible');
         }
     });
 
     searchBar.addEventListener('focus', function() {
         if (searchBar.value) {
             suggestions.style.display = 'block';
+			suggestions.classList.add('visible');
         }
     });
 
     document.querySelector('.menu-container').addEventListener('mouseenter', function() {
         suggestions.style.display = 'none';
+		suggestions.classList.remove('visible');
     });
 
     searchBar.addEventListener('click', function() {
         const input = this.value.toLowerCase();
         if (input) {
             suggestions.style.display = 'block';
+			suggestions.classList.add('visible');
         }
     });
 });
