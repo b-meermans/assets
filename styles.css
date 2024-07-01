@@ -302,6 +302,11 @@ body {
 	transition: opacity 0.3s;
 }
 
+.suggestions-list.visible {
+    visibility: visible; /* Make it visible when ready */
+    opacity: 1; /* Fully opaque when ready */
+}
+
 .suggestion-item {
     display: flex;
     align-items: center;
